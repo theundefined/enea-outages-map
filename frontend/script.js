@@ -33,21 +33,18 @@ document.addEventListener('DOMContentLoaded', () => {
         })
     };
 
-    const datePicker = document.getElementById('date-picker');
-    const loadDateButton = document.getElementById('load-date');
-    const infoControl = L.control(); // Define infoControl globally or in a scope accessible by updateInfo
+    const dateSelector = document.getElementById('date-selector');
+    const infoControl = L.control();
 
     infoControl.onAdd = function (map) {
         this._div = L.DomUtil.create('div', 'info');
         this.update();
         return this._div;
     };
-    infoControl.update = function (lastUpdate = 'N/A') {
-        const updateTime = lastUpdate !== 'N/A' ? new Date(lastUpdate).toLocaleString('pl-PL') : 'Brak danych';
-        this._div.innerHTML = '<h4>Informacje</h4>' + `Ostatnia aktualizacja danych: ${updateTime} (UTC)`;
+    infoControl.update = function (text = 'Wybierz dane do wyświetlenia') {
+        this._div.innerHTML = `<h4>Informacje</h4>${text}`;
     };
     infoControl.addTo(map);
-
 
     function clearAllLayers() {
         unplannedLayer.clearLayers();
@@ -56,22 +53,20 @@ document.addEventListener('DOMContentLoaded', () => {
         otherPlannedLayer.clearLayers();
     }
 
-    function renderOutages(outages, selectedDate) {
-        clearAllLayers(); // Clear existing markers
-
-        const now = selectedDate || new Date(); // Use selectedDate if provided, otherwise current time
-        const in24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
+    function renderOutages(outages, referenceDate) {
+        clearAllLayers();
         
-        // Filter out outages that have already ended and are not ongoing
-        const relevantOutages = outages.filter(outage => {
-            const endTime = new Date(outage.end_time);
-            return endTime > now; // Only show outages that haven't ended yet (or are ongoing)
-        });
+        const now = referenceDate;
+        const in24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
 
-        relevantOutages.forEach(outage => {
+        outages.forEach(outage => {
             let targetLayer, icon, status, popupContent;
 
             if (outage.type === 'unplanned') {
+                const endTime = new Date(outage.end_time);
+                // Unplanned outages are only "ongoing"
+                if (endTime < now) return; // Don't show past unplanned outages
+                
                 targetLayer = unplannedLayer;
                 icon = icons.unplanned;
                 status = 'Nieplanowana przerwa';
@@ -112,7 +107,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // --- Layer Control ---
     const overlayMaps = {
         "Nieplanowane": unplannedLayer,
         "Planowane (trwające)": ongoingPlannedLayer,
@@ -122,27 +116,39 @@ document.addEventListener('DOMContentLoaded', () => {
     L.control.layers(null, overlayMaps).addTo(map);
 
     let masterIndex = [];
+    let allDataCache = {}; // Cache for loaded daily data
 
-    // --- Data Loading Function ---
-    async function loadOutagesForDate(dateString) {
-        clearAllLayers();
+    async function loadDataForSelection(selectedValue) {
         infoControl.update('Ładowanie danych...');
-        try {
-            const response = await fetch(`data/outages_${dateString}.json`);
-            if (!response.ok) {
-                if (response.status === 404) {
-                    infoControl.update(`Brak danych dla ${dateString}`);
-                    return;
-                }
-                throw new Error(`Failed to load data for ${dateString}: ${response.statusText}`);
-            }
-            const data = await response.json();
-            renderOutages(data, new Date(dateString)); // Pass selected date for accurate "now" comparison
-            infoControl.update(`Dane dla: ${dateString}`); // Update info with selected date
-        } catch (error) {
-            console.error('Error loading outage data:', error);
-            infoControl.update(`Błąd ładowania danych dla ${dateString}`);
+        let dataToRender;
+        let referenceDate;
+        let dateToFetch = selectedValue;
+
+        if (selectedValue === 'current') {
+            referenceDate = new Date(); // Live "now"
+            dateToFetch = masterIndex[0]; // Always fetch the latest available day for current view
+            infoControl.update('Widok bieżący');
+        } else {
+            referenceDate = new Date(selectedValue);
+            referenceDate.setHours(12,0,0,0); // Use noon for consistent "day" view
+            infoControl.update(`Dane dla: ${selectedValue}`);
         }
+
+        if (allDataCache[dateToFetch]) {
+            console.log(`Loading ${dateToFetch} from cache...`);
+            dataToRender = allDataCache[dateToFetch];
+        } else {
+            console.log(`Fetching data for ${dateToFetch}...`);
+            const response = await fetch(`data/outages_${dateToFetch}.json`);
+            if (!response.ok) {
+                infoControl.update(`Błąd ładowania danych dla ${dateToFetch}`);
+                return;
+            }
+            dataToRender = await response.json();
+            allDataCache[dateToFetch] = dataToRender;
+        }
+
+        renderOutages(dataToRender, referenceDate);
     }
 
     // --- Initial Load ---
@@ -151,10 +157,21 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(index => {
             masterIndex = index;
             if (masterIndex.length > 0) {
-                // Set date picker to the latest available date
-                const latestDate = masterIndex[0];
-                datePicker.value = latestDate;
-                loadOutagesForDate(latestDate);
+                // Populate the selector
+                const currentOption = document.createElement('option');
+                currentOption.value = "current";
+                currentOption.textContent = "Aktualne";
+                dateSelector.appendChild(currentOption);
+
+                masterIndex.forEach(dateStr => {
+                    const option = document.createElement('option');
+                    option.value = dateStr;
+                    option.textContent = dateStr;
+                    dateSelector.appendChild(option);
+                });
+                
+                // Initial load
+                loadDataForSelection('current');
             } else {
                 infoControl.update('Brak dostępnych danych historycznych.');
             }
@@ -164,34 +181,31 @@ document.addEventListener('DOMContentLoaded', () => {
             infoControl.update('Błąd ładowania indeksu danych historycznych.');
         });
     
-    // --- Event Listener for Date Picker ---
-    loadDateButton.addEventListener('click', () => {
-        const selectedDate = datePicker.value;
-        if (selectedDate && masterIndex.includes(selectedDate)) {
-            loadOutagesForDate(selectedDate);
-        } else if (selectedDate) {
-             infoControl.update(`Brak danych dla ${selectedDate}`);
-             clearAllLayers();
-        } else {
-             infoControl.update(`Wybierz datę.`);
-        }
+    // --- Event Listener for Date Selector ---
+    dateSelector.addEventListener('change', (event) => {
+        loadDataForSelection(event.target.value);
     });
 
-    // Add some style for the info box - moved to style.css for better practice, but kept here for now for quick testing
-    // const style = document.createElement('style');
-    // style.innerHTML = `
-    //     .info {
-    //         padding: 6px 8px;
-    //         font: 14px/16px Arial, Helvetica, sans-serif;
-    //         background: white;
-    //         background: rgba(255,255,255,0.8);
-    //         box-shadow: 0 0 15px rgba(0,0,0,0.2);
-    //         border-radius: 5px;
-    //     }
-    //     .info h4 {
-    //         margin: 0 0 5px;
-    //         color: #777;
-    //     }
-    // `;
-    // document.head.appendChild(style);
+    const style = document.createElement('style');
+    style.innerHTML = `
+        .controls {
+            padding: 10px;
+            background: rgba(255,255,255,0.8);
+            border-radius: 5px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+        }
+        .info {
+            padding: 6px 8px;
+            font: 14px/16px Arial, Helvetica, sans-serif;
+            background: white;
+            background: rgba(255,255,255,0.8);
+            box-shadow: 0 0 15px rgba(0,0,0,0.2);
+            border-radius: 5px;
+        }
+        .info h4 {
+            margin: 0 0 5px;
+            color: #777;
+        }
+    `;
+    document.head.appendChild(style);
 });
