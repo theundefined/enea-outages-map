@@ -123,6 +123,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     let masterIndex = [];
     let allDataCache = {}; 
+    let lastEtag = null; // To store the ETag of the master_index.json for updates
 
     async function loadDataForSelection(selectedValue) {
         let dataPayload = {};
@@ -154,7 +155,7 @@ document.addEventListener('DOMContentLoaded', () => {
             dataPayload = allDataCache[dateToFetch];
         } else {
             console.log(`Fetching data for ${dateToFetch}...`);
-            const response = await fetch(`data/outages_${dateToFetch}.json`);
+            const response = await fetch(`data/outages_${dateToFetch}.json`, { cache: 'no-store' }); // Ensure fresh data
             if (!response.ok) {
                 infoControl.update(`Błąd ładowania danych dla ${dateToFetch}`);
                 clearAllLayers();
@@ -168,11 +169,38 @@ document.addEventListener('DOMContentLoaded', () => {
         infoControl.update(mainInfoText, dataPayload.last_update);
     }
 
-    fetch('data/master_index.json')
-        .then(response => response.ok ? response.json() : Promise.reject('Index not found'))
-        .then(index => {
-            masterIndex = index;
-            if (masterIndex.length > 0) {
+    async function checkForUpdates() {
+        if (masterIndex.length === 0 || dateSelector.value !== 'current') {
+            return; // Only check for updates when on "current" view
+        }
+
+        // Fetch master_index to see if new days are available or order changed
+        try {
+            const masterIndexResponse = await fetch('data/master_index.json', { method: 'HEAD', cache: 'no-store' });
+            const currentEtag = masterIndexResponse.headers.get('etag');
+
+            if (lastEtag && currentEtag && currentEtag !== lastEtag) {
+                console.log('New data detected (master index changed)! Reloading...');
+                // Reload master index and then the current view
+                fetchMasterIndexAndLoadData();
+            }
+            lastEtag = currentEtag;
+        } catch (error) {
+            console.error('Error checking for master index updates:', error);
+        }
+    }
+
+    async function fetchMasterIndexAndLoadData() {
+        try {
+            const response = await fetch('data/master_index.json', { cache: 'no-store' });
+            if (!response.ok) throw new Error('Master index not found');
+            const newIndex = await response.json();
+            
+            // If the index has changed (new dates added/removed), update selector
+            if (JSON.stringify(newIndex) !== JSON.stringify(masterIndex)) {
+                masterIndex = newIndex;
+                dateSelector.innerHTML = ''; // Clear existing options
+                
                 const currentOption = document.createElement('option');
                 currentOption.value = "current";
                 currentOption.textContent = "Aktualne";
@@ -184,21 +212,35 @@ document.addEventListener('DOMContentLoaded', () => {
                     option.textContent = dateStr;
                     dateSelector.appendChild(option);
                 });
-                
-                dateSelector.value = 'current';
+
+                // Re-select "current" if it was selected, or the previously selected date
+                if (dateSelector.value === 'current' || !dateSelector.value) { // !dateSelector.value handles initial load
+                     dateSelector.value = 'current';
+                     loadDataForSelection('current');
+                } else {
+                     loadDataForSelection(dateSelector.value); // Reload selected date
+                }
+            } else if (dateSelector.value === 'current') {
+                // If index hasn't changed, but we are on current view, just refresh current day's data
                 loadDataForSelection('current');
-            } else {
-                infoControl.update('Brak dostępnych danych historycznych.');
             }
-        })
-        .catch(error => {
-            console.error('Error loading master index:', error);
-            infoControl.update('Błąd ładowania indeksu danych historycznych.');
-        });
+        } catch (error) {
+            console.error('Error loading master index for update check:', error);
+            infoControl.update('Błąd ładowania indeksu danych historycznych podczas sprawdzania aktualizacji.');
+        }
+    }
+
+
+    // --- Initial Load of Master Index and Data ---
+    fetchMasterIndexAndLoadData();
     
+    // --- Event Listener for Date Selector ---
     dateSelector.addEventListener('change', (event) => {
         loadDataForSelection(event.target.value);
     });
+
+    // Check for updates every minute (60 seconds)
+    setInterval(checkForUpdates, 60 * 1000);
 
     const style = document.createElement('style');
     style.innerHTML = `
