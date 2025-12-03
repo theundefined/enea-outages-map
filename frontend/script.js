@@ -60,13 +60,17 @@ document.addEventListener('DOMContentLoaded', () => {
         const now = referenceDate;
         const in24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
 
+        if (!outages || outages.length === 0) {
+            return; // No outages to render
+        }
+
         outages.forEach(outage => {
             let targetLayer, icon, status, popupContent;
 
             if (outage.type === 'unplanned') {
+                if (outage.end_time === "Brak danych") return; // Cannot determine end time
                 const endTime = new Date(outage.end_time);
-                // Unplanned outages are only "ongoing"
-                if (endTime < now) return; // Don't show past unplanned outages
+                if (endTime < now) return; 
                 
                 targetLayer = unplannedLayer;
                 icon = icons.unplanned;
@@ -76,6 +80,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <strong>Koniec (przewidywany):</strong> ${new Date(outage.end_time).toLocaleString('pl-PL')}<br>
                     <strong>Opis:</strong> ${outage.original_description}`;
             } else { // Planned
+                if (outage.start_time === "Brak danych" || outage.end_time === "Brak danych") return;
                 const startTime = new Date(outage.start_time);
                 const endTime = new Date(outage.end_time);
 
@@ -117,21 +122,21 @@ document.addEventListener('DOMContentLoaded', () => {
     L.control.layers(null, overlayMaps).addTo(map);
 
     let masterIndex = [];
-    let allDataCache = {}; // Cache for loaded daily data
+    let allDataCache = {}; 
 
     async function loadDataForSelection(selectedValue) {
-        let dataToRender = {}; // Initialize as empty object
+        let dataPayload = {};
         let referenceDate;
         let dateToFetch;
         let mainInfoText;
 
         if (selectedValue === 'current') {
-            referenceDate = new Date(); // Live "now"
-            dateToFetch = masterIndex[0]; // Always fetch the latest available day for current view
+            referenceDate = new Date();
+            dateToFetch = masterIndex[0]; 
             mainInfoText = 'Widok bieżący';
         } else {
             referenceDate = new Date(selectedValue);
-            referenceDate.setHours(12,0,0,0); // Use noon for consistent "day" view for historical view
+            referenceDate.setHours(12, 0, 0, 0); 
             dateToFetch = selectedValue;
             mainInfoText = `Dane dla: ${selectedValue}`;
         }
@@ -142,32 +147,32 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
+        infoControl.update(mainInfoText, 'Ładowanie...');
+        
         if (allDataCache[dateToFetch]) {
             console.log(`Loading ${dateToFetch} from cache...`);
-            dataToRender = allDataCache[dateToFetch];
+            dataPayload = allDataCache[dateToFetch];
         } else {
             console.log(`Fetching data for ${dateToFetch}...`);
             const response = await fetch(`data/outages_${dateToFetch}.json`);
             if (!response.ok) {
                 infoControl.update(`Błąd ładowania danych dla ${dateToFetch}`);
+                clearAllLayers();
                 return;
             }
-            dataToRender = await response.json();
-            allDataCache[dateToFetch] = dataToRender;
+            dataPayload = await response.json();
+            allDataCache[dateToFetch] = dataPayload;
         }
         
-        renderOutages(dataToRender, referenceDate);
-        // Pass the actual last_update from the loaded data
-        infoControl.update(mainInfoText, dataToRender.last_update);
+        renderOutages(dataPayload.outages || [], referenceDate);
+        infoControl.update(mainInfoText, dataPayload.last_update);
     }
 
-    // --- Initial Load ---
     fetch('data/master_index.json')
         .then(response => response.ok ? response.json() : Promise.reject('Index not found'))
         .then(index => {
             masterIndex = index;
             if (masterIndex.length > 0) {
-                // Populate the selector
                 const currentOption = document.createElement('option');
                 currentOption.value = "current";
                 currentOption.textContent = "Aktualne";
@@ -180,7 +185,6 @@ document.addEventListener('DOMContentLoaded', () => {
                     dateSelector.appendChild(option);
                 });
                 
-                // Initial load: select "Aktualne" and load data
                 dateSelector.value = 'current';
                 loadDataForSelection('current');
             } else {
@@ -192,7 +196,6 @@ document.addEventListener('DOMContentLoaded', () => {
             infoControl.update('Błąd ładowania indeksu danych historycznych.');
         });
     
-    // --- Event Listener for Date Selector ---
     dateSelector.addEventListener('change', (event) => {
         loadDataForSelection(event.target.value);
     });

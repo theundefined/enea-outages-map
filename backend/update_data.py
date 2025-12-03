@@ -25,15 +25,26 @@ geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1, error_wait_second
 
 
 def load_json_file(file_path: Path) -> dict | list:
-    """Loads a JSON file if it exists, otherwise returns an empty dict or list."""
+    """
+    Loads a JSON file if it exists. Handles both old (list) and new (dict) formats.
+    """
     if file_path.exists():
         print(f"Loading existing data from {file_path}...")
         with open(file_path, "r", encoding="utf-8") as f:
             try:
-                return json.load(f)
+                data = json.load(f)
+                # Handle backward compatibility: if we load an old file that is a list
+                if isinstance(data, list) and "outages" in file_path.name:
+                     print("Found old format (list), converting to new format (dict).")
+                     return {"last_update": "", "outages": data}
+                return data
             except json.JSONDecodeError:
-                return [] # Return empty list if file is corrupted
-    return []
+                pass  # Return default if file is corrupted
+    
+    # Return default structure based on file type
+    if "master_index" in file_path.name:
+        return []
+    return {"last_update": "", "outages": []}
 
 
 def save_json_file(data: dict | list, file_path: Path):
@@ -42,13 +53,12 @@ def save_json_file(data: dict | list, file_path: Path):
     file_path.parent.mkdir(parents=True, exist_ok=True)
     with open(file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+
 def generate_outage_id(outage_item: dict) -> str:
     """Creates a unique ID for an outage to prevent duplicates."""
-    # Use a hash of key fields to create a stable, unique ID.
-    # We use original_description as it's the most unique part.
-    # Lat/lon can vary slightly between geocoder runs.
     unique_string = f"{outage_item['start_time']}-{outage_item['end_time']}-{outage_item['original_description']}-{outage_item['geocoded_address']}"
     return hashlib.md5(unique_string.encode()).hexdigest()
+
 def parse_addresses_from_description(description: str) -> list[str]:
     """
     Parses a complex description string to extract individual street addresses.
@@ -79,6 +89,7 @@ def parse_addresses_from_description(description: str) -> list[str]:
                 addresses.append(address_part)
 
     return list(set(a for a in addresses if a))
+
 
 def get_all_outages(client: EneaOutagesClient, cache: dict) -> list[dict]:
     """
@@ -147,44 +158,49 @@ def get_all_outages(client: EneaOutagesClient, cache: dict) -> list[dict]:
     
     return processed_outages
 
+
 def main():
     """Main function to update the outage data."""
     geocoding_cache = load_json_file(CACHE_FILE)
+    if not isinstance(geocoding_cache, dict): geocoding_cache = {} # Ensure cache is a dict
+    
     client = EneaOutagesClient()
 
-    # --- Step 1: Fetch new outages ---
     new_outages = get_all_outages(client, geocoding_cache)
     if not new_outages:
-        print("No new outages found. Exiting.")
+        print("No new outages to process. Exiting.")
         return
 
-    # --- Step 2: Load existing data for today ---
     today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
     today_file = DATA_DIR / f"outages_{today_str}.json"
     
-    existing_outages = load_json_file(today_file)
+    today_data = load_json_file(today_file)
+    existing_outages = today_data.get("outages", [])
     existing_ids = {o['id'] for o in existing_outages}
 
-    # --- Step 3: Merge new data with existing, avoiding duplicates ---
     merged_outages = existing_outages
     for new_outage in new_outages:
         if new_outage['id'] not in existing_ids:
             merged_outages.append(new_outage)
             existing_ids.add(new_outage['id'])
     
-    # --- Step 4: Sort and save today's data ---
     merged_outages.sort(key=lambda x: (x['start_time'], x['end_time'], x['geocoded_address']))
-    save_json_file(merged_outages, today_file)
+    
+    final_today_data = {
+        "last_update": datetime.now(timezone.utc).isoformat(),
+        "outages": merged_outages
+    }
+    save_json_file(final_today_data, today_file)
 
-    # --- Step 5: Update the master index ---
     master_index_file = DATA_DIR / "master_index.json"
     master_index = load_json_file(master_index_file)
+    if not isinstance(master_index, list): master_index = [] # Ensure index is a list
+    
     if today_str not in master_index:
         master_index.append(today_str)
-        master_index.sort(reverse=True) # Newest first
+        master_index.sort(reverse=True)
         save_json_file(master_index, master_index_file)
 
-    # --- Step 6: Save the updated geocoding cache ---
     save_json_file(geocoding_cache, CACHE_FILE)
     print("Done.")
 
