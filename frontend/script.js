@@ -38,11 +38,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
     infoControl.onAdd = function (map) {
         this._div = L.DomUtil.create('div', 'info');
-        this.update();
+        this.update('Wybierz widok z listy.');
         return this._div;
     };
-    infoControl.update = function (text = 'Wybierz dane do wyświetlenia') {
-        this._div.innerHTML = `<h4>Informacje</h4>${text}`;
+    infoControl.update = function (mainText, lastUpdate = 'N/A') {
+        const updateTimeText = lastUpdate !== 'N/A' ? `<br>Ostatnia aktualizacja danych: ${new Date(lastUpdate).toLocaleString('pl-PL')}` : '';
+        this._div.innerHTML = `<h4>Informacje</h4>${mainText}${updateTimeText}`;
     };
     infoControl.addTo(map);
 
@@ -119,19 +120,26 @@ document.addEventListener('DOMContentLoaded', () => {
     let allDataCache = {}; // Cache for loaded daily data
 
     async function loadDataForSelection(selectedValue) {
-        infoControl.update('Ładowanie danych...');
-        let dataToRender;
+        let dataToRender = {}; // Initialize as empty object
         let referenceDate;
-        let dateToFetch = selectedValue;
+        let dateToFetch;
+        let mainInfoText;
 
         if (selectedValue === 'current') {
             referenceDate = new Date(); // Live "now"
             dateToFetch = masterIndex[0]; // Always fetch the latest available day for current view
-            infoControl.update('Widok bieżący');
+            mainInfoText = 'Widok bieżący';
         } else {
             referenceDate = new Date(selectedValue);
-            referenceDate.setHours(12,0,0,0); // Use noon for consistent "day" view
-            infoControl.update(`Dane dla: ${selectedValue}`);
+            referenceDate.setHours(12,0,0,0); // Use noon for consistent "day" view for historical view
+            dateToFetch = selectedValue;
+            mainInfoText = `Dane dla: ${selectedValue}`;
+        }
+
+        if (!dateToFetch) {
+            infoControl.update('Brak dostępnych danych do załadowania.');
+            clearAllLayers();
+            return;
         }
 
         if (allDataCache[dateToFetch]) {
@@ -147,8 +155,10 @@ document.addEventListener('DOMContentLoaded', () => {
             dataToRender = await response.json();
             allDataCache[dateToFetch] = dataToRender;
         }
-
+        
         renderOutages(dataToRender, referenceDate);
+        // Pass the actual last_update from the loaded data
+        infoControl.update(mainInfoText, dataToRender.last_update);
     }
 
     // --- Initial Load ---
@@ -170,7 +180,8 @@ document.addEventListener('DOMContentLoaded', () => {
                     dateSelector.appendChild(option);
                 });
                 
-                // Initial load
+                // Initial load: select "Aktualne" and load data
+                dateSelector.value = 'current';
                 loadDataForSelection('current');
             } else {
                 infoControl.update('Brak dostępnych danych historycznych.');
@@ -188,12 +199,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const style = document.createElement('style');
     style.innerHTML = `
-        .controls {
-            padding: 10px;
-            background: rgba(255,255,255,0.8);
-            border-radius: 5px;
-            box-shadow: 0 0 15px rgba(0,0,0,0.2);
-        }
         .info {
             padding: 6px 8px;
             font: 14px/16px Arial, Helvetica, sans-serif;
