@@ -33,6 +33,20 @@ h1 {
     cursor: pointer;
 }
 
+.official-links {
+    margin-top: 10px;
+    font-size: 0.9em;
+    color: #555;
+}
+
+.official-links a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.official-links a:hover {
+    text-decoration: underline;
+}
 
 #map {
     height: 80vh;
