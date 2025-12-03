@@ -5,6 +5,7 @@ import re
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+import hashlib
 
 from enea_outages.client import EneaOutagesClient
 from enea_outages.models import Outage, OutageType
@@ -14,7 +15,7 @@ from geopy.extra.rate_limiter import RateLimiter
 
 # --- CONFIGURATION ---
 REGION = "Poznań"
-OUTPUT_FILE = Path("frontend/outages.json")
+DATA_DIR = Path("frontend/data")
 CACHE_FILE = Path("backend/geocoding_cache.json")
 
 # Nominatim requires a user-agent
@@ -23,28 +24,37 @@ geolocator = Nominatim(user_agent="enea_outages_map_project/1.0")
 geocode = RateLimiter(geolocator.geocode, min_delay_seconds=1, error_wait_seconds=10)
 
 
-def load_cache() -> dict:
-    """Loads the geocoding cache from a file."""
-    if CACHE_FILE.exists():
-        print("Loading geocoding cache...")
-        with open(CACHE_FILE, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return {}
+def load_json_file(file_path: Path) -> dict | list:
+    """Loads a JSON file if it exists, otherwise returns an empty dict or list."""
+    if file_path.exists():
+        print(f"Loading existing data from {file_path}...")
+        with open(file_path, "r", encoding="utf-8") as f:
+            try:
+                return json.load(f)
+            except json.JSONDecodeError:
+                return [] # Return empty list if file is corrupted
+    return []
 
 
-def save_cache(cache: dict):
-    """Saves the geocoding cache to a file."""
-    print("Saving geocoding cache...")
-    with open(CACHE_FILE, "w", encoding="utf-8") as f:
-        json.dump(cache, f, ensure_ascii=False, indent=2)
-
-
+def save_json_file(data: dict | list, file_path: Path):
+    """Saves data to a JSON file."""
+    print(f"Saving data to {file_path}...")
+    file_path.parent.mkdir(parents=True, exist_ok=True)
+    with open(file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+def generate_outage_id(outage_item: dict) -> str:
+    """Creates a unique ID for an outage to prevent duplicates."""
+    # Use a hash of key fields to create a stable, unique ID.
+    # We use original_description as it's the most unique part.
+    # Lat/lon can vary slightly between geocoder runs.
+    unique_string = f"{outage_item['start_time']}-{outage_item['end_time']}-{outage_item['original_description']}-{outage_item['geocoded_address']}"
+    return hashlib.md5(unique_string.encode()).hexdigest()
 def parse_addresses_from_description(description: str) -> list[str]:
     """
     Parses a complex description string to extract individual street addresses.
     """
     desc = description.lower()
-    desc = re.sub(r'\(.*\)', '', desc)
+    desc = re.sub(r'\(.*?\)', '', desc)
     desc = re.sub(r'w godz\..*', '', desc)
     
     parts = re.split(r',|\s+i\s+|\s+oraz\s+', desc)
@@ -53,7 +63,6 @@ def parse_addresses_from_description(description: str) -> list[str]:
     for part in parts:
         part = part.strip()
         
-        # Handle "ul. XYZ" or "os. ABC"
         match = re.search(r'(?:ul\.|os\.|al\.)\s*([\w\s\-\.]+\w)', part)
         if match:
             street_name = match.group(1).strip()
@@ -64,7 +73,6 @@ def parse_addresses_from_description(description: str) -> list[str]:
                 addresses.append(street_name)
             continue
 
-        # Handle "Poznań ulica XYZ"
         if 'poznań' in part:
             address_part = part.replace('poznań', '').replace('ulica', '').strip()
             if len(address_part) > 2:
@@ -72,14 +80,12 @@ def parse_addresses_from_description(description: str) -> list[str]:
 
     return list(set(a for a in addresses if a))
 
-
-def get_all_outages(client: EneaOutagesClient, cache: dict) -> tuple[list[dict], list[dict]]:
+def get_all_outages(client: EneaOutagesClient, cache: dict) -> list[dict]:
     """
     Fetches all planned and unplanned outages, geocodes them,
-    and returns lists of processed outages.
+    and returns a list of processed outage dictionaries.
     """
-    processed_planned: list[dict] = []
-    processed_unplanned: list[dict] = []
+    processed_outages: list[dict] = []
 
     for outage_type in [OutageType.PLANNED, OutageType.UNPLANNED]:
         print(f"\n--- Fetching {outage_type.name} outages for region: {REGION} ---")
@@ -92,7 +98,6 @@ def get_all_outages(client: EneaOutagesClient, cache: dict) -> tuple[list[dict],
         print(f"Found {len(outages)} {outage_type.name} outage reports.")
 
         for outage in outages:
-            # We are only interested in reports that mention Poznań
             if "poznań" not in outage.description.lower() and "miejscowość poznań" not in outage.description.lower():
                 continue
 
@@ -122,9 +127,7 @@ def get_all_outages(client: EneaOutagesClient, cache: dict) -> tuple[list[dict],
                         else:
                             print(f"    - Could not geocode or address not in Poznań: {full_address_query}")
                             cache[full_address_query] = None
-                    except GeocoderTimedOut:
-                        print(f"    - Geocoding timed out for: {full_address_query}")
-                    except Exception as e:
+                    except (GeocoderTimedOut, Exception) as e:
                         print(f"    - Error during geocoding: {e}")
                 
                 if not location_data:
@@ -139,38 +142,50 @@ def get_all_outages(client: EneaOutagesClient, cache: dict) -> tuple[list[dict],
                     "end_time": outage.end_time.isoformat() if outage.end_time else "Brak danych",
                     "original_description": outage.description,
                 }
-
-                if outage_type == OutageType.PLANNED:
-                    processed_planned.append(outage_item)
-                else:
-                    processed_unplanned.append(outage_item)
-
-    print(f"\nSuccessfully processed {len(processed_planned)} planned and {len(processed_unplanned)} unplanned locations.")
-    return processed_planned, processed_unplanned
-
+                outage_item["id"] = generate_outage_id(outage_item)
+                processed_outages.append(outage_item)
+    
+    return processed_outages
 
 def main():
     """Main function to update the outage data."""
-    geocoding_cache = load_cache()
+    geocoding_cache = load_json_file(CACHE_FILE)
     client = EneaOutagesClient()
-    
-    planned, unplanned = get_all_outages(client, geocoding_cache)
-    
-    # Sort the lists to ensure deterministic output
-    planned.sort(key=lambda x: (x['start_time'], x['end_time'], x['geocoded_address']))
-    unplanned.sort(key=lambda x: (x['start_time'], x['end_time'], x['geocoded_address']))
-    
-    final_data = {
-        "planned": planned,
-        "unplanned": unplanned,
-        "last_update": datetime.now(timezone.utc).isoformat()
-    }
 
-    print(f"\nSaving data to {OUTPUT_FILE}...")
-    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(final_data, f, ensure_ascii=False, indent=2)
+    # --- Step 1: Fetch new outages ---
+    new_outages = get_all_outages(client, geocoding_cache)
+    if not new_outages:
+        print("No new outages found. Exiting.")
+        return
+
+    # --- Step 2: Load existing data for today ---
+    today_str = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    today_file = DATA_DIR / f"outages_{today_str}.json"
     
-    save_cache(geocoding_cache)
+    existing_outages = load_json_file(today_file)
+    existing_ids = {o['id'] for o in existing_outages}
+
+    # --- Step 3: Merge new data with existing, avoiding duplicates ---
+    merged_outages = existing_outages
+    for new_outage in new_outages:
+        if new_outage['id'] not in existing_ids:
+            merged_outages.append(new_outage)
+            existing_ids.add(new_outage['id'])
+    
+    # --- Step 4: Sort and save today's data ---
+    merged_outages.sort(key=lambda x: (x['start_time'], x['end_time'], x['geocoded_address']))
+    save_json_file(merged_outages, today_file)
+
+    # --- Step 5: Update the master index ---
+    master_index_file = DATA_DIR / "master_index.json"
+    master_index = load_json_file(master_index_file)
+    if today_str not in master_index:
+        master_index.append(today_str)
+        master_index.sort(reverse=True) # Newest first
+        save_json_file(master_index, master_index_file)
+
+    # --- Step 6: Save the updated geocoding cache ---
+    save_json_file(geocoding_cache, CACHE_FILE)
     print("Done.")
 
 
