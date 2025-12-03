@@ -156,6 +156,10 @@ def main():
     
     planned, unplanned = get_all_outages(client, geocoding_cache)
     
+    # Sort the lists to ensure deterministic output
+    planned.sort(key=lambda x: (x['start_time'], x['end_time'], x['geocoded_address']))
+    unplanned.sort(key=lambda x: (x['start_time'], x['end_time'], x['geocoded_address']))
+    
     final_data = {
         "planned": planned,
         "unplanned": unplanned,
