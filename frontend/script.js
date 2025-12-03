@@ -7,23 +7,29 @@ document.addEventListener('DOMContentLoaded', () => {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-    // --- Layer Groups ---
+    // --- Layer Groups (Default visibility is controlled by .addTo(map)) ---
     const unplannedLayer = L.layerGroup().addTo(map);
     const ongoingPlannedLayer = L.layerGroup().addTo(map);
-    const futurePastPlannedLayer = L.layerGroup().addTo(map);
+    const next24hPlannedLayer = L.layerGroup(); // Hidden by default
+    const otherPlannedLayer = L.layerGroup();   // Hidden by default
     
     // --- Custom Icons ---
-    const unplannedIcon = new L.Icon({
+    const unplannedIcon = new L.Icon({ // Red
         iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
         shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
         iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
     });
-    const ongoingPlannedIcon = new L.Icon({
+    const ongoingPlannedIcon = new L.Icon({ // Orange
         iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png',
         shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
         iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
     });
-    const futurePlannedIcon = new L.Icon({
+     const next24hPlannedIcon = new L.Icon({ // Yellow
+        iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png',
+        shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+        iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
+    });
+    const otherPlannedIcon = new L.Icon({ // Grey
         iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-grey.png',
         shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
         iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
@@ -35,6 +41,7 @@ document.addEventListener('DOMContentLoaded', () => {
         .then(text => text ? JSON.parse(text) : { planned: [], unplanned: [], last_update: 'N/A' })
         .then(data => {
             const now = new Date();
+            const in24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
 
             // Process unplanned outages
             data.unplanned.forEach(outage => {
@@ -56,17 +63,19 @@ document.addEventListener('DOMContentLoaded', () => {
             data.planned.forEach(outage => {
                 const startTime = new Date(outage.start_time);
                 const endTime = new Date(outage.end_time);
-                let targetLayer;
-                let icon;
-                let status;
+                let targetLayer, icon, status;
 
                 if (now >= startTime && now <= endTime) {
                     targetLayer = ongoingPlannedLayer;
                     icon = ongoingPlannedIcon;
                     status = 'Planowana (trwająca)';
+                } else if (startTime > now && startTime <= in24h) {
+                    targetLayer = next24hPlannedLayer;
+                    icon = next24hPlannedIcon;
+                    status = 'Planowana (w ciągu 24h)';
                 } else {
-                    targetLayer = futurePastPlannedLayer;
-                    icon = futurePlannedIcon;
+                    targetLayer = otherPlannedLayer;
+                    icon = otherPlannedIcon;
                     status = (now > endTime) ? 'Planowana (zakończona)' : 'Planowana (przyszła)';
                 }
 
@@ -89,7 +98,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const overlayMaps = {
                 "Nieplanowane": unplannedLayer,
                 "Planowane (trwające)": ongoingPlannedLayer,
-                "Planowane (inne)": futurePastPlannedLayer
+                "Planowane (w ciągu 24h)": next24hPlannedLayer,
+                "Planowane (inne)": otherPlannedLayer
             };
             L.control.layers(null, overlayMaps).addTo(map);
 
