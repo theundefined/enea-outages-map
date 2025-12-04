@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-04T09:24:52.461448+00:00",
+  "last_update": "2025-12-04T09:45:32.120334+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1740,6 +1740,46 @@
       "end_time": "2025-12-04T11:00:00",
       "original_description": "Poznań rynek Wschodni, ul. Główna, ul. Harcerska, ul. Nadolnik, ul. Średnia.",
       "id": "df31758309b846dd4a6cea8cc5b1670a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ignacego Daszyńskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3669844,
+      "lon": 16.8861151,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T12:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty, ul. Daszyńskiego, ul. Kurpińskiego, ul. Ogińskiego, ul. Osadnicza, ul. Wieniawskiego.",
+      "id": "2de0246b7ed6de47f4f7edc3e60ea7bc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kurpińskiego, Karola Kurpińskiego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "lat": 52.4507727,
+      "lon": 16.9194408,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T12:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty, ul. Daszyńskiego, ul. Kurpińskiego, ul. Ogińskiego, ul. Osadnicza, ul. Wieniawskiego.",
+      "id": "c3ec7cbd86bdb150d90acace055ac07a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lotnisko Poznań-Ławica, Pilotów, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.420564,
+      "lon": 16.8317925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T12:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty, ul. Daszyńskiego, ul. Kurpińskiego, ul. Ogińskiego, ul. Osadnicza, ul. Wieniawskiego.",
+      "id": "149f973496a12d61e290f595ea209e78"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tablica 55. Poznańskiego Pułku Piechoty, Aleja Armii Poznań, Stare Winogrady, Stare Miasto, Poznań, województwo wielkopolskie, 61-721, Polska",
+      "lat": 52.4182659,
+      "lon": 16.9337771,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T12:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty, ul. Daszyńskiego, ul. Kurpińskiego, ul. Ogińskiego, ul. Osadnicza, ul. Wieniawskiego.",
+      "id": "8264484b311c621a81711d0e385ecb69"
     }
   ]
 }
