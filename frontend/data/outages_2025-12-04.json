@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-04T07:19:07.957547+00:00",
+  "last_update": "2025-12-04T07:37:25.424451+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1630,6 +1630,26 @@
       "end_time": "2025-12-18T12:30:00",
       "original_description": "Poznań: ul. Majakowskiego 245, 247, 249, ul. Sępia od 1 do 15 nieparzyste, od 2 do 16A parzyste, ul. Dzieci Wrzesińskich od 3 do 19 nieparzyste, do 2A do 20A parzyste.",
       "id": "15b06b7984b0e2d9803cd46b465ad26a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Śmiałego, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2304432,
+      "lon": 16.8320229,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T11:00:00",
+      "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
+      "id": "279ebf14ae4113f32550b77a756f7754"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Włościańska, Piątkowo, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4439011,
+      "lon": 16.91018,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T11:00:00",
+      "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
+      "id": "4c8a80c90bdf604d473b88245518562f"
     }
   ]
 }
