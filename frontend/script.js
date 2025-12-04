@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', () => {
         otherPlannedLayer.clearLayers();
     }
 
-    function renderOutages(outages, referenceDate) {
+    function renderOutages(outages, referenceDate, isCurrentView) {
         clearAllLayers();
         
         const now = referenceDate;
@@ -70,7 +70,10 @@ document.addEventListener('DOMContentLoaded', () => {
             if (outage.type === 'unplanned') {
                 if (outage.end_time === "Brak danych") return; // Cannot determine end time
                 const endTime = new Date(outage.end_time);
-                if (endTime < now) return; 
+                
+                // For "current" view, hide outages that are already over.
+                // For historical views, show all unplanned outages from that day's file.
+                if (isCurrentView && endTime < now) return; 
                 
                 targetLayer = unplannedLayer;
                 icon = icons.unplanned;
@@ -165,7 +168,8 @@ document.addEventListener('DOMContentLoaded', () => {
             allDataCache[dateToFetch] = dataPayload;
         }
         
-        renderOutages(dataPayload.outages || [], referenceDate);
+        const isCurrentView = (selectedValue === 'current');
+        renderOutages(dataPayload.outages || [], referenceDate, isCurrentView);
         infoControl.update(mainInfoText, dataPayload.last_update);
     }
 
