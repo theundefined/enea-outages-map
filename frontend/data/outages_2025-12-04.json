@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-04T15:51:14.887882+00:00",
+  "last_update": "2025-12-04T16:26:13.938321+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1860,6 +1860,36 @@
       "end_time": "2025-12-04T14:00:00",
       "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
       "id": "02a1ca607cd7fcaf4b5866afccc61265"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3897927,
+      "lon": 16.9243288,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Krzyżowa, ul. św. Jerzego.",
+      "id": "1712fc0c5c4f538dc827d32d93d2c035"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krzyżowa, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-526, Polska",
+      "lat": 52.3907404,
+      "lon": 16.9203694,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Krzyżowa, ul. św. Jerzego.",
+      "id": "7fcce275f9b98d74c4470a90b574561b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Św. Jerzego, 7, Świętego Jerzego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-546, Polska",
+      "lat": 52.3918063,
+      "lon": 16.9221252,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Krzyżowa, ul. św. Jerzego.",
+      "id": "a2c33c7d4f6d898c0c9c699157aeb8d2"
     }
   ]
 }
