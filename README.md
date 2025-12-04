@@ -4,9 +4,7 @@ An automatically updated map of Enea power outages for the city of Poznań.
 
 This project displays current and planned power outages on an interactive map. The data is fetched automatically every 10 minutes using a GitHub Actions workflow.
 
-The map can be viewed here: [https://theundefined.github.io/enea-outages-map/frontend/](https://theundefined.github.io/enea-outages-map/frontend/)
-
-*(Note: The link will be active after deploying the project to a GitHub repository named `enea-outages-map` under the `TheUndefined` account and enabling GitHub Pages.)*
+The map can be viewed here: [https://enea-awarie.aramin.net/](https://enea-awarie.aramin.net/)
 
 ![Screenshot of the map](./screenshot.png) *(TODO: Add a screenshot after deployment)*
 
@@ -21,7 +19,7 @@ The map can be viewed here: [https://theundefined.github.io/enea-outages-map/fro
     1.  Fetches current and planned outages using the `enea-outages` library.
     2.  Parses the descriptions to find addresses in Poznań.
     3.  Uses `geopy` to convert addresses to coordinates, leveraging a file-based cache (`backend/geocoding_cache.json`) to minimize API calls.
-    4.  Saves the final data into `frontend/outages.json`.
+    4.  Saves the final data into `docs/data/outages.json`.
 *   The workflow commits the updated `outages.json` and `geocoding_cache.json` files to the repository.
 *   The **frontend** is a static HTML page with JavaScript and [Leaflet.js](https://leafletjs.com/) that reads the JSON data and displays it on an [OpenStreetMap](https://www.openstreetmap.org/) tile layer.
 
@@ -40,14 +38,14 @@ To run the project locally:
 
 2.  **Generate the data:**
     ```bash
-    # Run the script to generate frontend/outages.json
+    # Run the script to generate docs/data/outages.json
     backend/venv/bin/python backend/update_data.py
     ```
 
 3.  **View the frontend:**
     ```bash
-    # Navigate to the frontend directory
-    cd frontend
+    # Navigate to the docs directory
+    cd docs
 
     # Start a local web server
     python3 -m http.server 8000
