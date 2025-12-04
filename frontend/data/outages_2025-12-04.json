@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-04T11:23:29.972508+00:00",
+  "last_update": "2025-12-04T11:39:16.097845+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1840,6 +1840,26 @@
       "end_time": "2025-12-04T12:30:00",
       "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
       "id": "e6b3d1af3e41dc9cf790b0d4304876ca"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Śmiałego, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2304432,
+      "lon": 16.8320229,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T14:00:00",
+      "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
+      "id": "bf4af748d186c7ccbbdbca1525b2cdf9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Włościańska, Piątkowo, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4439011,
+      "lon": 16.91018,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T14:00:00",
+      "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
+      "id": "02a1ca607cd7fcaf4b5866afccc61265"
     }
   ]
 }
