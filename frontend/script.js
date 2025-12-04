@@ -1,14 +1,17 @@
 function categorizeOutage(outage, now, isCurrentView) {
+    // Unplanned outages logic
     if (outage.type === 'unplanned') {
         if (outage.end_time === "Brak danych") {
             return { visible: false };
         }
         const endTime = new Date(outage.end_time);
 
+        // For "current" view, hide outages that are already over.
         if (isCurrentView && endTime < now) {
             return { visible: false };
         }
 
+        // For historical view, show all unplanned outages from that day's file.
         return {
             visible: true,
             status: 'Nieplanowana przerwa',
@@ -20,37 +23,54 @@ function categorizeOutage(outage, now, isCurrentView) {
         };
     }
 
+    // Planned outages logic
     if (outage.type === 'planned') {
         if (outage.start_time === "Brak danych" || outage.end_time === "Brak danych") {
             return { visible: false };
         }
         const startTime = new Date(outage.start_time);
         const endTime = new Date(outage.end_time);
-        const in24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
 
-        let status, layerName;
+        if (isCurrentView) {
+            // --- "CURRENT" VIEW LOGIC ---
+            const in24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
+            let status, layerName;
 
-        if (now >= startTime && now <= endTime) {
-            status = 'Planowana (trwająca)';
-            layerName = 'ongoing';
-        } else if (isCurrentView && startTime > now && startTime <= in24h) {
-            status = 'Planowana (w ciągu 24h)';
-            layerName = 'next24h';
+            if (now >= startTime && now <= endTime) {
+                status = 'Planowana (trwająca)';
+                layerName = 'ongoing';
+            } else if (startTime > now && startTime <= in24h) {
+                status = 'Planowana (w ciągu 24h)';
+                layerName = 'next24h';
+            } else {
+                return { visible: false }; // Hide other planned outages in "current" view
+            }
+
+            return {
+                visible: true,
+                status: status,
+                layerName: layerName,
+                popupContent: `<b>${status}</b><br>
+                    <strong>Adres:</strong> ${outage.geocoded_address}<br>
+                    <strong>Początek:</strong> ${startTime.toLocaleString('pl-PL')}<br>
+                    <strong>Koniec:</strong> ${endTime.toLocaleString('pl-PL')}<br>
+                    <strong>Opis:</strong> ${outage.original_description}`
+            };
+
         } else {
-            status = (now > endTime) ? 'Planowana (zakończona)' : 'Planowana (przyszła)';
-            layerName = 'other';
+            // --- HISTORICAL DATE VIEW LOGIC ---
+            // Show all planned outages for the given day, regardless of time.
+            return {
+                visible: true,
+                status: 'Planowana na ten dzień',
+                layerName: 'ongoing', // Use 'ongoing' layer for consistent color (orange)
+                popupContent: `<b>Planowana na ten dzień</b><br>
+                    <strong>Adres:</strong> ${outage.geocoded_address}<br>
+                    <strong>Początek:</strong> ${startTime.toLocaleString('pl-PL')}<br>
+                    <strong>Koniec:</strong> ${endTime.toLocaleString('pl-PL')}<br>
+                    <strong>Opis:</strong> ${outage.original_description}`
+            };
         }
-
-        return {
-            visible: true,
-            status: status,
-            layerName: layerName,
-            popupContent: `<b>${status}</b><br>
-                <strong>Adres:</strong> ${outage.geocoded_address}<br>
-                <strong>Początek:</strong> ${startTime.toLocaleString('pl-PL')}<br>
-                <strong>Koniec:</strong> ${endTime.toLocaleString('pl-PL')}<br>
-                <strong>Opis:</strong> ${outage.original_description}`
-        };
     }
 
     return { visible: false };
@@ -123,8 +143,11 @@ document.addEventListener('DOMContentLoaded', () => {
             const result = categorizeOutage(outage, referenceDate, isCurrentView);
 
             if (result.visible) {
+                // The 'other' layer is no longer used by categorizeOutage for visible markers,
+                // but we keep it in the layers control for consistency.
+                const targetLayer = layers[result.layerName] || layers.other;
                 const marker = L.marker([outage.lat, outage.lon], { icon: icons[result.layerName] })
-                    .addTo(layers[result.layerName])
+                    .addTo(targetLayer)
                     .bindPopup(result.popupContent);
                 
                 marker.on('mouseover', function (e) { this.openPopup(); });
@@ -151,15 +174,20 @@ document.addEventListener('DOMContentLoaded', () => {
         let dateToFetch;
         let mainInfoText;
 
-        if (selectedValue === 'current') {
+        const isCurrentView = selectedValue === 'current';
+
+        if (isCurrentView) {
             referenceDate = new Date();
-            dateToFetch = masterIndex[0]; 
             mainInfoText = 'Widok bieżący';
+            dateToFetch = masterIndex[0]; 
         } else {
+            // For historical views, use a neutral time. The new logic in 
+            // categorizeOutage doesn't depend on it for showing/hiding,
+            // only for the text in the popup. Noon is fine.
             referenceDate = new Date(selectedValue);
-            referenceDate.setHours(23, 59, 59, 999); 
-            dateToFetch = selectedValue;
+            referenceDate.setHours(12, 0, 0, 0); 
             mainInfoText = `Dane dla: ${selectedValue}`;
+            dateToFetch = selectedValue;
         }
 
         if (!dateToFetch) {
@@ -183,7 +211,6 @@ document.addEventListener('DOMContentLoaded', () => {
             allDataCache[dateToFetch] = dataPayload;
         }
         
-        const isCurrentView = (selectedValue === 'current');
         renderOutages(dataPayload.outages || [], referenceDate, isCurrentView);
         infoControl.update(mainInfoText, dataPayload.last_update);
     }
