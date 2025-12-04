@@ -59,17 +59,26 @@ function categorizeOutage(outage, now, isCurrentView) {
 
         } else {
             // --- HISTORICAL DATE VIEW LOGIC ---
-            // Show all planned outages for the given day, regardless of time.
-            return {
-                visible: true,
-                status: 'Planowana na ten dzień',
-                layerName: 'ongoing', // Use 'ongoing' layer for consistent color (orange)
-                popupContent: `<b>Planowana na ten dzień</b><br>
-                    <strong>Adres:</strong> ${outage.geocoded_address}<br>
-                    <strong>Początek:</strong> ${startTime.toLocaleString('pl-PL')}<br>
-                    <strong>Koniec:</strong> ${endTime.toLocaleString('pl-PL')}<br>
-                    <strong>Opis:</strong> ${outage.original_description}`
-            };
+            const selectedDay = new Date(now); // 'now' is the referenceDate from loadDataForSelection
+            selectedDay.setHours(0, 0, 0, 0);
+            const nextDay = new Date(selectedDay);
+            nextDay.setDate(nextDay.getDate() + 1);
+
+            // Show if the outage period overlaps with the selected day.
+            // (outage starts before the next day) AND (outage ends after the day started)
+            if (startTime < nextDay && endTime > selectedDay) {
+                return {
+                    visible: true,
+                    status: 'Planowana na ten dzień',
+                    layerName: 'ongoing', // Use 'ongoing' layer for consistent color (orange)
+                    popupContent: `<b>Planowana na ten dzień</b><br>
+                        <strong>Adres:</strong> ${outage.geocoded_address}<br>
+                        <strong>Początek:</strong> ${startTime.toLocaleString('pl-PL')}<br>
+                        <strong>Koniec:</strong> ${endTime.toLocaleString('pl-PL')}<br>
+                        <strong>Opis:</strong> ${outage.original_description}`
+                };
+            }
+            return { visible: false };
         }
     }
 

@@ -41,20 +41,28 @@ describe('categorizeOutage', () => {
         // --- Test Group 1: Historical View (`isCurrentView: false`) ---
         describe('in Historical View', () => {
             const isCurrentView = false;
-            const referenceDate = new Date('2025-12-05T12:00:00'); // Date doesn't matter, only isCurrentView flag
+            // The reference date IS important for historical view to determine the selected day.
+            const referenceDateForDec5 = new Date('2025-12-05T12:00:00'); 
 
-            test('should ALWAYS be visible', () => {
-                const result = categorizeOutage(plannedOutage, referenceDate, isCurrentView);
+            test('should SHOW if it overlaps with the selected day', () => {
+                const result = categorizeOutage(plannedOutage, referenceDateForDec5, isCurrentView);
                 expect(result.visible).toBe(true);
             });
+            
+            test('should HIDE if it does not overlap with the selected day', () => {
+                // This outage is on Dec 5, but we are viewing Dec 4. It should be hidden.
+                const referenceDateForDec4 = new Date('2025-12-04T12:00:00');
+                const result = categorizeOutage(plannedOutage, referenceDateForDec4, isCurrentView);
+                expect(result.visible).toBe(false);
+            });
 
-            test('should have status "Planowana na ten dzień"', () => {
-                const result = categorizeOutage(plannedOutage, referenceDate, isCurrentView);
+            test('should have status "Planowana na ten dzień" when visible', () => {
+                const result = categorizeOutage(plannedOutage, referenceDateForDec5, isCurrentView);
                 expect(result.status).toBe('Planowana na ten dzień');
             });
 
-            test('should use "ongoing" layer for consistent color', () => {
-                const result = categorizeOutage(plannedOutage, referenceDate, isCurrentView);
+            test('should use "ongoing" layer for consistent color when visible', () => {
+                const result = categorizeOutage(plannedOutage, referenceDateForDec5, isCurrentView);
                 expect(result.layerName).toBe('ongoing');
             });
         });
