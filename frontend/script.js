@@ -42,7 +42,11 @@ function categorizeOutage(outage, now, isCurrentView) {
             } else if (startTime > now && startTime <= in24h) {
                 status = 'Planowana (w ciągu 24h)';
                 layerName = 'next24h';
-            } else {
+            } else if (startTime > in24h) {
+                status = 'Planowana (>24h)';
+                layerName = 'other';
+            }
+            else {
                 return { visible: false }; // Hide other planned outages in "current" view
             }
 
@@ -169,7 +173,7 @@ document.addEventListener('DOMContentLoaded', () => {
         "Nieplanowane": layers.unplanned,
         "Planowane (trwające)": layers.ongoing,
         "Planowane (w ciągu 24h)": layers.next24h,
-        "Planowane (inne)": layers.other
+        "Planowane (>24h)": layers.other
     };
     L.control.layers(null, overlayMaps).addTo(map);
 

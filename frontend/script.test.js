@@ -94,10 +94,12 @@ describe('categorizeOutage', () => {
                 expect(result.visible).toBe(false);
             });
 
-            test('should HIDE if starting far in the future', () => {
+            test('should SHOW as ">24h" if starting far in the future', () => {
                 const now = new Date('2025-12-04T08:00:00'); // More than 24h before start
                 const result = categorizeOutage(plannedOutage, now, isCurrentView);
-                expect(result.visible).toBe(false);
+                expect(result.visible).toBe(true);
+                expect(result.status).toBe('Planowana (>24h)');
+                expect(result.layerName).toBe('other');
             });
         });
     });
