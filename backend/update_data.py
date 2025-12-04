@@ -15,7 +15,7 @@ from geopy.extra.rate_limiter import RateLimiter
 
 # --- CONFIGURATION ---
 REGION = "Poznań"
-DATA_DIR = Path("frontend/data")
+DATA_DIR = Path("docs/data")
 CACHE_FILE = Path("backend/geocoding_cache.json")
 
 # Nominatim requires a user-agent
