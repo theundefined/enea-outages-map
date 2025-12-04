@@ -1,3 +1,62 @@
+function categorizeOutage(outage, now, isCurrentView) {
+    if (outage.type === 'unplanned') {
+        if (outage.end_time === "Brak danych") {
+            return { visible: false };
+        }
+        const endTime = new Date(outage.end_time);
+
+        if (isCurrentView && endTime < now) {
+            return { visible: false };
+        }
+
+        return {
+            visible: true,
+            status: 'Nieplanowana przerwa',
+            layerName: 'unplanned',
+            popupContent: `<b>Nieplanowana przerwa</b><br>
+                <strong>Adres:</strong> ${outage.geocoded_address}<br>
+                <strong>Koniec (przewidywany):</strong> ${new Date(outage.end_time).toLocaleString('pl-PL')}<br>
+                <strong>Opis:</strong> ${outage.original_description}`
+        };
+    }
+
+    if (outage.type === 'planned') {
+        if (outage.start_time === "Brak danych" || outage.end_time === "Brak danych") {
+            return { visible: false };
+        }
+        const startTime = new Date(outage.start_time);
+        const endTime = new Date(outage.end_time);
+        const in24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
+
+        let status, layerName;
+
+        if (now >= startTime && now <= endTime) {
+            status = 'Planowana (trwająca)';
+            layerName = 'ongoing';
+        } else if (isCurrentView && startTime > now && startTime <= in24h) {
+            status = 'Planowana (w ciągu 24h)';
+            layerName = 'next24h';
+        } else {
+            status = (now > endTime) ? 'Planowana (zakończona)' : 'Planowana (przyszła)';
+            layerName = 'other';
+        }
+
+        return {
+            visible: true,
+            status: status,
+            layerName: layerName,
+            popupContent: `<b>${status}</b><br>
+                <strong>Adres:</strong> ${outage.geocoded_address}<br>
+                <strong>Początek:</strong> ${startTime.toLocaleString('pl-PL')}<br>
+                <strong>Koniec:</strong> ${endTime.toLocaleString('pl-PL')}<br>
+                <strong>Opis:</strong> ${outage.original_description}`
+        };
+    }
+
+    return { visible: false };
+}
+
+
 document.addEventListener('DOMContentLoaded', () => {
     const map = L.map('map').setView([52.4064, 16.9252], 12);
 
@@ -5,10 +64,12 @@ document.addEventListener('DOMContentLoaded', () => {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
 
-    const unplannedLayer = L.layerGroup().addTo(map);
-    const ongoingPlannedLayer = L.layerGroup().addTo(map);
-    const next24hPlannedLayer = L.layerGroup();
-    const otherPlannedLayer = L.layerGroup();
+    const layers = {
+        unplanned: L.layerGroup().addTo(map),
+        ongoing: L.layerGroup().addTo(map),
+        next24h: L.layerGroup(),
+        other: L.layerGroup()
+    };
 
     const icons = {
         unplanned: new L.Icon({
@@ -48,85 +109,41 @@ document.addEventListener('DOMContentLoaded', () => {
     infoControl.addTo(map);
 
     function clearAllLayers() {
-        unplannedLayer.clearLayers();
-        ongoingPlannedLayer.clearLayers();
-        next24hPlannedLayer.clearLayers();
-        otherPlannedLayer.clearLayers();
+        Object.values(layers).forEach(layer => layer.clearLayers());
     }
 
     function renderOutages(outages, referenceDate, isCurrentView) {
         clearAllLayers();
         
-        const now = referenceDate;
-        const in24h = new Date(now.getTime() + 24 * 60 * 60 * 1000);
-
         if (!outages || outages.length === 0) {
-            return; // No outages to render
+            return; 
         }
 
         outages.forEach(outage => {
-            let targetLayer, icon, status, popupContent;
+            const result = categorizeOutage(outage, referenceDate, isCurrentView);
 
-            if (outage.type === 'unplanned') {
-                if (outage.end_time === "Brak danych") return; // Cannot determine end time
-                const endTime = new Date(outage.end_time);
+            if (result.visible) {
+                const marker = L.marker([outage.lat, outage.lon], { icon: icons[result.layerName] })
+                    .addTo(layers[result.layerName])
+                    .bindPopup(result.popupContent);
                 
-                // For "current" view, hide outages that are already over.
-                // For historical views, show all unplanned outages from that day's file.
-                if (isCurrentView && endTime < now) return; 
-                
-                targetLayer = unplannedLayer;
-                icon = icons.unplanned;
-                status = 'Nieplanowana przerwa';
-                 popupContent = `<b>${status}</b><br>
-                    <strong>Adres:</strong> ${outage.geocoded_address}<br>
-                    <strong>Koniec (przewidywany):</strong> ${new Date(outage.end_time).toLocaleString('pl-PL')}<br>
-                    <strong>Opis:</strong> ${outage.original_description}`;
-            } else { // Planned
-                if (outage.start_time === "Brak danych" || outage.end_time === "Brak danych") return;
-                const startTime = new Date(outage.start_time);
-                const endTime = new Date(outage.end_time);
-
-                if (now >= startTime && now <= endTime) {
-                    targetLayer = ongoingPlannedLayer;
-                    icon = icons.ongoing;
-                    status = 'Planowana (trwająca)';
-                } else if (startTime > now && startTime <= in24h) {
-                    targetLayer = next24hPlannedLayer;
-                    icon = icons.next24h;
-                    status = 'Planowana (w ciągu 24h)';
-                } else {
-                    targetLayer = otherPlannedLayer;
-                    icon = icons.other;
-                    status = (now > endTime) ? 'Planowana (zakończona)' : 'Planowana (przyszła)';
-                }
-                 popupContent = `<b>${status}</b><br>
-                    <strong>Adres:</strong> ${outage.geocoded_address}<br>
-                    <strong>Początek:</strong> ${startTime.toLocaleString('pl-PL')}<br>
-                    <strong>Koniec:</strong> ${endTime.toLocaleString('pl-PL')}<br>
-                    <strong>Opis:</strong> ${outage.original_description}`;
+                marker.on('mouseover', function (e) { this.openPopup(); });
+                marker.on('mouseout', function (e) { this.closePopup(); });
             }
-
-            const marker = L.marker([outage.lat, outage.lon], { icon: icon })
-                .addTo(targetLayer)
-                .bindPopup(popupContent);
-            
-            marker.on('mouseover', function (e) { this.openPopup(); });
-            marker.on('mouseout', function (e) { this.closePopup(); });
         });
     }
 
     const overlayMaps = {
-        "Nieplanowane": unplannedLayer,
-        "Planowane (trwające)": ongoingPlannedLayer,
-        "Planowane (w ciągu 24h)": next24hPlannedLayer,
-        "Planowane (inne)": otherPlannedLayer
+        "Nieplanowane": layers.unplanned,
+        "Planowane (trwające)": layers.ongoing,
+        "Planowane (w ciągu 24h)": layers.next24h,
+        "Planowane (inne)": layers.other
     };
     L.control.layers(null, overlayMaps).addTo(map);
 
     let masterIndex = [];
     let allDataCache = {}; 
-    let lastEtag = null; // To store the ETag of the master_index.json for updates
+    let lastEtag = null; 
 
     async function loadDataForSelection(selectedValue) {
         let dataPayload = {};
@@ -140,7 +157,7 @@ document.addEventListener('DOMContentLoaded', () => {
             mainInfoText = 'Widok bieżący';
         } else {
             referenceDate = new Date(selectedValue);
-            referenceDate.setHours(12, 0, 0, 0); 
+            referenceDate.setHours(23, 59, 59, 999); 
             dateToFetch = selectedValue;
             mainInfoText = `Dane dla: ${selectedValue}`;
         }
@@ -154,11 +171,9 @@ document.addEventListener('DOMContentLoaded', () => {
         infoControl.update(mainInfoText, 'Ładowanie...');
         
         if (allDataCache[dateToFetch]) {
-            console.log(`Loading ${dateToFetch} from cache...`);
             dataPayload = allDataCache[dateToFetch];
         } else {
-            console.log(`Fetching data for ${dateToFetch}...`);
-            const response = await fetch(`data/outages_${dateToFetch}.json`, { cache: 'no-store' }); // Ensure fresh data
+            const response = await fetch(`data/outages_${dateToFetch}.json`, { cache: 'no-store' });
             if (!response.ok) {
                 infoControl.update(`Błąd ładowania danych dla ${dateToFetch}`);
                 clearAllLayers();
@@ -173,37 +188,15 @@ document.addEventListener('DOMContentLoaded', () => {
         infoControl.update(mainInfoText, dataPayload.last_update);
     }
 
-    async function checkForUpdates() {
-        if (masterIndex.length === 0 || dateSelector.value !== 'current') {
-            return; // Only check for updates when on "current" view
-        }
-
-        // Fetch master_index to see if new days are available or order changed
-        try {
-            const masterIndexResponse = await fetch('data/master_index.json', { method: 'HEAD', cache: 'no-store' });
-            const currentEtag = masterIndexResponse.headers.get('etag');
-
-            if (lastEtag && currentEtag && currentEtag !== lastEtag) {
-                console.log('New data detected (master index changed)! Reloading...');
-                // Reload master index and then the current view
-                fetchMasterIndexAndLoadData();
-            }
-            lastEtag = currentEtag;
-        } catch (error) {
-            console.error('Error checking for master index updates:', error);
-        }
-    }
-
     async function fetchMasterIndexAndLoadData() {
         try {
             const response = await fetch('data/master_index.json', { cache: 'no-store' });
             if (!response.ok) throw new Error('Master index not found');
             const newIndex = await response.json();
             
-            // If the index has changed (new dates added/removed), update selector
             if (JSON.stringify(newIndex) !== JSON.stringify(masterIndex)) {
                 masterIndex = newIndex;
-                dateSelector.innerHTML = ''; // Clear existing options
+                dateSelector.innerHTML = ''; 
                 
                 const currentOption = document.createElement('option');
                 currentOption.value = "current";
@@ -216,35 +209,38 @@ document.addEventListener('DOMContentLoaded', () => {
                     option.textContent = dateStr;
                     dateSelector.appendChild(option);
                 });
+                
+                const urlParams = new URLSearchParams(window.location.search);
+                const dateParam = urlParams.get('date');
 
-                // Re-select "current" if it was selected, or the previously selected date
-                if (dateSelector.value === 'current' || !dateSelector.value) { // !dateSelector.value handles initial load
-                     dateSelector.value = 'current';
-                     loadDataForSelection('current');
+                if (dateParam && masterIndex.includes(dateParam)) {
+                    dateSelector.value = dateParam;
+                    loadDataForSelection(dateParam);
                 } else {
-                     loadDataForSelection(dateSelector.value); // Reload selected date
+                    dateSelector.value = 'current';
+                    loadDataForSelection('current');
                 }
             } else if (dateSelector.value === 'current') {
-                // If index hasn't changed, but we are on current view, just refresh current day's data
                 loadDataForSelection('current');
             }
         } catch (error) {
-            console.error('Error loading master index for update check:', error);
-            infoControl.update('Błąd ładowania indeksu danych historycznych podczas sprawdzania aktualizacji.');
+            console.error('Error loading master index:', error);
+            infoControl.update('Błąd ładowania indeksu danych historycznych.');
         }
     }
 
 
-    // --- Initial Load of Master Index and Data ---
     fetchMasterIndexAndLoadData();
     
-    // --- Event Listener for Date Selector ---
     dateSelector.addEventListener('change', (event) => {
         loadDataForSelection(event.target.value);
     });
 
-    // Check for updates every minute (60 seconds)
-    setInterval(checkForUpdates, 60 * 1000);
+    setInterval(() => {
+        if (dateSelector.value === 'current') {
+            loadDataForSelection('current');
+        }
+    }, 60 * 1000);
 
     const style = document.createElement('style');
     style.innerHTML = `
@@ -263,3 +259,8 @@ document.addEventListener('DOMContentLoaded', () => {
     `;
     document.head.appendChild(style);
 });
+
+// For testing purposes
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = { categorizeOutage };
+}
