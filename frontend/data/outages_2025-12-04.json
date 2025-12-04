@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-04T09:55:47.229067+00:00",
+  "last_update": "2025-12-04T10:22:43.241326+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1463,6 +1463,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Antoniego Andrzejewskiego, Górczyn, Poznań, województwo wielkopolskie, 60-119, Polska",
+      "lat": 52.3813296,
+      "lon": 16.8846615,
+      "start_time": "2025-12-12T08:00:00",
+      "end_time": "2025-12-12T16:00:00",
+      "original_description": "Gmina Stęszew miasto Stęszew ul. Dworcowa nr nieparzyste, ul. Nowotki 1, ul. Szyftera 1, ul. Andrzejewskiego 1, 2, 3, ul. Poznańska 18, 18A, 18B, 18C, działki nr 804/2, 817, 1668, Zintegrowany Węzeł Przesiadkowy, gabinet kosmetyczny, kwiaciarnia, sklep,",
+      "id": "4c2e291aa87083e23cbcf9af1340d1c7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dąb mjr Józefa Szyftera, Bukowska, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4131513,
+      "lon": 16.8377548,
+      "start_time": "2025-12-12T08:00:00",
+      "end_time": "2025-12-12T16:00:00",
+      "original_description": "Gmina Stęszew miasto Stęszew ul. Dworcowa nr nieparzyste, ul. Nowotki 1, ul. Szyftera 1, ul. Andrzejewskiego 1, 2, 3, ul. Poznańska 18, 18A, 18B, 18C, działki nr 804/2, 817, 1668, Zintegrowany Węzeł Przesiadkowy, gabinet kosmetyczny, kwiaciarnia, sklep,",
+      "id": "f28c481c10989ad1198bfbbb10795a83"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pofam-Poznań, 29, Jana Kilińskiego, Śródmieście, Siedlce, województwo mazowieckie, 08-110, Polska",
+      "lat": 52.1629074,
+      "lon": 22.2753568,
+      "start_time": "2025-12-12T08:00:00",
+      "end_time": "2025-12-12T16:00:00",
+      "original_description": "Gmina Stęszew miasto Stęszew ul. Dworcowa nr nieparzyste, ul. Nowotki 1, ul. Szyftera 1, ul. Andrzejewskiego 1, 2, 3, ul. Poznańska 18, 18A, 18B, 18C, działki nr 804/2, 817, 1668, Zintegrowany Węzeł Przesiadkowy, gabinet kosmetyczny, kwiaciarnia, sklep,",
+      "id": "3ed6ac87ea8638a05e55eae98e1d7e39"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2025-12-12T08:00:00",
+      "end_time": "2025-12-12T16:00:00",
+      "original_description": "Gmina Stęszew miasto Stęszew ul. Dworcowa nr nieparzyste, ul. Nowotki 1, ul. Szyftera 1, ul. Andrzejewskiego 1, 2, 3, ul. Poznańska 18, 18A, 18B, 18C, działki nr 804/2, 817, 1668, Zintegrowany Węzeł Przesiadkowy, gabinet kosmetyczny, kwiaciarnia, sklep,",
+      "id": "4c936209ca2ace3f4b45c9bd7df23530"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
       "lat": 52.4062698,
       "lon": 16.9302717,
@@ -1743,6 +1783,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Bolesława Śmiałego, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2304432,
+      "lon": 16.8320229,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T12:30:00",
+      "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
+      "id": "fec06a5f23cd299be81ce0227994b6c5"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Ignacego Daszyńskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
       "lat": 52.3669844,
       "lon": 16.8861151,
@@ -1780,6 +1830,16 @@
       "end_time": "2025-12-04T12:30:00",
       "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty, ul. Daszyńskiego, ul. Kurpińskiego, ul. Ogińskiego, ul. Osadnicza, ul. Wieniawskiego.",
       "id": "8264484b311c621a81711d0e385ecb69"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Włościańska, Piątkowo, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4439011,
+      "lon": 16.91018,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T12:30:00",
+      "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
+      "id": "e6b3d1af3e41dc9cf790b0d4304876ca"
     }
   ]
 }
