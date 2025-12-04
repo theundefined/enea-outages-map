@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-04T07:58:00.335999+00:00",
+  "last_update": "2025-12-04T08:35:07.240361+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1663,6 +1663,26 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Główna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4247632,
+      "lon": 16.9729702,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T11:00:00",
+      "original_description": "Poznań rynek Wschodni, ul. Główna, ul. Harcerska, ul. Nadolnik, ul. Średnia.",
+      "id": "016cb3aa7cdbd71919e84b77e54d5d39"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Harcerska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-007, Polska",
+      "lat": 52.4204483,
+      "lon": 16.970886,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T11:00:00",
+      "original_description": "Poznań rynek Wschodni, ul. Główna, ul. Harcerska, ul. Nadolnik, ul. Średnia.",
+      "id": "ef25e012c9484ffdfed37daffcd5d460"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Jana Spychalskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-542, Polska",
       "lat": 52.3949671,
       "lon": 16.9183069,
@@ -1670,6 +1690,26 @@
       "end_time": "2025-12-04T11:00:00",
       "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Górna Wilda, ul. Jana Spychalskiego, ul. Wierzbięcice.",
       "id": "3840ae8c4f2b88ab37db06f43d09ce01"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-012, Polska",
+      "lat": 52.4244767,
+      "lon": 16.9714946,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T11:00:00",
+      "original_description": "Poznań rynek Wschodni, ul. Główna, ul. Harcerska, ul. Nadolnik, ul. Średnia.",
+      "id": "d8f283116a83561a5ceb47c435bb6330"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynek Wschodni, Główna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4210914,
+      "lon": 16.969786,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T11:00:00",
+      "original_description": "Poznań rynek Wschodni, ul. Główna, ul. Harcerska, ul. Nadolnik, ul. Średnia.",
+      "id": "9723690ef35ac3ab2ecf570f20f09318"
     },
     {
       "type": "unplanned",
@@ -1690,6 +1730,16 @@
       "end_time": "2025-12-04T11:00:00",
       "original_description": "Poznań os. Bolesława Śmiałego, ul. Włościańska.",
       "id": "4c8a80c90bdf604d473b88245518562f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Średnia, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4221967,
+      "lon": 16.9714299,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-04T11:00:00",
+      "original_description": "Poznań rynek Wschodni, ul. Główna, ul. Harcerska, ul. Nadolnik, ul. Średnia.",
+      "id": "df31758309b846dd4a6cea8cc5b1670a"
     }
   ]
 }
