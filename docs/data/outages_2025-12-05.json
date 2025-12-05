@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-05T08:28:18.243193+00:00",
+  "last_update": "2025-12-05T08:51:36.919723+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1363,6 +1363,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Pomnik przyrody Aleja Niepodległości, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-734, Polska",
+      "lat": 52.4130348,
+      "lon": 16.9205878,
+      "start_time": "2025-12-16T08:00:00",
+      "end_time": "2025-12-16T13:00:00",
+      "original_description": "Poznań: ul. Kościuszki 103, al. Niepodległości 22, 24, 26.",
+      "id": "520a0c95669edac909650982f7e9774e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tadeusza Kościuszki, Kiekrz, Rogierówko, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751421,
+      "lon": 16.7555574,
+      "start_time": "2025-12-16T08:00:00",
+      "end_time": "2025-12-16T13:00:00",
+      "original_description": "Poznań: ul. Kościuszki 103, al. Niepodległości 22, 24, 26.",
+      "id": "028cf1e23afb9a95f92ef33a24f7bcf4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Buska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-474, Polska",
       "lat": 52.4468875,
       "lon": 16.8860049,
@@ -1440,6 +1460,26 @@
       "end_time": "2025-12-16T11:30:00",
       "original_description": "Przeźmierowo ul. Poznańska 35, 37, 39, ul. Leśna 64, 68, dz. 196/2, ul. Ogrodowa 4D, 6, 8, 10, 16, 16A-C, od 1 do 7 nieparzyste, 11, 11A-D, od 13 do 19 nieparzyste.",
       "id": "4ff97b4f134410d7d225a52e70050ca8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Plonowa, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3566152,
+      "lon": 17.0110889,
+      "start_time": "2025-12-16T08:30:00",
+      "end_time": "2025-12-16T15:30:00",
+      "original_description": "Poznań: ul. Plonowa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Spławie 33.",
+      "id": "4052678552bbeaea99997082f011284e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3511524,
+      "lon": 17.0242204,
+      "start_time": "2025-12-16T08:30:00",
+      "end_time": "2025-12-16T15:30:00",
+      "original_description": "Poznań: ul. Plonowa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Spławie 33.",
+      "id": "da2c3e912ec447145ffc3c400c075693"
     },
     {
       "type": "planned",
