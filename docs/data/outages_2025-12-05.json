@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-05T14:24:56.381401+00:00",
+  "last_update": "2025-12-05T14:44:38.668981+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1690,6 +1690,36 @@
       "end_time": "2025-12-18T12:30:00",
       "original_description": "Poznań: ul. Majakowskiego 245, 247, 249, ul. Sępia od 1 do 15 nieparzyste, od 2 do 16A parzyste, ul. Dzieci Wrzesińskich od 3 do 19 nieparzyste, do 2A do 20A parzyste.",
       "id": "15b06b7984b0e2d9803cd46b465ad26a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-05T18:00:00",
+      "original_description": "Poznań park T. W. Wilsona, ul. Głogowska, ul. Parkowa, ul. Śniadeckich.",
+      "id": "4e6f62a880507bf2045f11b3f9318ee8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-05T18:00:00",
+      "original_description": "Poznań park T. W. Wilsona, ul. Głogowska, ul. Parkowa, ul. Śniadeckich.",
+      "id": "01255f67602f63287622edbbcf1a14f5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śniadeckich, Łazarz, Poznań, województwo wielkopolskie, 60-773, Polska",
+      "lat": 52.4006366,
+      "lon": 16.9040077,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-05T18:00:00",
+      "original_description": "Poznań park T. W. Wilsona, ul. Głogowska, ul. Parkowa, ul. Śniadeckich.",
+      "id": "af1e8f2e9e3b5a87b9ace439a4797d41"
     }
   ]
 }
