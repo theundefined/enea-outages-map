@@ -91,11 +91,26 @@ function categorizeOutage(outage, now, isCurrentView) {
 
 
 document.addEventListener('DOMContentLoaded', () => {
-    const map = L.map('map').setView([52.4064, 16.9252], 12);
+    const locations = {
+        polska: { center: [52.2297, 19.0122], zoom: 6 },
+        poznan: { center: [52.4064, 16.9252], zoom: 12 },
+        szczecin: { center: [53.4285, 14.5528], zoom: 12 }
+    };
+
+    const map = L.map('map').setView(locations.polska.center, locations.polska.zoom);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
+
+    const locationSelector = document.getElementById('location-selector');
+    locationSelector.addEventListener('change', (event) => {
+        const selectedLocation = event.target.value;
+        const view = locations[selectedLocation];
+        if (view) {
+            map.setView(view.center, view.zoom);
+        }
+    });
 
     const layers = {
         unplanned: L.layerGroup().addTo(map),
