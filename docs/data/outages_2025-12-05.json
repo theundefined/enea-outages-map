@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-05T07:56:23.892985+00:00",
+  "last_update": "2025-12-05T08:28:18.243193+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1350,6 +1350,16 @@
       "end_time": "2025-12-15T15:30:00",
       "original_description": "Poznań: ul. Św. Wincentego 7, 9, 11A, 13, dz. 4/1, dz. 4/5, dz. 4/26, dz. 4/31, dz. 5/8, dz. 5/13 (ROD \"Energetyk I\").",
       "id": "544fbe6c8a9df0bc0f12034e89c4054f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Marcina Kasprzaka, Łazarz, Poznań, województwo wielkopolskie, 60-260, Polska",
+      "lat": 52.3910199,
+      "lon": 16.893332,
+      "start_time": "2025-12-16T08:00:00",
+      "end_time": "2025-12-16T13:00:00",
+      "original_description": "Poznań: ul. Kasprzaka 11.",
+      "id": "9a09955e97af58d8e510dbe62b00fa3d"
     },
     {
       "type": "planned",
