@@ -3,16 +3,22 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mapa Awarii Enea - Poznań (Historia)</title>
+    <title>Mapa Awarii Enea</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
           integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
           crossorigin=""/>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>Mapa Awarii Enea - Poznań (Historia)</h1>
+    <h1>Mapa Awarii Enea</h1>
     <div class="controls">
-        <label for="date-selector">Wybierz widok:</label>
+        <label for="location-selector">Wybierz obszar:</label>
+        <select id="location-selector">
+            <option value="polska" selected>Cała Polska</option>
+            <option value="poznan">Poznań</option>
+            <option value="szczecin">Szczecin</option>
+        </select>
+        <label for="date-selector">Wybierz dane:</label>
         <select id="date-selector"></select>
     </div>
     <div class="official-links">

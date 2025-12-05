@@ -14,7 +14,6 @@ from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 
 # --- CONFIGURATION ---
-REGION = "Poznań"
 DATA_DIR = Path("docs/data")
 CACHE_FILE = Path("backend/geocoding_cache.json")
 
@@ -82,91 +81,142 @@ def parse_addresses_from_description(description: str) -> list[str]:
             if len(street_name) > 2:
                 addresses.append(street_name)
             continue
-
-        if 'poznań' in part:
-            address_part = part.replace('poznań', '').replace('ulica', '').strip()
-            if len(address_part) > 2:
-                addresses.append(address_part)
-
     return list(set(a for a in addresses if a))
 
 
-def get_all_outages(client: EneaOutagesClient, cache: dict) -> list[dict]:
+def get_all_outages(client: EneaOutagesClient, cache: dict, regions: list[str]) -> list[dict]:
     """
     Fetches all planned and unplanned outages, geocodes them,
     and returns a list of processed outage dictionaries.
     """
     processed_outages: list[dict] = []
 
-    for outage_type in [OutageType.PLANNED, OutageType.UNPLANNED]:
-        print(f"\n--- Fetching {outage_type.name} outages for region: {REGION} ---")
-        try:
-            outages = client.get_outages_for_region(region=REGION, outage_type=outage_type)
-        except Exception as e:
-            print(f"Error fetching {outage_type.name} outages: {e}")
-            continue
-
-        print(f"Found {len(outages)} {outage_type.name} outage reports.")
-
-        for outage in outages:
-            if "poznań" not in outage.description.lower() and "miejscowość poznań" not in outage.description.lower():
+    for region in regions:
+        for outage_type in [OutageType.PLANNED, OutageType.UNPLANNED]:
+            print(f"\n--- Fetching {outage_type.name} outages for region: {region} ---")
+            try:
+                outages = client.get_outages_for_region(region=region, outage_type=outage_type)
+            except Exception as e:
+                print(f"Error fetching {outage_type.name} outages: {e}")
                 continue
 
-            addresses = parse_addresses_from_description(outage.description)
-            print(f"-> Found {len(addresses)} potential addresses in: \"{outage.description[:70]}...\"")
+            print(f"Found {len(outages)} {outage_type.name} outage reports.")
 
-            for address in addresses:
-                if not address: continue
-                full_address_query = f"{address}, Poznań"
-                location_data = None
-                
-                if full_address_query in cache:
-                    print(f"  - Found in cache: {full_address_query}")
-                    location_data = cache[full_address_query]
-                else:
-                    print(f"  - Geocoding: {full_address_query}")
-                    try:
-                        location = geocode(full_address_query, addressdetails=True, language="pl")
-                        if location and "poznań" in location.address.lower():
-                            print(f"    - Success: {location.address}")
-                            location_data = {
-                                "address": location.address,
-                                "lat": location.latitude,
-                                "lon": location.longitude,
-                            }
-                            cache[full_address_query] = location_data
-                        else:
-                            print(f"    - Could not geocode or address not in Poznań: {full_address_query}")
-                            cache[full_address_query] = None
-                    except (GeocoderTimedOut, Exception) as e:
-                        print(f"    - Error during geocoding: {e}")
-                
-                if not location_data:
-                    continue
+            for outage in outages:
+                addresses = parse_addresses_from_description(outage.description)
+                print(f"-> Found {len(addresses)} potential addresses in: \"{outage.description[:70]}...\"")
 
-                outage_item = {
-                    "type": outage_type.name.lower(),
-                    "geocoded_address": location_data["address"],
-                    "lat": location_data["lat"],
-                    "lon": location_data["lon"],
-                    "start_time": outage.start_time.isoformat() if outage.start_time else "Brak danych",
-                    "end_time": outage.end_time.isoformat() if outage.end_time else "Brak danych",
-                    "original_description": outage.description,
-                }
-                outage_item["id"] = generate_outage_id(outage_item)
-                processed_outages.append(outage_item)
+                for address in addresses:
+                    if not address: continue
+                    full_address_query = f"{address}, {region}"
+                    location_data = None
+                    
+                    if full_address_query in cache:
+                        print(f"  - Found in cache: {full_address_query}")
+                        location_data = cache[full_address_query]
+                    else:
+                        print(f"  - Geocoding: {full_address_query}")
+                        try:
+                            location = geocode(full_address_query, addressdetails=True, language="pl")
+                            if location and region.lower() in location.address.lower():
+                                print(f"    - Success: {location.address}")
+                                location_data = {
+                                    "address": location.address,
+                                    "lat": location.latitude,
+                                    "lon": location.longitude,
+                                }
+                                cache[full_address_query] = location_data
+                            else:
+                                print(f"    - Could not geocode or address not in {region}: {full_address_query}")
+                                cache[full_address_query] = None
+                        except (GeocoderTimedOut, Exception) as e:
+                            print(f"    - Error during geocoding: {e}")
+                    
+                    if not location_data:
+                        continue
+
+                    outage_item = {
+                        "type": outage_type.name.lower(),
+                        "region": region, # Add region to the outage item
+                        "geocoded_address": location_data["address"],
+                        "lat": location_data["lat"],
+                        "lon": location_data["lon"],
+                        "start_time": outage.start_time.isoformat() if outage.start_time else "Brak danych",
+                        "end_time": outage.end_time.isoformat() if outage.end_time else "Brak danych",
+                        "original_description": outage.description,
+                    }
+                    outage_item["id"] = generate_outage_id(outage_item)
+                    processed_outages.append(outage_item)
     
     return processed_outages
 
 
+def migrate_old_data_if_needed(data_dir: Path):
+    """
+    Checks existing data files and adds the 'region' field if it's missing.
+    Assumes missing region means the data is from Poznań.
+    """
+    print("\n--- Checking for data migration ---")
+    migrated_files = 0
+    all_files = list(data_dir.glob("outages_*.json"))
+
+    if not all_files:
+        print("No data files found to migrate.")
+        return
+
+    # Check a sample file to see if migration is likely needed
+    try:
+        with open(all_files[0], "r", encoding="utf-8") as f:
+            sample_data = json.load(f)
+        
+        if "outages" in sample_data and sample_data["outages"] and "region" in sample_data["outages"][0]:
+            print("Data seems up-to-date. No migration needed.")
+            return
+    except (json.JSONDecodeError, IndexError):
+        print("Could not read sample file, skipping migration check.")
+        return # Cannot determine if migration is needed
+
+    print("Old data format detected. Starting migration...")
+    for file_path in all_files:
+        try:
+            needs_update = False
+            with open(file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+            
+            if "outages" not in data or not data["outages"]:
+                continue
+
+            for outage in data["outages"]:
+                if "region" not in outage:
+                    outage["region"] = "Poznań"
+                    needs_update = True
+            
+            if needs_update:
+                print(f"Migrating {file_path}...")
+                save_json_file(data, file_path) # save_json_file is already defined
+                migrated_files += 1
+        except (json.JSONDecodeError, IOError) as e:
+            print(f"Could not process or write {file_path}: {e}")
+
+
+    if migrated_files > 0:
+        print(f"Migration complete. {migrated_files} files updated.")
+    else:
+        print("All data files were already up-to-date or no migration was needed.")
+
+
 def main():
     """Main function to update the outage data."""
+    migrate_old_data_if_needed(DATA_DIR)
+    
     geocoding_cache = load_json_file(CACHE_FILE)
     if not isinstance(geocoding_cache, dict): geocoding_cache = {} # Ensure cache is a dict
     
     client = EneaOutagesClient()
+    regions = client.get_available_regions() # Get available regions
+    print(f"Fetching outages for regions: {regions}")
 
-    new_outages = get_all_outages(client, geocoding_cache)
+    new_outages = get_all_outages(client, geocoding_cache, regions)
     if not new_outages:
         print("No new outages to process. Exiting.")
         return
