@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-05T20:40:50.526032+00:00",
+  "last_update": "2025-12-05T20:55:28.092570+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6842,6 +6842,17 @@
       "end_time": "2025-12-05T23:00:00",
       "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
       "id": "f54d6044967f270fa1c592f61f6a1698"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "ROD im. Mikołaja Reja, Krzekowo-Bezrzecze, Zachód, Szczecin, województwo zachodniopomorskie, Polska",
+      "lat": 53.4423607,
+      "lon": 14.4704776,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T08:45:00",
+      "original_description": "Szczecin ul. Reja, Orzeszkowej i okolice.",
+      "id": "9b9e388009ae60fcc4e1136101729bf0"
     }
   ]
 }
