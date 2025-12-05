@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-05T09:39:36.447392+00:00",
+  "last_update": "2025-12-05T09:50:49.412360+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1280,6 +1280,16 @@
       "end_time": "2025-12-12T12:30:00",
       "original_description": "Jarogniewice ul. Podgórna 1-5, ul. Poznańska,",
       "id": "06b52c735b2b4496068e2a5c7fdbaee1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2025-12-12T09:30:00",
+      "end_time": "2025-12-12T11:00:00",
+      "original_description": "Jarogniewice ul. Ogrodowa T-MOBILE POLSKA S. A., ul. Poznańska 20a, 21, dz. 695,",
+      "id": "48da15d7543b63d5652a6489d8aacaa8"
     },
     {
       "type": "planned",
