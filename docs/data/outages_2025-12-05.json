@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-05T11:54:32.292320+00:00",
+  "last_update": "2025-12-05T12:37:17.742052+00:00",
   "outages": [
     {
       "type": "planned",
@@ -803,6 +803,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Juracka, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-148, Polska",
+      "lat": 52.3941654,
+      "lon": 16.9452446,
+      "start_time": "2025-12-10T08:00:00",
+      "end_time": "2025-12-10T14:00:00",
+      "original_description": "Poznań: ul. Juracka 17A.",
+      "id": "17d7488a8db929dd5b90505576feb2fb"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Arnikowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
       "lat": 52.4918179,
       "lon": 16.9382263,
@@ -1073,6 +1083,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "2025-12-11T08:00:00",
+      "end_time": "2025-12-11T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "31311bd0b9753345804e96231b47da40"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Elżbiety Drużbackiej, Łazarz, Poznań, województwo wielkopolskie, 60-750, Polska",
+      "lat": 52.3979843,
+      "lon": 16.8981067,
+      "start_time": "2025-12-11T08:00:00",
+      "end_time": "2025-12-11T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "fe54c2e29507018b22305f078fd15626"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Juliusza Kossaka, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.3999606,
+      "lon": 16.8975131,
+      "start_time": "2025-12-11T08:00:00",
+      "end_time": "2025-12-11T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "a8400c7d07e3d9257279500a872692f4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Samuela Lindego, Ogrody, Poznań, województwo wielkopolskie, 60-573, Polska",
       "lat": 52.4182674,
       "lon": 16.889596,
@@ -1080,6 +1120,26 @@
       "end_time": "2025-12-11T13:00:00",
       "original_description": "Poznań: ul.  Lindego 4, 6.",
       "id": "46aebacce3357290ccf4b7ae9f2b52bb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ułańska, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.4000327,
+      "lon": 16.8960356,
+      "start_time": "2025-12-11T08:00:00",
+      "end_time": "2025-12-11T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "b157c88e8ad1c7b8a426b62d558b09d0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wyspiańskiego, Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3974793,
+      "lon": 16.8996108,
+      "start_time": "2025-12-11T08:00:00",
+      "end_time": "2025-12-11T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "f4fdd687f75eff9c10ed98e794f3abdf"
     },
     {
       "type": "planned",
@@ -1530,6 +1590,16 @@
       "end_time": "2025-12-16T15:30:00",
       "original_description": "Poznań: ul. Plonowa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Spławie 33.",
       "id": "da2c3e912ec447145ffc3c400c075693"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T13:00:00",
+      "original_description": "Poznań: ul. Bukowska 37.",
+      "id": "7a79f2269e6f452ee8ac432a6e666e74"
     },
     {
       "type": "planned",
