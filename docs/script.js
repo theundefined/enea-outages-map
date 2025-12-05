@@ -89,6 +89,26 @@ function categorizeOutage(outage, now, isCurrentView) {
     return { visible: false };
 }
 
+function copyLink(id) {
+    const url = new URL(window.location);
+    url.searchParams.set('outage', id);
+    navigator.clipboard.writeText(url.toString()).then(() => {
+        alert('Link skopiowany do schowka!');
+    }).catch(err => {
+        console.error('Błąd kopiowania linku: ', err);
+    });
+}
+
+function generateId(str) {
+    let hash = 0;
+    for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash = (hash << 5) - hash + char;
+        hash = hash & hash; // Convert to 32bit integer
+    }
+    return 'outage-' + Math.abs(hash).toString(16);
+}
+
 
 document.addEventListener('DOMContentLoaded', () => {
     const locations = {
@@ -144,6 +164,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const dateSelector = document.getElementById('date-selector');
     const infoControl = L.control();
+    let allMarkers = {};
 
     infoControl.onAdd = function (map) {
         this._div = L.DomUtil.create('div', 'info');
@@ -158,6 +179,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function clearAllLayers() {
         Object.values(layers).forEach(layer => layer.clearLayers());
+        allMarkers = {};
     }
 
     function renderOutages(outages, referenceDate, isCurrentView) {
@@ -169,19 +191,29 @@ document.addEventListener('DOMContentLoaded', () => {
 
         outages.forEach(outage => {
             const result = categorizeOutage(outage, referenceDate, isCurrentView);
+            const outageId = generateId(outage.original_description + outage.start_time + outage.end_time);
 
             if (result.visible) {
-                // The 'other' layer is no longer used by categorizeOutage for visible markers,
-                // but we keep it in the layers control for consistency.
+                const popupContent = `${result.popupContent}<br><button onclick="copyLink('${outageId}')">Kopiuj link</button>`;
                 const targetLayer = layers[result.layerName] || layers.other;
                 const marker = L.marker([outage.lat, outage.lon], { icon: icons[result.layerName] })
                     .addTo(targetLayer)
-                    .bindPopup(result.popupContent);
+                    .bindPopup(popupContent);
                 
-                marker.on('mouseover', function (e) { this.openPopup(); });
-                marker.on('mouseout', function (e) { this.closePopup(); });
+                marker.outageId = outageId;
+                allMarkers[outageId] = marker;
+
+                marker.on('click', function (e) { this.openPopup(); });
             }
         });
+
+        const urlParams = new URLSearchParams(window.location.search);
+        const outageParam = urlParams.get('outage');
+        if (outageParam && allMarkers[outageParam]) {
+            const marker = allMarkers[outageParam];
+            map.setView(marker.getLatLng(), 15);
+            marker.openPopup();
+        }
     }
 
     const overlayMaps = {
@@ -207,11 +239,8 @@ document.addEventListener('DOMContentLoaded', () => {
         if (isCurrentView) {
             referenceDate = new Date();
             mainInfoText = 'Widok bieżący';
-            dateToFetch = masterIndex[0]; 
+            dateToFetch = masterIndex.length > 0 ? masterIndex[0] : null;
         } else {
-            // For historical views, use a neutral time. The new logic in 
-            // categorizeOutage doesn't depend on it for showing/hiding,
-            // only for the text in the popup. Noon is fine.
             referenceDate = new Date(selectedValue);
             referenceDate.setHours(12, 0, 0, 0); 
             mainInfoText = `Dane dla: ${selectedValue}`;
@@ -270,14 +299,15 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 if (dateParam && masterIndex.includes(dateParam)) {
                     dateSelector.value = dateParam;
-                    loadDataForSelection(dateParam);
                 } else {
                     dateSelector.value = 'current';
-                    loadDataForSelection('current');
                 }
-            } else if (dateSelector.value === 'current') {
-                loadDataForSelection('current');
-            }
+            } 
+            
+            // Always load data, even if index hasn't changed, 
+            // to handle direct navigation with outage param.
+            loadDataForSelection(dateSelector.value);
+
         } catch (error) {
             console.error('Error loading master index:', error);
             infoControl.update('Błąd ładowania indeksu danych historycznych.');
@@ -288,6 +318,10 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchMasterIndexAndLoadData();
     
     dateSelector.addEventListener('change', (event) => {
+        const newUrl = new URL(window.location);
+        newUrl.searchParams.set('date', event.target.value);
+        newUrl.searchParams.delete('outage'); // Remove outage param when changing date
+        window.history.pushState({}, '', newUrl);
         loadDataForSelection(event.target.value);
     });
 
@@ -317,5 +351,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // For testing purposes
 if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { categorizeOutage };
+    module.exports = { categorizeOutage, generateId };
 }
