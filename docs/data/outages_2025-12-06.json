@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T15:15:49.511688+00:00",
+  "last_update": "2025-12-06T15:32:21.234737+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6545,6 +6545,17 @@
       "end_time": "2025-12-06T17:00:00",
       "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
       "id": "a9a9d107760a675db98b1f0c33e39961"
+    },
+    {
+      "type": "unplanned",
+      "region": "Bydgoszcz",
+      "geocoded_address": "Figowa, Opławiec, Smukała - Opławiec - Janowo, Bydgoszcz, województwo kujawsko-pomorskie, 85-477, Polska",
+      "lat": 53.1828677,
+      "lon": 17.9619212,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T18:15:00",
+      "original_description": "Bydgoszcz ul. Figowa, Agrestowa, Magnoliowa, Baranowskiego.",
+      "id": "a9e84449273fc7e21699b7481e99cee4"
     }
   ]
 }
