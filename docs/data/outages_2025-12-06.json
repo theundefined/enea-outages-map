@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T09:18:08.699310+00:00",
+  "last_update": "2025-12-06T09:33:37.851913+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6424,6 +6424,17 @@
       "end_time": "2025-12-06T12:00:00",
       "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
       "id": "cd4d9027c7f5073fb922b33d9dd87a76"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Cedrowa, Barnucin, Zdroje, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-773, Polska",
+      "lat": 53.3734384,
+      "lon": 14.6383838,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:30:00",
+      "original_description": "Brodniki, Zdrój, Lubin, Gryfice ul. Cedrowa, ul. Jana Dąbskiego.",
+      "id": "85cbff6264d0517db705768be65d5627"
     }
   ]
 }
