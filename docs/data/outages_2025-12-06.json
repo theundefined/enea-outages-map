@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T08:21:58.081017+00:00",
+  "last_update": "2025-12-06T08:45:27.136465+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6149,6 +6149,171 @@
       "end_time": "2025-12-06T10:30:00",
       "original_description": "Bydgoszcz ul. aleja marsz. Józefa Piłsudskiego, ul. gen. Leopolda Okulickiego, ul. gen. Stefana Roweckiego-Grota, ul. ppor. Danuty Siedzikówny \"Inki\", ul. Swobodna.",
       "id": "09680cc25c9e0d647def6bb6b576e649"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T11:00:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "27178b527fd3d3557da5d8e6c5d1e089"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wędkarska, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2671953,
+      "lon": 16.613449,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T11:00:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "2f58ac8eb8849df181421075842862da"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Brzozowa, Reda, Gumieńce, Zachód, Szczecin, województwo zachodniopomorskie, 71-014, Polska",
+      "lat": 53.4086085,
+      "lon": 14.5026796,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
+      "id": "ec83e6aaa29ec4d6e356ad79a2c11011"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Cedrowa, Barnucin, Zdroje, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-773, Polska",
+      "lat": 53.3734384,
+      "lon": 14.6383838,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Barkowo, Baszewice, Brodniki, Zdrój, Grębocin, Lubin, Trzygłów, Gryfice ul. Cedrowa, ul. Jana Dąbskiego, Karczewie, Krężel, Sowno, Płoty ul. Ignacego Łukasiewicza, ul. Jagiellonów, ul. Mikołaja Kopernika, ul. Nowogardzka, ul. Piaskowa, ul. Skłodowskiej-Curie.",
+      "id": "67dfc2b55c5a9b12f5853a39880914e9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Długa, Wielgowo, Wielgowo-Sławociesze-Zdunowo, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-879, Polska",
+      "lat": 53.3865189,
+      "lon": 14.761531,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
+      "id": "1debe4cc2bef07bd4e58068ffd1115d2"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Ignacego Łukasiewicza, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-317, Polska",
+      "lat": 53.4451739,
+      "lon": 14.5197682,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Barkowo, Baszewice, Brodniki, Zdrój, Grębocin, Lubin, Trzygłów, Gryfice ul. Cedrowa, ul. Jana Dąbskiego, Karczewie, Krężel, Sowno, Płoty ul. Ignacego Łukasiewicza, ul. Jagiellonów, ul. Mikołaja Kopernika, ul. Nowogardzka, ul. Piaskowa, ul. Skłodowskiej-Curie.",
+      "id": "891cdfa60f74423be49a892e50cbc58d"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Kolejowa, Stołczyn, Północ, Szczecin, województwo zachodniopomorskie, 71-833, Polska",
+      "lat": 53.494678,
+      "lon": 14.6144073,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
+      "id": "6c33aa4278614823564062bef8b2c415"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Marii Skłodowskiej-Curie, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-342, Polska",
+      "lat": 53.4497485,
+      "lon": 14.5178952,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Barkowo, Baszewice, Brodniki, Zdrój, Grębocin, Lubin, Trzygłów, Gryfice ul. Cedrowa, ul. Jana Dąbskiego, Karczewie, Krężel, Sowno, Płoty ul. Ignacego Łukasiewicza, ul. Jagiellonów, ul. Mikołaja Kopernika, ul. Nowogardzka, ul. Piaskowa, ul. Skłodowskiej-Curie.",
+      "id": "4d6e317625156e36952b84ad00378859"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Mikołaja Kopernika, Śródmieście-Zachód, Śródmieście, Szczecin, województwo zachodniopomorskie, 70-241, Polska",
+      "lat": 53.4239512,
+      "lon": 14.5436175,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Barkowo, Baszewice, Brodniki, Zdrój, Grębocin, Lubin, Trzygłów, Gryfice ul. Cedrowa, ul. Jana Dąbskiego, Karczewie, Krężel, Sowno, Płoty ul. Ignacego Łukasiewicza, ul. Jagiellonów, ul. Mikołaja Kopernika, ul. Nowogardzka, ul. Piaskowa, ul. Skłodowskiej-Curie.",
+      "id": "8396edc530a8c066a41996214b77c9e3"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Młyńska, Osiedle Nad Płonią, Dąbie, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-834, Polska",
+      "lat": 53.3937783,
+      "lon": 14.6762066,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
+      "id": "1b21545697f35f643f564f827738a0ef"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Nowogardzka, Dąbie, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-853, Polska",
+      "lat": 53.3976975,
+      "lon": 14.6888076,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Barkowo, Baszewice, Brodniki, Zdrój, Grębocin, Lubin, Trzygłów, Gryfice ul. Cedrowa, ul. Jana Dąbskiego, Karczewie, Krężel, Sowno, Płoty ul. Ignacego Łukasiewicza, ul. Jagiellonów, ul. Mikołaja Kopernika, ul. Nowogardzka, ul. Piaskowa, ul. Skłodowskiej-Curie.",
+      "id": "a0872e4d178ce0d216dc978317efe4fc"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Piaskowa, Dolina, Żelechowa, Północ, Szczecin, województwo zachodniopomorskie, 71-779, Polska",
+      "lat": 53.466556,
+      "lon": 14.5655558,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Barkowo, Baszewice, Brodniki, Zdrój, Grębocin, Lubin, Trzygłów, Gryfice ul. Cedrowa, ul. Jana Dąbskiego, Karczewie, Krężel, Sowno, Płoty ul. Ignacego Łukasiewicza, ul. Jagiellonów, ul. Mikołaja Kopernika, ul. Nowogardzka, ul. Piaskowa, ul. Skłodowskiej-Curie.",
+      "id": "f1746218ec625bd93aaa13ea139e514f"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Sosnowa, Niebuszewo, Północ, Szczecin, województwo zachodniopomorskie, 71-446, Polska",
+      "lat": 53.4514017,
+      "lon": 14.5457523,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
+      "id": "f37281b15284150003a59b879e9be335"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Wrzosowa, Klucz, Żydowce-Klucz, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-700, Polska",
+      "lat": 53.3357336,
+      "lon": 14.546785,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
+      "id": "510e51f58aaaebb7096f384e1aa51e07"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Łąkowa, Dąbie, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-815, Polska",
+      "lat": 53.3843698,
+      "lon": 14.68278,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
+      "id": "6ba06e766d65a6c0bed18c737c02c595"
     }
   ]
 }
