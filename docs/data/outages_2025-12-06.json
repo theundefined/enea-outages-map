@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T22:55:36.453623+00:00",
+  "last_update": "2025-12-06T23:16:03.391842+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6919,6 +6919,50 @@
       "end_time": "2025-12-07T01:00:00",
       "original_description": "Łęgoń, Olbrachcice, Siedlnica, Czerlejewo, Wschowa ul. Kolejowa.",
       "id": "482bd52588e1883224aecee6ff1592e3"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Owocowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.3653318,
+      "lon": 17.0182361,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T01:30:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "8584727ff5f06a76fbe572e02d25252d"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Porzeczkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3628315,
+      "lon": 17.0293422,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T01:30:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "018a87ff776264f564e8eaa412c5ff04"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Sierpowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.367821,
+      "lon": 17.0151878,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T01:30:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "9451c8c89c4509342cd022830a891fa5"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T01:30:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "3725e35efe35fbaf2c470272069d57d0"
     },
     {
       "type": "unplanned",
