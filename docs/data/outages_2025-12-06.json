@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T06:50:38.724255+00:00",
+  "last_update": "2025-12-06T07:16:08.362042+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6083,6 +6083,28 @@
       "end_time": "2025-12-06T08:45:00",
       "original_description": "Szczecin ul. Reja, Orzeszkowej i okolice.",
       "id": "9b9e388009ae60fcc4e1136101729bf0"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T09:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "1075bfb07abe9eb28926420d2d4ea441"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wędkarska, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2671953,
+      "lon": 16.613449,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T09:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "da804aafa838847dac6dbb58ff86cce7"
     }
   ]
 }
