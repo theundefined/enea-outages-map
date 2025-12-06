@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T08:45:27.136465+00:00",
+  "last_update": "2025-12-06T08:56:01.111707+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6196,6 +6196,28 @@
     },
     {
       "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Doktora Kazimierza Wróblewskiego, Osiedle 700-lecia Miasta, Osiedle Przyjaźni, Buk, gmina Buk, powiat poznański, województwo wielkopolskie, 64-320, Polska",
+      "lat": 52.3536208,
+      "lon": 16.5168102,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "897e6cadc62a7cb19a1a144bceb0e009"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "cfd50e53fe9ef7a197b75e4110acbd14"
+    },
+    {
+      "type": "unplanned",
       "region": "Szczecin",
       "geocoded_address": "Długa, Wielgowo, Wielgowo-Sławociesze-Zdunowo, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-879, Polska",
       "lat": 53.3865189,
@@ -6204,6 +6226,28 @@
       "end_time": "2025-12-06T12:00:00",
       "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
       "id": "1debe4cc2bef07bd4e58068ffd1115d2"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Europejska, Przy Trakcie, Rokietnica, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 62-090, Polska",
+      "lat": 52.507358,
+      "lon": 16.7410263,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Gostyń ul. Europejska, ul. Nad Kanią.",
+      "id": "647e82cb3a1690e5a9b8aa6b09a8cb58"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Grodziska, Ogrody, Poznań, województwo wielkopolskie, 60-564, Polska",
+      "lat": 52.4122575,
+      "lon": 16.8857486,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "b461d3109c5799aea91c4322d2c92585"
     },
     {
       "type": "unplanned",
@@ -6284,6 +6328,28 @@
     },
     {
       "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Poznań Plaza, 2, Kaspra Drużbickiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4409817,
+      "lon": 16.9190535,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "03eefd52f6560bcba52b5d70a17acfed"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Przykop, Osiedle 700-lecia Miasta, Osiedle Przyjaźni, Buk, gmina Buk, powiat poznański, województwo wielkopolskie, 64-320, Polska",
+      "lat": 52.3554646,
+      "lon": 16.5166529,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "995609f23b04b7cd8bce4116ec2baba4"
+    },
+    {
+      "type": "unplanned",
       "region": "Szczecin",
       "geocoded_address": "Sosnowa, Niebuszewo, Północ, Szczecin, województwo zachodniopomorskie, 71-446, Polska",
       "lat": 53.4514017,
@@ -6292,6 +6358,39 @@
       "end_time": "2025-12-06T12:00:00",
       "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
       "id": "f37281b15284150003a59b879e9be335"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Stefana Czarnieckiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-538, Polska",
+      "lat": 52.393043,
+      "lon": 16.9168331,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "addb327f597abe0d2b57f84ad1794218"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Tadeusza Kościuszki, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-898, Polska",
+      "lat": 52.4022309,
+      "lon": 16.9243989,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "4b1ed505cf021375928a9ea1ef58e772"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wegnera, Osiedle 700-lecia Miasta, Osiedle Przyjaźni, Buk, gmina Buk, powiat poznański, województwo wielkopolskie, 64-320, Polska",
+      "lat": 52.3547289,
+      "lon": 16.5185263,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "ee229a7f198e376721e004ce383cb6fa"
     },
     {
       "type": "unplanned",
@@ -6314,6 +6413,17 @@
       "end_time": "2025-12-06T12:00:00",
       "original_description": "Brojce ul. Brzozowa, ul. Długa, ul. Łąkowa, ul. Młyńska, ul. Sosnowa, ul. Wrzosowa, Grąd, Kiełpino, Cieszyce, Pruszcz, Przybiernowo ul. Kolejowa, Stołąż, Strzykocin, Lubieszewo, Starnin, Bębnikąt.",
       "id": "6ba06e766d65a6c0bed18c737c02c595"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Świętego Rocha, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3988972,
+      "lon": 16.9496247,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T12:00:00",
+      "original_description": "Buk ul. dr. Kazimierza Wróblewskiego, ul. Dworcowa, ul. Grodziska, ul. kpt. Witolda Wegnera, ul. Powstańców Wlkp., ul. Przykop, ul. Stefana Czarnieckiego, ul. św. Rocha, ul. Tadeusza Kościuszki.",
+      "id": "cd4d9027c7f5073fb922b33d9dd87a76"
     }
   ]
 }
