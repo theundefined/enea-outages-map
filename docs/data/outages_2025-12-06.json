@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T18:47:07.927120+00:00",
+  "last_update": "2025-12-06T18:56:48.604809+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6699,6 +6699,83 @@
       "end_time": "2025-12-06T21:30:00",
       "original_description": "Głodno, Rostarzewo pl. Plac Powstańców Wielkopolskich, ul. Topolowa, ul. Wolsztyńska, Stodolsko.",
       "id": "e60f23ea2b0d0287888458487ffae274"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Cmentarna, Junikowo, Poznań, województwo wielkopolskie, 60-176, Polska",
+      "lat": 52.3858085,
+      "lon": 16.8389482,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T22:00:00",
+      "original_description": "Luboń ul. Cmentarna, ul. Graniczna, ul. Lipowa, ul. Zielona, Komorniki ul. Ogrodowa, Poznań ul. Opłotki, ul. Uradzka.",
+      "id": "fe874571876e8140be7db6e81b2d23b7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Graniczna, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961602,
+      "lon": 16.9040247,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T22:00:00",
+      "original_description": "Luboń ul. Cmentarna, ul. Graniczna, ul. Lipowa, ul. Zielona, Komorniki ul. Ogrodowa, Poznań ul. Opłotki, ul. Uradzka.",
+      "id": "87859ce18222ed97ca9080f8f2396a04"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T22:00:00",
+      "original_description": "Luboń ul. Cmentarna, ul. Graniczna, ul. Lipowa, ul. Zielona, Komorniki ul. Ogrodowa, Poznań ul. Opłotki, ul. Uradzka.",
+      "id": "6343d0eeec09bce068dd849cc57f40ca"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T22:00:00",
+      "original_description": "Luboń ul. Cmentarna, ul. Graniczna, ul. Lipowa, ul. Zielona, Komorniki ul. Ogrodowa, Poznań ul. Opłotki, ul. Uradzka.",
+      "id": "e4d044b9058756ea93e317b027c936f3"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Opłotki, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-012, Polska",
+      "lat": 52.351831,
+      "lon": 16.8482285,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T22:00:00",
+      "original_description": "Luboń ul. Cmentarna, ul. Graniczna, ul. Lipowa, ul. Zielona, Komorniki ul. Ogrodowa, Poznań ul. Opłotki, ul. Uradzka.",
+      "id": "7621a4717698fb1c3ba8d18bc65ee3f9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Uradzka, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-012, Polska",
+      "lat": 52.349284,
+      "lon": 16.852327,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T22:00:00",
+      "original_description": "Luboń ul. Cmentarna, ul. Graniczna, ul. Lipowa, ul. Zielona, Komorniki ul. Ogrodowa, Poznań ul. Opłotki, ul. Uradzka.",
+      "id": "38a023d2d6a4d85b3f0183ae29bb56dd"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T22:00:00",
+      "original_description": "Luboń ul. Cmentarna, ul. Graniczna, ul. Lipowa, ul. Zielona, Komorniki ul. Ogrodowa, Poznań ul. Opłotki, ul. Uradzka.",
+      "id": "9d4f5353bab632c3a4f43a886ab123ff"
     }
   ]
 }
