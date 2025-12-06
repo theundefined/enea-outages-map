@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T22:46:10.547318+00:00",
+  "last_update": "2025-12-06T22:55:36.453623+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6919,6 +6919,17 @@
       "end_time": "2025-12-07T01:00:00",
       "original_description": "Łęgoń, Olbrachcice, Siedlnica, Czerlejewo, Wschowa ul. Kolejowa.",
       "id": "482bd52588e1883224aecee6ff1592e3"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T02:00:00",
+      "original_description": "Łęgoń, Olbrachcice, Siedlnica, Czerlejewo, Wschowa ul. Kolejowa.",
+      "id": "d845334124b56e3d975ec1611302dcc0"
     }
   ]
 }
