@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-06T07:16:08.362042+00:00",
+  "last_update": "2025-12-06T07:31:17.155969+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6105,6 +6105,50 @@
       "end_time": "2025-12-06T09:30:00",
       "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
       "id": "da804aafa838847dac6dbb58ff86cce7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Bydgoszcz",
+      "geocoded_address": "Generała Leopolda Okulickiego, Nad Wisłą, Stary Fordon, Bydgoszcz, województwo kujawsko-pomorskie, 85-799, Polska",
+      "lat": 53.1598407,
+      "lon": 18.1757753,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T10:30:00",
+      "original_description": "Bydgoszcz ul. aleja marsz. Józefa Piłsudskiego, ul. gen. Leopolda Okulickiego, ul. gen. Stefana Roweckiego-Grota, ul. ppor. Danuty Siedzikówny \"Inki\", ul. Swobodna.",
+      "id": "83849db094e6352b8c3b3066e8344f3e"
+    },
+    {
+      "type": "unplanned",
+      "region": "Bydgoszcz",
+      "geocoded_address": "Generała Stefana Roweckiego-Grota, Osiedle Nad Wisłą, Nad Wisłą, Stary Fordon, Bydgoszcz, województwo kujawsko-pomorskie, 85-799, Polska",
+      "lat": 53.1583345,
+      "lon": 18.1760266,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T10:30:00",
+      "original_description": "Bydgoszcz ul. aleja marsz. Józefa Piłsudskiego, ul. gen. Leopolda Okulickiego, ul. gen. Stefana Roweckiego-Grota, ul. ppor. Danuty Siedzikówny \"Inki\", ul. Swobodna.",
+      "id": "65c04a703f08d4df0739735b8ff23cf3"
+    },
+    {
+      "type": "unplanned",
+      "region": "Bydgoszcz",
+      "geocoded_address": "Podporucznik Danuty Siedzikówny „Inki”, Osiedle Nad Wisłą, Nad Wisłą, Stary Fordon, Bydgoszcz, województwo kujawsko-pomorskie, 85-799, Polska",
+      "lat": 53.159001,
+      "lon": 18.1747994,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T10:30:00",
+      "original_description": "Bydgoszcz ul. aleja marsz. Józefa Piłsudskiego, ul. gen. Leopolda Okulickiego, ul. gen. Stefana Roweckiego-Grota, ul. ppor. Danuty Siedzikówny \"Inki\", ul. Swobodna.",
+      "id": "1c8cf456a0f726d964b5d6d69c348529"
+    },
+    {
+      "type": "unplanned",
+      "region": "Bydgoszcz",
+      "geocoded_address": "Swobodna, Osiedle Nad Wisłą, Nad Wisłą, Stary Fordon, Bydgoszcz, województwo kujawsko-pomorskie, 85-799, Polska",
+      "lat": 53.157444,
+      "lon": 18.1704571,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-06T10:30:00",
+      "original_description": "Bydgoszcz ul. aleja marsz. Józefa Piłsudskiego, ul. gen. Leopolda Okulickiego, ul. gen. Stefana Roweckiego-Grota, ul. ppor. Danuty Siedzikówny \"Inki\", ul. Swobodna.",
+      "id": "09680cc25c9e0d647def6bb6b576e649"
     }
   ]
 }
