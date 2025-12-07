@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-07T14:45:52.191100+00:00",
+  "last_update": "2025-12-07T14:54:55.850116+00:00",
   "outages": [
     {
       "type": "planned",
@@ -10652,6 +10652,17 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Cmentarna, Junikowo, Poznań, województwo wielkopolskie, 60-176, Polska",
+      "lat": 52.3858085,
+      "lon": 16.8389482,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:00:00",
+      "original_description": "Poznań ul. Cmentarna, ul. Grunwaldzka, ul. Jutrosińska, ul. Namysłowska, ul. Świdnicka, ul. Wieruszowska, ul. Ząbkowicka, ul. Żmigrodzka.",
+      "id": "f8f64a0e084ccf77a73f2f0275ee2efe"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "Cyniowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
       "lat": 52.3836718,
       "lon": 16.8207505,
@@ -10729,6 +10740,17 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:00:00",
+      "original_description": "Poznań ul. Cmentarna, ul. Grunwaldzka, ul. Jutrosińska, ul. Namysłowska, ul. Świdnicka, ul. Wieruszowska, ul. Ząbkowicka, ul. Żmigrodzka.",
+      "id": "189a0c2a16adfa3ae00cc7b84947658b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "Hiacyntowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
       "lat": 52.3790921,
       "lon": 16.8059977,
@@ -10758,6 +10780,17 @@
       "end_time": "2025-12-07T18:00:00",
       "original_description": "Poznań ul. Astrowa, ul. Chryzantemowa, ul. Cmentarna, ul. Cyniowa, ul. Floksowa, ul. Forsycjowa, ul. Gerberowa, ul. Gladiolowa, ul. Goździkowa, ul. Grunwaldzka, ul. Hiacyntowa, ul. Irysowa, ul. Jutrosińska, ul. Kaliowa, ul. Krokusowa, ul. Lawendowa, ul. Lewkoniowa, ul. Łubinowa, ul. Macierzankowa, ul. Magnoliowa, ul. Malwowa, ul. Margaretkowa, ul. Nagietkowa, ul. Namysłowska, ul. Narcyzowa, ul. Paczkowska, ul. Petuniowa, ul. Przylaszczkowa, ul. Różyczkowa, ul. Sasankowa, ul. Stokrotkowa, ul. Storczykowa, ul. Szarotkowa, ul. Świdnicka, ul. Tulipanowa, ul. Wieruszowska, ul. Zawilcowa, ul. Ząbkowicka, ul. Żmigrodzka, ul. Żonkilowa.",
       "id": "7c3f84838a08e9b61df07938cff4501a"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Jutrosińska, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3825514,
+      "lon": 16.8366861,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:00:00",
+      "original_description": "Poznań ul. Cmentarna, ul. Grunwaldzka, ul. Jutrosińska, ul. Namysłowska, ul. Świdnicka, ul. Wieruszowska, ul. Ząbkowicka, ul. Żmigrodzka.",
+      "id": "44d4fa56fa869732e74f355d51058462"
     },
     {
       "type": "unplanned",
@@ -10868,6 +10901,17 @@
       "end_time": "2025-12-07T18:00:00",
       "original_description": "Poznań ul. Astrowa, ul. Chryzantemowa, ul. Cmentarna, ul. Cyniowa, ul. Floksowa, ul. Forsycjowa, ul. Gerberowa, ul. Gladiolowa, ul. Goździkowa, ul. Grunwaldzka, ul. Hiacyntowa, ul. Irysowa, ul. Jutrosińska, ul. Kaliowa, ul. Krokusowa, ul. Lawendowa, ul. Lewkoniowa, ul. Łubinowa, ul. Macierzankowa, ul. Magnoliowa, ul. Malwowa, ul. Margaretkowa, ul. Nagietkowa, ul. Namysłowska, ul. Narcyzowa, ul. Paczkowska, ul. Petuniowa, ul. Przylaszczkowa, ul. Różyczkowa, ul. Sasankowa, ul. Stokrotkowa, ul. Storczykowa, ul. Szarotkowa, ul. Świdnicka, ul. Tulipanowa, ul. Wieruszowska, ul. Zawilcowa, ul. Ząbkowicka, ul. Żmigrodzka, ul. Żonkilowa.",
       "id": "051468eafcc069b67de2fdf11a4174eb"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Namysłowska, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3831474,
+      "lon": 16.8364982,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:00:00",
+      "original_description": "Poznań ul. Cmentarna, ul. Grunwaldzka, ul. Jutrosińska, ul. Namysłowska, ul. Świdnicka, ul. Wieruszowska, ul. Ząbkowicka, ul. Żmigrodzka.",
+      "id": "cf142e8f37a5a82823b66ab50e43a0db"
     },
     {
       "type": "unplanned",
@@ -10993,6 +11037,17 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Wieruszowska, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.3817344,
+      "lon": 16.8488484,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:00:00",
+      "original_description": "Poznań ul. Cmentarna, ul. Grunwaldzka, ul. Jutrosińska, ul. Namysłowska, ul. Świdnicka, ul. Wieruszowska, ul. Ząbkowicka, ul. Żmigrodzka.",
+      "id": "2fc338707cb996676745fa7bfedf3c94"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "Zawilcowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
       "lat": 52.3813356,
       "lon": 16.815192,
@@ -11011,6 +11066,17 @@
       "end_time": "2025-12-07T18:00:00",
       "original_description": "Poznań ul. Astrowa, ul. Chryzantemowa, ul. Cmentarna, ul. Cyniowa, ul. Floksowa, ul. Forsycjowa, ul. Gerberowa, ul. Gladiolowa, ul. Goździkowa, ul. Grunwaldzka, ul. Hiacyntowa, ul. Irysowa, ul. Jutrosińska, ul. Kaliowa, ul. Krokusowa, ul. Lawendowa, ul. Lewkoniowa, ul. Łubinowa, ul. Macierzankowa, ul. Magnoliowa, ul. Malwowa, ul. Margaretkowa, ul. Nagietkowa, ul. Namysłowska, ul. Narcyzowa, ul. Paczkowska, ul. Petuniowa, ul. Przylaszczkowa, ul. Różyczkowa, ul. Sasankowa, ul. Stokrotkowa, ul. Storczykowa, ul. Szarotkowa, ul. Świdnicka, ul. Tulipanowa, ul. Wieruszowska, ul. Zawilcowa, ul. Ząbkowicka, ul. Żmigrodzka, ul. Żonkilowa.",
       "id": "c69d518cc3d81898dabcd4d67d65d5c5"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Ząbkowicka, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3831043,
+      "lon": 16.8390933,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:00:00",
+      "original_description": "Poznań ul. Cmentarna, ul. Grunwaldzka, ul. Jutrosińska, ul. Namysłowska, ul. Świdnicka, ul. Wieruszowska, ul. Ząbkowicka, ul. Żmigrodzka.",
+      "id": "857c3577aa0f7902b86c3489afac595e"
     },
     {
       "type": "unplanned",
@@ -11037,6 +11103,17 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Świdnicka, Junikowo, Poznań, województwo wielkopolskie, 60-171, Polska",
+      "lat": 52.3802368,
+      "lon": 16.834549,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:00:00",
+      "original_description": "Poznań ul. Cmentarna, ul. Grunwaldzka, ul. Jutrosińska, ul. Namysłowska, ul. Świdnicka, ul. Wieruszowska, ul. Ząbkowicka, ul. Żmigrodzka.",
+      "id": "c2b69682749b05dbbc74888296902c36"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "Żmigrodzka, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
       "lat": 52.3805046,
       "lon": 16.8363156,
@@ -11044,6 +11121,17 @@
       "end_time": "2025-12-07T18:00:00",
       "original_description": "Poznań ul. Astrowa, ul. Chryzantemowa, ul. Cmentarna, ul. Cyniowa, ul. Floksowa, ul. Forsycjowa, ul. Gerberowa, ul. Gladiolowa, ul. Goździkowa, ul. Grunwaldzka, ul. Hiacyntowa, ul. Irysowa, ul. Jutrosińska, ul. Kaliowa, ul. Krokusowa, ul. Lawendowa, ul. Lewkoniowa, ul. Łubinowa, ul. Macierzankowa, ul. Magnoliowa, ul. Malwowa, ul. Margaretkowa, ul. Nagietkowa, ul. Namysłowska, ul. Narcyzowa, ul. Paczkowska, ul. Petuniowa, ul. Przylaszczkowa, ul. Różyczkowa, ul. Sasankowa, ul. Stokrotkowa, ul. Storczykowa, ul. Szarotkowa, ul. Świdnicka, ul. Tulipanowa, ul. Wieruszowska, ul. Zawilcowa, ul. Ząbkowicka, ul. Żmigrodzka, ul. Żonkilowa.",
       "id": "4ca8636c77ac1048ed2a24fc865d51ea"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Żmigrodzka, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3805046,
+      "lon": 16.8363156,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:00:00",
+      "original_description": "Poznań ul. Cmentarna, ul. Grunwaldzka, ul. Jutrosińska, ul. Namysłowska, ul. Świdnicka, ul. Wieruszowska, ul. Ząbkowicka, ul. Żmigrodzka.",
+      "id": "7e076b4c71895c02bbfece4d26e56077"
     },
     {
       "type": "unplanned",
