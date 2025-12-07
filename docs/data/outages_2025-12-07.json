@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-07T15:45:31.638689+00:00",
+  "last_update": "2025-12-07T15:55:03.783704+00:00",
   "outages": [
     {
       "type": "planned",
@@ -11675,6 +11675,17 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Świdnicka, Junikowo, Poznań, województwo wielkopolskie, 60-171, Polska",
+      "lat": 52.3802368,
+      "lon": 16.834549,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T19:00:00",
+      "original_description": "Poznań ul. Świdnicka, ul. Żmigrodzka.",
+      "id": "0f35dcf475f697511500060669e559f5"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "Świebodzińska, Junikowo, Poznań, województwo wielkopolskie, 60-162, Polska",
       "lat": 52.3871429,
       "lon": 16.8531533,
@@ -11704,6 +11715,17 @@
       "end_time": "2025-12-07T19:00:00",
       "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Begoniowa, ul. Bełchatowska, ul. Bratkowa, ul. Cmentarna, ul. Cyniowa, ul. Frezjowa, ul. Gerberowa, ul. Grabowska, ul. Grunwaldzka, ul. Gubińska, ul. Jawornicka, ul. Junikowska, ul. Jutrosińska, ul. Kaczeńcowa, ul. Kaliowa, ul. Kamienicka, ul. Krapkowicka, ul. Krobska, ul. Krokusowa, ul. Krośnieńska, ul. Maciejkowa, ul. Mikstacka, ul. Miśnieńska, ul. Namysłowska, ul. Nasturcjowa, ul. Nowosolska, ul. Odolanowska, ul. Opawska, ul. Ostrzeszowska, ul. Paczkowska, ul. Piwoniowa, ul. Przebiśniegowa, ul. Przepiórcza, ul. Przylaszczkowa, ul. Różyczkowa, ul. Sieradzka, ul. Sobotecka, ul. Stokrotkowa, ul. Strzelińska, ul. Szadecka, ul. Szarotkowa, ul. Świdnicka, ul. Świebodzińska, ul. Twardogórska, ul. Wieruszowska, ul. Wołowska, ul. Wschowska, ul. Ząbkowicka, ul. Ziębicka, ul. Żagańska, ul. Żmigrodzka.",
       "id": "6074f8a4c8fc43df027293c4277cec3d"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Żmigrodzka, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3805046,
+      "lon": 16.8363156,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T19:00:00",
+      "original_description": "Poznań ul. Świdnicka, ul. Żmigrodzka.",
+      "id": "7b7128f88b34c6b20685e7e37cf51798"
     }
   ]
 }
