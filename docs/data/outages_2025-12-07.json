@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-07T11:28:05.871658+00:00",
+  "last_update": "2025-12-07T11:39:06.643236+00:00",
   "outages": [
     {
       "type": "planned",
@@ -9680,6 +9680,17 @@
       "end_time": "2025-12-07T14:00:00",
       "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
       "id": "54e377ddb19f3f905043e5bdfeec7580"
+    },
+    {
+      "type": "unplanned",
+      "region": "Bydgoszcz",
+      "geocoded_address": "Chabrowa, Bartodzieje Małe, Wyżyny, Bydgoszcz, województwo kujawsko-pomorskie, 85-813, Polska",
+      "lat": 53.1067568,
+      "lon": 18.0392131,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T15:00:00",
+      "original_description": "Czaple, Dziki, Morsk, Sulnowo ul. Chabrowa.",
+      "id": "ae0a37d9bce15189df8d5a0491ff540c"
     }
   ]
 }
