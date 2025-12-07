@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-07T08:21:18.002964+00:00",
+  "last_update": "2025-12-07T08:44:29.277156+00:00",
   "outages": [
     {
       "type": "planned",
@@ -7132,6 +7132,17 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T11:00:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "b10a0ebd25ce08a2856e9b21ac6eb98f"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "Gerberowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
       "lat": 52.385267,
       "lon": 16.8251734,
@@ -7590,6 +7601,17 @@
       "end_time": "2025-12-07T11:00:00",
       "original_description": "Poznań ul. Astrowa, ul. Chryzantemowa, ul. Cmentarna, ul. Cyniowa, ul. Floksowa, ul. Forsycjowa, ul. Gerberowa, ul. Gladiolowa, ul. Goździkowa, ul. Grunwaldzka, ul. Hiacyntowa, ul. Irysowa, ul. Jutrosińska, ul. Kaliowa, ul. Krokusowa, ul. Lawendowa, ul. Lewkoniowa, ul. Łubinowa, ul. Macierzankowa, ul. Magnoliowa, ul. Malwowa, ul. Margaretkowa, ul. Nagietkowa, ul. Namysłowska, ul. Narcyzowa, ul. Paczkowska, ul. Petuniowa, ul. Przylaszczkowa, ul. Różyczkowa, ul. Sasankowa, ul. Stokrotkowa, ul. Storczykowa, ul. Szarotkowa, ul. Świdnicka, ul. Tulipanowa, ul. Wieruszowska, ul. Zawilcowa, ul. Ząbkowicka, ul. Żmigrodzka, ul. Żonkilowa.",
       "id": "f6cef8a0a1d63bf5ce953ba622c3feaa"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wędkarska, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2671953,
+      "lon": 16.613449,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T11:00:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "b5ccef65278cabfe40ab0fa9abfe4d78"
     },
     {
       "type": "unplanned",
