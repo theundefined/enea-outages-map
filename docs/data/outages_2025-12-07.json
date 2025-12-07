@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-07T09:54:31.031770+00:00",
+  "last_update": "2025-12-07T10:16:41.187339+00:00",
   "outages": [
     {
       "type": "planned",
@@ -7890,6 +7890,17 @@
     },
     {
       "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "e7df28e5d83753f8db977326dc970dfd"
+    },
+    {
+      "type": "unplanned",
       "region": "Szczecin",
       "geocoded_address": "Henryka Siemiradzkiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-332, Polska",
       "lat": 53.4472684,
@@ -8679,6 +8690,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
       "id": "7995e74d2139096db05d2d6876fb41a9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wędkarska, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2671953,
+      "lon": 16.613449,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "07f469cc61f03b75c343120b9d9c0c4a"
     },
     {
       "type": "unplanned",
@@ -9581,6 +9603,17 @@
       "end_time": "2025-12-07T13:00:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "faae72ce1336b5b2db6d3b5780daf8a2"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Zielonogórska, Osiedle Morelowa, Osiedle Braniborskie, Zielona Góra, województwo lubuskie, 65-265, Polska",
+      "lat": 51.9368053,
+      "lon": 15.5273057,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:30:00",
+      "original_description": "Chwalim, Kargowa ul. Zielonogórska.",
+      "id": "599022179f381fad13bedffb671e3d2f"
     }
   ]
 }
