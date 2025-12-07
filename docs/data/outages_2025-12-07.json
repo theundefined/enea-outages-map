@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-07T09:18:11.103008+00:00",
+  "last_update": "2025-12-07T09:33:18.635989+00:00",
   "outages": [
     {
       "type": "planned",
@@ -7714,6 +7714,50 @@
     },
     {
       "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Owocowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.3653318,
+      "lon": 17.0182361,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:00:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "67167af2bf254eedde05ee94aec5af2d"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Porzeczkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3628315,
+      "lon": 17.0293422,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:00:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "306e27b11e4dcdeb0603f47c710ed625"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Sierpowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.367821,
+      "lon": 17.0151878,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:00:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "349fdf04a9c68b0e5f3d4f45dc957f27"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:00:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "45e963466be3f26557700c219a6c45c6"
+    },
+    {
+      "type": "unplanned",
       "region": "Szczecin",
       "geocoded_address": "Adama Mickiewicza, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-301, Polska",
       "lat": 53.4395639,
@@ -7737,6 +7781,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Akacjowa, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-345, Polska",
+      "lat": 53.4511899,
+      "lon": 14.5084099,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "9e11b4cfdb0d798ae9a8d3c2db3897d5"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Arkońska, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-455, Polska",
       "lat": 53.4518453,
       "lon": 14.526376,
@@ -7744,6 +7799,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "b6376d5e7300e373a9ecaf26a4990871"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Arkońska, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-455, Polska",
+      "lat": 53.4518453,
+      "lon": 14.526376,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "8c53f983f6673cde0d68a68c170bbba1"
     },
     {
       "type": "unplanned",
@@ -7766,6 +7832,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "40755fd06fd984ed8bc34bc40a4bf23c"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Bolesława Prusa, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-325, Polska",
+      "lat": 53.4485839,
+      "lon": 14.5195016,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "053c317f86003c8ba24517d2a6fb779a"
     },
     {
       "type": "unplanned",
@@ -7825,6 +7902,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Henryka Siemiradzkiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-332, Polska",
+      "lat": 53.4472684,
+      "lon": 14.5146892,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "c02b21627f47c704189f440cdd20a1e6"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Iglasta, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
       "lat": 53.3939146,
       "lon": 14.5140801,
@@ -7847,6 +7935,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Jana Kochanowskiego, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-342, Polska",
+      "lat": 53.450988,
+      "lon": 14.5179124,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "d47e4b3f73d45d753492fe377d2d8bbc"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Jutlandzka, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
       "lat": 53.3919863,
       "lon": 14.5128998,
@@ -7865,6 +7964,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "e8b7f471d563af634c715adb09a428a4"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Józefa Chełmońskiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-343, Polska",
+      "lat": 53.4519049,
+      "lon": 14.5154853,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "66f68ec1b7f9f5474ffdeeee824e9be5"
     },
     {
       "type": "unplanned",
@@ -7913,6 +8023,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Kornela Ujejskiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-337, Polska",
+      "lat": 53.4494139,
+      "lon": 14.5115687,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "3eb1731ba15499ed5c686ed802a5486a"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Krzewinkowa, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
       "lat": 53.3955826,
       "lon": 14.5171636,
@@ -7935,6 +8056,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Księcia Borysa, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-476, Polska",
+      "lat": 53.4564608,
+      "lon": 14.5220368,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "214fc63d067e01fcbcf98df28540182c"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Księdza biskupa Ignacego Krasickiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-332, Polska",
       "lat": 53.4488963,
       "lon": 14.5147053,
@@ -7942,6 +8074,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "ebb56233d7c9ae1d2058f6735f408fe7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Księdza biskupa Ignacego Krasickiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-332, Polska",
+      "lat": 53.4488963,
+      "lon": 14.5147053,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "cf9b26c9518f12c7e154d19b3eb5195f"
     },
     {
       "type": "unplanned",
@@ -7957,6 +8100,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Litewska, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-244, Polska",
+      "lat": 53.4544416,
+      "lon": 14.5022551,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "62e65e1061f8fb60289555450c9801da"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Ludwika Solskiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-333, Polska",
       "lat": 53.4470371,
       "lon": 14.5172301,
@@ -7968,6 +8122,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Ludwika Solskiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-333, Polska",
+      "lat": 53.4470371,
+      "lon": 14.5172301,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "f7f400d412b7fc9aa1693d124f10d170"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Marii Skłodowskiej-Curie, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-342, Polska",
       "lat": 53.4497485,
       "lon": 14.5178952,
@@ -7975,6 +8140,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "7cfa3b44584ad916c0db64e539a572e9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Marii Skłodowskiej-Curie, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-342, Polska",
+      "lat": 53.4497485,
+      "lon": 14.5178952,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "0492f3ce5b8940f51f67129ccdcce475"
     },
     {
       "type": "unplanned",
@@ -8001,6 +8177,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Orląt Lwowskich, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-337, Polska",
+      "lat": 53.4500431,
+      "lon": 14.5126781,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "f883d30fd3e4bc7aa2201370328681ba"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Ostrawicka, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-337, Polska",
       "lat": 53.4490367,
       "lon": 14.5131071,
@@ -8008,6 +8195,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "d04c10b9aabab9627a01e264189b9279"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Ostrawicka, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-337, Polska",
+      "lat": 53.4490367,
+      "lon": 14.5131071,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "9dedc05a69c624152e78424b38a3e6aa"
     },
     {
       "type": "unplanned",
@@ -8023,6 +8221,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Piotra Michałowskiego, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-343, Polska",
+      "lat": 53.4519653,
+      "lon": 14.5138434,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "66f38d742dd6537b44996d14a85871d1"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Podleśna, Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-490, Polska",
       "lat": 53.4607369,
       "lon": 14.5248069,
@@ -8030,6 +8239,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "d4d400b8e7175fa555eecd3e4e3d4221"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Podleśna, Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-490, Polska",
+      "lat": 53.4607369,
+      "lon": 14.5248069,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "b401d38e1718bb8fec7af0beef4be945"
     },
     {
       "type": "unplanned",
@@ -8067,6 +8287,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Rajska, Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-476, Polska",
+      "lat": 53.4589039,
+      "lon": 14.5224822,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "9bc3730c8c2da32e4669620c6a0d8cf1"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Reduty Ordona, Osiedle Somosierry, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-254, Polska",
       "lat": 53.4435811,
       "lon": 14.4975795,
@@ -8089,6 +8320,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Romualda Traugutta, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-300, Polska",
+      "lat": 53.4441308,
+      "lon": 14.5168547,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "3c67d4f9f5b7cbcd438a345ada573a22"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Rzemieślnicza, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-344, Polska",
       "lat": 53.4512435,
       "lon": 14.5066659,
@@ -8096,6 +8338,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "49fab99d8ac4f561f8468ca1ef0a4948"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Rzemieślnicza, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-344, Polska",
+      "lat": 53.4512435,
+      "lon": 14.5066659,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "a70123d96cd393eb2f78114c8c64a5b2"
     },
     {
       "type": "unplanned",
@@ -8111,6 +8364,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Sabały, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-253, Polska",
+      "lat": 53.4498158,
+      "lon": 14.5099286,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "078d9779a010ad6f2c59214f29b2e61d"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Sebastiana Klonowica, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-241, Polska",
       "lat": 53.4495339,
       "lon": 14.4925012,
@@ -8118,6 +8382,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "ed670aa413a851b0753f37f6257b24d7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Sebastiana Klonowica, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-241, Polska",
+      "lat": 53.4495339,
+      "lon": 14.4925012,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "6edc12fab933cbbf97627cb7a4a5dd2f"
     },
     {
       "type": "unplanned",
@@ -8140,6 +8415,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "6657d738b0f3e86d2e3b1ad7c6c18daf"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Sopocka, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-476, Polska",
+      "lat": 53.456167,
+      "lon": 14.5209761,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "3c39d63e0f1b1a9b8ebdc6487ff1cb73"
     },
     {
       "type": "unplanned",
@@ -8177,6 +8463,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Stanisława Wojciechowskiego, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-476, Polska",
+      "lat": 53.4571564,
+      "lon": 14.5205827,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "e9402d3f31f2a4e493bf99fb366ec8e7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Stroma, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-007, Polska",
       "lat": 53.3920336,
       "lon": 14.5177716,
@@ -8210,6 +8507,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Szymona Szymonowica, Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-483, Polska",
+      "lat": 53.4571919,
+      "lon": 14.5256139,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "197f42f89259dd0b0271ab39381fe6f1"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Tadeusza Milewskiego, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-476, Polska",
       "lat": 53.4582789,
       "lon": 14.5214297,
@@ -8217,6 +8525,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "fbbb89cf4190f1f9457091a343575a3a"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Tadeusza Milewskiego, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-476, Polska",
+      "lat": 53.4582789,
+      "lon": 14.5214297,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "43f61feb8f39e6ce035c19cb5f315c26"
     },
     {
       "type": "unplanned",
@@ -8243,6 +8562,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Tatrzańska, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-476, Polska",
+      "lat": 53.4556344,
+      "lon": 14.5225075,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "ab16d0a6f796af6b71abc5a602485fc4"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Unii Lubelskiej, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-343, Polska",
       "lat": 53.451163,
       "lon": 14.5125616,
@@ -8250,6 +8580,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "629f23f9790fbd2741b645576593e6e9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Unii Lubelskiej, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-343, Polska",
+      "lat": 53.451163,
+      "lon": 14.5125616,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "f34cfad3731698f437b6cff265892756"
     },
     {
       "type": "unplanned",
@@ -8298,6 +8639,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Wincentego Pola, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-342, Polska",
+      "lat": 53.4509166,
+      "lon": 14.5161092,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "1c6bcfca6c717911d8ce88ce8e154ea3"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Wojewódzka Stacja Pogotowia Ratunkowego w Szczecinie Filia Nowogard, Wojska Polskiego, Nowogard, gmina Nowogard, powiat goleniowski, województwo zachodniopomorskie, 72-200, Polska",
       "lat": 53.672722,
       "lon": 15.1104308,
@@ -8305,6 +8657,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "fd7d6b48ade93fe48dc0dd33d576e91b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Wojewódzka Stacja Pogotowia Ratunkowego w Szczecinie Filia Nowogard, Wojska Polskiego, Nowogard, gmina Nowogard, powiat goleniowski, województwo zachodniopomorskie, 72-200, Polska",
+      "lat": 53.672722,
+      "lon": 15.1104308,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "224175a5970cfb9ddd6f29e57217edc1"
     },
     {
       "type": "unplanned",
@@ -8353,6 +8716,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "Zakładowa, Zawadzkiego-Klonowica, Zachód, Szczecin, województwo zachodniopomorskie, 71-253, Polska",
+      "lat": 53.451353,
+      "lon": 14.5098764,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "fccdb702c078cdbf92d81dba7330b7ac"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Zdrojowa, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-455, Polska",
       "lat": 53.4555107,
       "lon": 14.5264796,
@@ -8360,6 +8734,17 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "500bdcf78bc3e32845037bd8e65d2e2f"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Zdrojowa, Osiedle Tatrzańskie, Arkońskie-Niemierzyn, Zachód, Szczecin, województwo zachodniopomorskie, 71-455, Polska",
+      "lat": 53.4555107,
+      "lon": 14.5264796,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "b6cab5a55fa1475efd2b38504215c9e9"
     },
     {
       "type": "unplanned",
@@ -8375,6 +8760,17 @@
     {
       "type": "unplanned",
       "region": "Szczecin",
+      "geocoded_address": "aleja Wojska Polskiego, Głębokie-Pilchowo, Zachód, Szczecin, województwo zachodniopomorskie, 71-346, Polska",
+      "lat": 53.4646699,
+      "lon": 14.49321,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T12:30:00",
+      "original_description": "Szczecin al. Wojska Polskiego, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. Rajska, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Sopocka, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Wincentego Pola, ul. Zakładowa, ul. Zdrojowa.",
+      "id": "577828e2445e5cedb76ff40e40aa2e2e"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
       "geocoded_address": "Żołnierska, Apartamenty Pogodno, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-210, Polska",
       "lat": 53.4477769,
       "lon": 14.4895397,
@@ -8382,6 +8778,160 @@
       "end_time": "2025-12-07T12:30:00",
       "original_description": "Szczecin al. Wojska Polskiego, pl. Polskiego Czerwonego Krzyża, ul. Adama Mickiewicza, ul. Akacjowa, ul. Aleja Wojska Polskiego, ul. Arkońska, ul. Bolesława Prusa, ul. Frontowa, ul. Henryka Siemiradzkiego, ul. Jana Kochanowskiego, ul. Józefa Chełmońskiego, ul. Józefa Wybickiego, ul. Karola Huberta Rostworowskiego, ul. Klemensa Janickiego, ul. Kornela Ujejskiego, ul. Ks. bpa Ignacego Krasickiego, ul. Księcia Borysa, ul. Litewska, ul. Ludwika Solskiego, ul. Marii Skłodowskiej-Curie, ul. Orląt Lwowskich, ul. Ostrawicka, ul. Piotra Michałowskiego, ul. Podleśna, ul. prof. Krzysztofa Marlicza, ul. Rajska, ul. Reduty Ordona, ul. Romualda Traugutta, ul. Rzemieślnicza, ul. Sabały, ul. Sebastiana Klonowica, ul. Seweryna Goszczyńskiego, ul. Sopocka, ul. Stanisława Brzozowskiego, ul. Stanisława Ignacego Witkiewicza, ul. Stanisława Wojciechowskiego, ul. Szymona Szymonowica, ul. Tadeusza Milewskiego, ul. Tadeusza Zawadzkiego, ul. Tatrzańska, ul. Unii Lubelskiej, ul. Waleriana Łukasińskiego, ul. Wernyhory, ul. Wincentego Pola, ul. Władysława Szafera, ul. Zakładowa, ul. Zdrojowa, ul. Żołnierska.",
       "id": "22abdee62604576a1fe5ea5bd460568b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Bluszczowa, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
+      "lat": 53.3942704,
+      "lon": 14.5167369,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "566fb33b0361da7a87fc00b2df0b6500"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Cedrowa, Barnucin, Zdroje, Prawobrzeże, Szczecin, województwo zachodniopomorskie, 70-773, Polska",
+      "lat": 53.3734384,
+      "lon": 14.6383838,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "b49f8dd0f1d5150449f1e51bab7fa668"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Darniowa, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
+      "lat": 53.3958521,
+      "lon": 14.5158133,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "975db76d830b9bda9f74c73a0becb6a9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Floriana Krygiera, Gumieńce, Zachód, Szczecin, województwo zachodniopomorskie, 71-001, Polska",
+      "lat": 53.3910625,
+      "lon": 14.5032405,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "7bdd57f4f678824e5106e9351f2f2401"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Iglasta, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
+      "lat": 53.3939146,
+      "lon": 14.5140801,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "d75b766c9fffdcb9a5bda4389da84b40"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Jutlandzka, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
+      "lat": 53.3919863,
+      "lon": 14.5128998,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "449e02683a2ae08c20abe3940d0866b8"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Krzewinkowa, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
+      "lat": 53.3955826,
+      "lon": 14.5171636,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "e656c3c97ce40b5af281d711e781da1a"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Nasypowa, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-001, Polska",
+      "lat": 53.3884719,
+      "lon": 14.5167681,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "880b9020ce908faf5102278761147be8"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Poznańska, Warszewo, Północ, Szczecin, województwo zachodniopomorskie, 71-785, Polska",
+      "lat": 53.4726417,
+      "lon": 14.5456155,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "127295bb7b6e5eda84cacfa3f61de33b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Stroma, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-007, Polska",
+      "lat": 53.3920336,
+      "lon": 14.5177716,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "17fd79f40a2d7347a2484fff93297c82"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Szczawiowa, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-010, Polska",
+      "lat": 53.3980425,
+      "lon": 14.5320091,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "de9503d19ecb0946d01214d57a2ed120"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Ustowska, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-007, Polska",
+      "lat": 53.3939155,
+      "lon": 14.5201783,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "4e080f329849cc374d26b7772f44b03f"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Wysoka, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-006, Polska",
+      "lat": 53.3930526,
+      "lon": 14.5169231,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "32071134d3b90c997b035323b07600f9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Szczecin",
+      "geocoded_address": "Zagonowa, Osiedle Ustronie, Pomorzany, Zachód, Szczecin, województwo zachodniopomorskie, 70-007, Polska",
+      "lat": 53.3925339,
+      "lon": 14.5208102,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T13:00:00",
+      "original_description": "Ustowo, Szczecin ul. Bluszczowa, ul. Cedrowa, ul. Darniowa, ul. Floriana Krygiera, ul. Iglasta, ul. Jutlandzka, ul. Krzewinkowa, ul. Nasypowa, ul. Poznańska, ul. Stroma, ul. Szczawiowa, ul. Ustowska, ul. Wysoka, ul. Zagonowa.",
+      "id": "95d54c2cfd07895db19d9bd0a7cde659"
     }
   ]
 }
