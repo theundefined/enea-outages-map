@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-07T03:15:04.839388+00:00",
+  "last_update": "2025-12-07T04:05:54.245691+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6116,6 +6116,72 @@
       "end_time": "2025-12-07T05:00:00",
       "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
       "id": "d561172fdd613adb72e25e68d99eec6b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Owocowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.3653318,
+      "lon": 17.0182361,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T06:00:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "7119c0c6fd131d8235aa2afce8b17904"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Porzeczkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3628315,
+      "lon": 17.0293422,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T06:00:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "e62686ec56fc1f9e86e571b5a1ba47c4"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Sierpowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.367821,
+      "lon": 17.0151878,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T06:00:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "e5c36995367d305347bdbc9b5e9f0512"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T06:00:00",
+      "original_description": "Poznań ul. Owocowa, ul. Porzeczkowa, ul. Sierpowa, ul. Szczepankowo.",
+      "id": "e682dcec5f363c2dc9d04f1832a81b0e"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T06:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "2bf198c09c8a4cdd75963f86878a90b8"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wędkarska, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2671953,
+      "lon": 16.613449,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T06:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "73647ec74328d74094ef25c05d87209a"
     }
   ]
 }
