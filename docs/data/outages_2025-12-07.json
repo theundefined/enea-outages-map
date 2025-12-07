@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-07T15:55:03.783704+00:00",
+  "last_update": "2025-12-07T16:19:55.128148+00:00",
   "outages": [
     {
       "type": "planned",
@@ -11143,6 +11143,28 @@
       "end_time": "2025-12-07T18:00:00",
       "original_description": "Poznań ul. Astrowa, ul. Chryzantemowa, ul. Cmentarna, ul. Cyniowa, ul. Floksowa, ul. Forsycjowa, ul. Gerberowa, ul. Gladiolowa, ul. Goździkowa, ul. Grunwaldzka, ul. Hiacyntowa, ul. Irysowa, ul. Jutrosińska, ul. Kaliowa, ul. Krokusowa, ul. Lawendowa, ul. Lewkoniowa, ul. Łubinowa, ul. Macierzankowa, ul. Magnoliowa, ul. Malwowa, ul. Margaretkowa, ul. Nagietkowa, ul. Namysłowska, ul. Narcyzowa, ul. Paczkowska, ul. Petuniowa, ul. Przylaszczkowa, ul. Różyczkowa, ul. Sasankowa, ul. Stokrotkowa, ul. Storczykowa, ul. Szarotkowa, ul. Świdnicka, ul. Tulipanowa, ul. Wieruszowska, ul. Zawilcowa, ul. Ząbkowicka, ul. Żmigrodzka, ul. Żonkilowa.",
       "id": "b78eef3d620cb0a616a210c19a5bff49"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "277da70fbf4d08d709866c3794fd1acd"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wędkarska, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2671953,
+      "lon": 16.613449,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-07T18:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "1fa87d5f97920bfd69c30aa019aaf1a2"
     },
     {
       "type": "unplanned",
