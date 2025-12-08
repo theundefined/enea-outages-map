@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T05:50:35.104893+00:00",
+  "last_update": "2025-12-08T06:30:47.362233+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6219,6 +6219,61 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Adama Mickiewicza, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-835, Polska",
+      "lat": 52.4092101,
+      "lon": 16.9103072,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T07:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "4e96dbfb6f5a4b21ebb4f5cd4836f082"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Franklina Roosevelta, Stare Miasto, Poznań, województwo wielkopolskie, 61-801, Polska",
+      "lat": 52.4049761,
+      "lon": 16.9116242,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T07:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "2f34dfec1d95788657462f6d1fd11b92"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T07:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "fd05232e43b340cd827ee5e59188a606"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Zacisze, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "lat": 52.4129557,
+      "lon": 16.913383,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T07:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "7b56b8e395af7eb8629b4389fbf3ad1d"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Zygmunta Krasińskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-830, Polska",
+      "lat": 52.4121672,
+      "lon": 16.9128989,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T07:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "9e02c6cd948519215177faf745efe002"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
       "lat": 52.4077496,
       "lon": 16.9072925,
@@ -6237,6 +6292,116 @@
       "end_time": "2025-12-08T08:00:00",
       "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
       "id": "0b5ac55296a8e6ed192721cdd3d6b15a"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Dworska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4438419,
+      "lon": 16.9477641,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "a485c489f0b9dc407453b786200fa8b4"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Glinkowa, Radzewo, gmina Kórnik, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.2173215,
+      "lon": 17.0139088,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "bcd2129d8ecc1d821bd82a17d7591b71"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Główna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4247632,
+      "lon": 16.9729702,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "0b867c77cd6fc30816cf9de90ea803ac"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "b521604fc1f903ed32a0db42272f57f7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "a3c05355f01f63a215a73caa68d2f036"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "e1bd088ffb2f330b07d0ae1aa49095c0"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Poprzeczna, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-315, Polska",
+      "lat": 52.3639558,
+      "lon": 16.9895337,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "3ebef2631cc50fd44b9970b802954806"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Półwiejska, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-885, Polska",
+      "lat": 52.4038631,
+      "lon": 16.9304338,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "f380936cd7c317cf9ae995cf9d55a814"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "38fd4889b439e9ad67788fa4d152163b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
+      "id": "c8b61f19344fa9bce589221552469dfd"
     }
   ]
 }
