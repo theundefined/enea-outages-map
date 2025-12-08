@@ -89,48 +89,13 @@ function categorizeOutage(outage, now, isCurrentView) {
     return { visible: false };
 }
 
-function copyLink(id) {
-    const url = new URL(window.location);
-    url.searchParams.set('outage', id);
-    navigator.clipboard.writeText(url.toString()).then(() => {
-        alert('Link skopiowany do schowka!');
-    }).catch(err => {
-        console.error('Błąd kopiowania linku: ', err);
-    });
-}
-
-function generateId(str) {
-    let hash = 0;
-    for (let i = 0; i < str.length; i++) {
-        const char = str.charCodeAt(i);
-        hash = (hash << 5) - hash + char;
-        hash = hash & hash; // Convert to 32bit integer
-    }
-    return 'outage-' + Math.abs(hash).toString(16);
-}
-
 
 document.addEventListener('DOMContentLoaded', () => {
-    const locations = {
-        polska: { center: [52.2297, 19.0122], zoom: 6 },
-        poznan: { center: [52.4064, 16.9252], zoom: 12 },
-        szczecin: { center: [53.4285, 14.5528], zoom: 12 }
-    };
-
-    const map = L.map('map').setView(locations.polska.center, locations.polska.zoom);
+    const map = L.map('map').setView([52.4064, 16.9252], 12);
 
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
-
-    const locationSelector = document.getElementById('location-selector');
-    locationSelector.addEventListener('change', (event) => {
-        const selectedLocation = event.target.value;
-        const view = locations[selectedLocation];
-        if (view) {
-            map.setView(view.center, view.zoom);
-        }
-    });
 
     const layers = {
         unplanned: L.layerGroup().addTo(map),
@@ -164,7 +129,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const dateSelector = document.getElementById('date-selector');
     const infoControl = L.control();
-    let allMarkers = {};
 
     infoControl.onAdd = function (map) {
         this._div = L.DomUtil.create('div', 'info');
@@ -179,7 +143,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function clearAllLayers() {
         Object.values(layers).forEach(layer => layer.clearLayers());
-        allMarkers = {};
     }
 
     function renderOutages(outages, referenceDate, isCurrentView) {
@@ -191,29 +154,19 @@ document.addEventListener('DOMContentLoaded', () => {
 
         outages.forEach(outage => {
             const result = categorizeOutage(outage, referenceDate, isCurrentView);
-            const outageId = generateId(outage.original_description + outage.start_time + outage.end_time);
 
             if (result.visible) {
-                const popupContent = `${result.popupContent}<br><button onclick="copyLink('${outageId}')">Kopiuj link</button>`;
+                // The 'other' layer is no longer used by categorizeOutage for visible markers,
+                // but we keep it in the layers control for consistency.
                 const targetLayer = layers[result.layerName] || layers.other;
                 const marker = L.marker([outage.lat, outage.lon], { icon: icons[result.layerName] })
                     .addTo(targetLayer)
-                    .bindPopup(popupContent);
+                    .bindPopup(result.popupContent);
                 
-                marker.outageId = outageId;
-                allMarkers[outageId] = marker;
-
-                marker.on('click', function (e) { this.openPopup(); });
+                marker.on('mouseover', function (e) { this.openPopup(); });
+                marker.on('mouseout', function (e) { this.closePopup(); });
             }
         });
-
-        const urlParams = new URLSearchParams(window.location.search);
-        const outageParam = urlParams.get('outage');
-        if (outageParam && allMarkers[outageParam]) {
-            const marker = allMarkers[outageParam];
-            map.setView(marker.getLatLng(), 15);
-            marker.openPopup();
-        }
     }
 
     const overlayMaps = {
@@ -239,8 +192,11 @@ document.addEventListener('DOMContentLoaded', () => {
         if (isCurrentView) {
             referenceDate = new Date();
             mainInfoText = 'Widok bieżący';
-            dateToFetch = masterIndex.length > 0 ? masterIndex[0] : null;
+            dateToFetch = masterIndex[0]; 
         } else {
+            // For historical views, use a neutral time. The new logic in 
+            // categorizeOutage doesn't depend on it for showing/hiding,
+            // only for the text in the popup. Noon is fine.
             referenceDate = new Date(selectedValue);
             referenceDate.setHours(12, 0, 0, 0); 
             mainInfoText = `Dane dla: ${selectedValue}`;
@@ -299,15 +255,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
                 if (dateParam && masterIndex.includes(dateParam)) {
                     dateSelector.value = dateParam;
+                    loadDataForSelection(dateParam);
                 } else {
                     dateSelector.value = 'current';
+                    loadDataForSelection('current');
                 }
-            } 
-            
-            // Always load data, even if index hasn't changed, 
-            // to handle direct navigation with outage param.
-            loadDataForSelection(dateSelector.value);
-
+            } else if (dateSelector.value === 'current') {
+                loadDataForSelection('current');
+            }
         } catch (error) {
             console.error('Error loading master index:', error);
             infoControl.update('Błąd ładowania indeksu danych historycznych.');
@@ -318,10 +273,6 @@ document.addEventListener('DOMContentLoaded', () => {
     fetchMasterIndexAndLoadData();
     
     dateSelector.addEventListener('change', (event) => {
-        const newUrl = new URL(window.location);
-        newUrl.searchParams.set('date', event.target.value);
-        newUrl.searchParams.delete('outage'); // Remove outage param when changing date
-        window.history.pushState({}, '', newUrl);
         loadDataForSelection(event.target.value);
     });
 
@@ -351,5 +302,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // For testing purposes
 if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { categorizeOutage, generateId };
+    module.exports = { categorizeOutage };
 }
