@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T08:58:26.217322+00:00",
+  "last_update": "2025-12-08T09:32:54.515061+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6174,6 +6174,17 @@
     },
     {
       "type": "planned",
+      "region": "Bydgoszcz",
+      "geocoded_address": "Ustronie, Wzgórze Wolności, Bydgoszcz, województwo kujawsko-pomorskie, 85-161, Polska",
+      "lat": 53.1183938,
+      "lon": 18.0070125,
+      "start_time": "2025-12-22T07:00:00",
+      "end_time": "2025-12-22T14:00:00",
+      "original_description": "Brak zasilania w miejscowości Maksymilianowo ul. Ustronie 31, 33, 35, 37, dz. 409/11; Wspólna 10, dz.: 410/6, 410/7, 410/8.",
+      "id": "55d7ab32ec576f25e6b63b855377298f"
+    },
+    {
+      "type": "planned",
       "region": "Poznań",
       "geocoded_address": "Cyniowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
       "lat": 52.3836718,
@@ -7054,6 +7065,17 @@
     },
     {
       "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Adama Mickiewicza, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-835, Polska",
+      "lat": 52.4092101,
+      "lon": 16.9103072,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "2c194333cadf1cee197ea6c21eef0725"
+    },
+    {
+      "type": "unplanned",
       "region": "Zielona Góra",
       "geocoded_address": "Akacjowa, ROD \"Sawanna\", Ochla, Nowe Miasto, Zielona Góra, województwo lubuskie, 66-006, Polska",
       "lat": 51.8704235,
@@ -7150,6 +7172,17 @@
       "end_time": "2025-12-08T12:00:00",
       "original_description": "Poznań ul. Bolesława Limanowskiego, ul. Franklina Roosevelta, ul. Głogowska.",
       "id": "e60bb4da783f7ab722e70147d1bac487"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Franklina Roosevelta, Stare Miasto, Poznań, województwo wielkopolskie, 61-801, Polska",
+      "lat": 52.4049761,
+      "lon": 16.9116242,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "496e6d87f30f1c9149bb5eda8c02f685"
     },
     {
       "type": "unplanned",
@@ -7330,6 +7363,17 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "be669e13e72d4e14e84499ad412b2200"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "RCKiK Poznań OT Wągrowiec, 74, Tadeusza Kościuszki, Nowe Miasto, Durowo, Wągrowiec, powiat wągrowiecki, województwo wielkopolskie, 62-100, Polska",
       "lat": 52.8178561,
       "lon": 17.2048753,
@@ -7472,6 +7516,28 @@
     },
     {
       "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Zacisze, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "lat": 52.4129557,
+      "lon": 16.913383,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "e7d2d58202ff69a072e53236c7da0df0"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Zygmunta Krasińskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-830, Polska",
+      "lat": 52.4121672,
+      "lon": 16.9128989,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "374e37d2b9c34d186b1c9f513f0222a2"
+    },
+    {
+      "type": "unplanned",
       "region": "Szczecin",
       "geocoded_address": "park imienia Stefana Żeromskiego, Stare Miasto, Śródmieście, Szczecin, województwo zachodniopomorskie, 70-527, Polska",
       "lat": 53.4331214,
@@ -7491,6 +7557,160 @@
       "end_time": "2025-12-08T12:00:00",
       "original_description": "Sulnowo ul. Świerkowa i przyległe",
       "id": "f788c261245deea86f00366d08f664f9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Cypriana Norwida, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-867, Polska",
+      "lat": 52.4163907,
+      "lon": 16.9117318,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "c6a7266cfc2876984e48f2dfc931a885"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Grudzieniec, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4194773,
+      "lon": 16.9010792,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "6b6505937815aad809f5cef1a71fd19a"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Jeżycka, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-865, Polska",
+      "lat": 52.414293,
+      "lon": 16.9119406,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "4d9ac8d16f12c581f2eb34af9b135a8c"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "0ff4b22b14ddbb79c64fde08eb3c2cb1"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Litewska, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-605, Polska",
+      "lat": 52.4207068,
+      "lon": 16.905039,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "499a1b36ba1514e708a62fb8508fe130"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Mylna, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-856, Polska",
+      "lat": 52.4152434,
+      "lon": 16.9083453,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "7398014332ac35c66617c2be9fd41cd2"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Mączna, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-861, Polska",
+      "lat": 52.4164818,
+      "lon": 16.9079297,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "765bce87dd49adb3d77969eb4008be15"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Nad Bogdanką, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-862, Polska",
+      "lat": 52.416569,
+      "lon": 16.909539,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "fe4f13c70f6238b4e4ddd261e530ef7b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Nad Wierzbakiem, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-863, Polska",
+      "lat": 52.4190922,
+      "lon": 16.9080402,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "af56b1d55d30079e319ef35a342fa81c"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Popowo, Wronki ul. Nadbrzeżna, ul. Piaskowa, ul. Przesmyk, ul. Strzelecka.",
+      "id": "e53333112e23eb29d9f48d7fb6613fb2"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Przesmyk, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.3764734,
+      "lon": 16.8981863,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Popowo, Wronki ul. Nadbrzeżna, ul. Piaskowa, ul. Przesmyk, ul. Strzelecka.",
+      "id": "5c5413028675ee92f30aff9f5fbc2733"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Strzelecka, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-871, Polska",
+      "lat": 52.3997091,
+      "lon": 16.9354244,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Popowo, Wronki ul. Nadbrzeżna, ul. Piaskowa, ul. Przesmyk, ul. Strzelecka.",
+      "id": "67dd0461ab95006b6bc6cf882eb9f539"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wielkopolska, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-154, Polska",
+      "lat": 52.3919131,
+      "lon": 16.9433857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "ee29fb83d6d8afee52b4b85fd6ed7338"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Św. Wawrzyńca, Świętego Wawrzyńca, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4186963,
+      "lon": 16.9029366,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:30:00",
+      "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
+      "id": "7a5c60edca74bbeed8053ec07b9d42f4"
     }
   ]
 }
