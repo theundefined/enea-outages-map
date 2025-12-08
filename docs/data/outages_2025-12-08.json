@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T06:59:51.330021+00:00",
+  "last_update": "2025-12-08T07:31:27.328058+00:00",
   "outages": [
     {
       "type": "planned",
@@ -5874,6 +5874,94 @@
       "end_time": "2025-12-17T16:00:00",
       "original_description": "Szczecin, ul. Parkowa 10.",
       "id": "1bcf4a84be5038eecd74ae4b31ffc42e"
+    },
+    {
+      "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Borówkowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4850642,
+      "lon": 16.9443999,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T19:00:00",
+      "original_description": "Poznań: ul. Kocankowa, ul. Tatarakowa, ul. Borówkowa, ul. Jemiołowa, ul. Naramowicka 365, 367, 374, 376, 378, dz. 126/19,ul. Rzewieniowa, ul. Łopianowa 1, ul. Lubczykowa od 1 do 9 nieparzyste, 9A-G, 11A-F, 13, 13A-B, od 2 do 4 parzyste.",
+      "id": "cc2b495c1998313beac4f11cb8e262ce"
+    },
+    {
+      "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Jemiołowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4856989,
+      "lon": 16.9449625,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T19:00:00",
+      "original_description": "Poznań: ul. Kocankowa, ul. Tatarakowa, ul. Borówkowa, ul. Jemiołowa, ul. Naramowicka 365, 367, 374, 376, 378, dz. 126/19,ul. Rzewieniowa, ul. Łopianowa 1, ul. Lubczykowa od 1 do 9 nieparzyste, 9A-G, 11A-F, 13, 13A-B, od 2 do 4 parzyste.",
+      "id": "ca4653108eb1fb1632e93dd1379bdfc9"
+    },
+    {
+      "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Kocankowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.485862,
+      "lon": 16.9444434,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T19:00:00",
+      "original_description": "Poznań: ul. Kocankowa, ul. Tatarakowa, ul. Borówkowa, ul. Jemiołowa, ul. Naramowicka 365, 367, 374, 376, 378, dz. 126/19,ul. Rzewieniowa, ul. Łopianowa 1, ul. Lubczykowa od 1 do 9 nieparzyste, 9A-G, 11A-F, 13, 13A-B, od 2 do 4 parzyste.",
+      "id": "c39ce316fd16ac824d29b15d13004f79"
+    },
+    {
+      "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Lubczykowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4869795,
+      "lon": 16.945007,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T19:00:00",
+      "original_description": "Poznań: ul. Kocankowa, ul. Tatarakowa, ul. Borówkowa, ul. Jemiołowa, ul. Naramowicka 365, 367, 374, 376, 378, dz. 126/19,ul. Rzewieniowa, ul. Łopianowa 1, ul. Lubczykowa od 1 do 9 nieparzyste, 9A-G, 11A-F, 13, 13A-B, od 2 do 4 parzyste.",
+      "id": "3454c375d944c54a37e0420d4d9f5c64"
+    },
+    {
+      "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T19:00:00",
+      "original_description": "Poznań: ul. Kocankowa, ul. Tatarakowa, ul. Borówkowa, ul. Jemiołowa, ul. Naramowicka 365, 367, 374, 376, 378, dz. 126/19,ul. Rzewieniowa, ul. Łopianowa 1, ul. Lubczykowa od 1 do 9 nieparzyste, 9A-G, 11A-F, 13, 13A-B, od 2 do 4 parzyste.",
+      "id": "21b9f1eecd0fcc21baa23dfba78deb5a"
+    },
+    {
+      "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Rzewieniowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4870384,
+      "lon": 16.9436159,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T19:00:00",
+      "original_description": "Poznań: ul. Kocankowa, ul. Tatarakowa, ul. Borówkowa, ul. Jemiołowa, ul. Naramowicka 365, 367, 374, 376, 378, dz. 126/19,ul. Rzewieniowa, ul. Łopianowa 1, ul. Lubczykowa od 1 do 9 nieparzyste, 9A-G, 11A-F, 13, 13A-B, od 2 do 4 parzyste.",
+      "id": "c0f1b4797e790334f5f2ed839d4b6021"
+    },
+    {
+      "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Tatarakowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4853555,
+      "lon": 16.944299,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T19:00:00",
+      "original_description": "Poznań: ul. Kocankowa, ul. Tatarakowa, ul. Borówkowa, ul. Jemiołowa, ul. Naramowicka 365, 367, 374, 376, 378, dz. 126/19,ul. Rzewieniowa, ul. Łopianowa 1, ul. Lubczykowa od 1 do 9 nieparzyste, 9A-G, 11A-F, 13, 13A-B, od 2 do 4 parzyste.",
+      "id": "a0f84ea8fa989f068a415e087ee6fb10"
+    },
+    {
+      "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Łopianowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4870359,
+      "lon": 16.9387455,
+      "start_time": "2025-12-17T08:00:00",
+      "end_time": "2025-12-17T19:00:00",
+      "original_description": "Poznań: ul. Kocankowa, ul. Tatarakowa, ul. Borówkowa, ul. Jemiołowa, ul. Naramowicka 365, 367, 374, 376, 378, dz. 126/19,ul. Rzewieniowa, ul. Łopianowa 1, ul. Lubczykowa od 1 do 9 nieparzyste, 9A-G, 11A-F, 13, 13A-B, od 2 do 4 parzyste.",
+      "id": "79025ef460af26db41d77da5e3dbf66c"
     },
     {
       "type": "planned",
