@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T07:48:31.580979+00:00",
+  "last_update": "2025-12-08T07:57:22.538226+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6527,6 +6527,17 @@
     {
       "type": "unplanned",
       "region": "Zielona Góra",
+      "geocoded_address": "Alejka Spacerowa, ROD \"22 Lipca\", Osiedle Pomorskie, Zielona Góra, województwo lubuskie, 65-247, Polska",
+      "lat": 51.9412703,
+      "lon": 15.5544415,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Iłowa ul. Nadrzeczna, ul. Ogrodowa, ul. Poniatowskiego, ul. Spacerowa, ul. Sportowa, ul. Syrokomli, ul. Żagańska.",
+      "id": "86733c507d74381fae51251cf15d700e"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
       "geocoded_address": "Chmielna, Osiedle Braniborskie, Zielona Góra, województwo lubuskie, 65-261, Polska",
       "lat": 51.9343275,
       "lon": 15.5307011,
@@ -6571,6 +6582,39 @@
     {
       "type": "unplanned",
       "region": "Zielona Góra",
+      "geocoded_address": "Ochla-Żagańska, Ochla, Nowe Miasto, Zielona Góra, województwo lubuskie, 66-006, Polska",
+      "lat": 51.8744686,
+      "lon": 15.4594174,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Iłowa ul. Nadrzeczna, ul. Ogrodowa, ul. Poniatowskiego, ul. Spacerowa, ul. Sportowa, ul. Syrokomli, ul. Żagańska.",
+      "id": "d4f69eecd697e178fdb8413ac0d56540"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Ogrodowa, Osiedle Kilińskiego, Osiedle Słoneczne, Zielona Góra, województwo lubuskie, 65-512, Polska",
+      "lat": 51.9307301,
+      "lon": 15.4989186,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Iłowa ul. Nadrzeczna, ul. Ogrodowa, ul. Poniatowskiego, ul. Spacerowa, ul. Sportowa, ul. Syrokomli, ul. Żagańska.",
+      "id": "163e80b85b586cd4c586b86a80ee58f1"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Poniatowskiego (NŻ), Botaniczna, Osiedle Kościuszki, Osiedle Słowackiego, Zielona Góra, województwo lubuskie, 65-306, Polska",
+      "lat": 51.926721,
+      "lon": 15.505758,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Iłowa ul. Nadrzeczna, ul. Ogrodowa, ul. Poniatowskiego, ul. Spacerowa, ul. Sportowa, ul. Syrokomli, ul. Żagańska.",
+      "id": "a6f150ae877a2cc3af19300934f46b2f"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
       "geocoded_address": "Promenada spacerowa Löbtenz, Aleja Juliusza Słowackiego, Osiedle Morelowa, Osiedle Słowackiego, Zielona Góra, województwo lubuskie, 65-326, Polska",
       "lat": 51.9305309,
       "lon": 15.5190628,
@@ -6578,6 +6622,17 @@
       "end_time": "2025-12-08T11:00:00",
       "original_description": "Zbąszyń Rynek, ul. Chłodna, ul. Chmielna, ul. Garczyńskich, ul. Kościelna, ul. Marcinkowskiego, ul. Miodowa, ul. Plac Rybaki, ul. Porucznika Żwirki, ul. Promenada, ul. Rynek, ul. Senatorska, ul. Świętomikołajska, ul. Zaułek Ramów Sukienniczych, ul. Żydowska.",
       "id": "c84d2448ef83f4e5e3bfc0b5de64f841"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Sportowa, Osiedle Tysiąclecia, Osiedle Wazów, Zielona Góra, województwo lubuskie, 65-181, Polska",
+      "lat": 51.9447369,
+      "lon": 15.5236093,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Iłowa ul. Nadrzeczna, ul. Ogrodowa, ul. Poniatowskiego, ul. Spacerowa, ul. Sportowa, ul. Syrokomli, ul. Żagańska.",
+      "id": "a5457e96b512960f7a37160dccc2a351"
     },
     {
       "type": "unplanned",
