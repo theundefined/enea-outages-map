@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T09:32:54.515061+00:00",
+  "last_update": "2025-12-08T09:53:45.431786+00:00",
   "outages": [
     {
       "type": "planned",
@@ -5295,6 +5295,17 @@
     {
       "type": "planned",
       "region": "Bydgoszcz",
+      "geocoded_address": "Jana Kasprowicza, Gdańskie Przedmieście, Sielanka, Bocianowo-Śródmieście-Stare Miasto, Bydgoszcz, województwo kujawsko-pomorskie, 85-015, Polska",
+      "lat": 53.1270076,
+      "lon": 18.0125791,
+      "start_time": "2025-12-13T07:30:00",
+      "end_time": "2025-12-13T10:30:00",
+      "original_description": "Brak zasilania w energię elektryczną dla następujących miejscowości: Mogilno 900-lecia 25, ul. Jana Kasprowicza 1-7, dz. 177/5. Zgodnie z plakatami.",
+      "id": "3b430ff83e5852275674e69696c4b681"
+    },
+    {
+      "type": "planned",
+      "region": "Bydgoszcz",
       "geocoded_address": "Szkolna, Fordon, Stary Fordon, Bydgoszcz, województwo kujawsko-pomorskie, 85-790, Polska",
       "lat": 53.1508011,
       "lon": 18.1699549,
@@ -7711,6 +7722,160 @@
       "end_time": "2025-12-08T12:30:00",
       "original_description": "Poznań al. Wielkopolska, ul. Cypriana Norwida, ul. Grudzieniec, ul. Jeżycka, ul. Kościelna, ul. Litewska, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. św. Wawrzyńca.",
       "id": "7a5c60edca74bbeed8053ec07b9d42f4"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Droga Dębińska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-871, Polska",
+      "lat": 52.3975356,
+      "lon": 16.934661,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "0d4efc8f009b559ef55c7a28de9171de"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "d3c92824a546d1835e7b82577cc69624"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "f727cfb0b86691a20c9811f57f873ed7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "f2e191d72e8f89b75eda3682b1f1e2d6"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Pniewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4287754,
+      "lon": 16.8235245,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "8c010a13139f26de72a904dad8beb0c5"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.248571,
+      "lon": 17.0886353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "49ff85001faed26891b7cca2a067ddf4"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "bce9c0de178f724c8b05e5aea193bf15"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "4ebfa2412aa00b83f0d7ac44e74cf230"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "8308b5b7f5ee600d5b899ba169a620ab"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Urszuli Ledóchowskiej, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4617185,
+      "lon": 16.8737973,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "38e442a3c84b7a77e68cbafc3baefe71"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "1ce291bdccdb4c82dabe984f0b9e749a"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wincentowo, Bugaj, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4691667,
+      "lon": 17.1586111,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "800bf647fcb110e470816c6c899e8f03"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "620c9e7ddeb9891474159a340b2c6bae"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T13:00:00",
+      "original_description": "Szymanowo, Otorowo ul. Dębińska, ul. Kamionka, ul. Krótka, ul. Krzeszkowicka, ul. Leśna, ul. Łąkowa, ul. Parkowa, ul. Pniewska, ul. Pocztowa, ul. Polna, ul. Szamotulska, ul. Szkolna, ul. Urszuli Ledóchowskiej, ul. Wincentego Witosa, ul. Wincentowo, ul. Zielona, Wincentowo.",
+      "id": "57af87e43bd490a768a515a4f4076620"
     }
   ]
 }
