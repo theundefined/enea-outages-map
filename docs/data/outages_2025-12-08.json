@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T08:34:33.162406+00:00",
+  "last_update": "2025-12-08T08:58:26.217322+00:00",
   "outages": [
     {
       "type": "planned",
@@ -7054,6 +7054,28 @@
     },
     {
       "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Akacjowa, ROD \"Sawanna\", Ochla, Nowe Miasto, Zielona Góra, województwo lubuskie, 66-006, Polska",
+      "lat": 51.8704235,
+      "lon": 15.4879886,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "f1a609d6866a80ff5cbb3c176e8aa25e"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Armii Poznań, Abisynia, Drawsko, gmina Drawsko, powiat czarnkowsko-trzcianecki, województwo wielkopolskie, 64-733, Polska",
+      "lat": 52.8463699,
+      "lon": 16.0410935,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "2478dfb5071b96f68d4bbbcba8e1e56f"
+    },
+    {
+      "type": "unplanned",
       "region": "Szczecin",
       "geocoded_address": "Baza logistyczno-magazynowa Remondis, Gumieńce, Zachód, Szczecin, województwo zachodniopomorskie, Polska",
       "lat": 53.3989622,
@@ -7062,6 +7084,17 @@
       "end_time": "2025-12-08T12:00:00",
       "original_description": "Nowogard ul. 15 Lutego, ul. Bohaterów Warszawy, ul. Cmentarna, ul. Henryka Sienkiewicza, ul. Księcia Józefa Poniatowskiego, ul. Magazynowa, ul. Młynarska, ul. Nadtorowa, ul. Stefana Żeromskiego, ul. Wartcka.",
       "id": "9f0d69b1f3e607fb1a5e611c29e2b8ae"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3756714,
+      "lon": 16.8649743,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "a515115dcfadfda052bb26407ba57018"
     },
     {
       "type": "unplanned",
@@ -7076,6 +7109,61 @@
     },
     {
       "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Bolesława Chrobrego, Osiedle Tysiąclecia, Stare Miasto, Zielona Góra, województwo lubuskie, 65-049, Polska",
+      "lat": 51.9406684,
+      "lon": 15.5108503,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "97ee94c51743976f4acb2e72256f7fbc"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego, ul. Franklina Roosevelta, ul. Głogowska.",
+      "id": "db36c7ab85eca65f43baf9124829501f"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Cmentarna, Junikowo, Poznań, województwo wielkopolskie, 60-176, Polska",
+      "lat": 52.3858085,
+      "lon": 16.8389482,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "58a33efef766824dcdbf8634414f21e8"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Franklina Roosevelta, Stare Miasto, Poznań, województwo wielkopolskie, 61-801, Polska",
+      "lat": 52.4049761,
+      "lon": 16.9116242,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego, ul. Franklina Roosevelta, ul. Głogowska.",
+      "id": "e60bb4da783f7ab722e70147d1bac487"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego, ul. Franklina Roosevelta, ul. Głogowska.",
+      "id": "02941a835b33fae579f4b23da55fe74a"
+    },
+    {
+      "type": "unplanned",
       "region": "Szczecin",
       "geocoded_address": "Henryka Sienkiewicza, Pogodno, Zachód, Szczecin, województwo zachodniopomorskie, 71-101, Polska",
       "lat": 53.4393371,
@@ -7084,6 +7172,61 @@
       "end_time": "2025-12-08T12:00:00",
       "original_description": "Nowogard ul. 15 Lutego, ul. Bohaterów Warszawy, ul. Cmentarna, ul. Henryka Sienkiewicza, ul. Księcia Józefa Poniatowskiego, ul. Magazynowa, ul. Młynarska, ul. Nadtorowa, ul. Stefana Żeromskiego, ul. Wartcka.",
       "id": "46c909a92cd78fd0163701f0314f457b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Ignacego Paderewskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.407834,
+      "lon": 16.931121,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "5aebc31c2f509cff98b373841ccdc223"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "d7cc5b7b39f33a78fcd75a682f5e6544"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Kościelna, Osiedle Tysiąclecia, Stare Miasto, Zielona Góra, województwo lubuskie, 65-064, Polska",
+      "lat": 51.9384222,
+      "lon": 15.5062575,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "4616e2a6aaaa2b0b5323e94f505ed96e"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "80900727453d0939d069f8ab75f421d7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Krośnieńska, Osiedle Winnica, Osiedle Łużyckie, Zielona Góra, województwo lubuskie, 65-601, Polska",
+      "lat": 51.9367847,
+      "lon": 15.4912345,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "9eb3d9a1c90968df51de255a1ea66842"
     },
     {
       "type": "unplanned",
@@ -7098,6 +7241,237 @@
     },
     {
       "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Leśna, Osiedle Malarzy, Zielona Góra, województwo lubuskie, 65-794, Polska",
+      "lat": 51.9407238,
+      "lon": 15.4685857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "b532eabd555cbeaca630a7bf2c48db78"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Mała, Osiedle Zacisze, Zielona Góra, województwo lubuskie, 65-778, Polska",
+      "lat": 51.9463639,
+      "lon": 15.4803113,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "41e79fa38e01e5c6a3fc36dfbcfed3f2"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "585620ede8115ed8fb78a447a9475532"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Okopowa, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-357, Polska",
+      "lat": 52.3676354,
+      "lon": 16.943955,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "3871a9561adae0d6bc3795fb85bf2423"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Polna, Osiedle Winnica, Osiedle Słoneczne, Zielona Góra, województwo lubuskie, 65-096, Polska",
+      "lat": 51.936903,
+      "lon": 15.4958651,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "549309cece64160bd68dd9255c724215"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "e86965899c5ea074aa84d6c31a820005"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "0e617640d64f8e99db4651a2356447f6"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "cf2d0c94158f794fec93a592c1d24a45"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "RCKiK Poznań OT Wągrowiec, 74, Tadeusza Kościuszki, Nowe Miasto, Durowo, Wągrowiec, powiat wągrowiecki, województwo wielkopolskie, 62-100, Polska",
+      "lat": 52.8178561,
+      "lon": 17.2048753,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "a012e52b3f6b736bbd3901cbf10b7768"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "e9df493a9ebba6c9b830e572bc6f2500"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Sportowa, Osiedle Tysiąclecia, Osiedle Wazów, Zielona Góra, województwo lubuskie, 65-181, Polska",
+      "lat": 51.9447369,
+      "lon": 15.5236093,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "474dd7fff21df3736452d41a98bda8c0"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "72aee85fe6a28e30b57a216abbf8388b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Stajenna, Pawłowice, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4932529,
+      "lon": 16.7945689,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "c4ed506edb66998dd9bf1a268e9198ca"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Stary Rynek, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "lat": 52.4082892,
+      "lon": 16.933598,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "eb141a174a56163daeea08c0a45fa2b8"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Strumykowa, Osiedle Zdrojowe, Zielona Góra, województwo lubuskie, 65-101, Polska",
+      "lat": 51.9534874,
+      "lon": 15.5169734,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Ołobok ul. Akacjowa, ul. Bolesława Chrobrego, ul. Kościelna, ul. Krośnieńska, ul. Leśna, ul. Mała, ul. Nadbrzeżna, ul. Polna, ul. Sportowa, ul. Strumykowa, ul. Wojciechowskiego, ul. Zabużańska.",
+      "id": "1ce197fe9e9e5985c63036b963c58eec"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Strzelecka, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-871, Polska",
+      "lat": 52.3997091,
+      "lon": 16.9354244,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "dafc1a40002bccd950ad8594c6bf4815"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Szamocińska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3689794,
+      "lon": 16.8773709,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "67409a4c421db2d3e85b80891601bab7"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Szpitalna, Ogrody, Poznań, województwo wielkopolskie, 60-572, Polska",
+      "lat": 52.4125941,
+      "lon": 16.8773812,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "c4270eda9e5a51db78bccfd1dc700f42"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "d7cb9a4d3996a0e30656e712f15bc64d"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Tadeusza Kościuszki, Kiekrz, Rogierówko, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751421,
+      "lon": 16.7555574,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "c3de4776e273233b07db91d867c5a745"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wąska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-859, Polska",
+      "lat": 52.4140584,
+      "lon": 16.9056711,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Lipiniec, Karolinka, Lipiny, Dębiniec, Margońska Wieś, Młynary, Margonin ul. Boczna, ul. Cmentarna, ul. Kazimierza Jankowskiego, ul. Kolejowa, ul. Kościelna, ul. Kościuszki, ul. Kuźniowa, ul. Nowe Miasto, ul. Ogrodowa, ul. Okopowa, ul. Paderewskiego, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Rynek, ul. Słoneczna, ul. Sportowa, ul. Stajenna, ul. Strzelecka, ul. Szamocińska, ul. Szpitalna, ul. Wąska, ul. Wybudowanie.",
+      "id": "800a33031a129b53b2b467dda25b1ad7"
+    },
+    {
+      "type": "unplanned",
       "region": "Szczecin",
       "geocoded_address": "park imienia Stefana Żeromskiego, Stare Miasto, Śródmieście, Szczecin, województwo zachodniopomorskie, 70-527, Polska",
       "lat": 53.4331214,
@@ -7106,6 +7480,17 @@
       "end_time": "2025-12-08T12:00:00",
       "original_description": "Nowogard ul. 15 Lutego, ul. Bohaterów Warszawy, ul. Cmentarna, ul. Henryka Sienkiewicza, ul. Księcia Józefa Poniatowskiego, ul. Magazynowa, ul. Młynarska, ul. Nadtorowa, ul. Stefana Żeromskiego, ul. Wartcka.",
       "id": "2654322012293b2856302b374596b6d0"
+    },
+    {
+      "type": "unplanned",
+      "region": "Bydgoszcz",
+      "geocoded_address": "Świerkowa, Leśne, Bydgoszcz, województwo kujawsko-pomorskie, 85-643, Polska",
+      "lat": 53.1416985,
+      "lon": 18.0239504,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T12:00:00",
+      "original_description": "Sulnowo ul. Świerkowa i przyległe",
+      "id": "f788c261245deea86f00366d08f664f9"
     }
   ]
 }
