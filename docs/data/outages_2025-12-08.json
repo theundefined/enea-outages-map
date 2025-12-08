@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T01:21:39.460895+00:00",
+  "last_update": "2025-12-08T03:07:12.960791+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6061,6 +6061,83 @@
       "end_time": "2025-12-08T03:00:00",
       "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
       "id": "a72b0e654df289fd60874f5c04b60af1"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Adama Mickiewicza, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-835, Polska",
+      "lat": 52.4092101,
+      "lon": 16.9103072,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T04:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "9b2c9b9d5f164aed9a93e17113dd9716"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Franklina Roosevelta, Stare Miasto, Poznań, województwo wielkopolskie, 61-801, Polska",
+      "lat": 52.4049761,
+      "lon": 16.9116242,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T04:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "4fb105fcfd226b02b0575b75753192b9"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T04:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "febdd93757f638b7088d0b918d2affdd"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Zacisze, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "lat": 52.4129557,
+      "lon": 16.913383,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T04:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "fbcd31e243f0f9572508b8d4d138d1dd"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Zygmunta Krasińskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-830, Polska",
+      "lat": 52.4121672,
+      "lon": 16.9128989,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T04:30:00",
+      "original_description": "Poznań ul. Adama Mickiewicza, ul. Franklina Roosevelta, ul. Poznańska, ul. Zacisze, ul. Zygmunta Krasińskiego.",
+      "id": "a34444268483b1202426933737c8f4ab"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T05:00:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "c064db8455bc6a1dc4bed8a50768d984"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wędkarska, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2671953,
+      "lon": 16.613449,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T05:00:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "3a14becb5ef072a6e9fb4f1f7939890b"
     }
   ]
 }
