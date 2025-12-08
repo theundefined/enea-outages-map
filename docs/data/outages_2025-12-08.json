@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T07:31:27.328058+00:00",
+  "last_update": "2025-12-08T07:48:31.580979+00:00",
   "outages": [
     {
       "type": "planned",
@@ -5448,6 +5448,17 @@
     },
     {
       "type": "planned",
+      "region": "Poznań",
+      "geocoded_address": "Stanisława Mikołajczyka, Bnin, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.2274186,
+      "lon": 17.0901567,
+      "start_time": "2025-12-15T08:00:00",
+      "end_time": "2025-12-15T14:00:00",
+      "original_description": "miejscowość Wągrowiec ul. Stanisława Mikołajczyka 6, 8, 10-13, 15, dz. 2204/15, dz. 2208/27.",
+      "id": "039102118c321c04fe8b38d16a0b59c5"
+    },
+    {
+      "type": "planned",
       "region": "Bydgoszcz",
       "geocoded_address": "Szubińska, Górzyskowo, Bydgoszcz, województwo kujawsko-pomorskie, 85-314, Polska",
       "lat": 53.1157864,
@@ -6512,6 +6523,83 @@
       "end_time": "2025-12-08T09:30:00",
       "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
       "id": "c8b61f19344fa9bce589221552469dfd"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Chmielna, Osiedle Braniborskie, Zielona Góra, województwo lubuskie, 65-261, Polska",
+      "lat": 51.9343275,
+      "lon": 15.5307011,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Zbąszyń Rynek, ul. Chłodna, ul. Chmielna, ul. Garczyńskich, ul. Kościelna, ul. Marcinkowskiego, ul. Miodowa, ul. Plac Rybaki, ul. Porucznika Żwirki, ul. Promenada, ul. Rynek, ul. Senatorska, ul. Świętomikołajska, ul. Zaułek Ramów Sukienniczych, ul. Żydowska.",
+      "id": "42e0cbf3417b3370e5508919d7a27ba8"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Chłodna, Chynów, Zielona Góra, województwo lubuskie, 65-129, Polska",
+      "lat": 51.9675878,
+      "lon": 15.5313038,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Zbąszyń Rynek, ul. Chłodna, ul. Chmielna, ul. Garczyńskich, ul. Kościelna, ul. Marcinkowskiego, ul. Miodowa, ul. Plac Rybaki, ul. Porucznika Żwirki, ul. Promenada, ul. Rynek, ul. Senatorska, ul. Świętomikołajska, ul. Zaułek Ramów Sukienniczych, ul. Żydowska.",
+      "id": "27c3baa9ce03b0cf251bdbb2f6812b89"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Kościelna, Osiedle Tysiąclecia, Stare Miasto, Zielona Góra, województwo lubuskie, 65-064, Polska",
+      "lat": 51.9384222,
+      "lon": 15.5062575,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Zbąszyń Rynek, ul. Chłodna, ul. Chmielna, ul. Garczyńskich, ul. Kościelna, ul. Marcinkowskiego, ul. Miodowa, ul. Plac Rybaki, ul. Porucznika Żwirki, ul. Promenada, ul. Rynek, ul. Senatorska, ul. Świętomikołajska, ul. Zaułek Ramów Sukienniczych, ul. Żydowska.",
+      "id": "01c42813829ffd263d342c0fa3c6d66b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Miodowa, Osiedle Winnica, Osiedle Słoneczne, Zielona Góra, województwo lubuskie, 65-602, Polska",
+      "lat": 51.936071,
+      "lon": 15.4901295,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Zbąszyń Rynek, ul. Chłodna, ul. Chmielna, ul. Garczyńskich, ul. Kościelna, ul. Marcinkowskiego, ul. Miodowa, ul. Plac Rybaki, ul. Porucznika Żwirki, ul. Promenada, ul. Rynek, ul. Senatorska, ul. Świętomikołajska, ul. Zaułek Ramów Sukienniczych, ul. Żydowska.",
+      "id": "5c73a0fd654fd7460c8af0217ff90ac5"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Promenada spacerowa Löbtenz, Aleja Juliusza Słowackiego, Osiedle Morelowa, Osiedle Słowackiego, Zielona Góra, województwo lubuskie, 65-326, Polska",
+      "lat": 51.9305309,
+      "lon": 15.5190628,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Zbąszyń Rynek, ul. Chłodna, ul. Chmielna, ul. Garczyńskich, ul. Kościelna, ul. Marcinkowskiego, ul. Miodowa, ul. Plac Rybaki, ul. Porucznika Żwirki, ul. Promenada, ul. Rynek, ul. Senatorska, ul. Świętomikołajska, ul. Zaułek Ramów Sukienniczych, ul. Żydowska.",
+      "id": "c84d2448ef83f4e5e3bfc0b5de64f841"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Szpital Uniwersytecki w Zielonej Górze, 26, Zyty, Osiedle Tysiąclecia, Osiedle Wazów, Zielona Góra, województwo lubuskie, 65-046, Polska",
+      "lat": 51.9409594,
+      "lon": 15.5203357,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Zbąszyń Rynek, ul. Chłodna, ul. Chmielna, ul. Garczyńskich, ul. Kościelna, ul. Marcinkowskiego, ul. Miodowa, ul. Plac Rybaki, ul. Porucznika Żwirki, ul. Promenada, ul. Rynek, ul. Senatorska, ul. Świętomikołajska, ul. Zaułek Ramów Sukienniczych, ul. Żydowska.",
+      "id": "0467377cf56c21b1ab5e2e4227715403"
+    },
+    {
+      "type": "unplanned",
+      "region": "Zielona Góra",
+      "geocoded_address": "Zielonogórski Rynek Rolno-Towarowy S.A., Osiedle Batorego, Zielona Góra, województwo lubuskie, Polska",
+      "lat": 51.9543905,
+      "lon": 15.4908493,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T11:00:00",
+      "original_description": "Zbąszyń Rynek, ul. Chłodna, ul. Chmielna, ul. Garczyńskich, ul. Kościelna, ul. Marcinkowskiego, ul. Miodowa, ul. Plac Rybaki, ul. Porucznika Żwirki, ul. Promenada, ul. Rynek, ul. Senatorska, ul. Świętomikołajska, ul. Zaułek Ramów Sukienniczych, ul. Żydowska.",
+      "id": "56353d3a8719bb0e6be59491d9cf51ca"
     }
   ]
 }
