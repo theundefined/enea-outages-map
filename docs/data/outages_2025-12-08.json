@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-08T06:30:47.362233+00:00",
+  "last_update": "2025-12-08T06:59:51.330021+00:00",
   "outages": [
     {
       "type": "planned",
@@ -6307,6 +6307,17 @@
     {
       "type": "unplanned",
       "region": "Poznań",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "58d07e03f703f7dc7cc35bb408e24b39"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
       "geocoded_address": "Glinkowa, Radzewo, gmina Kórnik, powiat poznański, województwo wielkopolskie, Polska",
       "lat": 52.2173215,
       "lon": 17.0139088,
@@ -6391,6 +6402,17 @@
       "end_time": "2025-12-08T09:30:00",
       "original_description": "Bruszczewo ul. Główna, Koszanowo ul. Dworska, ul. Glinkowa, ul. Łąkowa, ul. Polna, ul. Poprzeczna, ul. Półwiejska, ul. Wierzbowa, Śmigiel ul. hm. Zbigniewa Łukomskiego, ul. Lipowa, ul. Podgórna, ul. Świętego Wita.",
       "id": "38fd4889b439e9ad67788fa4d152163b"
+    },
+    {
+      "type": "unplanned",
+      "region": "Poznań",
+      "geocoded_address": "Wędkarska, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2671953,
+      "lon": 16.613449,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-08T09:30:00",
+      "original_description": "Bartodzieje ul. Wędkarska, Kobylec ul. Gajowa.",
+      "id": "2830afc1920b61b8ad7be4c9b8e25f5e"
     },
     {
       "type": "unplanned",
