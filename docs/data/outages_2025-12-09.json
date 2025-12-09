@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-09T06:56:17.967378+00:00",
+  "last_update": "2025-12-09T07:21:31.124731+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1530,6 +1530,106 @@
       "end_time": "2025-12-30T11:30:00",
       "original_description": "Poznań: ul. Cyniowa od 3 do 13 nieparzyste, 4, 6, ul. Macierzankowa, ul. Stokrotkowa 26, 30, 30A, 32, 32A, od 37 do 47 nieparzyste, 47A, ul. Malwowa 44, 46.",
       "id": "950999a571876b88bf90d76a3e390137"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
+      "lat": 52.4066079,
+      "lon": 16.9372258,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "609d12c7154827b0497e1d205bb7cae3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grobla, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-860, Polska",
+      "lat": 52.4036044,
+      "lon": 16.9427757,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "9fdde19e1d073fae1cecdf522cf673c2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mostowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-854, Polska",
+      "lat": 52.4049657,
+      "lon": 16.9394473,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "e0d26d46d8f9ff5a779363711c5d7334"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-847, Polska",
+      "lat": 52.4029375,
+      "lon": 16.9318952,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "a184b0bd71edef27b32391a501728d03"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzelecka, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-871, Polska",
+      "lat": 52.3997091,
+      "lon": 16.9354244,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "7c0924bff6c23658ccb8030d339385e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "940811fb49af625ce4d295070afb8835"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wszystkich Świętych, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-843, Polska",
+      "lat": 52.4055899,
+      "lon": 16.9372618,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "bf13633e265a50e8434fa64f3e2fd5da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Za Bramką, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-842, Polska",
+      "lat": 52.4050272,
+      "lon": 16.9361596,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "4f5038c9696f9a622390874f30d309bf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "ddc7fc3ad85a050f3ff0a073631d8789"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łazienna, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-857, Polska",
+      "lat": 52.4067049,
+      "lon": 16.9402665,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
+      "id": "24bfa3ba91a623f02d725f9fbbe07473"
     }
   ]
 }
