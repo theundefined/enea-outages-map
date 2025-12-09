@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-09T07:54:36.275511+00:00",
+  "last_update": "2025-12-09T08:26:50.265908+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1420,6 +1420,16 @@
       "end_time": "2025-12-17T16:30:00",
       "original_description": "Poznań: ul. Bielniki 3, 10, ul. Droga Dębińska 21, 25, Orlik.",
       "id": "f853d735529fa9176f7446b7f485a967"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Adama Skałkowskiego, Różany Potok, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4648658,
+      "lon": 16.940447,
+      "start_time": "2025-12-18T08:00:00",
+      "end_time": "2025-12-18T14:00:00",
+      "original_description": "Poznań: ul. Skałkowskiego od 19 do 31 nieparzyste.",
+      "id": "2d103990075d5eeeb4544c3045734f2a"
     },
     {
       "type": "planned",
