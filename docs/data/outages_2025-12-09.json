@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-09T07:21:31.124731+00:00",
+  "last_update": "2025-12-09T07:42:09.470642+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1543,6 +1543,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
+      "lat": 52.4066079,
+      "lon": 16.9372258,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Szelągowska.",
+      "id": "f75a1b31244e0919c2433db9155500c5"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Grobla, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-860, Polska",
       "lat": 52.4036044,
       "lon": 16.9427757,
@@ -1580,6 +1590,16 @@
       "end_time": "2025-12-09T10:30:00",
       "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
       "id": "7c0924bff6c23658ccb8030d339385e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szelągowska, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-628, Polska",
+      "lat": 52.4276497,
+      "lon": 16.9474749,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T10:30:00",
+      "original_description": "Poznań ul. Garbary, ul. Szelągowska.",
+      "id": "defd3a15ad2e278f915687b6c88107a6"
     },
     {
       "type": "unplanned",
@@ -1630,6 +1650,66 @@
       "end_time": "2025-12-09T10:30:00",
       "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Rybaki, ul. Strzelecka, ul. Wodna, ul. Wszystkich Świętych, ul. Za Bramką, ul. Zielona.",
       "id": "24bfa3ba91a623f02d725f9fbbe07473"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
+      "lat": 52.4066079,
+      "lon": 16.9372258,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Wodna, ul. Za Bramką.",
+      "id": "88de0896f9ce61b78c7ce62e64f8ed8b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grobla, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-860, Polska",
+      "lat": 52.4036044,
+      "lon": 16.9427757,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Wodna, ul. Za Bramką.",
+      "id": "11b73978879dfc5c12d540d187b1d5f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mostowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-854, Polska",
+      "lat": 52.4049657,
+      "lon": 16.9394473,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Wodna, ul. Za Bramką.",
+      "id": "b20d502438fbbd3a7e9b8493251106e1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Wodna, ul. Za Bramką.",
+      "id": "d5cad3c3490fbc747dddf1bb3daafaf1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Za Bramką, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-842, Polska",
+      "lat": 52.4050272,
+      "lon": 16.9361596,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Wodna, ul. Za Bramką.",
+      "id": "a80b7dd343be9a6c9292dfc4e5e9eb55"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łazienna, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-857, Polska",
+      "lat": 52.4067049,
+      "lon": 16.9402665,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Wodna, ul. Za Bramką.",
+      "id": "452fa6623411bd679c58d818b73ea624"
     }
   ]
 }
