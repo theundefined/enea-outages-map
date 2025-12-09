@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-09T07:42:09.470642+00:00",
+  "last_update": "2025-12-09T07:54:36.275511+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1653,6 +1653,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "28 Czerwca 1956 roku, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3532487,
+      "lon": 16.9017169,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Ignacego Prądzyńskiego, ul. Jana Kilińskiego, ul. Władysława Sikorskiego.",
+      "id": "fc321ddfd1cdb59bb8bf698299a5f6b3"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
       "lat": 52.4066079,
       "lon": 16.9372258,
@@ -1673,6 +1683,26 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Ignacego Prądzyńskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-523, Polska",
+      "lat": 52.3887713,
+      "lon": 16.9152342,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Ignacego Prądzyńskiego, ul. Jana Kilińskiego, ul. Władysława Sikorskiego.",
+      "id": "5ad14f402b07014d67cea8024ce83408"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Kilińskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-531, Polska",
+      "lat": 52.3911807,
+      "lon": 16.9187827,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Ignacego Prądzyńskiego, ul. Jana Kilińskiego, ul. Władysława Sikorskiego.",
+      "id": "da6c3c4cbfffe9d76fdff6fe6e8ef0f9"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Mostowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-854, Polska",
       "lat": 52.4049657,
       "lon": 16.9394473,
@@ -1690,6 +1720,16 @@
       "end_time": "2025-12-09T11:00:00",
       "original_description": "Poznań ul. Garbary, ul. Grobla, ul. Łazienna, ul. Mostowa, ul. Wodna, ul. Za Bramką.",
       "id": "d5cad3c3490fbc747dddf1bb3daafaf1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Sikorskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-536, Polska",
+      "lat": 52.39072,
+      "lon": 16.9124477,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T11:00:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Ignacego Prądzyńskiego, ul. Jana Kilińskiego, ul. Władysława Sikorskiego.",
+      "id": "55655f26a7d9937a95d1311fd0fd202d"
     },
     {
       "type": "unplanned",
