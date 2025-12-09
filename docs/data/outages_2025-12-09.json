@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-09T15:48:19.863256+00:00",
+  "last_update": "2025-12-09T15:58:04.811183+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2110,6 +2110,66 @@
       "end_time": "2025-12-09T17:00:00",
       "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Fryderyka Skarbka, ul. Grochowska, ul. Grunwaldzka, ul. Pawła Włodkowica, ul. Rycerska.",
       "id": "b892c2c19a8448913360a8f4a8ee4d8d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Lubeckiego, Ostroróg, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-348, Polska",
+      "lat": 52.4020491,
+      "lon": 16.8782989,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T18:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Fryderyka Skarbka, ul. Grochowska, ul. Grunwaldzka, ul. Pawła Włodkowica, ul. Rycerska.",
+      "id": "bdb733cbf46024a8fa3d2f43d727a613"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fryderyka Skarbka, Ostroróg, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-348, Polska",
+      "lat": 52.4025252,
+      "lon": 16.8796848,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T18:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Fryderyka Skarbka, ul. Grochowska, ul. Grunwaldzka, ul. Pawła Włodkowica, ul. Rycerska.",
+      "id": "8012a0c66e501db231a0d9a2be5f6e45"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowska, Raszyn, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-277, Polska",
+      "lat": 52.3948481,
+      "lon": 16.8832358,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T18:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Fryderyka Skarbka, ul. Grochowska, ul. Grunwaldzka, ul. Pawła Włodkowica, ul. Rycerska.",
+      "id": "4c6b748a12a0d08d2ed65922413876fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T18:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Fryderyka Skarbka, ul. Grochowska, ul. Grunwaldzka, ul. Pawła Włodkowica, ul. Rycerska.",
+      "id": "a2a5c775b94b4ded4e2c2b674c4b8fe0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pawła Włodkowica, Ostroróg, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-334, Polska",
+      "lat": 52.4018781,
+      "lon": 16.8770949,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T18:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Fryderyka Skarbka, ul. Grochowska, ul. Grunwaldzka, ul. Pawła Włodkowica, ul. Rycerska.",
+      "id": "e97af55d332c8271c28617e61f142bc4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rycerska, Kasztelanów, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-345, Polska",
+      "lat": 52.4028951,
+      "lon": 16.8725782,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-09T18:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Fryderyka Skarbka, ul. Grochowska, ul. Grunwaldzka, ul. Pawła Włodkowica, ul. Rycerska.",
+      "id": "de853a120e5a61c3345686d1fe13be12"
     }
   ]
 }
