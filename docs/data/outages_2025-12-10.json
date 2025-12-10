@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-10T11:56:41.868064+00:00",
+  "last_update": "2025-12-10T12:46:00.592578+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1150,6 +1150,16 @@
       "end_time": "2025-12-18T12:30:00",
       "original_description": "Poznań: ul. Majakowskiego 245, 247, 249, ul. Sępia od 1 do 15 nieparzyste, od 2 do 16A parzyste, ul. Dzieci Wrzesińskich od 3 do 19 nieparzyste, do 2A do 20A parzyste.",
       "id": "15b06b7984b0e2d9803cd46b465ad26a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "2025-12-18T08:30:00",
+      "end_time": "2025-12-18T15:30:00",
+      "original_description": "Poznań: ul. Bałtycka 4A.",
+      "id": "d21591750142909a1fc954ea65f1913f"
     },
     {
       "type": "planned",
