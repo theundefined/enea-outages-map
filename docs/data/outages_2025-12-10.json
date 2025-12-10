@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-10T10:50:26.268250+00:00",
+  "last_update": "2025-12-10T11:16:41.679483+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1000,6 +1000,36 @@
       "end_time": "2025-12-17T10:30:00",
       "original_description": "Poznań: ul. Łowmiańskiego od 2 do 30 parzyste, ul. Kostrzewskiego 30, ul. Gieburowskiego 1, 6, ul. Kopczyńskiego 18.",
       "id": "08678e617f2ec3f6462c0b7ad653566d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "2025-12-17T08:30:00",
+      "end_time": "2025-12-17T13:00:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska 60, ul. Towarowa 3,",
+      "id": "cc10ef8688817db6b118e678d9df5db7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2025-12-17T08:30:00",
+      "end_time": "2025-12-17T13:00:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska 60, ul. Towarowa 3,",
+      "id": "eedde874d4cc9e17741947288456b375"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stanisława Matyi, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.4017068,
+      "lon": 16.9206037,
+      "start_time": "2025-12-17T08:30:00",
+      "end_time": "2025-12-17T13:00:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska 60, ul. Towarowa 3,",
+      "id": "d224026fbe7410349d3ba304d3b90693"
     },
     {
       "type": "planned",
