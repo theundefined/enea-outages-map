@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-10T07:02:03.024451+00:00",
+  "last_update": "2025-12-10T07:33:15.136887+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1023,6 +1023,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "18, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-154, Polska",
+      "lat": 52.3958989,
+      "lon": 16.9443473,
+      "start_time": "2025-12-18T08:30:00",
+      "end_time": "2025-12-18T12:30:00",
+      "original_description": "Poznań: Piastowskie 18, 19, 20, 21.",
+      "id": "2c5166d3a15bf53ad3084cf7a3ea3d33"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Dzieci Wrzesińskich, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-066, Polska",
       "lat": 52.3948024,
       "lon": 17.0228664,
@@ -1040,6 +1050,16 @@
       "end_time": "2025-12-18T12:30:00",
       "original_description": "Poznań: ul. Majakowskiego 245, 247, 249, ul. Sępia od 1 do 15 nieparzyste, od 2 do 16A parzyste, ul. Dzieci Wrzesińskich od 3 do 19 nieparzyste, do 2A do 20A parzyste.",
       "id": "a65044757a6d4769376f2421a7f8e3c4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wioślarska, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-151, Polska",
+      "lat": 52.3936268,
+      "lon": 16.9486348,
+      "start_time": "2025-12-18T08:30:00",
+      "end_time": "2025-12-18T12:30:00",
+      "original_description": "Poznań: ul. Wioślarska 70, 71, 72, 73, 74, 75.",
+      "id": "c3017941d9827fb266e80415e52a46ed"
     },
     {
       "type": "planned",
