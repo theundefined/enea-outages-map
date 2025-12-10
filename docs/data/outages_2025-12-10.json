@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-10T13:27:38.835093+00:00",
+  "last_update": "2025-12-10T13:55:39.751618+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1200,6 +1200,26 @@
       "end_time": "2025-12-19T11:30:00",
       "original_description": "Poznań: ul. Okulickiego od 43 do 115 nieparzyste, od 50 do 66 parzyste, od 72 do 98 parzyste, ul. Krasickiego od 51 do 93 nieparzyste, od 64 do 110 parzyste, ul. Buczka 6, 8, 10, 12, 16, 18, 22, 24, ul. Lelewela 56, od 80 do 96 parzyste.",
       "id": "fb3f9dffc7f406dbd4719d419af6650c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "2025-12-19T11:00:00",
+      "end_time": "2025-12-19T14:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Leśna od 1 do 29, 36 ul. Poznańska 5, 7, 9, 9A, 9B, 11, 13, działki nr 56, 270/3, 270/7,  stacja bazowa T-Mobile 40343,",
+      "id": "067d66139354557bc52d8f72899b725c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2025-12-19T11:00:00",
+      "end_time": "2025-12-19T14:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Leśna od 1 do 29, 36 ul. Poznańska 5, 7, 9, 9A, 9B, 11, 13, działki nr 56, 270/3, 270/7,  stacja bazowa T-Mobile 40343,",
+      "id": "b6632915a22d0ce416c6119a763755a8"
     },
     {
       "type": "planned",
