@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-11T07:28:49.106296+00:00",
+  "last_update": "2025-12-11T07:44:43.082888+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1220,6 +1220,106 @@
       "end_time": "2025-12-30T11:30:00",
       "original_description": "Poznań: ul. Cyniowa od 3 do 13 nieparzyste, 4, 6, ul. Macierzankowa, ul. Stokrotkowa 26, 30, 30A, 32, 32A, od 37 do 47 nieparzyste, 47A, ul. Malwowa 44, 46.",
       "id": "950999a571876b88bf90d76a3e390137"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "3 Maja, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-728, Polska",
+      "lat": 52.4090081,
+      "lon": 16.9248006,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "87e28178487ded4cff673a51df7ef23a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Armii Poznań, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3538833,
+      "lon": 16.9020446,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "3d18fa3d3be12b28c223fdc8aecb4229"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cicha, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-710, Polska",
+      "lat": 52.4162002,
+      "lon": 16.9228386,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "c3bdf1c0d01c7d5fbb7e9263c12c176a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliana Tuwima, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4073831,
+      "lon": 16.8375636,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "f73656897eb4e51e9a9eb30b1b02b21d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Strumykiem, Stary Luboń, Luboń, powiat poznański, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3454048,
+      "lon": 16.8985196,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "9ffba8a6e99f9d209ec2aa154d974691"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Wartą, Stary Luboń, Luboń, powiat poznański, województwo wielkopolskie, 61-343, Polska",
+      "lat": 52.3443087,
+      "lon": 16.9004981,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "d66344337703a251ab029cfa2be16696"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzeczna, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-013, Polska",
+      "lat": 52.4255053,
+      "lon": 16.9755612,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "c752f87eb67bb740f8d887b2d02b03dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spadzista, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-565, Polska",
+      "lat": 52.3978195,
+      "lon": 16.924592,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "ff211b8b232466d3e17d75822b1986a1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "e4628bed75073dd4bc8093073b8a1f4f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ziemniaczana, Stary Luboń, Luboń, powiat poznański, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3454354,
+      "lon": 16.8958109,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T11:00:00",
+      "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
+      "id": "2ecb52a061403d4cd4d20e2509b450f0"
     }
   ]
 }
