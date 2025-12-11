@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-11T21:48:30.680879+00:00",
+  "last_update": "2025-12-11T21:58:17.313384+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2510,6 +2510,66 @@
       "end_time": "2025-12-12T00:00:00",
       "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
       "id": "262abc02661229ffa38cffda79a08c0d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "23 Lutego, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-742, Polska",
+      "lat": 52.4101415,
+      "lon": 16.9280052,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T01:00:00",
+      "original_description": "Poznań ul. 23 Lutego, ul. Działyńskich, ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna, ul. Stanisława Hejmowskiego.",
+      "id": "8781dfbf0a675bf42d10751b7d5920b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Działyńskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-727, Polska",
+      "lat": 52.4112461,
+      "lon": 16.9239948,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T01:00:00",
+      "original_description": "Poznań ul. 23 Lutego, ul. Działyńskich, ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna, ul. Stanisława Hejmowskiego.",
+      "id": "00c5d6ef73abaedadb78d792309c859d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Feliksa Nowowiejskiego, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-717, Polska",
+      "lat": 52.4132088,
+      "lon": 16.9219925,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T01:00:00",
+      "original_description": "Poznań ul. 23 Lutego, ul. Działyńskich, ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna, ul. Stanisława Hejmowskiego.",
+      "id": "513af9410af2768382304bb0a0cb17e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "lat": 52.410976,
+      "lon": 16.9264675,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T01:00:00",
+      "original_description": "Poznań ul. 23 Lutego, ul. Działyńskich, ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna, ul. Stanisława Hejmowskiego.",
+      "id": "1fc83ead3d401710d57ecd49e9d7e662"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Solna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-735, Polska",
+      "lat": 52.4114704,
+      "lon": 16.9306253,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T01:00:00",
+      "original_description": "Poznań ul. 23 Lutego, ul. Działyńskich, ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna, ul. Stanisława Hejmowskiego.",
+      "id": "ba60e68ec4a10460266dfe3bad816780"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Hejmowskiego, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-736, Polska",
+      "lat": 52.4136587,
+      "lon": 16.9280906,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T01:00:00",
+      "original_description": "Poznań ul. 23 Lutego, ul. Działyńskich, ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna, ul. Stanisława Hejmowskiego.",
+      "id": "1f7738b4066418039eda33e91216c584"
     }
   ]
 }
