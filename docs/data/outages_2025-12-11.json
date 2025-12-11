@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-11T11:55:05.308172+00:00",
+  "last_update": "2025-12-11T12:40:08.206637+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1640,6 +1640,76 @@
       "end_time": "2025-12-11T14:30:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
       "id": "74155215a9665f7bd34028062d0430fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T15:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "c9ac9cbc6429195cf334caf584b6ecec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T15:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "2a1cae015935603868ad146f029944c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T15:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "fa24aa160ea1bb8e910bfe002fd42888"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "27 Grudnia, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-725, Polska",
+      "lat": 52.4081776,
+      "lon": 16.9223847,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T16:00:00",
+      "original_description": "Poznań pl. Wolności, ul. 27 Grudnia, ul. Franciszka Ratajczaka, ul. Święty Marcin.",
+      "id": "4a1c0c0301ad10360d28e5d8298e67b4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4041749,
+      "lon": 16.9241355,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T16:00:00",
+      "original_description": "Poznań pl. Wolności, ul. 27 Grudnia, ul. Franciszka Ratajczaka, ul. Święty Marcin.",
+      "id": "facc8d06f89178b68755e819dced068b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Plac Wolności, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4081225,
+      "lon": 16.9277159,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T16:00:00",
+      "original_description": "Poznań pl. Wolności, ul. 27 Grudnia, ul. Franciszka Ratajczaka, ul. Święty Marcin.",
+      "id": "96b15dbccd030b38a6dc03880d59c1eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-815, Polska",
+      "lat": 52.405254,
+      "lon": 16.9259576,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T16:00:00",
+      "original_description": "Poznań pl. Wolności, ul. 27 Grudnia, ul. Franciszka Ratajczaka, ul. Święty Marcin.",
+      "id": "21c25d72db561d10cc3cfb717e4d5740"
     }
   ]
 }
