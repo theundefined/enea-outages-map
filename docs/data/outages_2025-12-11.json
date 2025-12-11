@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-11T07:55:01.169049+00:00",
+  "last_update": "2025-12-11T08:26:37.016055+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1320,6 +1320,16 @@
       "end_time": "2025-12-11T11:00:00",
       "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
       "id": "2ecb52a061403d4cd4d20e2509b450f0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowska, Raszyn, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-277, Polska",
+      "lat": 52.3948481,
+      "lon": 16.8832358,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-11T13:00:00",
+      "original_description": "Poznań: ul. Grochowska od 39 do 47 nieparzyste.",
+      "id": "66e928bca38e17a9962ca1e44e4f49b5"
     }
   ]
 }
