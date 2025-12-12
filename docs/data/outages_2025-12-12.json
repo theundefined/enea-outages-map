@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-12T07:47:46.191536+00:00",
+  "last_update": "2025-12-12T07:57:20.897215+00:00",
   "outages": [
     {
       "type": "planned",
@@ -510,6 +510,56 @@
       "end_time": "2025-12-17T16:30:00",
       "original_description": "Poznań: ul. Bielniki 3, 10, ul. Droga Dębińska 21, 25, Orlik.",
       "id": "f853d735529fa9176f7446b7f485a967"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "2025-12-18T08:00:00",
+      "end_time": "2025-12-18T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "759ef47d913247851b287b6336747e54"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Elżbiety Drużbackiej, Łazarz, Poznań, województwo wielkopolskie, 60-750, Polska",
+      "lat": 52.3979843,
+      "lon": 16.8981067,
+      "start_time": "2025-12-18T08:00:00",
+      "end_time": "2025-12-18T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "5e44a2d811f2304279e0b818e8515b05"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Juliusza Kossaka, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.3999606,
+      "lon": 16.8975131,
+      "start_time": "2025-12-18T08:00:00",
+      "end_time": "2025-12-18T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "3af5593ce5cbe196fc029c4e1102f870"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ułańska, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.4000327,
+      "lon": 16.8960356,
+      "start_time": "2025-12-18T08:00:00",
+      "end_time": "2025-12-18T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "ded41de333d507b87e808bb2f14700b2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wyspiańskiego, Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3974793,
+      "lon": 16.8996108,
+      "start_time": "2025-12-18T08:00:00",
+      "end_time": "2025-12-18T13:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 10 do 24A parzyste, od 13 do 31 nieparzyste, ul. Jarachowskiego od 2 do 10 parzyste, ul. Drużbackiej, ul. Wyspiańskiego 12, od 16 do 22 parzyste, od 15 do 25 nieparzyste, ul. Kossaka od 1 do 9 nieparzyste, ul. Ułańska od 2 do 8 parzyste.",
+      "id": "bbe355f28593235476faa254009bbcfc"
     },
     {
       "type": "planned",
@@ -1850,6 +1900,16 @@
       "end_time": "2025-12-12T10:30:00",
       "original_description": "Luboń ul. 3 Maja, ul. Armii Poznań, ul. Cicha, ul. Juliana Tuwima, ul. Nad Strumykiem, ul. Nad Wartą, ul. Rzeczna, ul. Spadzista, ul. Strumykowa, ul. Ziemniaczana.",
       "id": "9ec4d504e8bfb9c0d5c830c71af267f5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T10:30:00",
+      "original_description": "Poznań ul. Starołęcka.",
+      "id": "6eb4ea555e94c7160a1480a37104dd2f"
     },
     {
       "type": "unplanned",
