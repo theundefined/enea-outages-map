@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-12T08:57:49.033254+00:00",
+  "last_update": "2025-12-12T09:29:00.010283+00:00",
   "outages": [
     {
       "type": "planned",
@@ -820,6 +820,26 @@
       "end_time": "2025-12-19T14:00:00",
       "original_description": "Gmina Buk miejscowość Niepruszewo ul. Leśna od 1 do 29, 36 ul. Poznańska 5, 7, 9, 9A, 9B, 11, 13, działki nr 56, 270/3, 270/7,  stacja bazowa T-Mobile 40343,",
       "id": "b6632915a22d0ce416c6119a763755a8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Koszalińska, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-626, Polska",
+      "lat": 52.4362166,
+      "lon": 16.8798349,
+      "start_time": "2025-12-22T08:00:00",
+      "end_time": "2025-12-22T13:00:00",
+      "original_description": "Poznań: ul. Koszalińska 15, 32, dz. 12/2, dz. 12/4, dz. 14/1, ul. Wałecka 1.",
+      "id": "8aaa84be10873889c9a6780d43291c56"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wałecka, Strzeszyn, Poznań, województwo wielkopolskie, 60-463, Polska",
+      "lat": 52.4692024,
+      "lon": 16.8486827,
+      "start_time": "2025-12-22T08:00:00",
+      "end_time": "2025-12-22T13:00:00",
+      "original_description": "Poznań: ul. Koszalińska 15, 32, dz. 12/2, dz. 12/4, dz. 14/1, ul. Wałecka 1.",
+      "id": "206cdc2a113e302e1e0816731a2277ba"
     },
     {
       "type": "planned",
@@ -2250,6 +2270,16 @@
       "end_time": "2025-12-12T11:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "d92730634d7d25d5b259690f90966c4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T12:00:00",
+      "original_description": "Poznań ul. Starołęcka.",
+      "id": "18a2ea585b71d314688977ce0be71402"
     }
   ]
 }
