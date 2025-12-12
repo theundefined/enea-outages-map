@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-12T15:56:48.759328+00:00",
+  "last_update": "2025-12-12T16:27:49.102849+00:00",
   "outages": [
     {
       "type": "planned",
@@ -3030,6 +3030,106 @@
       "end_time": "2025-12-12T18:00:00",
       "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
       "id": "b04c230a9c8b65b622c4c1ee70d2520f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "4ffa50566d47cef78a9912a754840227"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "6cb4eb73ff414d610906bfc8163784c9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Henryka Śniegockiego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "lat": 52.4475703,
+      "lon": 16.9108955,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań os. Bolesława Chrobrego, ul. Henryka Śniegockiego, ul. Jana Rymarkiewicza, ul. Jerzego Suszki, ul. Obornicka, ul. Onufrego Kopczyńskiego, ul. Władysława Syrokomli.",
+      "id": "044275d9982e984f4a47deb30747770e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Rymarkiewicza, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "lat": 52.4475707,
+      "lon": 16.9125239,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań os. Bolesława Chrobrego, ul. Henryka Śniegockiego, ul. Jana Rymarkiewicza, ul. Jerzego Suszki, ul. Obornicka, ul. Onufrego Kopczyńskiego, ul. Władysława Syrokomli.",
+      "id": "4651cc5cf3a238c994ec626802f82062"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jerzego Suszki, Piątkowo, Poznań, województwo wielkopolskie, 60-693, Polska",
+      "lat": 52.4468573,
+      "lon": 16.9104518,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań os. Bolesława Chrobrego, ul. Henryka Śniegockiego, ul. Jana Rymarkiewicza, ul. Jerzego Suszki, ul. Obornicka, ul. Onufrego Kopczyńskiego, ul. Władysława Syrokomli.",
+      "id": "16e1abb29866e02ec92bd4b00746420c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Onufrego Kopczyńskiego, Piątkowo, Poznań, województwo wielkopolskie, 60-692, Polska",
+      "lat": 52.4492692,
+      "lon": 16.9089709,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań os. Bolesława Chrobrego, ul. Henryka Śniegockiego, ul. Jana Rymarkiewicza, ul. Jerzego Suszki, ul. Obornicka, ul. Onufrego Kopczyńskiego, ul. Władysława Syrokomli.",
+      "id": "3ef398a08663cbe0e07a5fd610864b4c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4537561,
+      "lon": 16.913691,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań os. Bolesława Chrobrego, ul. Henryka Śniegockiego, ul. Jana Rymarkiewicza, ul. Jerzego Suszki, ul. Obornicka, ul. Onufrego Kopczyńskiego, ul. Władysława Syrokomli.",
+      "id": "c09276f2e3e9767104b33c4d9eeaebf2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań os. Bolesława Chrobrego, ul. Henryka Śniegockiego, ul. Jana Rymarkiewicza, ul. Jerzego Suszki, ul. Obornicka, ul. Onufrego Kopczyńskiego, ul. Władysława Syrokomli.",
+      "id": "a43a86a85a35ac6011ad2c6e71a3f242"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "8ee9b40a93d12e4ce8496a921a720fa5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Syrokomli, Piątkowo, Poznań, województwo wielkopolskie, 60-693, Polska",
+      "lat": 52.448095,
+      "lon": 16.9092941,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T19:00:00",
+      "original_description": "Poznań os. Bolesława Chrobrego, ul. Henryka Śniegockiego, ul. Jana Rymarkiewicza, ul. Jerzego Suszki, ul. Obornicka, ul. Onufrego Kopczyńskiego, ul. Władysława Syrokomli.",
+      "id": "689ac37b062bd73a63dfa8ffd6583a33"
     }
   ]
 }
