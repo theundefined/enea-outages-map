@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-12T16:48:19.333039+00:00",
+  "last_update": "2025-12-12T16:58:21.345825+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2970,6 +2970,16 @@
       "end_time": "2025-12-12T18:00:00",
       "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
       "id": "f7e88007cff815105c00ce16d6b1ae50"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-12T18:00:00",
+      "original_description": "Poznań ul. Starołęcka.",
+      "id": "4e0756656a5cd760ecc41353c31479bb"
     },
     {
       "type": "unplanned",
