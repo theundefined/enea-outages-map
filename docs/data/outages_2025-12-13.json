@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-13T21:14:52.959627+00:00",
+  "last_update": "2025-12-13T21:30:45.757773+00:00",
   "outages": [
     {
       "type": "planned",
@@ -3373,6 +3373,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T22:30:00",
+      "original_description": "Poznań ul. Starołęcka.",
+      "id": "5704631aa077c929c24ce41935323ac8"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Staszowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-333, Polska",
       "lat": 52.3404416,
       "lon": 16.9226988,
@@ -3460,6 +3470,156 @@
       "end_time": "2025-12-13T23:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "e129aa7126f9d7848e1268629ef9b18e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Andrychowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-333, Polska",
+      "lat": 52.3415607,
+      "lon": 16.9234324,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "7e2f0d673baf7a3253dcaaad1578b435"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Białobrzeska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-354, Polska",
+      "lat": 52.3434028,
+      "lon": 16.9235354,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "133b11c095c20228a3cfb255d3b6ca5f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czernichowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-334, Polska",
+      "lat": 52.3446722,
+      "lon": 16.9291718,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "d3db772b044c21fb5a63bc6861ee8bfb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Działoszycka, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-333, Polska",
+      "lat": 52.3421417,
+      "lon": 16.9264356,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "9a21f261adc22d3d7d726dfde6ea08cd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klimontowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-333, Polska",
+      "lat": 52.3389405,
+      "lon": 16.9239396,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "c1ba9c9ec0ef55bd4ee4cb45f1d07fb6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-333, Polska",
+      "lat": 52.3394164,
+      "lon": 16.9250121,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "cfa695b92f02ba81423d5e5a926f3520"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rozwadowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-334, Polska",
+      "lat": 52.3432806,
+      "lon": 16.9265884,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "46b94848f8ccbbd45f55b4b1f00963ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skawińska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-333, Polska",
+      "lat": 52.3406649,
+      "lon": 16.924327,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "4618987201ddf094ffbe36b9bc64576d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "17907baf5495ea5fcb1ebc13481136c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Staszowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-333, Polska",
+      "lat": 52.3404416,
+      "lon": 16.9226988,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "b715c45bb071b038ad548e9c936efe17"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tarnobrzeska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-354, Polska",
+      "lat": 52.3450644,
+      "lon": 16.921975,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "1eff30b9c3dabaa8327d52aea9ae65b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tyczyńska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-354, Polska",
+      "lat": 52.3434845,
+      "lon": 16.9218756,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "d4a4188f73d52b0ede920715fdaf54f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wadowicka, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-354, Polska",
+      "lat": 52.3432397,
+      "lon": 16.9198951,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "eb0b8556a150185db10bfd1ba022ebd6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zemborzycka, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-334, Polska",
+      "lat": 52.3425062,
+      "lon": 16.9285857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "f589fa409f6169ea63f223b4001cb23b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ćmielowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-334, Polska",
+      "lat": 52.3437216,
+      "lon": 16.9292255,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T00:00:00",
+      "original_description": "Poznań ul. Andrychowska, ul. Białobrzeska, ul. Czernichowska, ul. Ćmielowska, ul. Działoszycka, ul. Klimontowska, ul. Leska, ul. Rozwadowska, ul. Skawińska, ul. Starołęcka, ul. Staszowska, ul. Tarnobrzeska, ul. Tyczyńska, ul. Wadowicka, ul. Zemborzycka.",
+      "id": "42c285b146403722333a4a006ce37677"
     }
   ]
 }
