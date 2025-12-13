@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-13T10:58:23.484474+00:00",
+  "last_update": "2025-12-13T11:20:00.074381+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2280,6 +2280,106 @@
       "end_time": "2025-12-13T13:30:00",
       "original_description": "Poznań ul. Starołęcka.",
       "id": "896d03826eedd6fc6198eaf1f225f60e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Belwederska, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3931774,
+      "lon": 16.8805428,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "9bc49f483319a80f3e75632881fd7bc6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowska, Raszyn, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-277, Polska",
+      "lat": 52.3948481,
+      "lon": 16.8832358,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "ea69c33f9b6878efb8986db8c2254024"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Sowińskiego, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-284, Polska",
+      "lat": 52.3964672,
+      "lon": 16.8777137,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "19a776801f878bdc8e68253475743c5f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księcia Józefa, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-747, Polska",
+      "lat": 52.4153131,
+      "lon": 16.9298075,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "caa6cfbcab72cb970c0f8639aa9c9794"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poświata, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-277, Polska",
+      "lat": 52.3951592,
+      "lon": 16.8805097,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "b812e43fccdeb836b6e9e654d3388b94"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "a52c8249f3c163af9bfcd071ddf4de75"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radosna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4136213,
+      "lon": 16.8732563,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "dc736c63c894410e060a74a55acc54d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzecha, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-274, Polska",
+      "lat": 52.3923709,
+      "lon": 16.8778204,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "9b1205c2f69b834ab92dd4170bce4ecc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "7031d11eae28c1d6a525beacf132c826"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tęczowa, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3924959,
+      "lon": 16.8799077,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-13T14:30:00",
+      "original_description": "Zalasewo ul. Radosna, Poznań ul. Belwederska, ul. Grochowska, ul. Józefa Sowińskiego, ul. Księcia Józefa, ul. Poświata, ul. Promienista, ul. Słoneczna, ul. Strzecha, ul. Tęczowa.",
+      "id": "e6c13f75ffe9e33ec27631fef02fd370"
     }
   ]
 }
