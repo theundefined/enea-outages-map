@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-14T09:22:08.970842+00:00",
+  "last_update": "2025-12-14T09:39:49.818170+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2020,6 +2020,16 @@
       "end_time": "2025-12-14T11:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "1d833f2103aaddeffbda4b58cb86234f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-14T12:00:00",
+      "original_description": "Poznań ul. Starołęcka.",
+      "id": "66598b8f053f1c040460193ce2bef490"
     }
   ]
 }
