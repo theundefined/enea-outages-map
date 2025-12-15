@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-15T09:03:25.703956+00:00",
+  "last_update": "2025-12-15T09:44:55.939670+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1980,6 +1980,106 @@
       "end_time": "2025-12-15T11:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "fa335d495cab08b2ae558fb7ca992452"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augusta Emila Fieldorfa, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4437051,
+      "lon": 16.8608306,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "84f8934e73bc854d39a9c6f7bd0f3b1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Park Władysława Czarneckiego, Winogrady, Poznań, województwo wielkopolskie, 61-640, Polska",
+      "lat": 52.4340947,
+      "lon": 16.9288697,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "0677189d73429ddc51506392605dbd4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Poznańska.",
+      "id": "4b9d022244337f0b23c6d948ee8a9c1a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "92a5914f2a81af02fb49a14b449184e8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Profesora Jana Rutkowskiego, Jasin, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
+      "lat": 52.4106225,
+      "lon": 17.0950267,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "c96ea1c1c1245c7a84262ebbae44c92a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Solecka, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-335, Polska",
+      "lat": 52.3422785,
+      "lon": 16.9370758,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "96f3d88dbc9d9fc3744b501838cd23ea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tulipanowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3876508,
+      "lon": 16.8142466,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "a147bac969bab8c5718eb458ef808bcf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrzesińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4193337,
+      "lon": 16.9765039,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "f6ed3a3c90b5f15cddb7bdc7be35bbee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ziemowita, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-053, Polska",
+      "lat": 52.4051572,
+      "lon": 17.0049725,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "700501632fdd6841fa90b50e7afea6d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łowęcińska, Jasin, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
+      "lat": 52.4093667,
+      "lon": 17.1062125,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T12:30:00",
+      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
+      "id": "e5dc0fdecebb3b14bdaab564d8af2c93"
     }
   ]
 }
