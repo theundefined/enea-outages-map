@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-15T07:34:22.978658+00:00",
+  "last_update": "2025-12-15T07:49:13.778679+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1800,6 +1800,116 @@
       "end_time": "2025-12-15T08:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "704065191b7958c1f7753b41281834b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Armii Poznań, Osiedle Generała Władysława Sikorskiego, Piaski, Sieraków, gmina Sieraków, powiat międzychodzki, województwo wielkopolskie, 64-410, Polska",
+      "lat": 52.6475072,
+      "lon": 16.0709461,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "ca8781698c89637c80dca8f1d5c9476d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Generała Tadeusza Kutrzeby, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-718, Polska",
+      "lat": 52.4152239,
+      "lon": 16.9317635,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "1cb9764e4ce33a9af37406e48c11dd13"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jarosława Dąbrowskiego, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4303425,
+      "lon": 16.844788,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "b13489548093c40caeb34c5d548a67dd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "c1b189ec5fa5f794d9e4d9f21be9541d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karola Marcinkowskiego, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2752719,
+      "lon": 16.8639848,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "df716138f38e4d57592558a038459e3d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kórnicka, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3997552,
+      "lon": 16.9510957,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "7e34078b5fcf3016156b58b2cf117694"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "d34b86ec0cee2cb8b0ae9180ce48a3a1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. Poznańska.",
+      "id": "fcaf4093d9ab159f30900cf24f5fa984"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "6d6c3ea829bc1f99d9e57d7d705a486c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Kościuszki, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-898, Polska",
+      "lat": 52.4022309,
+      "lon": 16.9243989,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "2677ebc60d678b775689d0f024b178e1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Sikorskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-536, Polska",
+      "lat": 52.39072,
+      "lon": 16.9124477,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
+      "id": "c0d80f889b32b1dcb8b525edb4c0191e"
     }
   ]
 }
