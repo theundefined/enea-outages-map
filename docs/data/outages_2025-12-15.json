@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-15T07:49:13.778679+00:00",
+  "last_update": "2025-12-15T07:58:54.544394+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1803,6 +1803,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Adama Biedrzyckiego, Łazarz, Poznań, województwo wielkopolskie, 60-272, Polska",
+      "lat": 52.3892002,
+      "lon": 16.8862354,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
+      "id": "7d964bcccea1890824ddc026018066d6"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Armii Poznań, Osiedle Generała Władysława Sikorskiego, Piaski, Sieraków, gmina Sieraków, powiat międzychodzki, województwo wielkopolskie, 64-410, Polska",
       "lat": 52.6475072,
       "lon": 16.0709461,
@@ -1810,6 +1820,16 @@
       "end_time": "2025-12-15T11:00:00",
       "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
       "id": "ca8781698c89637c80dca8f1d5c9476d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błażeja Winklera, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3903278,
+      "lon": 16.8871132,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
+      "id": "bdb6f2b99fe1b09e14546312cf778fd4"
     },
     {
       "type": "unplanned",
@@ -1853,6 +1873,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Kazimierza Jarochowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961127,
+      "lon": 16.894134,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
+      "id": "3c8a4de81a73cd306380f03eea3db225"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Kórnicka, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
       "lat": 52.3997552,
       "lon": 16.9510957,
@@ -1860,6 +1890,16 @@
       "end_time": "2025-12-15T11:00:00",
       "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
       "id": "7e34078b5fcf3016156b58b2cf117694"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Macieja Palacza, Pogodno, Grunwald Południe, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3964455,
+      "lon": 16.8677181,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-15T11:00:00",
+      "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
+      "id": "bf248db5bdd065327643e1acc0ee1f4d"
     },
     {
       "type": "unplanned",
