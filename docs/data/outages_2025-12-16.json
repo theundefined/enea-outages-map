@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-16T06:57:36.082594+00:00",
+  "last_update": "2025-12-16T07:26:21.216328+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1130,6 +1130,116 @@
       "end_time": "2025-12-16T08:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "5e064c9aaac815817a0aba5ca6bb9ea8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Asnyka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-832, Polska",
+      "lat": 52.4103883,
+      "lon": 16.9055655,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "23ae45d32a884736346965c661430955"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-820, Polska",
+      "lat": 52.4120686,
+      "lon": 16.9052036,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "5d7f2bc5117e5c4c61cfa373da7d1058"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franklina Roosevelta, Stare Miasto, Poznań, województwo wielkopolskie, 61-801, Polska",
+      "lat": 52.4049761,
+      "lon": 16.9116242,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "cd11f5668b067452e2bcd521b8861b08"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Henryka Sienkiewicza, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-832, Polska",
+      "lat": 52.4098066,
+      "lon": 16.9052061,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "bcad9d6156e80f7bd9339b322e5d1496"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "8ae59fb41238ae6e81adc5b95db9791b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Kochanowskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-845, Polska",
+      "lat": 52.4109263,
+      "lon": 16.9091411,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "9ee60113b71cb2beaa4f5bf1b679b4f8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Słowackiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-829, Polska",
+      "lat": 52.4095553,
+      "lon": 16.9127548,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "229ec3a324e9eb63ce37b8c3604abdb9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mikołaja Reja, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-826, Polska",
+      "lat": 52.4101084,
+      "lon": 16.9075072,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "f0f86837aef2f131af582daa53018664"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Plac Adama Asnyka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4106405,
+      "lon": 16.9060864,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "d7fc34c25d6277e17baa66d9b1c67d7e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zwierzyniecka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-821, Polska",
+      "lat": 52.4080874,
+      "lon": 16.9117941,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "45a17b9fc698bf226ce5e6c724310b53"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żurawia, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-860, Polska",
+      "lat": 52.4129219,
+      "lon": 16.9055421,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T10:30:00",
+      "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
+      "id": "1cf4616d4dd42706b627e53a379fd0ed"
     }
   ]
 }
