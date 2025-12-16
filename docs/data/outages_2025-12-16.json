@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-16T09:58:35.628449+00:00",
+  "last_update": "2025-12-16T10:32:17.237003+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1380,6 +1380,36 @@
       "end_time": "2025-12-16T12:30:00",
       "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
       "id": "3eab3b0f3feee2b68db49958ea57a38d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T13:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "8606b30be4645cdee69a0cdf5282d9ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T13:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "147f38cb3ef966d16180b3a55c47fe0c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T13:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "255d4e74023b286448dcdc5629cb1ca2"
     }
   ]
 }
