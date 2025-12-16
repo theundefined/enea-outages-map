@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-16T08:54:56.965006+00:00",
+  "last_update": "2025-12-16T09:24:27.531382+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1270,6 +1270,116 @@
       "end_time": "2025-12-16T10:30:00",
       "original_description": "Poznań pl. Adama Asnyka, rynek Jeżycki, ul. Adama Asnyka, ul. Bolesława Prusa, ul. Franklina Roosevelta, ul. Henryka Sienkiewicza, ul. Jana Henryka Dąbrowskiego, ul. Jana Kochanowskiego, ul. Juliusza Słowackiego, ul. Mikołaja Reja, ul. Zwierzyniecka, ul. Żurawia.",
       "id": "1cf4616d4dd42706b627e53a379fd0ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Artura Marii Swinarskiego, Osiedle Poetów, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4077454,
+      "lon": 16.8512263,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "806104761067a307313b616ce2a9567e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Sztaudyngera, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4062304,
+      "lon": 16.8541483,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "25ef2da1c0245a9e907110d56b3f93f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konstantego Ildefonsa Gałczyńskiego, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4083649,
+      "lon": 16.8521258,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "fa8d5e92db05838f282cb27897b70cc8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leopolda Staffa, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4076239,
+      "lon": 16.8533421,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "973481e8ea5a568d9d5844afaf75c63f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romana Wilkanowicza, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4085685,
+      "lon": 16.8516622,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "9c6f571f5ef47f3540701632bc355472"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Czernika, Osiedle Poetów, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4072217,
+      "lon": 16.8506816,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "c9424fd68e7cfe263f0c697a91a461f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Balickiego, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4079969,
+      "lon": 16.8511729,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "bd04ea97ff9c5e7d11a45c2035e62546"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzegomska, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4068669,
+      "lon": 16.8491392,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "16f869149c4bf5624d57c768f6a265f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wałbrzyska, Marcelin, Ławica, Poznań, województwo wielkopolskie, 60-324, Polska",
+      "lat": 52.4044718,
+      "lon": 16.8583654,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "6047dab26470dd77a8f3632f895774f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojciecha Bąka, Osiedle Poetów, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4067467,
+      "lon": 16.8519327,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "f1d36042f525e6f845128cfe35effb85"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zenona Kosidowskiego, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4069543,
+      "lon": 16.8527033,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-16T12:30:00",
+      "original_description": "Poznań ul. Artura Marii Swinarskiego, ul. Jana Sztaudyngera, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Leopolda Staffa, ul. Romana Wilkanowicza, ul. Stanisława Czernika, ul. Stefana Balickiego, ul. Strzegomska, ul. Wałbrzyska, ul. Wojciecha Bąka, ul. Zenona Kosidowskiego.",
+      "id": "3eab3b0f3feee2b68db49958ea57a38d"
     }
   ]
 }
