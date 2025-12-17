@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-17T23:47:36.743972+00:00",
+  "last_update": "2025-12-17T23:57:07.768390+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1290,6 +1290,46 @@
       "end_time": "2025-12-18T01:00:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "fa54d130d33c033d2e9933d9f5367f33"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T02:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "f3674a5af77c269e34ecd0e48049f73f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Krzywoustego, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-208, Polska",
+      "lat": 52.3911432,
+      "lon": 16.9639046,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T02:30:00",
+      "original_description": "Jaryszki, Poznań ul. Bolesława Krzywoustego.",
+      "id": "6739fabe23fe48cde920e8d5e8451def"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T02:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "8a1cc1c8ae0c959cd07a664f26941e9c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T02:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "4ea9b80d0f5ef03a6f201d762fd44547"
     }
   ]
 }
