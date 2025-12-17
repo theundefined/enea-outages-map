@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-17T08:54:27.900245+00:00",
+  "last_update": "2025-12-17T09:25:50.488635+00:00",
   "outages": [
     {
       "type": "planned",
@@ -943,6 +943,36 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T10:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "1fd54803cbf00a002a34db38605ba199"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T10:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "a02a78b39ad01ce4cf02b6c1c515e7a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T10:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "ab45ae4c0af9af3f8db97c3a941b8e32"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Mała Rekreacyjna, Borówiec, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-023, Polska",
       "lat": 52.2861063,
       "lon": 17.0396643,
@@ -970,6 +1000,26 @@
       "end_time": "2025-12-17T11:00:00",
       "original_description": "Borówiec ul. Mała Rekreacyjna, ul. Na Skarpie, ul. Osiedle Piaskowe, ul. Osiedle Zielona Polana, ul. Poznańska, ul. Zielona Dolina.",
       "id": "cd969b7ff70c0389675597ef3dfc2854"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T12:30:00",
+      "original_description": "Strykowo ul. Poznańska, ul. Zielarska.",
+      "id": "d449723a724bbfff71ab45c606c7408e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielarska, Gołuski, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-069, Polska",
+      "lat": 52.3624804,
+      "lon": 16.7470252,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T12:30:00",
+      "original_description": "Strykowo ul. Poznańska, ul. Zielarska.",
+      "id": "1f73ec34684719f098f81b13fd9c4827"
     }
   ]
 }
