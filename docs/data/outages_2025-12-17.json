@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-17T17:57:03.119322+00:00",
+  "last_update": "2025-12-17T18:35:10.190106+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1180,6 +1180,16 @@
       "end_time": "2025-12-17T19:00:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "977fff0265d779bdde4e18add6a91667"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Krzywoustego, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-208, Polska",
+      "lat": 52.3911432,
+      "lon": 16.9639046,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T22:00:00",
+      "original_description": "Jaryszki, Poznań ul. Bolesława Krzywoustego.",
+      "id": "4b86186cb9317389066657444eccf9f1"
     }
   ]
 }
