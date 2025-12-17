@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-17T09:25:50.488635+00:00",
+  "last_update": "2025-12-17T09:49:14.173373+00:00",
   "outages": [
     {
       "type": "planned",
@@ -780,6 +780,26 @@
       "end_time": "2025-12-30T11:30:00",
       "original_description": "Poznań: ul. Cyniowa od 3 do 13 nieparzyste, 4, 6, ul. Macierzankowa, ul. Stokrotkowa 26, 30, 30A, 32, 32A, od 37 do 47 nieparzyste, 47A, ul. Malwowa 44, 46.",
       "id": "950999a571876b88bf90d76a3e390137"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jesienna, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-376, Polska",
+      "lat": 52.4079912,
+      "lon": 16.8752835,
+      "start_time": "2025-12-30T08:30:00",
+      "end_time": "2025-12-30T15:30:00",
+      "original_description": "Leszno: ul. Jesienna nr 1 do 12, 13, 15, 16, 17, 17ABCD, 18, 19,  21, 22ABCD, 23, 25, 26, 27, 29, 31; ul. Wiosenna nr 19; ul. Poznańska nr 17 do 25 i 29 do 51 nieparzyste (oprócz dz. 164/5), Ogrodnictwo WEIN, FREE WAY, KAMINIARZ, TRANS-MAR, WIELIŃSKI, VISHOME.",
+      "id": "e3386a47ec26c3f4f352475c3864b071"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wiosenna, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4145998,
+      "lon": 16.8720792,
+      "start_time": "2025-12-30T08:30:00",
+      "end_time": "2025-12-30T15:30:00",
+      "original_description": "Leszno: ul. Jesienna nr 1 do 12, 13, 15, 16, 17, 17ABCD, 18, 19,  21, 22ABCD, 23, 25, 26, 27, 29, 31; ul. Wiosenna nr 19; ul. Poznańska nr 17 do 25 i 29 do 51 nieparzyste (oprócz dz. 164/5), Ogrodnictwo WEIN, FREE WAY, KAMINIARZ, TRANS-MAR, WIELIŃSKI, VISHOME.",
+      "id": "d5d193c1b9f77ad0ee7124d18d2e76b6"
     },
     {
       "type": "planned",
