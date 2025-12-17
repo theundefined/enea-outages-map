@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-17T07:43:01.930228+00:00",
+  "last_update": "2025-12-17T07:56:46.649046+00:00",
   "outages": [
     {
       "type": "planned",
@@ -940,6 +940,36 @@
       "end_time": "2025-12-17T08:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "19a4efa953d556982cd2b475e41fc8cd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mała Rekreacyjna, Borówiec, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-023, Polska",
+      "lat": 52.2861063,
+      "lon": 17.0396643,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T11:00:00",
+      "original_description": "Borówiec ul. Mała Rekreacyjna, ul. Na Skarpie, ul. Osiedle Piaskowe, ul. Osiedle Zielona Polana, ul. Poznańska, ul. Zielona Dolina.",
+      "id": "85ba79bcba578ddf932a84ee4b4a0d3d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Na Skarpie, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-159, Polska",
+      "lat": 52.3893929,
+      "lon": 16.9452618,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T11:00:00",
+      "original_description": "Borówiec ul. Mała Rekreacyjna, ul. Na Skarpie, ul. Osiedle Piaskowe, ul. Osiedle Zielona Polana, ul. Poznańska, ul. Zielona Dolina.",
+      "id": "119ff9a7b3f07b5337266a4148c34829"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T11:00:00",
+      "original_description": "Borówiec ul. Mała Rekreacyjna, ul. Na Skarpie, ul. Osiedle Piaskowe, ul. Osiedle Zielona Polana, ul. Poznańska, ul. Zielona Dolina.",
+      "id": "cd969b7ff70c0389675597ef3dfc2854"
     }
   ]
 }
