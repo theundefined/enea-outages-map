@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-17T11:18:20.447755+00:00",
+  "last_update": "2025-12-17T11:35:40.981257+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,26 @@
       "end_time": "2025-12-17T13:00:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "25e3743459e10b8d587c354f462908a0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T14:00:00",
+      "original_description": "Strykowo ul. Poznańska, ul. Zielarska.",
+      "id": "03c549c12696e4eef1147f63c3461b1a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielarska, Gołuski, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-069, Polska",
+      "lat": 52.3624804,
+      "lon": 16.7470252,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-17T14:00:00",
+      "original_description": "Strykowo ul. Poznańska, ul. Zielarska.",
+      "id": "ac0d7b59f90281d4130d75c04d293f30"
     }
   ]
 }
