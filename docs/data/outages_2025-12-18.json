@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-18T06:28:41.058466+00:00",
+  "last_update": "2025-12-18T06:56:04.266245+00:00",
   "outages": [
     {
       "type": "planned",
@@ -310,6 +310,16 @@
       "end_time": "2025-12-22T13:00:00",
       "original_description": "Poznań: ul. Koszalińska 15, 32, dz. 12/2, dz. 12/4, dz. 14/1, ul. Wałecka 1.",
       "id": "206cdc2a113e302e1e0816731a2277ba"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "2025-12-29T08:00:00",
+      "end_time": "2025-12-29T16:00:00",
+      "original_description": "Poznań: ul. Obornicka 277, 279.",
+      "id": "4727c6d101c3bd549a9efa00d78fce7c"
     },
     {
       "type": "planned",
@@ -630,6 +640,16 @@
       "end_time": "2025-12-30T12:00:00",
       "original_description": "Poznań: ul. Bnińska 5, ul. Warszawska 37A, ul. św. Michała 20.",
       "id": "2e37690260693ac6f58d4f3ce904b07d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jeleniogórska, Junikowo, Poznań, województwo wielkopolskie, 60-179, Polska",
+      "lat": 52.3909845,
+      "lon": 16.8482938,
+      "start_time": "2025-12-30T09:00:00",
+      "end_time": "2025-12-30T15:00:00",
+      "original_description": "Poznań: ul. Jeleniogórska 20 dz. 3/7.",
+      "id": "2a3f482583d611bf753c51f194ed83b1"
     },
     {
       "type": "planned",
