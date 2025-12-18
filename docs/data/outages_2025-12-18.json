@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-18T07:41:44.912524+00:00",
+  "last_update": "2025-12-18T07:54:23.464431+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1190,6 +1190,96 @@
       "end_time": "2025-12-18T10:00:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "26d27ba0adc1f3c6bcd1805c7810013a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "0507ebb2a240258a40a56f0dc04d3b5f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Elżbiety Drużbackiej, Łazarz, Poznań, województwo wielkopolskie, 60-750, Polska",
+      "lat": 52.3979843,
+      "lon": 16.8981067,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "4ffa7830b782f16ab143fba299a07672"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "d3ccf9464d6975d8f3b1c86d740e1053"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.39658,
+      "lon": 16.8986607,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "fcfea4e20ec60079e87395cb8459c2db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Kossaka, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.3999606,
+      "lon": 16.8975131,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "f41c60306673a86071e6fe488dadb2db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Jarochowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961127,
+      "lon": 16.894134,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "719023b69691be44c3fa0b8ceb7358b9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościół pw. św. Andrzeja Apostoła, 92, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3510298,
+      "lon": 17.0254837,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "fb1c517ad4db90eaef4aa58558510064"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "5b44360c42dbb96425222f690cfedf04"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ułańska, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.4000327,
+      "lon": 16.8960356,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
+      "id": "cc66944ae32a6b58c3a26045ebc9889a"
     }
   ]
 }
