@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-18T08:53:13.557663+00:00",
+  "last_update": "2025-12-18T09:24:23.621490+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1280,6 +1280,36 @@
       "end_time": "2025-12-18T11:00:00",
       "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
       "id": "cc66944ae32a6b58c3a26045ebc9889a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "514034d58cc6f8ac5103c9e613701f31"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "d849261f1bb1740329cb0c8989661ac4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T11:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "f9d3743756ed857bfb32914d033c4303"
     },
     {
       "type": "unplanned",
