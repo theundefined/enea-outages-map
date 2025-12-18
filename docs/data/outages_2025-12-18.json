@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-18T08:26:24.805603+00:00",
+  "last_update": "2025-12-18T08:53:13.557663+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1280,6 +1280,36 @@
       "end_time": "2025-12-18T11:00:00",
       "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Elżbiety Drużbackiej, ul. Głogowska, ul. Jana Matejki, ul. Juliusza Kossaka, ul. Kazimierza Jarochowskiego, ul. Stanisława Wyspiańskiego, ul. Ułańska.",
       "id": "cc66944ae32a6b58c3a26045ebc9889a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T12:00:00",
+      "original_description": "Poznań os. Piastowskie.",
+      "id": "9f7ca639038fed3094c5ff3da8f61312"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T12:00:00",
+      "original_description": "Poznań os. Piastowskie, ul. Wioślarska.",
+      "id": "352a838c28978592790f637a575a7311"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wioślarska, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-151, Polska",
+      "lat": 52.3936268,
+      "lon": 16.9486348,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-18T12:00:00",
+      "original_description": "Poznań os. Piastowskie, ul. Wioślarska.",
+      "id": "48e41936a989719f26f9ed67ebccf74f"
     }
   ]
 }
