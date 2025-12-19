@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-19T06:41:15.671055+00:00",
+  "last_update": "2025-12-19T07:00:47.723774+00:00",
   "outages": [
     {
       "type": "planned",
@@ -430,6 +430,36 @@
       "end_time": "2025-12-30T15:00:00",
       "original_description": "Poznań: ul. Jeleniogórska 20 dz. 3/7.",
       "id": "2a3f482583d611bf753c51f194ed83b1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kowalska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-663, Polska",
+      "lat": 52.4354127,
+      "lon": 16.9094365,
+      "start_time": "2026-01-07T08:00:00",
+      "end_time": "2026-01-07T13:00:00",
+      "original_description": "Poznań: ul. Kowalska 19.",
+      "id": "d3294dc5d086925575d740efab747920"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słodyńska, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764034,
+      "lon": 16.8015936,
+      "start_time": "2026-01-07T08:00:00",
+      "end_time": "2026-01-07T14:00:00",
+      "original_description": "Poznań: ul. Słodyńska od 1 do 43 nieparzyste, 2, 2A-H, 4, 8, 8A-D, 16, od 30 do 42 parzyste, ul. Łagiewnicka.",
+      "id": "5275af5935cdc9a030e9ea1d9b469b11"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łagiewnicka, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4774426,
+      "lon": 16.8060561,
+      "start_time": "2026-01-07T08:00:00",
+      "end_time": "2026-01-07T14:00:00",
+      "original_description": "Poznań: ul. Słodyńska od 1 do 43 nieparzyste, 2, 2A-H, 4, 8, 8A-D, 16, od 30 do 42 parzyste, ul. Łagiewnicka.",
+      "id": "7df6ef8620ca9be656b63970c3e323e7"
     },
     {
       "type": "planned",
