@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-19T08:54:21.211529+00:00",
+  "last_update": "2025-12-19T09:22:00.508639+00:00",
   "outages": [
     {
       "type": "planned",
@@ -680,6 +680,236 @@
       "end_time": "2025-12-19T10:00:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "988f1e19b53a8af7dc9e80767c70a4d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T11:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "15f014318862bef5be65372df5225a62"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T11:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "63e2fa8590d55f9e35e9b9ad69e9d7e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T11:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "b03f71299bfe82102ca6e8f9acb48779"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "1 Maja, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3335419,
+      "lon": 16.8849169,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "ba6674d8aea07cc5ffe6beea7c59237a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "27 Grudnia, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-725, Polska",
+      "lat": 52.4081776,
+      "lon": 16.9223847,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "f40c29c7e0ef799912c9b9ef9355a6da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bobrownicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3640907,
+      "lon": 17.0356103,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Poznań ul. Bobrownicka, ul. Darzyńska, ul. Michałowo, ul. Żyzna.",
+      "id": "d1f46f04d4183fb7b66b0569878a9f4d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darzyńska, Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-304, Polska",
+      "lat": 52.3775118,
+      "lon": 17.0350945,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Poznań ul. Bobrownicka, ul. Darzyńska, ul. Michałowo, ul. Żyzna.",
+      "id": "ff067fa96ac050266171690d336a0a92"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "e8d2db188d9ff7eebbb068b68f1662a0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fryderyka Chopina, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-708, Polska",
+      "lat": 52.4136241,
+      "lon": 16.9189832,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "cdda638c509361abe8f7966009174889"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Garncarska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-819, Polska",
+      "lat": 52.4061177,
+      "lon": 16.9216948,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "1655d9de32ae925d0b12eb7ffa8833c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jastrowska, Strzeszyn, Poznań, województwo wielkopolskie, 60-463, Polska",
+      "lat": 52.4613127,
+      "lon": 16.8471281,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "2e7920219bc863f2d56e29a466f5ff3f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "eb4d4760b7534620debfa8c3242ae3c3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Poznań ul. Bobrownicka, ul. Darzyńska, ul. Michałowo, ul. Żyzna.",
+      "id": "8f110a348ad4487e1047bcfa531fb053"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4537561,
+      "lon": 16.913691,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "479cce138273c90298c4f89e62c64541"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "2cd6061e9d9fbb65769997892aa61653"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "ce864f3afcfd994f428490cb14669cda"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "443142fa525082323114457189cd5852"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "479355de9ac2cfed4b4a75e57249da10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Targowa, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3395481,
+      "lon": 16.8720337,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "02fe29c543a86a571e97312e5832d51a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "a9c7e8c76388074034fe727a83cfaf23"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4104641,
+      "lon": 16.9342257,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "32d357329605792a25da048862dafd20"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Szamotuły al. 1 Maja, Rynek, ul. 27 Grudnia 1918 r., ul. Bolesława Chrobrego, ul. Braci Czeskich, ul. Długa, ul. Fryderyka Chopina, ul. Garncarska, ul. Jastrowska, ul. Kościelna, ul. Obornicka, ul. Piekarska, ul. Poznańska, ul. Słoneczna, ul. Sportowa, ul. Targowa, ul. Wodna, ul. Wroniecka, ul. Zielona.",
+      "id": "45f5f4284c7f4fc41de2bc939019b87c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żyzna, Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3706866,
+      "lon": 17.0337254,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T12:30:00",
+      "original_description": "Poznań ul. Bobrownicka, ul. Darzyńska, ul. Michałowo, ul. Żyzna.",
+      "id": "9f5478c1123f5afe4ac94bddafc35293"
     }
   ]
 }
