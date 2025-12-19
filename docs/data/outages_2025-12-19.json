@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-19T07:00:47.723774+00:00",
+  "last_update": "2025-12-19T07:32:26.531894+00:00",
   "outages": [
     {
       "type": "planned",
@@ -433,6 +433,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Świętego Wincentego, Zawady, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-003, Polska",
+      "lat": 52.4141515,
+      "lon": 16.9532481,
+      "start_time": "2026-01-05T08:30:00",
+      "end_time": "2026-01-05T09:30:00",
+      "original_description": "Poznań: ul. Św. Wincentego 10, 12, 15, parking.",
+      "id": "4df8d4e0508943e12b3c04e34803aa5a"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kowalska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-663, Polska",
       "lat": 52.4354127,
       "lon": 16.9094365,
@@ -460,6 +470,86 @@
       "end_time": "2026-01-07T14:00:00",
       "original_description": "Poznań: ul. Słodyńska od 1 do 43 nieparzyste, 2, 2A-H, 4, 8, 8A-D, 16, od 30 do 42 parzyste, ul. Łagiewnicka.",
       "id": "7df6ef8620ca9be656b63970c3e323e7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Agrestowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3698238,
+      "lon": 17.0015862,
+      "start_time": "2026-01-07T08:30:00",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "d6b29db886f78388b948897936ec13b9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Brokułowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3708353,
+      "lon": 17.005569,
+      "start_time": "2026-01-07T08:30:00",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "0c1b286b65a601b83b543a748dbf79dc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dyniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3709709,
+      "lon": 17.0055903,
+      "start_time": "2026-01-07T08:30:00",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "f83826b179b7b79bbbca946659ac4e84"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "2026-01-07T08:30:00",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "1a9c3bcb4ff49d12f3ab364386b4171c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "2026-01-07T08:30:00",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "6c3d274a5e0cbd51d70435037cdb8156"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rzodkiewkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3706585,
+      "lon": 17.0066846,
+      "start_time": "2026-01-07T08:30:00",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "4de328203e8426cef7d59b92e452d2c7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stewnicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3737936,
+      "lon": 16.9986544,
+      "start_time": "2026-01-07T08:30:00",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "cf426ec9a938fbbdeec25afda86a4d26"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szparagowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3711021,
+      "lon": 17.0045019,
+      "start_time": "2026-01-07T08:30:00",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "4470604b290786411e8c190eb55be809"
     },
     {
       "type": "planned",
@@ -560,6 +650,36 @@
       "end_time": "2025-12-19T07:00:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "407e60b049fc0f0ee138d2567d849421"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T10:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "ef6ac4fa21909151d47922ca935f2b39"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T10:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "62b58bcebd213c78307803809c90ddc9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-19T10:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "988f1e19b53a8af7dc9e80767c70a4d0"
     }
   ]
 }
