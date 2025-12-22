@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-22T07:00:36.609629+00:00",
+  "last_update": "2025-12-22T07:33:22.948617+00:00",
   "outages": [
     {
       "type": "planned",
@@ -580,6 +580,26 @@
       "end_time": "2025-12-22T08:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "1e70d1afc7ae3b5b8a354b687055962e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Koszalińska, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-626, Polska",
+      "lat": 52.4362166,
+      "lon": 16.8798349,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T10:30:00",
+      "original_description": "Poznań ul. Koszalińska, ul. Wałecka.",
+      "id": "4c1d2c5a4e1f8a81226d10cfa2b38bf2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wałecka, Strzeszyn, Poznań, województwo wielkopolskie, 60-463, Polska",
+      "lat": 52.4692024,
+      "lon": 16.8486827,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T10:30:00",
+      "original_description": "Poznań ul. Koszalińska, ul. Wałecka.",
+      "id": "df783fdd880ef248bece23c4792baf7b"
     }
   ]
 }
