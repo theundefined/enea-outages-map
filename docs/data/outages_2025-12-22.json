@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-22T07:33:22.948617+00:00",
+  "last_update": "2025-12-22T07:48:36.329841+00:00",
   "outages": [
     {
       "type": "planned",
@@ -600,6 +600,86 @@
       "end_time": "2025-12-22T10:30:00",
       "original_description": "Poznań ul. Koszalińska, ul. Wałecka.",
       "id": "df783fdd880ef248bece23c4792baf7b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cześnikowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-326, Polska",
+      "lat": 52.4019434,
+      "lon": 16.8694828,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "14873220f92e2215722b48ec1b3897c5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "1024c8f24bfa94471cac1a0c64624145"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Husarska, Kasztelanów, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-332, Polska",
+      "lat": 52.4006651,
+      "lon": 16.8749618,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "fff087d0029ce51c118bd0a9ef21173d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kanclerska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-345, Polska",
+      "lat": 52.4016994,
+      "lon": 16.8717044,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "21e4fba9daafbccbd185f0edc3dc7587"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marszałkowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-327, Polska",
+      "lat": 52.4003519,
+      "lon": 16.8670496,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "f297781de2cce2b3b94d23d0d587d62c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podkomorska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-327, Polska",
+      "lat": 52.4012336,
+      "lon": 16.8681331,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "08efe283f65d1590d907b46ce4799700"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podstolińska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.3998634,
+      "lon": 16.8719634,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "80f13d6e67507e0ed406b2e7ecae1841"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Senatorska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-330, Polska",
+      "lat": 52.3988822,
+      "lon": 16.8679596,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "40d322746324fa7dcf930f6dc3f53bf9"
     }
   ]
 }
