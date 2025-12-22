@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-22T07:57:38.061759+00:00",
+  "last_update": "2025-12-22T08:35:16.732252+00:00",
   "outages": [
     {
       "type": "planned",
@@ -483,6 +483,76 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "56, Joachima Lelewela, Świerczewo, Poznań, województwo wielkopolskie, 61-412, Polska",
+      "lat": 52.3642634,
+      "lon": 16.8813036,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T12:30:00",
+      "original_description": "Poznań: Lelewela 56, od 80 do 96 parzyste, ul. Kołłątaja od 53 do 79 nieparzyste, od 50 do 72 parzyste, ul. Grześkiewicza, ul. Vetulaniego 11.",
+      "id": "6322f515f890a0371013cc838aff3406"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Adama Grześkiewicza, Świerczewo, Poznań, województwo wielkopolskie, 61-414, Polska",
+      "lat": 52.3655068,
+      "lon": 16.8869699,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T12:30:00",
+      "original_description": "Poznań: Lelewela 56, od 80 do 96 parzyste, ul. Kołłątaja od 53 do 79 nieparzyste, od 50 do 72 parzyste, ul. Grześkiewicza, ul. Vetulaniego 11.",
+      "id": "ce3e7636160462c35a713a02b0d5b1e8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Buczka, Leszczyńska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3638889,
+      "lon": 16.8787832,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T12:30:00",
+      "original_description": "Poznań: ul. Okulickiego od 43 do 115 nieparzyste, od 50 do 66 parzyste, od 72 do 98 parzyste, ul. Krasickiego od 25 do do 93 nieparzyste, od 36 do 110 parzyste, ul. Buczka 6, 8, 10, 12, 16, 18, 20, 22, 24, od 37 do 49 nieparzyste.",
+      "id": "29083e6a881dbb739e116bbad06abdf8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hugona Kołłątaja, Świerczewo, Poznań, województwo wielkopolskie, 61-413, Polska",
+      "lat": 52.3649609,
+      "lon": 16.8838234,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T12:30:00",
+      "original_description": "Poznań: Lelewela 56, od 80 do 96 parzyste, ul. Kołłątaja od 53 do 79 nieparzyste, od 50 do 72 parzyste, ul. Grześkiewicza, ul. Vetulaniego 11.",
+      "id": "ee4b5f52e0e74e62412177c22ffb1ae6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ignacego Krasickiego, Świerczewo, Poznań, województwo wielkopolskie, 61-412, Polska",
+      "lat": 52.3645236,
+      "lon": 16.8818087,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T12:30:00",
+      "original_description": "Poznań: ul. Okulickiego od 43 do 115 nieparzyste, od 50 do 66 parzyste, od 72 do 98 parzyste, ul. Krasickiego od 25 do do 93 nieparzyste, od 36 do 110 parzyste, ul. Buczka 6, 8, 10, 12, 16, 18, 20, 22, 24, od 37 do 49 nieparzyste.",
+      "id": "4212a77726f018e257ad8a77b1e664c8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leopolda Okulickiego, Świerczewo, Poznań, województwo wielkopolskie, 61-413, Polska",
+      "lat": 52.3623806,
+      "lon": 16.8837785,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T12:30:00",
+      "original_description": "Poznań: ul. Okulickiego od 43 do 115 nieparzyste, od 50 do 66 parzyste, od 72 do 98 parzyste, ul. Krasickiego od 25 do do 93 nieparzyste, od 36 do 110 parzyste, ul. Buczka 6, 8, 10, 12, 16, 18, 20, 22, 24, od 37 do 49 nieparzyste.",
+      "id": "f4ca1a96798c9d40c9055c2c9bce8e5c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tadeusza Vetulaniego, Świerczewo, Poznań, województwo wielkopolskie, 61-409, Polska",
+      "lat": 52.36191,
+      "lon": 16.8825448,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T12:30:00",
+      "original_description": "Poznań: Lelewela 56, od 80 do 96 parzyste, ul. Kołłątaja od 53 do 79 nieparzyste, od 50 do 72 parzyste, ul. Grześkiewicza, ul. Vetulaniego 11.",
+      "id": "07f5bac781cf0c443c1a29319b28aaef"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Dereniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
       "lat": 52.3605579,
       "lon": 17.0285227,
@@ -633,6 +703,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Jemiołowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4856989,
+      "lon": 16.9449625,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Jemiołowa, ul. Lubczykowa, ul. Naramowicka, ul. Radojewo, ul. Rzewieniowa, ul. Szafranowa.",
+      "id": "47b9eeb286f4862e498b94c6cc475343"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Kanclerska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-345, Polska",
       "lat": 52.4016994,
       "lon": 16.8717044,
@@ -643,6 +723,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Lubczykowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4869795,
+      "lon": 16.945007,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Jemiołowa, ul. Lubczykowa, ul. Naramowicka, ul. Radojewo, ul. Rzewieniowa, ul. Szafranowa.",
+      "id": "b2b3a251e4b2ab1fca9ce54a1ea7cbd3"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Marszałkowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-327, Polska",
       "lat": 52.4003519,
       "lon": 16.8670496,
@@ -650,6 +740,16 @@
       "end_time": "2025-12-22T11:00:00",
       "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
       "id": "f297781de2cce2b3b94d23d0d587d62c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Jemiołowa, ul. Lubczykowa, ul. Naramowicka, ul. Radojewo, ul. Rzewieniowa, ul. Szafranowa.",
+      "id": "ab7c8d78d4f6ab61d2e99294683fd423"
     },
     {
       "type": "unplanned",
@@ -673,6 +773,26 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.49832,
+      "lon": 16.946504,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Jemiołowa, ul. Lubczykowa, ul. Naramowicka, ul. Radojewo, ul. Rzewieniowa, ul. Szafranowa.",
+      "id": "1e338b000e5d981f4207ba9004393cf4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzewieniowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4870384,
+      "lon": 16.9436159,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Jemiołowa, ul. Lubczykowa, ul. Naramowicka, ul. Radojewo, ul. Rzewieniowa, ul. Szafranowa.",
+      "id": "936a0d8b8638a4f1946c06ed4c7b9b10"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Senatorska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-330, Polska",
       "lat": 52.3988822,
       "lon": 16.8679596,
@@ -680,6 +800,96 @@
       "end_time": "2025-12-22T11:00:00",
       "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
       "id": "40d322746324fa7dcf930f6dc3f53bf9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szafranowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4869773,
+      "lon": 16.9497819,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T11:00:00",
+      "original_description": "Poznań ul. Jemiołowa, ul. Lubczykowa, ul. Naramowicka, ul. Radojewo, ul. Rzewieniowa, ul. Szafranowa.",
+      "id": "d3e16062f0fb779017be3936193b996c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cześnikowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-326, Polska",
+      "lat": 52.4019434,
+      "lon": 16.8694828,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "8bd7963a7f761c2c42bedbce361ec521"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "42c077a984cd49a15a6161088ae86887"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Husarska, Kasztelanów, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-332, Polska",
+      "lat": 52.4006651,
+      "lon": 16.8749618,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "505f2531fee1551a596951e289cf1b1a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kanclerska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-345, Polska",
+      "lat": 52.4016994,
+      "lon": 16.8717044,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "845012be6b9a9da5c6cfe5803a7dd0fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marszałkowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-327, Polska",
+      "lat": 52.4003519,
+      "lon": 16.8670496,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "6d613aa6fdc227d00fc36a89bbfe7d61"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podkomorska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-327, Polska",
+      "lat": 52.4012336,
+      "lon": 16.8681331,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "6a53d5bd2e18b5e86f2ec349a2ad6243"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podstolińska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.3998634,
+      "lon": 16.8719634,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "de49b9fd93c7983882e469d18e699ee9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Senatorska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-330, Polska",
+      "lat": 52.3988822,
+      "lon": 16.8679596,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-22T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska, ul. Grunwaldzka, ul. Husarska, ul. Kanclerska, ul. Marszałkowska, ul. Podkomorska, ul. Podstolińska, ul. Senatorska.",
+      "id": "4cf178f2ed1e41d4bc7250afb0504e30"
     }
   ]
 }
