@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-23T17:54:45.611299+00:00",
+  "last_update": "2025-12-23T18:27:17.219691+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1463,6 +1463,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-23T20:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "49dc9f00e2458ec9b862a8be2407f098"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
       "lat": 52.3756714,
       "lon": 16.8649743,
@@ -1510,6 +1520,16 @@
       "end_time": "2025-12-23T20:30:00",
       "original_description": "Gierłatowo, Kokoszki, Nekla ul. Akacjowa, ul. Boczna, ul. Chabrowa, ul. Chopina, ul. Czereśniowa, ul. Dworcowa, ul. Feliksa Walkowiaka, ul. gen. Kazimierza Grudzielskiego, ul. Gnieźnieńska, ul. Jana Nowaka, ul. Jaśminowa, ul. Jodłowa, ul. Krótka, ul. Lawendowa, ul. Leszczynowa, ul. Lipowa, ul. Łąkowa, ul. Magiczna, ul. Mała, ul. Modrzewiowa, ul. Nad Maskawą, ul. Nowa, ul. Ogrodowa, ul. Orzechowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rajmundowo, ul. Rynek, ul. Sosnowa, ul. Sportowa, ul. Stadionowa, ul. Starczanowska, ul. Wierzbowa, ul. Wiosny Ludów, ul. Wiśniowa, ul. Wrzesińska, Starczanowo ul. Jana Wizły, ul. Starczana.",
       "id": "3f196b95be7554455bcad31dbf087635"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-23T20:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "5e6e44c7f35a3e686efe889767c9171e"
     },
     {
       "type": "unplanned",
@@ -1680,6 +1700,16 @@
       "end_time": "2025-12-23T20:30:00",
       "original_description": "Gierłatowo, Kokoszki, Nekla ul. Akacjowa, ul. Boczna, ul. Chabrowa, ul. Chopina, ul. Czereśniowa, ul. Dworcowa, ul. Feliksa Walkowiaka, ul. gen. Kazimierza Grudzielskiego, ul. Gnieźnieńska, ul. Jana Nowaka, ul. Jaśminowa, ul. Jodłowa, ul. Krótka, ul. Lawendowa, ul. Leszczynowa, ul. Lipowa, ul. Łąkowa, ul. Magiczna, ul. Mała, ul. Modrzewiowa, ul. Nad Maskawą, ul. Nowa, ul. Ogrodowa, ul. Orzechowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rajmundowo, ul. Rynek, ul. Sosnowa, ul. Sportowa, ul. Stadionowa, ul. Starczanowska, ul. Wierzbowa, ul. Wiosny Ludów, ul. Wiśniowa, ul. Wrzesińska, Starczanowo ul. Jana Wizły, ul. Starczana.",
       "id": "955a5113da3d6ba150f0a41adbc6ebed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-23T20:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "46db97ac3fc039d56fdd5c528e1e324d"
     },
     {
       "type": "unplanned",
