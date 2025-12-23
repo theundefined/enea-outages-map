@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-23T19:15:49.373630+00:00",
+  "last_update": "2025-12-23T19:30:43.588220+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1810,6 +1810,36 @@
       "end_time": "2025-12-23T20:30:00",
       "original_description": "Gierłatowo, Kokoszki, Nekla ul. Akacjowa, ul. Boczna, ul. Chabrowa, ul. Chopina, ul. Czereśniowa, ul. Dworcowa, ul. Feliksa Walkowiaka, ul. gen. Kazimierza Grudzielskiego, ul. Gnieźnieńska, ul. Jana Nowaka, ul. Jaśminowa, ul. Jodłowa, ul. Krótka, ul. Lawendowa, ul. Leszczynowa, ul. Lipowa, ul. Łąkowa, ul. Magiczna, ul. Mała, ul. Modrzewiowa, ul. Nad Maskawą, ul. Nowa, ul. Ogrodowa, ul. Orzechowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rajmundowo, ul. Rynek, ul. Sosnowa, ul. Sportowa, ul. Stadionowa, ul. Starczanowska, ul. Wierzbowa, ul. Wiosny Ludów, ul. Wiśniowa, ul. Wrzesińska, Starczanowo ul. Jana Wizły, ul. Starczana.",
       "id": "7ade34d97cbacd1cd6b4896676401ece"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-23T22:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "77c582be4e91345d04cd2f3d04e2d20c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-23T22:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "34f2abd2cd935aea81b3a86be689d5b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-23T22:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "350e53eec23e763e56d65668859c4ccd"
     }
   ]
 }
