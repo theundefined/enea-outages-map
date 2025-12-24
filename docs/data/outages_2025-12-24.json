@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-24T11:55:38.441044+00:00",
+  "last_update": "2025-12-24T12:38:53.372987+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1020,6 +1020,36 @@
       "end_time": "2025-12-24T13:00:00",
       "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
       "id": "ad246f7f8c612c495c0e15ddecfe314c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T14:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "4c1163d3f8a30c5e230b538cea06f461"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T14:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "b8dce39cb9690554377640a68e0dbfa8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T14:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "cedccaf8e8f9ad1e3ee2a5f93a051626"
     },
     {
       "type": "unplanned",
