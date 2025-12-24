@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-24T09:45:25.078179+00:00",
+  "last_update": "2025-12-24T09:55:24.285575+00:00",
   "outages": [
     {
       "type": "planned",
@@ -690,6 +690,236 @@
       "end_time": "2025-12-24T11:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "3d8227195f679df4089fbabf7ec89197"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolna, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4697134,
+      "lon": 16.9524326,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "ccfb6a28108bf88b121cd33b37c62f49"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Działkowa, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-131, Polska",
+      "lat": 52.3890032,
+      "lon": 16.8799714,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "db53cf22aecef9f6f29700de171be897"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "374912ed640f0921c4e1f2fd152defa6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "ee70a42c831aecaa80774e5c751eb6c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeżynowa, Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3693677,
+      "lon": 17.0351542,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "cf282c8f486027decbf165a0cf3a5a1e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "832bb620c53457e76f81d5bf11bbd117"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Czapury ul. Kręta, ul. Poznańska, Poznań ul. Starołęcka.",
+      "id": "7c25b221a5ef1e4d84a5aab7dceccc39"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "332190b169cfd277faef0b6ca0502021"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "0ae6c06562f0f57b89d265690c85dad1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morelowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.370513,
+      "lon": 16.8987738,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "52e00e7cca9c3d4157df76e809c195d8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podleśna, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4180824,
+      "lon": 17.0426216,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "2f20ff063457acaa0a0d4dc2d1743e21"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "86ead8755d5833d74deaa7fd306e9147"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Czapury ul. Kręta, ul. Poznańska, Poznań ul. Starołęcka.",
+      "id": "4ce9af2c9dcbe30a568b8b13213aeacc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Promowa, Czapury, gmina Mosina, powiat poznański, województwo wielkopolskie, 61-106, Polska",
+      "lat": 52.3137558,
+      "lon": 16.9088739,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "763bf25c2a0d65fc7f5f13af98a28978"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rydzowa, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, gmina Mosina, powiat poznański, województwo wielkopolskie, 61-332, Polska",
+      "lat": 52.3304556,
+      "lon": 16.9214526,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "b0beeb6487ab914a3c19159fafd884be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "17e2dce77d4386142269158395cd49ca"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "9caddeeb18c59c35908a7064e4f53f69"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Czapury ul. Kręta, ul. Poznańska, Poznań ul. Starołęcka.",
+      "id": "c4192a64a6a385b3dc132704e26d31b5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "306c0e892caa9ecd60d35fc85f26459b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "ff9b7bf83a1001c0aaf82af6500ba8aa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wyższa Szkoła Bankowa w Poznaniu, 1, Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4036146,
+      "lon": 16.923645,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "88d7a02400a0e09f892326d181837a8d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "436ea9f3ef3b04783bb322d163909ee7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żurawinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-455, Polska",
+      "lat": 52.3681895,
+      "lon": 16.9066014,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-24T13:00:00",
+      "original_description": "Głuszyna Leśna, Czapury ul. Dolna, ul. Gromadzka, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Promowa, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa, Poznań ul. Rydzowa, ul. Starołęcka.",
+      "id": "ad246f7f8c612c495c0e15ddecfe314c"
     }
   ]
 }
