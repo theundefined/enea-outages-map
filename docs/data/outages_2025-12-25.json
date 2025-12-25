@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-25T17:55:49.134606+00:00",
+  "last_update": "2025-12-25T18:27:52.764920+00:00",
   "outages": [
     {
       "type": "planned",
@@ -540,6 +540,146 @@
       "end_time": "2026-01-13T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "20e3e38e7373fb4c988c3926364854e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.430754,
+      "lon": 16.9078088,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "bb67f67bf628358c9beb5b40458117c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błękitna, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-656, Polska",
+      "lat": 52.4304551,
+      "lon": 16.9048887,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "a787dfda64871b092a38513de30af39a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kowalska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-663, Polska",
+      "lat": 52.4354127,
+      "lon": 16.9094365,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "11b0bb84dd7223ae35ccd73d5996d314"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lazurowa, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-655, Polska",
+      "lat": 52.4298566,
+      "lon": 16.9061895,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "acdab7eb64b1d7e8294f44b451bd0382"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Prześwit, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-656, Polska",
+      "lat": 52.4297933,
+      "lon": 16.9054464,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "0ae22c6b3f2f15cd27c00af7a950a853"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szydłowska, Osiedle Przyjaźni, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4270743,
+      "lon": 16.9134932,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "0add0567dd598549faec50ae4982b434"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Turkusowa, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-656, Polska",
+      "lat": 52.430605,
+      "lon": 16.9040148,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "2ee1291097c3ce17806f22e9459e91c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Widna, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4292557,
+      "lon": 16.9089359,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "b7b7b07662fa4dd852c9d1e9ee964be4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "ccaa5fdeffe4a4079a8bfe7bcb9c5e7c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Winiarska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4286072,
+      "lon": 16.9088052,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "603ff45811cccf50116ebeef5d26e5e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4329657,
+      "lon": 16.9118111,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "68a9222fdc9fe00e59a7b9e77350566a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojska Polskiego, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-660, Polska",
+      "lat": 52.4295634,
+      "lon": 16.8937649,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "c3649c80777cc56a964e16a16489a2a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wołyńska, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-637, Polska",
+      "lat": 52.426925,
+      "lon": 16.9065641,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "c74c08adbd55fbfdfef1519771de1bc2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zjazd, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-639, Polska",
+      "lat": 52.4283697,
+      "lon": 16.9096701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T21:30:00",
+      "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
+      "id": "40b017e57ebe25758db538087950c93b"
     }
   ]
 }
