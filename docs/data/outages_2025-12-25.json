@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-25T19:54:13.118360+00:00",
+  "last_update": "2025-12-25T20:20:13.895469+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1050,6 +1050,86 @@
       "end_time": "2025-12-25T23:00:00",
       "original_description": "Poznań os. Winiary, ul. Błękitna, ul. Bonin, ul. Kowalska, ul. Lazurowa, ul. Prześwit, ul. Szydłowska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Wojska Polskiego, ul. Wołyńska, ul. Zjazd.",
       "id": "83ba65493e1d9b493caeb1a2a9a3a9d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.430754,
+      "lon": 16.9078088,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T23:30:00",
+      "original_description": "Poznań os. Winiary, ul. Bonin, ul. Kowalska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Zjazd.",
+      "id": "38abba4c34d1951feb99ca8d7f0ecd8b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kowalska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-663, Polska",
+      "lat": 52.4354127,
+      "lon": 16.9094365,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T23:30:00",
+      "original_description": "Poznań os. Winiary, ul. Bonin, ul. Kowalska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Zjazd.",
+      "id": "c0e4d3857dc7d91cacdad7b68a139fb3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Turkusowa, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-656, Polska",
+      "lat": 52.430605,
+      "lon": 16.9040148,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T23:30:00",
+      "original_description": "Poznań os. Winiary, ul. Bonin, ul. Kowalska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Zjazd.",
+      "id": "569754970f51f155a7eccc9d9171c895"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Widna, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4292557,
+      "lon": 16.9089359,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T23:30:00",
+      "original_description": "Poznań os. Winiary, ul. Bonin, ul. Kowalska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Zjazd.",
+      "id": "651d52fa8b3385fe482898bf6ec83c02"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T23:30:00",
+      "original_description": "Poznań os. Winiary, ul. Bonin, ul. Kowalska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Zjazd.",
+      "id": "72f8501102ea403affc2d4d597ade37a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Winiarska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4286072,
+      "lon": 16.9088052,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T23:30:00",
+      "original_description": "Poznań os. Winiary, ul. Bonin, ul. Kowalska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Zjazd.",
+      "id": "abc0e21e685f53218c5ec5aebe2cddec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4329657,
+      "lon": 16.9118111,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T23:30:00",
+      "original_description": "Poznań os. Winiary, ul. Bonin, ul. Kowalska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Zjazd.",
+      "id": "f73e67339e9bb8205b74e43cfca0c51a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zjazd, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-639, Polska",
+      "lat": 52.4283697,
+      "lon": 16.9096701,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-25T23:30:00",
+      "original_description": "Poznań os. Winiary, ul. Bonin, ul. Kowalska, ul. Turkusowa, ul. Widna, ul. Wincentego Witosa, ul. Winiarska, ul. Zjazd.",
+      "id": "2922abe95b8c63783cd3363d7ca8dac3"
     }
   ]
 }
