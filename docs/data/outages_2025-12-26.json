@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-26T06:42:39.831169+00:00",
+  "last_update": "2025-12-26T07:01:09.879361+00:00",
   "outages": [
     {
       "type": "planned",
@@ -540,6 +540,136 @@
       "end_time": "2026-01-13T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "20e3e38e7373fb4c988c3926364854e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gniewska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4391809,
+      "lon": 16.8225109,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "ec196f91be11452f9f0012dd2937edde"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościerzyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4355937,
+      "lon": 16.8163307,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "0b937bff350fd2e0abe1c1091e9674b6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Międzyzdrojska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4419025,
+      "lon": 16.8056672,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "9bcdf86d1b6ba2f3734b9940096c7f5b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mrzeżyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4374074,
+      "lon": 16.818626,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "121a83a38234e9cfe949696214870ca4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Jeziorem, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4417301,
+      "lon": 16.8041042,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "722aee8d6ccbeaef79aeeaf0665f413f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Oliwska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-456, Polska",
+      "lat": 52.4390403,
+      "lon": 16.8133852,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "baa028c1e6863ceb684249acc3e4ca23"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ornecka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4400543,
+      "lon": 16.8175061,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "f561c9bf5a043e0cf183da7a4aef422e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pasłęcka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4401078,
+      "lon": 16.8195062,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "cd59fffe85718d071fbcf27bd5c12faa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polanowska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4406929,
+      "lon": 16.8169403,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "8c8476bce9ec45ab2df5d0e459494d64"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stobnicka, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4569424,
+      "lon": 16.8160274,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "e6d48c6ca44c869daddd0673251f160a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słupska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4510895,
+      "lon": 16.8030346,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "4627f096cf7af4eabe57c0824f3bc208"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wypoczynkowa, Kiekrz, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 62-081, Polska",
+      "lat": 52.4474349,
+      "lon": 16.7889228,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "206e917b985c2d6d8d94cf38b12ee914"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świecka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-456, Polska",
+      "lat": 52.4397213,
+      "lon": 16.8142936,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-26T10:00:00",
+      "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Międzyzdrojska, ul. Mrzeżyńska, ul. Nad Jeziorem, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Słupska, ul. Stobnicka, ul. Świecka.",
+      "id": "4455a5e7a246bddfffe4841dc2b1218f"
     }
   ]
 }
