@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-29T08:28:01.005989+00:00",
+  "last_update": "2025-12-29T08:55:45.342233+00:00",
   "outages": [
     {
       "type": "planned",
@@ -560,6 +560,26 @@
       "end_time": "2026-01-13T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "20e3e38e7373fb4c988c3926364854e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T12:00:00",
+      "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
+      "id": "dc1ad979a162421d7b8a1bae298eb540"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T12:00:00",
+      "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
+      "id": "1e3ea294f18bcda76e29f7c4cb3a21a1"
     }
   ]
 }
