@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-29T13:54:30.711784+00:00",
+  "last_update": "2025-12-29T14:19:14.127872+00:00",
   "outages": [
     {
       "type": "planned",
@@ -660,6 +660,256 @@
       "end_time": "2025-12-29T12:00:00",
       "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
       "id": "1e3ea294f18bcda76e29f7c4cb3a21a1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Arkońska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4137716,
+      "lon": 17.0476876,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "1f96b680a3bca36a15954f738a61d8b6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darniowa, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4229933,
+      "lon": 17.0649875,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "46cacc68699e245d750599b101870901"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Drwali, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4118887,
+      "lon": 17.0444529,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "84c7e357b99cbb008c68167236c7dd66"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dzicza, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4097491,
+      "lon": 17.0429847,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "9a60c5404ab5fe7cb50d80c7cf570597"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grodnicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.415454,
+      "lon": 17.0461251,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "546606060eef9bd15b1ad261356416de"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Górska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4154718,
+      "lon": 17.0435405,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "c28a6ecfaa1227439c825ff1a7c0e579"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kamieńska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4142256,
+      "lon": 17.044022,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "83b8a5cd6814e0908ef2f2feddb45f99"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krośniewicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.411066,
+      "lon": 17.0386179,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "a7c7c2336151816da03e70d9427b63f0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kórnicka, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3997552,
+      "lon": 16.9510957,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "61f6efcb8dd6956f91f7ba856c627abb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśników, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.410882,
+      "lon": 17.0473726,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "aa059bf3d522fd5835177beea92a1389"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podbórska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4175379,
+      "lon": 17.0419905,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "2d03a89cb6e49f370c9eeead61297490"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podleśna, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4180824,
+      "lon": 17.0426216,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "4fc805b769421ac914051874792fbde1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ranowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.41882,
+      "lon": 17.0437122,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "06a27896fc111c584bb76b8a244d2988"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rugijska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4148272,
+      "lon": 17.0417692,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "1b8a7a37491d38051a0289a2304e99ec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sarnia, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4104249,
+      "lon": 17.043821,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "ac9e3535bd544fadeb7585071a649f24"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sobolowa, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4139264,
+      "lon": 17.0454188,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "7f19a292864ec832fe809039f1094d32"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starachowicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4160607,
+      "lon": 17.0434892,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "30e245b5fd06074524a85bcf520a3fcb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starkowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4136932,
+      "lon": 17.0468837,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "50d17aa54be3fc05ab498be3471e4cea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzałkowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4127073,
+      "lon": 17.0496456,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "2b571200d64b1e68fa8503a2a839d106"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Uznamska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4101662,
+      "lon": 17.0473839,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "1e6bb6a3c53ddf06403f36cf920e1a05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warpińska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4133838,
+      "lon": 17.0481825,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "3978a81f8606da6b3bcd8e2e61588cea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zdunowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4121399,
+      "lon": 17.0479725,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "4fa9eb0c998540aa89514a428051f9d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zieleńska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4161034,
+      "lon": 17.042053,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "a04c40e09f74e4c5ae0e60b85cecc43c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.412955,
+      "lon": 17.0468424,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "d061f4f725e75d8c632950e2861b8d64"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętowidzka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4081581,
+      "lon": 17.0412139,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-29T17:30:00",
+      "original_description": "Zalasewo ul. Kórnicka, Poznań ul. Arkońska, ul. Darniowa, ul. Drwali, ul. Dzicza, ul. Górska, ul. Grodnicka, ul. Kamieńska, ul. Krośniewicka, ul. Leśników, ul. Podbórska, ul. Podleśna, ul. Ranowska, ul. Rugijska, ul. Sarnia, ul. Sobolowa, ul. Starachowicka, ul. Starkowska, ul. Strzałkowska, ul. Świętowidzka, ul. Uznamska, ul. Warpińska, ul. Zdunowska, ul. Zieleńska, ul. Zieliniec.",
+      "id": "6a77d8c5428cb0ec22a6bddfb1d25063"
     }
   ]
 }
