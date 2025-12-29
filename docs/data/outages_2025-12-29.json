@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-29T13:25:04.944062+00:00",
+  "last_update": "2025-12-29T13:54:30.711784+00:00",
   "outages": [
     {
       "type": "planned",
@@ -530,6 +530,76 @@
       "end_time": "2026-01-08T12:30:00",
       "original_description": "Poznań: Lelewela 56, od 80 do 96 parzyste, ul. Kołłątaja od 53 do 79 nieparzyste, od 50 do 72 parzyste, ul. Grześkiewicza, ul. Vetulaniego 11.",
       "id": "07f5bac781cf0c443c1a29319b28aaef"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Brzoskwiniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3610446,
+      "lon": 17.0186095,
+      "start_time": "2026-01-08T11:00:00",
+      "end_time": "2026-01-08T14:30:00",
+      "original_description": "Krobia ul. Brzoskwiniowa, Domachowska, Polna, Targowa, Zachodnia- całe ulice; ul. Sportowa nr 10, 12; ul. Poznańska nr 15 do 67 - nieparzyste, nr 24 do 44 - parzyste, działka nr 250, Centrum kultury i rekreacji, EP Ceramika, DINO, Karmik, ORLEN, przepompownie ścieków ( dz. nr 238/2, 410/4).",
+      "id": "1c788b27627dc06b4f954f33e49137cd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska Ogólnokształcąca Szkoła Muzyczna I st. nr 2 im. Tadeusza Szeligowskiego, Bydgoska, Śródka, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4117665,
+      "lon": 16.9556609,
+      "start_time": "2026-01-08T11:00:00",
+      "end_time": "2026-01-08T14:30:00",
+      "original_description": "Krobia ul. Brzoskwiniowa, Domachowska, Polna, Targowa, Zachodnia- całe ulice; ul. Sportowa nr 10, 12; ul. Poznańska nr 15 do 67 - nieparzyste, nr 24 do 44 - parzyste, działka nr 250, Centrum kultury i rekreacji, EP Ceramika, DINO, Karmik, ORLEN, przepompownie ścieków ( dz. nr 238/2, 410/4).",
+      "id": "4de7ed59480047ce503d45d1299f275e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sportowa Szkoła Podstawowa nr 14 im. Władysława Łokietka, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 60-156, Polska",
+      "lat": 52.3911047,
+      "lon": 16.9443477,
+      "start_time": "2026-01-08T11:00:00",
+      "end_time": "2026-01-08T14:30:00",
+      "original_description": "Krobia ul. Brzoskwiniowa, Domachowska, Polna, Targowa, Zachodnia- całe ulice; ul. Sportowa nr 10, 12; ul. Poznańska nr 15 do 67 - nieparzyste, nr 24 do 44 - parzyste, działka nr 250, Centrum kultury i rekreacji, EP Ceramika, DINO, Karmik, ORLEN, przepompownie ścieków ( dz. nr 238/2, 410/4).",
+      "id": "d13d89ba57699df31b7aa5e0859e6e80"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lęborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436224,
+      "lon": 16.8359188,
+      "start_time": "2026-01-09T08:30:00",
+      "end_time": "2026-01-09T11:30:00",
+      "original_description": "Poznań: ul. Lęborska 46, 47, 47A, 49, ul. Trzebiatowska od 26 do 48 parzyste, od 27A do 53 nieparzyste, ul. Santocka 15A, 17, 28, 30, 32, ul. Sianowska 58.",
+      "id": "ac1d9bf64a87eb6bbcd5545670c351c9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Santocka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4381887,
+      "lon": 16.8305414,
+      "start_time": "2026-01-09T08:30:00",
+      "end_time": "2026-01-09T11:30:00",
+      "original_description": "Poznań: ul. Lęborska 46, 47, 47A, 49, ul. Trzebiatowska od 26 do 48 parzyste, od 27A do 53 nieparzyste, ul. Santocka 15A, 17, 28, 30, 32, ul. Sianowska 58.",
+      "id": "00cd1c5f3a60acb9a70043626b12b599"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "2026-01-09T08:30:00",
+      "end_time": "2026-01-09T11:30:00",
+      "original_description": "Poznań: ul. Lęborska 46, 47, 47A, 49, ul. Trzebiatowska od 26 do 48 parzyste, od 27A do 53 nieparzyste, ul. Santocka 15A, 17, 28, 30, 32, ul. Sianowska 58.",
+      "id": "67164d3709351c727a09ce20522c2c2b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trzebiatowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436923,
+      "lon": 16.8355248,
+      "start_time": "2026-01-09T08:30:00",
+      "end_time": "2026-01-09T11:30:00",
+      "original_description": "Poznań: ul. Lęborska 46, 47, 47A, 49, ul. Trzebiatowska od 26 do 48 parzyste, od 27A do 53 nieparzyste, ul. Santocka 15A, 17, 28, 30, 32, ul. Sianowska 58.",
+      "id": "7d8f820d2dfcd32c0680da226ea5fbf9"
     },
     {
       "type": "planned",
