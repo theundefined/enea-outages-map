@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-29T12:39:30.174653+00:00",
+  "last_update": "2025-12-29T13:25:04.944062+00:00",
   "outages": [
     {
       "type": "planned",
@@ -550,6 +550,16 @@
       "end_time": "2026-01-12T14:00:00",
       "original_description": "Poznań: ul. Obornicka 338.",
       "id": "51449d4a28404922b35fa7e4fd415f5e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T14:00:00",
+      "original_description": "Poznań: ul. Obornicka 229 dz. 8/2 stacja telefonii komórkowej.",
+      "id": "6723e951c2044100526ebba8e05c99e7"
     },
     {
       "type": "planned",
