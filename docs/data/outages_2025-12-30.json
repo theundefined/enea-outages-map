@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-30T08:52:35.664219+00:00",
+  "last_update": "2025-12-30T09:22:42.244035+00:00",
   "outages": [
     {
       "type": "planned",
@@ -640,6 +640,56 @@
       "end_time": "2026-01-13T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "20e3e38e7373fb4c988c3926364854e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krośniewicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.411066,
+      "lon": 17.0386179,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-30T12:30:00",
+      "original_description": "Poznań ul. Krośniewicka, ul. Poziomkowa, ul. Świętowidzka, ul. Warszawska, ul. Za Cybiną.",
+      "id": "a69d1cd5716898fbf1c2a8964a2917c9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poziomkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3650812,
+      "lon": 17.037059,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-30T12:30:00",
+      "original_description": "Poznań ul. Krośniewicka, ul. Poziomkowa, ul. Świętowidzka, ul. Warszawska, ul. Za Cybiną.",
+      "id": "b0c898d23c51913fdc6891f67ef22550"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-30T12:30:00",
+      "original_description": "Poznań ul. Krośniewicka, ul. Poziomkowa, ul. Świętowidzka, ul. Warszawska, ul. Za Cybiną.",
+      "id": "3e6776015c4e7cfc7507c4e1c0d12820"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Za Cybiną, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.404675,
+      "lon": 17.0443613,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-30T12:30:00",
+      "original_description": "Poznań ul. Krośniewicka, ul. Poziomkowa, ul. Świętowidzka, ul. Warszawska, ul. Za Cybiną.",
+      "id": "149448e6f2045d9fd2a314d2b21bd5a3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętowidzka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4081581,
+      "lon": 17.0412139,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-30T12:30:00",
+      "original_description": "Poznań ul. Krośniewicka, ul. Poziomkowa, ul. Świętowidzka, ul. Warszawska, ul. Za Cybiną.",
+      "id": "fec1cfb7be44707c830953e76c773982"
     }
   ]
 }
