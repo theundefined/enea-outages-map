@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-30T11:57:26.757947+00:00",
+  "last_update": "2025-12-30T12:50:44.525926+00:00",
   "outages": [
     {
       "type": "planned",
@@ -690,6 +690,16 @@
       "end_time": "2025-12-30T12:30:00",
       "original_description": "Poznań ul. Krośniewicka, ul. Poziomkowa, ul. Świętowidzka, ul. Warszawska, ul. Za Cybiną.",
       "id": "fec1cfb7be44707c830953e76c773982"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lazurowa, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-655, Polska",
+      "lat": 52.4298566,
+      "lon": 16.9061895,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-30T16:00:00",
+      "original_description": "Poznań ul. Lazurowa.",
+      "id": "1e5e79330350c10d2c164a928ff94d03"
     }
   ]
 }
