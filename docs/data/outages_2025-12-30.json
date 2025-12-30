@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-30T07:55:00.039237+00:00",
+  "last_update": "2025-12-30T08:26:12.357459+00:00",
   "outages": [
     {
       "type": "planned",
@@ -503,6 +503,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Chłodna, Łazarz, Poznań, województwo wielkopolskie, 60-264, Polska",
+      "lat": 52.393565,
+      "lon": 16.898422,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T15:30:00",
+      "original_description": "Poznań: ul. Głogowska 91, 93, 95, ul. Chłodna 6, 8, 10.",
+      "id": "31fa9af22d5779ac5fa52cdd4c0a50b1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "2026-01-08T08:30:00",
+      "end_time": "2026-01-08T15:30:00",
+      "original_description": "Poznań: ul. Głogowska 91, 93, 95, ul. Chłodna 6, 8, 10.",
+      "id": "1f36598152c0a481b00992c0901764ba"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Brzoskwiniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
       "lat": 52.3610446,
       "lon": 17.0186095,
@@ -570,6 +590,16 @@
       "end_time": "2026-01-09T11:30:00",
       "original_description": "Poznań: ul. Lęborska 46, 47, 47A, 49, ul. Trzebiatowska od 26 do 48 parzyste, od 27A do 53 nieparzyste, ul. Santocka 15A, 17, 28, 30, 32, ul. Sianowska 58.",
       "id": "7d8f820d2dfcd32c0680da226ea5fbf9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "ENEA Stadion, Rumuńska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.3976795,
+      "lon": 16.8581003,
+      "start_time": "2026-01-09T09:00:00",
+      "end_time": "2026-01-09T10:00:00",
+      "original_description": "Poznań: os. Lecha 129 \"Firanki\".",
+      "id": "41c149f21f2fb38eee4d969e2f9ef0ec"
     },
     {
       "type": "planned",
