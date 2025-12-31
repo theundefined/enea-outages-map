@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-31T07:54:55.867137+00:00",
+  "last_update": "2025-12-31T08:26:20.635190+00:00",
   "outages": [
     {
       "type": "planned",
@@ -120,6 +120,76 @@
       "end_time": "2026-01-07T11:30:00",
       "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
       "id": "4470604b290786411e8c190eb55be809"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "2026-01-08T08:00:00",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Chyby: ul. Szkolna 1E, 1K, od 3 do 47 od 2H do 20 parzyste, ul. Lawendowa, ul. Kwiatowa, ul. Ogrodowa, ul. Piaskowa,  ul. Kasztanowa od 3 do 7 nieparzyste.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste, ul. Wczasowa 4.",
+      "id": "210794fb945bfd0ac4f5a26e47f0d151"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "2026-01-08T08:00:00",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Chyby: ul. Szkolna 1E, 1K, od 3 do 47 od 2H do 20 parzyste, ul. Lawendowa, ul. Kwiatowa, ul. Ogrodowa, ul. Piaskowa,  ul. Kasztanowa od 3 do 7 nieparzyste.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste, ul. Wczasowa 4.",
+      "id": "90685ba441a5eae5cdb63c54027b8db3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "2026-01-08T08:00:00",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Chyby: ul. Szkolna 1E, 1K, od 3 do 47 od 2H do 20 parzyste, ul. Lawendowa, ul. Kwiatowa, ul. Ogrodowa, ul. Piaskowa,  ul. Kasztanowa od 3 do 7 nieparzyste.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste, ul. Wczasowa 4.",
+      "id": "0b56f7ece32b1298d7414563d5cd7719"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "2026-01-08T08:00:00",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Chyby: ul. Szkolna 1E, 1K, od 3 do 47 od 2H do 20 parzyste, ul. Lawendowa, ul. Kwiatowa, ul. Ogrodowa, ul. Piaskowa,  ul. Kasztanowa od 3 do 7 nieparzyste.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste, ul. Wczasowa 4.",
+      "id": "28c689662ff4f77cfca171e6b7da61cd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "2026-01-08T08:00:00",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Chyby: ul. Szkolna 1E, 1K, od 3 do 47 od 2H do 20 parzyste, ul. Lawendowa, ul. Kwiatowa, ul. Ogrodowa, ul. Piaskowa,  ul. Kasztanowa od 3 do 7 nieparzyste.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste, ul. Wczasowa 4.",
+      "id": "9a1fdee8ef39f7db726daecb858e2903"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "2026-01-08T08:00:00",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Chyby: ul. Szkolna 1E, 1K, od 3 do 47 od 2H do 20 parzyste, ul. Lawendowa, ul. Kwiatowa, ul. Ogrodowa, ul. Piaskowa,  ul. Kasztanowa od 3 do 7 nieparzyste.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste, ul. Wczasowa 4.",
+      "id": "d746d917ddab0177c8d71457a7a1a7c6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wczasowa, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-060, Polska",
+      "lat": 52.3972742,
+      "lon": 17.028723,
+      "start_time": "2026-01-08T08:00:00",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Chyby: ul. Szkolna 1E, 1K, od 3 do 47 od 2H do 20 parzyste, ul. Lawendowa, ul. Kwiatowa, ul. Ogrodowa, ul. Piaskowa,  ul. Kasztanowa od 3 do 7 nieparzyste.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste, ul. Wczasowa 4.",
+      "id": "e8473f253c8f625d7ffbfea80b118e53"
     },
     {
       "type": "planned",
@@ -330,6 +400,46 @@
       "end_time": "2026-01-13T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "20e3e38e7373fb4c988c3926364854e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4041749,
+      "lon": 16.9241355,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T11:30:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "65c860d3ebe74f5392119ce62fbaca52"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Kantaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-807, Polska",
+      "lat": 52.407086,
+      "lon": 16.9229554,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T11:30:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "7734c98adf3af73ac1f441a8bd643b94"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T11:30:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "52bbb52b47e41f465f249c7860602657"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-892, Polska",
+      "lat": 52.4057745,
+      "lon": 16.9206249,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T11:30:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "1a465b4c45604863ab28c6c854011a64"
     }
   ]
 }
