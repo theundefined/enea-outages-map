@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-31T22:18:15.160429+00:00",
+  "last_update": "2025-12-31T22:40:19.358776+00:00",
   "outages": [
     {
       "type": "planned",
@@ -400,6 +400,46 @@
       "end_time": "2026-01-13T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "20e3e38e7373fb4c988c3926364854e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4041749,
+      "lon": 16.9241355,
+      "start_time": "Brak danych",
+      "end_time": "2025-01-01T01:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "980b6215d9aa6e74175eac4bb0d0101d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Kantaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-807, Polska",
+      "lat": 52.407086,
+      "lon": 16.9229554,
+      "start_time": "Brak danych",
+      "end_time": "2025-01-01T01:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "100c3bd291ded6c209b3426862106a23"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2025-01-01T01:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "cc01cc40d0d74dee2f57627c8864f2e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-892, Polska",
+      "lat": 52.4057745,
+      "lon": 16.9206249,
+      "start_time": "Brak danych",
+      "end_time": "2025-01-01T01:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "d0dab3e1f70a68016770522bf29f074b"
     },
     {
       "type": "unplanned",
