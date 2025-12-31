@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-31T13:20:33.171459+00:00",
+  "last_update": "2025-12-31T13:49:03.284225+00:00",
   "outages": [
     {
       "type": "planned",
@@ -480,6 +480,46 @@
       "end_time": "2025-12-31T14:30:00",
       "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
       "id": "7dd24727e92b520760beb8bbbdbf8c61"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4041749,
+      "lon": 16.9241355,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T16:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "cfa9bb5b49f5fe2ae648c1e796f42657"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Kantaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-807, Polska",
+      "lat": 52.407086,
+      "lon": 16.9229554,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T16:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "956163aa49bf408360d260b4df410aba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T16:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "3f14723ecfcf46fd0dc5b362610c7dcb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-892, Polska",
+      "lat": 52.4057745,
+      "lon": 16.9206249,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T16:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "d7188b67961801ad39da91c37665a379"
     }
   ]
 }
