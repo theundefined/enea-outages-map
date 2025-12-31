@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-31T19:14:29.631848+00:00",
+  "last_update": "2025-12-31T19:29:35.704091+00:00",
   "outages": [
     {
       "type": "planned",
@@ -620,6 +620,76 @@
       "end_time": "2025-12-31T20:30:00",
       "original_description": "Poznań ul. Pogodna, ul. Raszyńska, ul. Rembertowska.",
       "id": "5709f4e85307738cf97e5db3c5e59082"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4041749,
+      "lon": 16.9241355,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T22:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "9ba845c8c3a688a9cb03fbd0b309a8d8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Kantaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-807, Polska",
+      "lat": 52.407086,
+      "lon": 16.9229554,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T22:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "9176d0278808361184aa3b0574c41d83"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T22:00:00",
+      "original_description": "Poznań ul. Pogodna, ul. Raszyńska, ul. Rembertowska.",
+      "id": "58802484f284c2806504434982886a01"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T22:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "ab5824896a8b61be0267406240045fce"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Raszyńska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-135, Polska",
+      "lat": 52.3877943,
+      "lon": 16.872936,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T22:00:00",
+      "original_description": "Poznań ul. Pogodna, ul. Raszyńska, ul. Rembertowska.",
+      "id": "372a991cb18c0936ce4ea3a4aa19bc22"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rembertowska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 61-135, Polska",
+      "lat": 52.385887,
+      "lon": 16.8702147,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T22:00:00",
+      "original_description": "Poznań ul. Pogodna, ul. Raszyńska, ul. Rembertowska.",
+      "id": "3e4aae364cef06206e41ed480227361c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-892, Polska",
+      "lat": 52.4057745,
+      "lon": 16.9206249,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T22:00:00",
+      "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
+      "id": "a669b9daba6bfa2ec501db764172a10e"
     }
   ]
 }
