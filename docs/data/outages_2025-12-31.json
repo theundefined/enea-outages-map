@@ -1,5 +1,5 @@
 {
-  "last_update": "2025-12-31T15:18:56.483862+00:00",
+  "last_update": "2025-12-31T15:38:27.284572+00:00",
   "outages": [
     {
       "type": "planned",
@@ -520,6 +520,36 @@
       "end_time": "2025-12-31T16:00:00",
       "original_description": "Poznań ul. Franciszka Ratajczaka, ul. Kazimierza Kantaka, ul. Powstańców Wielkopolskich, ul. Stanisława Taczaka.",
       "id": "d7188b67961801ad39da91c37665a379"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T19:00:00",
+      "original_description": "Poznań ul. Pogodna, ul. Raszyńska, ul. Rembertowska.",
+      "id": "fddc62a8b1db87f8e63811132c5d9094"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Raszyńska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-135, Polska",
+      "lat": 52.3877943,
+      "lon": 16.872936,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T19:00:00",
+      "original_description": "Poznań ul. Pogodna, ul. Raszyńska, ul. Rembertowska.",
+      "id": "1f1f42c3670d80e39c2a57236a32e17b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rembertowska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 61-135, Polska",
+      "lat": 52.385887,
+      "lon": 16.8702147,
+      "start_time": "Brak danych",
+      "end_time": "2025-12-31T19:00:00",
+      "original_description": "Poznań ul. Pogodna, ul. Raszyńska, ul. Rembertowska.",
+      "id": "25240a9f5013258882aedf20f0168600"
     }
   ]
 }
