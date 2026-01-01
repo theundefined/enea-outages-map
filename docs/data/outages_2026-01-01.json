@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T05:39:28.609635+00:00",
+  "last_update": "2026-01-01T05:55:26.202322+00:00",
   "outages": [
     {
       "type": "planned",
@@ -660,6 +660,26 @@
       "end_time": "2026-01-01T07:30:00",
       "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
       "id": "cc1494bac530b139e7028b12d457fe99"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T09:00:00",
+      "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
+      "id": "21c68f0da89a9086bbc9b1fae9598744"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T09:00:00",
+      "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
+      "id": "6883166c1308abdd89efb705ef9e8731"
     }
   ]
 }
