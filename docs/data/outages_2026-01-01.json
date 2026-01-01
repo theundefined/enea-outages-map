@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T22:18:19.378073+00:00",
+  "last_update": "2026-01-01T22:40:20.792249+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2770,6 +2770,116 @@
       "end_time": "2026-01-02T00:00:00",
       "original_description": "Poznań  ul. Klementyny Hoffmanowej, ul. Michała Bałuckiego.",
       "id": "2318f69969bd60eebed9a5b5e061c844"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "8a213377ad79c05cf287227070a5842c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "0a1aaec537bb01aeaae7ffbf7fb2b6b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "2e916e404c6818d0a38706039c3444d8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "4c1dca03317d05d4c5ac6d3df0df5012"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kapitańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.475719,
+      "lon": 16.7680779,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "95e260d67d25b8bd01abc0fe45e6be7e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Komandorska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4765137,
+      "lon": 16.7687162,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "eb4e5da8e143af0669ed85be48506897"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kąpielowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4735298,
+      "lon": 16.7740419,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "d0045713b972472321fe05d5b1abbb67"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "d337cf9d3c601c6c39e98f28c5524c2b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Poznań ul. Podjazdowa.",
+      "id": "409e8f9a92ab43ea09dfb85d13bfa6ad"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Retmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764855,
+      "lon": 16.7697994,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "e6aa168381afd0c075d2fa6a3dc83ed3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T01:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "0e704ffbf7664a7202b00a673d47f838"
     }
   ]
 }
