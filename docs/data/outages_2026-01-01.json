@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T14:55:22.369154+00:00",
+  "last_update": "2026-01-01T15:19:57.364519+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1210,6 +1210,836 @@
       "end_time": "2026-01-01T17:30:00",
       "original_description": "Poznań ul. Epicka, ul. Gabrieli Zapolskiej, ul. Hanny Malewskiej, ul. Jadwigi Łuszczewskiej, ul. Jerzego Jurandota, ul. Kazimierza Brandysa, ul. Klementyny Hoffmanowej, ul. Łucji Danielewskiej, ul. Marii Kuncewiczowej, ul. Michała Bałuckiego, ul. Mieczysława Jastruna, ul. Narcyzy Żmichowskiej, ul. Poli Gojawiczyńskiej, ul. Stanisława Dygata, ul. Wincentego Różańskiego.",
       "id": "dd75be73f556f4fa76bab83b954093e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "3 Maja, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-728, Polska",
+      "lat": 52.4090081,
+      "lon": 16.9248006,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "9225ba79a2d8f6c2c669b033ba471f87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "3, Niepodległości, Osowa Góra, Budzyń, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2467957,
+      "lon": 16.8412968,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "0fd85be205edb3bdc01d830205f9035e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "bf168c95889d74234e62dc35970adeea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-820, Polska",
+      "lat": 52.4120686,
+      "lon": 16.9052036,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "d791b5f3a67f935b22068097fedd6ef2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błotna, Świerczewo, Poznań, województwo wielkopolskie, 61-423, Polska",
+      "lat": 52.371642,
+      "lon": 16.8887056,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "28319a29d692dcc7c8b7632843126567"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cedrowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.366228,
+      "lon": 16.9057734,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "14bafa4adc9144339503ffa10adba8f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cisowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3746491,
+      "lon": 16.8956975,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "37b7e97176cea42ca8731eb6cd23a3b6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cokół po pomniku Adama Mickiewicza, Święty Marcin, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-810, Polska",
+      "lat": 52.4057491,
+      "lon": 16.928792,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "aebea2841f57d78107f15c60b4e17933"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czarna Rola, Nowe Winogrady Wschód, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4352363,
+      "lon": 16.9436586,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "b55eef2db4206e56a9c3345e3084fb95"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czarnokurz, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2580768,
+      "lon": 16.8521408,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "c62525e0b74e460beda5219c034f5343"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "1531ebfa39e0423ab4308175f59dc54b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3680885,
+      "lon": 16.9128704,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "388b8ca66db24499e54ec565c6a43221"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "afc6315b76532450641d5c52accd295e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Generała Jana Henryka Dąbrowskiego, Puszczykówko, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2663147,
+      "lon": 16.8632635,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "0ac0fc767e8e624dbb8f5f039c6ff024"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Graniczna, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961602,
+      "lon": 16.9040247,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "a95eb1eec1c7fec213c4597ef570806e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowa, Puszczykówko, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2647398,
+      "lon": 16.8586328,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "285048d020e85fd21d2146c8fb82c60a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grodziska, Ogrody, Poznań, województwo wielkopolskie, 60-564, Polska",
+      "lat": 52.4122575,
+      "lon": 16.8857486,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "66d6690d1be5ca1dfdc64f215e9f12fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gronostajowa, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-066, Polska",
+      "lat": 52.3928327,
+      "lon": 17.0229183,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "e72ecc5131522fe087d1b99bada9f258"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwald Południe, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3937277,
+      "lon": 16.8708549,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "6e89a658fc7366d9492816e50ad669d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "81534d4490ae84adcf50008e1cb4a59e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Helska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-014, Polska",
+      "lat": 52.4275813,
+      "lon": 16.9725603,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "b0790c22d1b5d9b43c3390bde2141983"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Iglasta, Widłakowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4709936,
+      "lon": 16.9437673,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "d4cc3c7d29ca8624dac10c212c3008be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Kochanowskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-845, Polska",
+      "lat": 52.4109263,
+      "lon": 16.9091411,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "ec25b78ed8d0da88172153c10912238c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.39658,
+      "lon": 16.8986607,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "6d2830d3bd039b816f8388c3c53ae68a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jastrzębia, Rataje, Poznań, województwo wielkopolskie, 61-397, Polska",
+      "lat": 52.3879735,
+      "lon": 16.9485954,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "a53c88a8dc97b23692f35e81e7a883de"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jodłowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3706062,
+      "lon": 16.8959475,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "ca2d892a1c6b0c7f587885c68e04dfa9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Ignacego Kraszewskiego, Niwka, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2642534,
+      "lon": 16.870089,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "6921cfc5b7bff2d98d4479d9f97af151"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Poniatowskiego, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-031, Polska",
+      "lat": 52.3504019,
+      "lon": 16.8625207,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "9bbc610011ffe02ad61a833caa698069"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Komunalna, Dopiewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.3357585,
+      "lon": 16.6691221,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "0419798d8ed1e0836ef437ca3e1f9b07"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kosa, Konstantynowo, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.413205,
+      "lon": 16.7166752,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "226d09360e0d7fdc01406d3d32a43311"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "0897a8543c292e635a5abc8100c531cc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "37ceecfd04e142050e355bf684562c2d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "f224dba98d097b1e6a1e3993c6199160"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "4d7a8db22f47aa9e9f762a613bb4a2fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lotnisko Poznań-Ławica, Pilotów, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.420564,
+      "lon": 16.8317925,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "ac9bb5a195dc9468215edeb38f590c0e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ludwika Solskiego, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-194, Polska",
+      "lat": 52.404121,
+      "lon": 16.8323605,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "6366f65aaa978f2c6c7446b8a93d96d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "4edf351da3d22cc60729bf2a211ef3cc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marii Konopnickiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4032644,
+      "lon": 16.9015829,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "016e40004a9dd2474862082a8a3e10e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mazurska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4398991,
+      "lon": 16.8332874,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "cb5b8a2c5d4eed94031466224bcce774"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mikołaja Reja, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-826, Polska",
+      "lat": 52.4101084,
+      "lon": 16.9075072,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "ded9d96676ade40e01c240307dac9599"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mokra, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4099845,
+      "lon": 16.9346711,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "5dd8e552bbe405eaa1708cf86ca5324a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Muzeum Literackie Henryka Sienkiewicza, 84, Stary Rynek, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "lat": 52.4088834,
+      "lon": 16.9327177,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "241c9afefd3f156b844f5d0fcc7372e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowotomyska, Świt, Grunwald Północ, Poznań, województwo wielkopolskie, 60-367, Polska",
+      "lat": 52.4050989,
+      "lon": 16.8789192,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "98fe4b10baeceabaa32a4bbd0ebb6d01"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Odskok, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2729866,
+      "lon": 16.852504,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "fe5268d3c228bc841d5e06e765a99b6a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "d89229497705b42e67e611f021e98a03"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Park Fryderyka Chopina, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4051797,
+      "lon": 16.9347542,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "716041ae57134627896a5c5624e17497"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "688932b6f7b2d48fceeb7f5d5083174e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Mocka, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2565044,
+      "lon": 16.8842714,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "0f42fd7e4bd2dfc9e1b141b647fbc82b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "fe903d62d564bc8b696fb2e9ffc284f1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Platanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-443, Polska",
+      "lat": 52.3632011,
+      "lon": 16.9078097,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "484e84db41afd37bedcf537593829a65"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "6ca7af03daa11ed36edcfbee033f80a2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pomorska, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-619, Polska",
+      "lat": 52.4246686,
+      "lon": 16.9003647,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "e77a2136fba1d6dff6fe32491c772b7d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "9980a5863548485390d566fb41628e74"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "229f6b3f79690ec2136abb95a2bb0171"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "427b276a6e69ec2646ea1726b3b68ec3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Południowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3749646,
+      "lon": 16.9001757,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "add2d1220ffd085475cd8b177199c5a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pożegowska, Osowa Góra, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2537511,
+      "lon": 16.8304009,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "7651ba24ff1415dfbed20fc19c95f7f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Północna, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-722, Polska",
+      "lat": 52.4148038,
+      "lon": 16.9361092,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "fce1522e0832f2b52a693bdf66e132f1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "ROD imienia Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3961114,
+      "lon": 16.8867242,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "c5eecd7e54f52d0400b5518cdfb4da35"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radosna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4136213,
+      "lon": 16.8732563,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "75dbd5637b665aae7bbeb70a75f8d182"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzeczypospolitej Mosińskiej, Czarnokurz, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2569606,
+      "lon": 16.8555217,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "b88504ca9bbe88f8346c88a4ce84ad81"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sadowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4296254,
+      "lon": 16.9325129,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "262cda39fdcf05c8bd9b443a02104737"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Siewna, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4418259,
+      "lon": 16.9151016,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "7d65e12b0825aa30701640a75f029ee0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sokoła, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "5413a9f819b2bb6e240201398311e681"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "31d077b277a4d3f0eb3a05eb44ca824a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "ed1d09421b3857b4f6b66b2c942691a3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "0332ba9b7b19c9a29cd77c6c5d1e3582"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "9f9e245c7eb986db158d76c366a30995"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szosa Poznańska, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2506863,
+      "lon": 16.8504597,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "d268d5c9ab2a4fcf58a2634cc0c84367"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Kościuszki, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-898, Polska",
+      "lat": 52.4022309,
+      "lon": 16.9243989,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "25e5dff33f8be735921caa8293d97b01"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiatrakowa, Osiedle Sowie, Dachowa, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-023, Polska",
+      "lat": 52.302226,
+      "lon": 17.0936797,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "5aef3732e7e94e726d03d38ccc04db52"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Różańskiego, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4553721,
+      "lon": 16.863937,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "a57596bc454fffebbb2ba4e64ddbe97a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "31ca4a66e27aed4e269b51d8359ae566"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wschodnia, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4195491,
+      "lon": 16.9749181,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "fb62313b457aacd64e30c75d2f2334e7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "e01cb44c4b1cd1d2e8f3352f2e5bbaa9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wypoczynkowa, Kiekrz, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 62-081, Polska",
+      "lat": 52.4474349,
+      "lon": 16.7889228,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "e2b69d9af5728a5bd4f26199aa09aa94"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wzgórze Chodkiewicza, Biedrusko, gmina Suchy Las, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.5733247,
+      "lon": 16.9007607,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "4e3bccccbc1b3b54d343180fd91f74d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zachodnia, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4014513,
+      "lon": 16.9098439,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "7fdca9d7fa9f62e08bc5c84643bdd3a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "0d6133588cd94d2570bec29d44722673"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zgodna, Łęczyca, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-051, Polska",
+      "lat": 52.3179305,
+      "lon": 16.8802608,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "a9846c828e4479166f5f106eb288edd8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zieleniec, Czarnokurz, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2524929,
+      "lon": 16.8517487,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Puszczykowo ul. 3 Maja, ul. Bałtycka, ul. Bolesława Prusa, ul. Czarna, ul. Dworcowa, ul. Gajowa, ul. Gen. Jana Henryka Dąbrowskiego, ul. Graniczna, ul. Grochowa, ul. Grunwaldzka, ul. Helska, ul. Jana Kochanowskiego, ul. Jana Matejki, ul. Jastrzębia, ul. Józefa Ignacego Kraszewskiego, ul. Leśna, ul. Ludwika Solskiego, ul. Maksymiliana Jackowskiego, ul. Marii Konopnickiej, ul. Mazurska, ul. Odskok, ul. Piotra Wawrzyniaka, ul. Pomorska, ul. Radosna, ul. Sokoła, ul. Stanisława Wyspiańskiego, ul. Tadeusza Kościuszki, ul. Wspólna, Mosina ul. Cedrowa, ul. Chodkiewicza, ul. Chopina, ul. Czarnokurz, ul. Gajowa, ul. Kopernika, ul. Mickiewicza, ul. Mokra, ul. Piotra Mocka, ul. Platanowa, ul. Poniatowskiego, ul. Poznańska, ul. Pożegowska, ul. Reja, ul. Reymonta, ul. Rzeczypospolitej Mosińskiej, ul. Sienkiewicza, ul. Szkolna, ul. Szosa Poznańska, ul. Wieniawskiego, ul. Wincentego Różańskiego, ul. Wodna, ul. Zieleniec.",
+      "id": "0dbb90613dc161d8c0f1c976ee493edc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Złoty Łan, Drwęsa, Więckowice, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.3943153,
+      "lon": 16.6231554,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "f06a3366af6c2ca7375ccd09ee896f9e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Św. Wawrzyńca, Świętego Wawrzyńca, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4186963,
+      "lon": 16.9029366,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T18:30:00",
+      "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
+      "id": "55a04287c1e9d8d022dac4758bbef8d5"
     },
     {
       "type": "unplanned",
