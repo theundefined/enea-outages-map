@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T19:30:40.248476+00:00",
+  "last_update": "2026-01-01T19:44:53.744823+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2690,6 +2690,16 @@
       "end_time": "2026-01-01T22:00:00",
       "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
       "id": "4790771967c4e62f184dd048fe4f86c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T22:00:00",
+      "original_description": "Poznań ul. Podjazdowa.",
+      "id": "4c45839d01005283d25da37f4abf2dd7"
     },
     {
       "type": "unplanned",
