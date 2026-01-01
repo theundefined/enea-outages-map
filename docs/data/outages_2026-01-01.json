@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T01:53:36.643074+00:00",
+  "last_update": "2026-01-01T03:48:11.628187+00:00",
   "outages": [
     {
       "type": "planned",
@@ -400,6 +400,136 @@
       "end_time": "2026-01-13T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "20e3e38e7373fb4c988c3926364854e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błotna, Świerczewo, Poznań, województwo wielkopolskie, 61-423, Polska",
+      "lat": 52.371642,
+      "lon": 16.8887056,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "d42318357af3004d55cf85dca3dd540c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chabrowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3710253,
+      "lon": 16.9098027,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "59b561d99a0ce16139a1bb667c3d6f9f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "f5214bc309f49f024670ed1e3ec82b3a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3680885,
+      "lon": 16.9128704,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "e61b086377b74c006e6b0b0c6399a95c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "53c41553df0511a40534445ce35ad866"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "f38a4c57ff3569c90ecd2586cef6d529"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "262d58f2263d8d8fe9d9d7b6f8255323"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "b8b6781223b1ce8442d710ce4091bf5d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "256e012cfcf111a8aefedd999a20845d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrocławska, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-838, Polska",
+      "lat": 52.4064287,
+      "lon": 16.9330123,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "e6aadd4f360c0c09a67c089762e5b85d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrzosowa, Wilda, Poznań, województwo wielkopolskie, 61-477, Polska",
+      "lat": 52.3733013,
+      "lon": 16.9105834,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "60859e73b1f8514bc7b7197797190ad8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "62eed5b7e79eb4144274d1ff82c1d90d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T06:00:00",
+      "original_description": "Włodków Dolny, Góra ul. Armii Polskiej, ul. Błotna, ul. Chabrowa, ul. Dębowa, ul. Dworcowa, ul. Lipowa, ul. Łąkowa, ul. Poznańska, ul. Rumiankowa, ul. Sosnowa, ul. Wincentego Witosa, ul. Wrocławska, ul. Wrzosowa, ul. Zielona.",
+      "id": "a87dd870beef1ed431a46871533ffdb8"
     }
   ]
 }
