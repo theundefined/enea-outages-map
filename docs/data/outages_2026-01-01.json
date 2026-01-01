@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T15:19:57.364519+00:00",
+  "last_update": "2026-01-01T15:38:52.535903+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2040,6 +2040,126 @@
       "end_time": "2026-01-01T18:30:00",
       "original_description": "Wąsowo ul. Błotna, ul. Grodziska, ul. Jana Rożka, ul. Kościelna, ul. Leśna, ul. Lipowa, ul. Lwówecka, ul. Nowotomyska, ul. Ogrodowa, ul. Parkowa, ul. Polna, ul. Południowa, ul. Poznańska, ul. Północna, ul. Sadowa, ul. Stare Koszary, ul. Szkolna, ul. św. Wawrzyńca, ul. Wiatrakowa, ul. Wschodnia, ul. Wytomyska, ul. Zachodnia, Wąsówko, Chmielinko, Lipka Wielka, Władysławowo, Bolewice, Glinki, Smolarnia, Boruja Kościelna, Glinno os. Osiedle Glińskie Góry, ul. Dębowa, ul. Gronostajowa, ul. Wierzbowy Gaj, Kozie Laski, Nowa Róża, Przyłęk os. Osiedle Świętego Huberta, ul. Kosa, ul. Leśna, ul. Osiedle Świętego Wojciecha, Ochabica, Róża, Sątopy, Sękowo ul. Cisowa, ul. Iglasta, ul. Jodłowa, ul. Sosnowa, Stary Tomyśl ul. Dębowa, ul. Powstańców Wielkopolskich, ul. Siewna, ul. Zbożowa, ul. Zgodna, ul. Złoty Łan, Wytomyśl ul. Kościelna, ul. Parkowa, ul. Polna, ul. Szkolna, ul. Wąsowska, ul. Wypoczynkowa, Mała Lipka, Nowy Tomyśl ul. 3 Stycznia, ul. Komunalna, Glińskie Góry.",
       "id": "55a04287c1e9d8d022dac4758bbef8d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzoskwiniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3610446,
+      "lon": 17.0186095,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "2c16c9375a112585529eac728f5e2de5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fioletowa, Długa Goślina, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-097, Polska",
+      "lat": 52.6521561,
+      "lon": 17.0212131,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "7eafa8b5d801efabd166f339cc6bd2ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karolewo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2397222,
+      "lon": 16.8622222,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "5c29497e19d3ebdf878846fca92b6f7c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "5a1299329107809987e0803d26365b21"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lniana, Mościenica, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-023, Polska",
+      "lat": 52.2522331,
+      "lon": 17.0554072,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "9fb950badddcc295bbfb69b62c50373a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Niebieska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4320524,
+      "lon": 16.9067884,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "76e43d466795b8fea88f29db724707b9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "2232619f729829bc799493fba9e0ecf0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "680f35bc5e01d9c63d6e67363ecb8bc7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słomiana, Czarna Rola, Nowe Winogrady Wschód, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4357846,
+      "lon": 16.9424359,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "6be39f65d158f95c517e76ae60135eb3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "659b8111a7d2d2cf14eea68df35c3c9c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "377eb56e21b2aed2ac6a612cc6aa6ee2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żółta, Rabowice, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 63-004, Polska",
+      "lat": 52.3884562,
+      "lon": 17.1225728,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T19:00:00",
+      "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "ae445c73c226e6c4212d225457f5cb57"
     },
     {
       "type": "unplanned",
