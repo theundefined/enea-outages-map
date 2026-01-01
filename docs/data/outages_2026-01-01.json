@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T17:01:51.134616+00:00",
+  "last_update": "2026-01-01T17:32:06.810185+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2500,6 +2500,116 @@
       "end_time": "2026-01-01T19:00:00",
       "original_description": "Darmoszewo, Łubowice, Łubowiczki, Bliżyce, Glinno, Antoniewo Górne, Niedarzyn, Miączynek, Pawłowo Skockie, Ignacewo, Stawiany, Jagniewice, Rejowiec, Szczodrochowo, Sława Wielkopolska ul. Fioletowa, ul. Lniana, ul. Niebieska, ul. Słomiana, ul. Włókiennicza, ul. Zielona, ul. Żółta, Wysoka, Skoki ul. Antoniewska, ul. Brzoskwiniowa, ul. Karolewo, ul. Leśna, ul. Polna, ul. Poznańska, ul. Topolowa.",
       "id": "ae445c73c226e6c4212d225457f5cb57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "e953a71ce995a4e79d99ee85b71b33bb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "197c9205bb07d9b7b0ba42c81c3ffdb0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "4933a4dfa679a83f7cbe1e62092c4b3b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "0c5ef13584ddb3fcdaeae21431b950b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kapitańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.475719,
+      "lon": 16.7680779,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "97494bbeaae7280fa66d24b9d0e17219"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Komandorska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4765137,
+      "lon": 16.7687162,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "888d4336a381485aa53ea8ab50356432"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kąpielowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4735298,
+      "lon": 16.7740419,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "13deea3149e62cd984c99a82e5380005"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "41dd4d4eea9beb50ec40c7352956bf1e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Poznań ul. Podjazdowa.",
+      "id": "8eb351cd08ce8214eba0e6d047eac659"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Retmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764855,
+      "lon": 16.7697994,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "8deedd82ec2906d2178dbc842c9d59fa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T20:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "8eb6b6b428db856698e45523d307dcb0"
     },
     {
       "type": "unplanned",
