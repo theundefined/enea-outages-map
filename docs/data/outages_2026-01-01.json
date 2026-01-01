@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T13:49:54.942838+00:00",
+  "last_update": "2026-01-01T13:59:23.742878+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1040,6 +1040,26 @@
       "end_time": "2026-01-01T15:00:00",
       "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
       "id": "17a23dd7f668bdb200d63c3b3337e53b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T16:30:00",
+      "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
+      "id": "73da3b50f9ceca2f4f287fa868398540"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T16:30:00",
+      "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
+      "id": "0ecb31dddeb6cde761936b250b7936f5"
     }
   ]
 }
