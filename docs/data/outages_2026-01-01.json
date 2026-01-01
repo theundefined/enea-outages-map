@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T21:19:00.203770+00:00",
+  "last_update": "2026-01-01T21:35:50.740375+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2750,6 +2750,26 @@
       "end_time": "2026-01-01T23:30:00",
       "original_description": "Poznań ul. Podjazdowa.",
       "id": "69cb3e33d20221e4239850623a222fc1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klementyny Hoffmanowej, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4574298,
+      "lon": 16.8657956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T00:00:00",
+      "original_description": "Poznań  ul. Klementyny Hoffmanowej, ul. Michała Bałuckiego.",
+      "id": "27dd17308a375dbe0f00c02aad049125"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michała Bałuckiego, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.457066,
+      "lon": 16.8669145,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T00:00:00",
+      "original_description": "Poznań  ul. Klementyny Hoffmanowej, ul. Michała Bałuckiego.",
+      "id": "2318f69969bd60eebed9a5b5e061c844"
     }
   ]
 }
