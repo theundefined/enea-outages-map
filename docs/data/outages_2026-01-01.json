@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T08:51:31.176832+00:00",
+  "last_update": "2026-01-01T09:22:23.810699+00:00",
   "outages": [
     {
       "type": "planned",
@@ -960,6 +960,26 @@
       "end_time": "2026-01-01T11:30:00",
       "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
       "id": "ee31d78a5bf058d3d67c16c7254a0b9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Słowackiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-829, Polska",
+      "lat": 52.4095553,
+      "lon": 16.9127548,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T12:00:00",
+      "original_description": "Miękowo ul. Juliusza Słowackiego, ul. Poznańska.",
+      "id": "347d1b8b438e1beea34743effcc38fa6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T12:00:00",
+      "original_description": "Miękowo ul. Juliusza Słowackiego, ul. Poznańska.",
+      "id": "a536c2c7930f0ea6d855eeb4ebb09340"
     }
   ]
 }
