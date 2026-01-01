@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T09:22:23.810699+00:00",
+  "last_update": "2026-01-01T09:45:40.654442+00:00",
   "outages": [
     {
       "type": "planned",
@@ -980,6 +980,26 @@
       "end_time": "2026-01-01T12:00:00",
       "original_description": "Miękowo ul. Juliusza Słowackiego, ul. Poznańska.",
       "id": "a536c2c7930f0ea6d855eeb4ebb09340"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T12:00:00",
+      "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
+      "id": "b197a43de506fb7cee7eb8cc892b98c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T12:00:00",
+      "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
+      "id": "6803fee696f670cae32f61ea7ebcebd1"
     }
   ]
 }
