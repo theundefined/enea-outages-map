@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T07:54:41.162272+00:00",
+  "last_update": "2026-01-01T08:26:00.344370+00:00",
   "outages": [
     {
       "type": "planned",
@@ -680,6 +680,286 @@
       "end_time": "2026-01-01T09:00:00",
       "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
       "id": "6883166c1308abdd89efb705ef9e8731"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T10:30:00",
+      "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
+      "id": "76f533fbc921e1a265c51ca0c63dee23"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T10:30:00",
+      "original_description": "Góra ul. Poznańska, ul. Wincentego Witosa.",
+      "id": "afe7d61dc6b7af1095558a86ef8650e3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "c77ad99b0d20225acb8b499a84171022"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dojazdowa, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3323124,
+      "lon": 16.8796447,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "a33dd81a5cd54f2680f7f0313144ffa0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "043541361160b4518da0c0e340e510e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jarzębinowa, Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4738117,
+      "lon": 16.8969717,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "90f2ec5c881df77b5dbfea28978490f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "25e344b0df202304841419174c87eb3a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeziorna, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3190516,
+      "lon": 16.8063421,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "0bd9b279caabb5069c75ad6a0a26a6b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "45e8d91acb3dc7e36110090392fbbaac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "6980d338fa7feafb37b8aff2c1705af0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "3f56ca9a5c43ee590821519bc383724c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Na Wzgórzu, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4775612,
+      "lon": 17.1931719,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "866b21af77e43025ad2b6023aaad94f7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "32c561333ac87983ac6619543c2c0533"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrężna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4701548,
+      "lon": 17.1775244,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "e73c98f3b40fa1c6bf05b7ccb7b0c901"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pniewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4287754,
+      "lon": 16.8235245,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "38533eab00ecd92d042f3e76f3cf6200"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "10a0b6670ced2eb039550073cc6780bc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "b763974982e13ebdfd1d3a0414e93a08"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przelotowa, Murowana Goślina, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5769342,
+      "lon": 17.0115515,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "70a5a59de012ff2675f2ef8c5060c519"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "05cbe1f9d57fae662dc15d2831ce95e6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spacerowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.465908,
+      "lon": 16.7941901,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "1294cc5a3955a3f73164add6be5f6272"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "bb8515147255b2453bf7fc0aeefc7177"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "3a14e950ac40806a0dd50ffdef8d4657"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "5a3a78171c39967e4fd2cb24fd6b71c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tęczowa, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3924959,
+      "lon": 16.8799077,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "aead49052a43962c697484dd9f77d44d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Widokowa, Bnin, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-035, Polska",
+      "lat": 52.2287341,
+      "lon": 17.0831829,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "6bc1d3db873e0ec2b811af13a5f9b53a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "efdd21c04735b98034df53a43132491a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wypoczynkowa, Kiekrz, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 62-081, Polska",
+      "lat": 52.4474349,
+      "lon": 16.7889228,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "aa9db31767bb5afadd1498691400aa21"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T11:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
+      "id": "ee31d78a5bf058d3d67c16c7254a0b9b"
     }
   ]
 }
