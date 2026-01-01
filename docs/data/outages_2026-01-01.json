@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-01T20:56:14.027827+00:00",
+  "last_update": "2026-01-01T21:19:00.203770+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2740,6 +2740,16 @@
       "end_time": "2026-01-01T22:30:00",
       "original_description": "Poznań  ul. Klementyny Hoffmanowej, ul. Michała Bałuckiego.",
       "id": "5d2199688214f5c9fd93ba6a6851ece2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-01T23:30:00",
+      "original_description": "Poznań ul. Podjazdowa.",
+      "id": "69cb3e33d20221e4239850623a222fc1"
     }
   ]
 }
