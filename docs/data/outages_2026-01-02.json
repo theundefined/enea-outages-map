@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-02T16:48:28.843568+00:00",
+  "last_update": "2026-01-02T17:01:04.607099+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1653,6 +1653,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "fb98fda6c382f21d4e71fbbd8b23934e"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
       "lat": 52.3915632,
       "lon": 16.8591353,
@@ -1660,6 +1670,16 @@
       "end_time": "2026-01-02T18:00:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "aea43a3661cabbf68b9852ec81da538e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "499362e9b99c00f06677856e32387e7a"
     },
     {
       "type": "unplanned",
@@ -1683,6 +1703,36 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "293d80248559fd06bce1a4b99f83d009"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "0854ed566bc2d7f466dc605914f2f5a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kapitańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.475719,
+      "lon": 16.7680779,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "7f609f71f97927f294a715089e790483"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Kazimiery Iłłakowiczówny, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
       "lat": 52.4013177,
       "lon": 16.8905591,
@@ -1693,6 +1743,26 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Komandorska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4765137,
+      "lon": 16.7687162,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "2003f13b1c7228f79c4fed3b48b4883c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kąpielowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4735298,
+      "lon": 16.7740419,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "d7287d09120c04832a24e2d3d35ae610"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.478354,
       "lon": 16.7713146,
@@ -1700,6 +1770,26 @@
       "end_time": "2026-01-02T18:00:00",
       "original_description": "Poznań ul. Podjazdowa.",
       "id": "9b2da7227e3c1e0461d1c8e71b253148"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "5d40a44279e82fdc55700a38625c6331"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Retmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764855,
+      "lon": 16.7697994,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "cf0c268c6abc7bb1945fe5e00c86de12"
     },
     {
       "type": "unplanned",
@@ -1733,6 +1823,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T18:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "3549b9cb119207594bf85de254b9a09f"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Wojskowa, Łazarz, Poznań, województwo wielkopolskie, 60-792, Polska",
       "lat": 52.40133,
       "lon": 16.8926841,
@@ -1750,6 +1850,166 @@
       "end_time": "2026-01-02T18:00:00",
       "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
       "id": "0eb7ea036bc91fca34dbcc2798148a86"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T19:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "36d9d6eba0fd10c3a52a6a9bafe567cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimiery Iłłakowiczówny, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4013177,
+      "lon": 16.8905591,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T19:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "69fd6dcb188d5f5369645e5cdf50266c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-804, Polska",
+      "lat": 52.4045902,
+      "lon": 16.888403,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T19:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "a3d2200dd2d3f82375d6a470d06bb6bf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T19:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "a8585bd1148264d157eff7995569cf16"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojskowa, Łazarz, Poznań, województwo wielkopolskie, 60-792, Polska",
+      "lat": 52.40133,
+      "lon": 16.8926841,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T19:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "c0767ab809997ef521a155b31f4e611c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-266, Polska",
+      "lat": 52.3968063,
+      "lon": 16.8879432,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T19:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "9d6f5749c1108630d073beacc5ec47a4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "5 Stycznia, Wola, Ławica, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4224148,
+      "lon": 16.8540631,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "7d17f3bfe661fcdd7c616c8d0f27f45c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Haber-Włyńskiego, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.423968,
+      "lon": 16.8510464,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "adde2fdd25ff1291dba7263c965b2857"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Balonowa, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4233214,
+      "lon": 16.8532143,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "fc1d90af725253d32d435dc83f069ec2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dedala, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4231373,
+      "lon": 16.8545012,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "9be95064638f6ab444ef67cb8e1d222a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hangarowa, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.4243271,
+      "lon": 16.8518198,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "1a11a0f1fe99c9549bac564c4fcac9dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Latawcowa, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4225583,
+      "lon": 16.8548073,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "de68579b448eb9e7849c3f26b91eb24e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mieczysława Palucha, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.425244,
+      "lon": 16.8523439,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "a0860f21a7ac1fe71725e9686692c6f7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pilotów, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.425293,
+      "lon": 16.8533889,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "a920d51f21b32f60fb839ed349ef8d12"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szybowcowa, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4240071,
+      "lon": 16.8550271,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "dc21b29226f105f3a516fea27d54d5c9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbigniewa Burzyńskiego, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4234323,
+      "lon": 16.8549267,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T20:00:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Adama Haber-Włyńskiego, ul. Balonowa, ul. Dedala, ul. Hangarowa, ul. Latawcowa, ul. Mieczysława Palucha, ul. Pilotów, ul. Szybowcowa, ul. Zbigniewa Burzyńskiego.",
+      "id": "c1bef8497db23478365e166a3ee53d2b"
     }
   ]
 }
