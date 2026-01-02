@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-02T07:27:07.498941+00:00",
+  "last_update": "2026-01-02T07:44:30.125615+00:00",
   "outages": [
     {
       "type": "planned",
@@ -850,6 +850,66 @@
       "end_time": "2026-01-02T10:00:00",
       "original_description": "Poznań ul. Podjazdowa.",
       "id": "33e8bc1b6b7de7b30eac86b3d1c4d9ec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T11:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "6eeb3b814b2cfcb3f0741412db6ca252"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimiery Iłłakowiczówny, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4013177,
+      "lon": 16.8905591,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T11:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "5801aedbb91ef18e49d3b8361b79bece"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-804, Polska",
+      "lat": 52.4045902,
+      "lon": 16.888403,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T11:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "8a4ff6719dc6f105e019938964fcd78e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T11:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "beb84b2a5b86bf261d0b814c2e220567"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojskowa, Łazarz, Poznań, województwo wielkopolskie, 60-792, Polska",
+      "lat": 52.40133,
+      "lon": 16.8926841,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T11:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "4594e9033f465247645ba57529898050"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-266, Polska",
+      "lat": 52.3968063,
+      "lon": 16.8879432,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T11:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "a300371100bf6e66b30a93f85d1fec41"
     }
   ]
 }
