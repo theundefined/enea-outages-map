@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-02T18:30:43.685704+00:00",
+  "last_update": "2026-01-02T18:55:25.739761+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2150,6 +2150,86 @@
       "end_time": "2026-01-02T21:00:00",
       "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
       "id": "e38c05a8a00240c5abd2a3b16c8dd605"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T22:00:00",
+      "original_description": "Plewiska ul. Grunwaldzka, ul. Jeżynowa, ul. Malinowa, ul. Mokra, ul. Niecała, ul. Ogrodowa, ul. Stawna, ul. Szkolna, Poznań ul. Grunwaldzka.",
+      "id": "72c472b869d05dc31f53073cc453571c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeżynowa, Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3693677,
+      "lon": 17.0351542,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T22:00:00",
+      "original_description": "Plewiska ul. Grunwaldzka, ul. Jeżynowa, ul. Malinowa, ul. Mokra, ul. Niecała, ul. Ogrodowa, ul. Stawna, ul. Szkolna, Poznań ul. Grunwaldzka.",
+      "id": "5f338e2eae6039c58e3c2897fb1b92bf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705387,
+      "lon": 16.9104483,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T22:00:00",
+      "original_description": "Plewiska ul. Grunwaldzka, ul. Jeżynowa, ul. Malinowa, ul. Mokra, ul. Niecała, ul. Ogrodowa, ul. Stawna, ul. Szkolna, Poznań ul. Grunwaldzka.",
+      "id": "8c52e95ee7936b89d9257a057c528180"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mokra, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4099845,
+      "lon": 16.9346711,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T22:00:00",
+      "original_description": "Plewiska ul. Grunwaldzka, ul. Jeżynowa, ul. Malinowa, ul. Mokra, ul. Niecała, ul. Ogrodowa, ul. Stawna, ul. Szkolna, Poznań ul. Grunwaldzka.",
+      "id": "3320a155f427841bc12228d67043268e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Niecała, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4040641,
+      "lon": 16.890721,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T22:00:00",
+      "original_description": "Plewiska ul. Grunwaldzka, ul. Jeżynowa, ul. Malinowa, ul. Mokra, ul. Niecała, ul. Ogrodowa, ul. Stawna, ul. Szkolna, Poznań ul. Grunwaldzka.",
+      "id": "7033b27838c6e0757b3b25bb5d85d1e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T22:00:00",
+      "original_description": "Plewiska ul. Grunwaldzka, ul. Jeżynowa, ul. Malinowa, ul. Mokra, ul. Niecała, ul. Ogrodowa, ul. Stawna, ul. Szkolna, Poznań ul. Grunwaldzka.",
+      "id": "581f1ddb7b06783242acbe45a8b56fc8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stawna, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-759, Polska",
+      "lat": 52.4107402,
+      "lon": 16.9355908,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T22:00:00",
+      "original_description": "Plewiska ul. Grunwaldzka, ul. Jeżynowa, ul. Malinowa, ul. Mokra, ul. Niecała, ul. Ogrodowa, ul. Stawna, ul. Szkolna, Poznań ul. Grunwaldzka.",
+      "id": "49eec2abf49509067a7ef7940243f07a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-02T22:00:00",
+      "original_description": "Plewiska ul. Grunwaldzka, ul. Jeżynowa, ul. Malinowa, ul. Mokra, ul. Niecała, ul. Ogrodowa, ul. Stawna, ul. Szkolna, Poznań ul. Grunwaldzka.",
+      "id": "deeee7bc9aa98720e18fdb5729af4ded"
     }
   ]
 }
