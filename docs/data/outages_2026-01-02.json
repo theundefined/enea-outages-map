@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-02T07:44:30.125615+00:00",
+  "last_update": "2026-01-02T07:55:01.230815+00:00",
   "outages": [
     {
       "type": "planned",
@@ -120,6 +120,16 @@
       "end_time": "2026-01-07T11:30:00",
       "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 29 nieparzyste od 4 do 30 parzyste, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
       "id": "4470604b290786411e8c190eb55be809"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tarnowska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3398714,
+      "lon": 17.0032928,
+      "start_time": "2026-01-07T09:00:00",
+      "end_time": "2026-01-07T17:00:00",
+      "original_description": "Poznań: ul. Tarnowska 2B, dz. 5/14, dz. 5/16 , dz. 5/17.",
+      "id": "98387838da45634c145adcba3e2d6344"
     },
     {
       "type": "planned",
