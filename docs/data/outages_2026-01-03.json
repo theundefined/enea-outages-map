@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-03T22:50:19.747244+00:00",
+  "last_update": "2026-01-03T23:16:48.112117+00:00",
   "outages": [
     {
       "type": "planned",
@@ -3220,6 +3220,176 @@
       "end_time": "2026-01-04T00:00:00",
       "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
       "id": "ffddcf2ca5e20ffe42945c7dea20d94d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "094acb5531cab0e1e557937c2d427df0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "26f867c799a3b90e43f7daae8cba936c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "44ed878ad030aee241c000592b2e08d9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "561050e1f6f4f1662bfcedc2e2865c7f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "f32382258206d2bf5bff9cf67e43a066"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kapitańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.475719,
+      "lon": 16.7680779,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "ef8e72215d10dd6dab5090422a8e6d49"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimiery Iłłakowiczówny, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4013177,
+      "lon": 16.8905591,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "625c716a3550e50370cdfcc135eb7091"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Komandorska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4765137,
+      "lon": 16.7687162,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "fa07fc1dac24f9c6ce0ff268c8280854"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kąpielowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4735298,
+      "lon": 16.7740419,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "4944baed2e8febf7f4b5f442e2970e78"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "4c59a5f9849bdf174839a0da40728f5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Poznań ul. Podjazdowa.",
+      "id": "b744b6f9c965c5a6b52e43aba0c1894f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Retmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764855,
+      "lon": 16.7697994,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "a6faae483f35b1176b11acf8fb00449c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-804, Polska",
+      "lat": 52.4045902,
+      "lon": 16.888403,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "1b464ea3831f150899a8d787b2fc6682"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "5eceababaab90f852aab4650b686c579"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "d6bf1933315a5162718142d77e42b7f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojskowa, Łazarz, Poznań, województwo wielkopolskie, 60-792, Polska",
+      "lat": 52.40133,
+      "lon": 16.8926841,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "65aef098c649f1201409a7488c9429f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-266, Polska",
+      "lat": 52.3968063,
+      "lon": 16.8879432,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T01:30:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "d3f50032c8c79ea3cb38dcb4b415df09"
     }
   ]
 }
