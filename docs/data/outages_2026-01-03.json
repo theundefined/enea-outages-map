@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-03T18:27:31.361425+00:00",
+  "last_update": "2026-01-03T18:51:09.776461+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2673,6 +2673,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T21:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "072d3804f57ab66463734ea902f47055"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4767276,
       "lon": 16.7732727,
@@ -2700,6 +2710,16 @@
       "end_time": "2026-01-03T21:00:00",
       "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
       "id": "3eb27d51159b8166d9e3a1964e9e18f0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimiery Iłłakowiczówny, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4013177,
+      "lon": 16.8905591,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T21:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "89bde5434dc847d6dea8bc42b7ba1833"
     },
     {
       "type": "unplanned",
@@ -2753,6 +2773,26 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-804, Polska",
+      "lat": 52.4045902,
+      "lon": 16.888403,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T21:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "c3f76a5e2cde7af00f1dc01c85e3774c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T21:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "8f2ac271823bb6c5c5ad5edd2de9dbf1"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4796386,
       "lon": 16.769963,
@@ -2760,6 +2800,26 @@
       "end_time": "2026-01-03T21:00:00",
       "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
       "id": "b9dc1fddae92c3a2a442ec46ebeb1b26"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojskowa, Łazarz, Poznań, województwo wielkopolskie, 60-792, Polska",
+      "lat": 52.40133,
+      "lon": 16.8926841,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T21:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "2bd75de3d3368f9d524564bc285dc6a2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-266, Polska",
+      "lat": 52.3968063,
+      "lon": 16.8879432,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T21:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "1d5f4574c20cccd231ed884eb43790a0"
     }
   ]
 }
