@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-03T05:00:12.886367+00:00",
+  "last_update": "2026-01-03T05:30:46.772762+00:00",
   "outages": [
     {
       "type": "planned",
@@ -863,6 +863,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T07:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "36cbb069ca710ddb3ce20c0ec4cd3308"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4756134,
       "lon": 16.7707182,
@@ -880,6 +890,16 @@
       "end_time": "2026-01-03T07:30:00",
       "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
       "id": "fbd4b9cdc78c83feeaa6f847fb0706f0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T07:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "bb230495da114ee042b35ba1e325e34c"
     },
     {
       "type": "unplanned",
@@ -970,6 +990,16 @@
       "end_time": "2026-01-03T07:30:00",
       "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
       "id": "de4abccdc072307b2fea132653aa82a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-03T07:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "cacd31e09aa8b5b745ab950dd79c04b0"
     },
     {
       "type": "unplanned",
