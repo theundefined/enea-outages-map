@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-04T05:54:15.222900+00:00",
+  "last_update": "2026-01-04T06:28:16.674805+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1153,6 +1153,26 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "cd92e4b452793cfff4ee7fcfc8c3a955"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "0d952d2e13a0143f5797b0827a0b0312"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Celichowskich, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
       "lat": 52.4874876,
       "lon": 16.9174721,
@@ -1203,6 +1223,26 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "4a47a3d97e92a780d6c03d1dfa2c189f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "bbecfb24c08b35dd59d24841eb2ee3ca"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Janowo, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
       "lat": 52.4892111,
       "lon": 16.9127161,
@@ -1210,6 +1250,36 @@
       "end_time": "2026-01-04T09:00:00",
       "original_description": "Poznań ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Janowo, ul. Knyszyn, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Mirtowa, ul. Naramowicka, ul. Okolewo, ul. Radojewo, ul. Rdestowa, ul. Wiesiołkowa.",
       "id": "9b846a83ae14f81e431e2eb3359ba184"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "09e68d72042ceffa0a24d8f7e181e771"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kapitańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.475719,
+      "lon": 16.7680779,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "cb728b359270bb3af1c74e57ed0411d1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimiery Iłłakowiczówny, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4013177,
+      "lon": 16.8905591,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "8c41133ac50c2dcd0334700b2eaa4d4e"
     },
     {
       "type": "unplanned",
@@ -1223,6 +1293,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Komandorska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4765137,
+      "lon": 16.7687162,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "765802db2fbf5d103a6ff9cd4c254632"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Krwawnikowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
       "lat": 52.4888732,
       "lon": 16.939503,
@@ -1230,6 +1310,16 @@
       "end_time": "2026-01-04T09:00:00",
       "original_description": "Poznań ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Janowo, ul. Knyszyn, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Mirtowa, ul. Naramowicka, ul. Okolewo, ul. Radojewo, ul. Rdestowa, ul. Wiesiołkowa.",
       "id": "6066fe79fe90d2f1f80438686ac8b2c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kąpielowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4735298,
+      "lon": 16.7740419,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "37bbeba803623b861902e34037cfae61"
     },
     {
       "type": "unplanned",
@@ -1283,6 +1373,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "392a083697091658676865a19c5dd167"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.49832,
       "lon": 16.946504,
@@ -1303,6 +1403,46 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Retmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764855,
+      "lon": 16.7697994,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "e2ce362868b0bdfe2ba3cea5b6b70005"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-804, Polska",
+      "lat": 52.4045902,
+      "lon": 16.888403,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "a04ff4ede6c5542c679eb86583b21754"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "e527a06a63340ff60b314e8edbd7475b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
+      "id": "c76d478ef871e099f976d43050a1aff1"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Wiesiołkowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
       "lat": 52.4873331,
       "lon": 16.9403672,
@@ -1310,6 +1450,26 @@
       "end_time": "2026-01-04T09:00:00",
       "original_description": "Poznań ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Janowo, ul. Knyszyn, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Mirtowa, ul. Naramowicka, ul. Okolewo, ul. Radojewo, ul. Rdestowa, ul. Wiesiołkowa.",
       "id": "e178cd1a73a19a36e20678aa393f1c0c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojskowa, Łazarz, Poznań, województwo wielkopolskie, 60-792, Polska",
+      "lat": 52.40133,
+      "lon": 16.8926841,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "c95f215bc03672619fcd6ae8933c468f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-266, Polska",
+      "lat": 52.3968063,
+      "lon": 16.8879432,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
+      "id": "037d7171b3b611260131abf4e401ce2a"
     },
     {
       "type": "unplanned",
