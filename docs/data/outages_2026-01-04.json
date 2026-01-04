@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-04T06:28:16.674805+00:00",
+  "last_update": "2026-01-04T06:55:02.254067+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1163,6 +1163,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "9bc91d44d0271204e688c37cc53ed797"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4756134,
       "lon": 16.7707182,
@@ -1230,6 +1240,16 @@
       "end_time": "2026-01-04T09:00:00",
       "original_description": "Poznań ul. Grunwaldzka, ul. Kazimiery Iłłakowiczówny, ul. Stanisława Przybyszewskiego, ul. Stanisława Wyspiańskiego, ul. Władysława Reymonta, ul. Wojskowa.",
       "id": "4a47a3d97e92a780d6c03d1dfa2c189f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "28b62c1fae055f39c9e1653700d1673d"
     },
     {
       "type": "unplanned",
@@ -1383,6 +1403,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Podjazdowa.",
+      "id": "bf9f602a67a6ffa2712cd0eb1cef4146"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.49832,
       "lon": 16.946504,
@@ -1410,6 +1440,16 @@
       "end_time": "2026-01-04T09:00:00",
       "original_description": "Kiekrz ul. Podjazdowa, ul. Strumykowa, Poznań ul. Admiralska, ul. Bosmańska, ul. Jachtowa, ul. Kajakowa, ul. Kapitańska, ul. Kąpielowa, ul. Komandorska, ul. Podjazdowa, ul. Retmańska.",
       "id": "e2ce362868b0bdfe2ba3cea5b6b70005"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T09:00:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "77b96410415886e7b9d32737ed4d5dd5"
     },
     {
       "type": "unplanned",
