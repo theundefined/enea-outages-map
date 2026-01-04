@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-04T07:57:45.530127+00:00",
+  "last_update": "2026-01-04T08:32:02.512455+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1543,6 +1543,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T10:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "0078332059311d7972759de3df283e80"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4756134,
       "lon": 16.7707182,
@@ -1580,6 +1590,16 @@
       "end_time": "2026-01-04T10:30:00",
       "original_description": "Poznań ul. Bystra, ul. Falista, ul. Forteczna, ul. Gołężycka, ul. Obodrzycka, ul. Pochyła, ul. Podmiejska, ul. Romana Maya, ul. Równa, ul. Warowna.",
       "id": "b8b385c2057efbaf53bc63d1e248bf54"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T10:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "ded736082a2ff7d08e1f1b7a307469f5"
     },
     {
       "type": "unplanned",
@@ -1713,6 +1733,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T10:30:00",
+      "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
+      "id": "b80ecdd221fcfeb056a4ec2c4fe7a123"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4796386,
       "lon": 16.769963,
@@ -1740,6 +1770,66 @@
       "end_time": "2026-01-04T10:30:00",
       "original_description": "Poznań ul. Bystra, ul. Falista, ul. Forteczna, ul. Gołężycka, ul. Obodrzycka, ul. Pochyła, ul. Podmiejska, ul. Romana Maya, ul. Równa, ul. Warowna.",
       "id": "e4f712b96a36874aabd1f3a2d67a2268"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czysta, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3696732,
+      "lon": 16.9454166,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T11:30:00",
+      "original_description": "Poznań ul. Czysta, ul. Falista, ul. Ochota, ul. Pochyła, ul. Równa, ul. Śliska.",
+      "id": "b3b291d8156cdd8a1f3a652505325d1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Falista, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3694646,
+      "lon": 16.9474276,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T11:30:00",
+      "original_description": "Poznań ul. Czysta, ul. Falista, ul. Ochota, ul. Pochyła, ul. Równa, ul. Śliska.",
+      "id": "6998649e1b28546fef2b71837b7d164f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ochota, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3707742,
+      "lon": 16.9429482,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T11:30:00",
+      "original_description": "Poznań ul. Czysta, ul. Falista, ul. Ochota, ul. Pochyła, ul. Równa, ul. Śliska.",
+      "id": "2af90adabe9a3186c5c452e6189da109"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pochyła, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3691464,
+      "lon": 16.9441659,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T11:30:00",
+      "original_description": "Poznań ul. Czysta, ul. Falista, ul. Ochota, ul. Pochyła, ul. Równa, ul. Śliska.",
+      "id": "1d4a7cbc16e2834564180ca89308668d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Równa, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-371, Polska",
+      "lat": 52.3711208,
+      "lon": 16.941055,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T11:30:00",
+      "original_description": "Poznań ul. Czysta, ul. Falista, ul. Ochota, ul. Pochyła, ul. Równa, ul. Śliska.",
+      "id": "f5bdf2c7a16b6e4f4cd30b21634b7195"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śliska, Starołęcka Dolina, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3715786,
+      "lon": 16.9450627,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-04T11:30:00",
+      "original_description": "Poznań ul. Czysta, ul. Falista, ul. Ochota, ul. Pochyła, ul. Równa, ul. Śliska.",
+      "id": "a01f2314b32d42be4bb5a7089f6c6ae9"
     }
   ]
 }
