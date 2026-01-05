@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-05T11:54:48.639462+00:00",
+  "last_update": "2026-01-05T12:40:39.462908+00:00",
   "outages": [
     {
       "type": "planned",
@@ -422,6 +422,26 @@
       "id": "6bab73d2ef80e7120e9efbc125d97fac"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Kozia, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.4072732,
+      "lon": 16.9308082,
+      "start_time": "2026-01-15T09:00:00",
+      "end_time": "2026-01-15T11:00:00",
+      "original_description": "Poznań: ul. Kozia 5, 6, ul. Świętosławska 6, 7, 8, 9, 10.",
+      "id": "9a1ac7e135ad16b59549c669851ed516"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świętosławska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-840, Polska",
+      "lat": 52.4070198,
+      "lon": 16.9342512,
+      "start_time": "2026-01-15T09:00:00",
+      "end_time": "2026-01-15T11:00:00",
+      "original_description": "Poznań: ul. Kozia 5, 6, ul. Świętosławska 6, 7, 8, 9, 10.",
+      "id": "acc85281674cf10e35ece43c1e71b916"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.478354,
@@ -470,6 +490,136 @@
       "end_time": "2026-01-05T13:30:00",
       "original_description": "Poznań ul. Podjazdowa.",
       "id": "0fc7d3279dae7434cb0afa9d9f1b0710"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czechowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4346609,
+      "lon": 16.8238543,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "71b9cbaa86c5d6f1b4c9fffc2678beb7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "5cbab405e38b2fca5941883a96606381"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziwnowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4357123,
+      "lon": 16.8195259,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "7cc4f9f1fb1a290c33ae2cdcde778b0e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Elbląska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4383865,
+      "lon": 16.8256759,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "a039644dc19ee683a3ee60623658d232"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "767510ff651d034b0d9b8efd4a8621f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karlińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4344651,
+      "lon": 16.8290173,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "16541d36e1fdaafa2d4ef34a3b8254d9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lemierzycka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4348176,
+      "lon": 16.8262394,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "57b25aa2065f1aeac7200a5e6354e167"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Muszkowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4340994,
+      "lon": 16.8248311,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "40d887c0366b4d7f712b2190eda51de6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owczarska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4336542,
+      "lon": 16.824506,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "0dd2b139aaa8d7e76e5225c56757ddad"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ownicka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4336824,
+      "lon": 16.8262791,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "0de8541aab946a55f80eedd95db2438a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rybojadzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4346803,
+      "lon": 16.8250705,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "b53cf463cc560eec25aec60af47ce909"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "be904f6626315682f6b8640d38b8c249"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sułowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4335635,
+      "lon": 16.8273687,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-05T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "d58ae703aea783d56d66910d8bf25e9c"
     }
   ]
 }
