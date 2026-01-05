@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-05T22:18:23.714853+00:00",
+  "last_update": "2026-01-05T22:42:06.175830+00:00",
   "outages": [
     {
       "type": "planned",
@@ -660,6 +660,66 @@
       "end_time": "2026-01-05T22:30:00",
       "original_description": "Poznań ul. Podjazdowa.",
       "id": "8819fce2978e65816740c8f6505418f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fabryczna, Wilda, Poznań, województwo wielkopolskie, 61-512, Polska",
+      "lat": 52.386369,
+      "lon": 16.909754,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-06T01:30:00",
+      "original_description": "Kościan ul. abpa Antoniego Baraniaka, ul. Fabryczna, ul. Krańcowa, ul. Poznańska, ul. Północna, ul. Pszenna, ul. Szkolna, ul. Uczniowska.",
+      "id": "2bd66fbb3460b3b2b5261942c35964ef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-06T01:30:00",
+      "original_description": "Kościan ul. abpa Antoniego Baraniaka, ul. Fabryczna, ul. Krańcowa, ul. Poznańska, ul. Północna, ul. Pszenna, ul. Szkolna, ul. Uczniowska.",
+      "id": "7eca788950e70066a70d9c5c729ae057"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-06T01:30:00",
+      "original_description": "Kościan ul. abpa Antoniego Baraniaka, ul. Fabryczna, ul. Krańcowa, ul. Poznańska, ul. Północna, ul. Pszenna, ul. Szkolna, ul. Uczniowska.",
+      "id": "8ba240224f6662621de0dbecdee6fed0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pszenna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4245706,
+      "lon": 16.9248939,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-06T01:30:00",
+      "original_description": "Kościan ul. abpa Antoniego Baraniaka, ul. Fabryczna, ul. Krańcowa, ul. Poznańska, ul. Północna, ul. Pszenna, ul. Szkolna, ul. Uczniowska.",
+      "id": "022914e018c1364b042a1f0294b061ca"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Północna, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-722, Polska",
+      "lat": 52.4148038,
+      "lon": 16.9361092,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-06T01:30:00",
+      "original_description": "Kościan ul. abpa Antoniego Baraniaka, ul. Fabryczna, ul. Krańcowa, ul. Poznańska, ul. Północna, ul. Pszenna, ul. Szkolna, ul. Uczniowska.",
+      "id": "b56cbbaee2d1f8453aad326871e6c5a1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-06T01:30:00",
+      "original_description": "Kościan ul. abpa Antoniego Baraniaka, ul. Fabryczna, ul. Krańcowa, ul. Poznańska, ul. Północna, ul. Pszenna, ul. Szkolna, ul. Uczniowska.",
+      "id": "6c56e67c576d4620fb2caf6957c44dbd"
     }
   ]
 }
