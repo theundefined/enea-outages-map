@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-06T05:50:19.848604+00:00",
+  "last_update": "2026-01-06T06:30:22.283033+00:00",
   "outages": [
     {
       "type": "planned",
@@ -450,6 +450,16 @@
       "end_time": "2026-01-06T06:00:00",
       "original_description": "Poznań ul. Podjazdowa.",
       "id": "ebbbfd61261e46b684a39634dde10ace"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-06T09:00:00",
+      "original_description": "Poznań ul. Podjazdowa.",
+      "id": "3b33d335d80db132984997d3bea3cf7a"
     }
   ]
 }
