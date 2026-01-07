@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-07T06:39:34.620409+00:00",
+  "last_update": "2026-01-07T07:01:36.164800+00:00",
   "outages": [
     {
       "type": "planned",
@@ -430,6 +430,16 @@
       "end_time": "2026-01-15T11:00:00",
       "original_description": "Poznań: ul. Kozia 5, 6, ul. Świętosławska 6, 7, 8, 9, 10.",
       "id": "acc85281674cf10e35ece43c1e71b916"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T10:00:00",
+      "original_description": "Biedrusko ul. Poznańska.",
+      "id": "127620e3053884b53579a74767c3581c"
     }
   ]
 }
