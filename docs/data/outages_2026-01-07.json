@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-07T08:40:33.355035+00:00",
+  "last_update": "2026-01-07T09:04:06.684185+00:00",
   "outages": [
     {
       "type": "planned",
@@ -480,6 +480,16 @@
       "end_time": "2026-01-07T10:30:00",
       "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Ignacego Prądzyńskiego, ul. Jana Kilińskiego, ul. Władysława Sikorskiego.",
       "id": "66bcae41fa8fccf5aee930f85f2b920f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T11:30:00",
+      "original_description": "Biedrusko ul. Poznańska.",
+      "id": "5caf759d19e3f1105212ea396d080da4"
     }
   ]
 }
