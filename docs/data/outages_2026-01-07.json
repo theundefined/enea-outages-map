@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-07T11:54:55.704367+00:00",
+  "last_update": "2026-01-07T12:39:55.250018+00:00",
   "outages": [
     {
       "type": "planned",
@@ -413,6 +413,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Przeskok, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3648714,
+      "lon": 16.9902253,
+      "start_time": "2026-01-15T08:30:00",
+      "end_time": "2026-01-15T10:30:00",
+      "original_description": "Poznań: ul. Przeskok 3, 3A.",
+      "id": "9493ffe10f534041adbe1a712895c497"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Wagrowska, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-373, Polska",
       "lat": 52.3786813,
       "lon": 16.9446854,
@@ -500,6 +510,306 @@
       "end_time": "2026-01-07T11:30:00",
       "original_description": "Biedrusko ul. Poznańska.",
       "id": "5caf759d19e3f1105212ea396d080da4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Białogardzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4344573,
+      "lon": 16.8405845,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "73aa0caf83d6e3e0a2e539d2c53a904d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czechowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4346609,
+      "lon": 16.8238543,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "4eaedd346840e3bbf2c585ac93af508c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "db9f7372364c584c6f9c34a5d1be2be3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "d11d8921a36fff0f597fca38e2e6de38"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziwnowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4357123,
+      "lon": 16.8195259,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "60bddf0ea902b06fadca92376f19860e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Elbląska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4383865,
+      "lon": 16.8256759,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "966e0c472f51cbc4a406272f5c3e8166"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "ce9d5ebbecfe6cdb5437df7c7e1c68c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karlińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4344651,
+      "lon": 16.8290173,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "2ad04ef1db03e2e0d360b4ae870d4a51"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karlińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4344651,
+      "lon": 16.8290173,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "715e0b5506a74a2cb3c18ba7f343dc4d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kołobrzeska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335282,
+      "lon": 16.8401597,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "d3ec0d9bdd2177a2a69d6cad73d22d0e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lemierzycka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4348176,
+      "lon": 16.8262394,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "6ffb6fe60ff6fdf00c3310c8df02b15a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubiatowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4348517,
+      "lon": 16.8279532,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "7b2c28404470429f6e27c6be1e4efa57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lęborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436224,
+      "lon": 16.8359188,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "d369268610303c18951c652b0ca6b3a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.4371112,
+      "lon": 16.8363817,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "43676af64d056261e7f48346136f85d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Muszkowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4340994,
+      "lon": 16.8248311,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "050da43aa45a164c67492afe6deb2fee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowokramska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4336905,
+      "lon": 16.8286192,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "d507bd92190a81b4e38ae63bd821f75a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Olsztyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4337359,
+      "lon": 16.838177,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "a0006e15f1c9dc8dc9f5210a3aa489f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "6c2ee8965d37688da2d6df26794ed92e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owczarska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4336542,
+      "lon": 16.824506,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "e68a5cb99d7a83223d392e6d962e330e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ownicka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4336824,
+      "lon": 16.8262791,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "123e229614c8b71f1e8c2b48fee55fa9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgajska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4339951,
+      "lon": 16.8394814,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "5df3f37c73e4ba81ed9dc118272a3a6d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Połczyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4337359,
+      "lon": 16.8297193,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "8b1dadb8f1708c5653fc8a0923456d2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rybojadzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4346803,
+      "lon": 16.8250705,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "7f588a573e4b8469f1ff6d706abc38b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Santocka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4381887,
+      "lon": 16.8305414,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "6d83356905742803443034745306c402"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "0d1f1c81494789070388fde2a209fd65"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "7897ddd8165f41adf70a11c6a2ed62ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Suliszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4345667,
+      "lon": 16.8320905,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "806ce30010c799f7eb3c3f201e080dbb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sułowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4335635,
+      "lon": 16.8273687,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "9519900ec78f1f3f9a49bc6fcbb22be7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trzebiatowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436923,
+      "lon": 16.8355248,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "f8cd3fbc10b822224715b5c571222036"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łupowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.434894,
+      "lon": 16.8291249,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-07T15:30:00",
+      "original_description": "Poznań os. Orła Białego, ul. Białogardzka, ul. Darłowska, ul. Karlińska, ul. Kołobrzeska, ul. Lęborska, ul. Lubiatowska, ul. Łupowska, ul. Maszewska, ul. Nowokramska, ul. Olsztyńska, ul. Podgajska, ul. Połczyńska, ul. Santocka, ul. Sianowska, ul. Suliszewska, ul. Trzebiatowska.",
+      "id": "8799542ff9fdb5cd37f3f0861bb0186f"
     }
   ]
 }
