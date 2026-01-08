@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-08T07:34:41.285282+00:00",
+  "last_update": "2026-01-08T07:49:37.957327+00:00",
   "outages": [
     {
       "type": "planned",
@@ -260,6 +260,66 @@
       "end_time": "2026-01-12T14:00:00",
       "original_description": "Poznań: ul. Obornicka 338.",
       "id": "51449d4a28404922b35fa7e4fd415f5e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bażanta, Kliny, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-008, Polska",
+      "lat": 52.4773806,
+      "lon": 17.0410692,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "f3bb56d0a58fc6bbb3a33f97faf09156"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krucza, Rataje, Poznań, województwo wielkopolskie, 61-387, Polska",
+      "lat": 52.3844304,
+      "lon": 16.9496195,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "1baa9044c12ec170833c7c3fcd1b3f4e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "506597d5a6651f5b795ba6ac063ffb0e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przepiórki, Rakownia, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5653197,
+      "lon": 17.0352374,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "53f76f97c180fd0707a26b8006053d20"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sokoła, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "23162a4550d3fb276c5fe13b216b5829"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sowia, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-139, Polska",
+      "lat": 52.3989433,
+      "lon": 16.9567029,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "66f3a94d7db75f6c20c57796a05ecf39"
     },
     {
       "type": "planned",
