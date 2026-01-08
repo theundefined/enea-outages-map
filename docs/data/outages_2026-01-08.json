@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-08T11:00:30.419119+00:00",
+  "last_update": "2026-01-08T11:31:12.702190+00:00",
   "outages": [
     {
       "type": "planned",
@@ -520,6 +520,66 @@
       "end_time": "2026-01-20T12:00:00",
       "original_description": "Puszczykowo ul. Lipowa, ul. Owocowa, ul. Poznańska 109,",
       "id": "2f2c9c54253102e1d15553e923be4050"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bobrzańska, Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-242, Polska",
+      "lat": 52.383534,
+      "lon": 16.9712599,
+      "start_time": "2026-01-20T08:30:00",
+      "end_time": "2026-01-20T10:00:00",
+      "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
+      "id": "1deee39188b71d2b70953f54e5f84c72"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bolesława Krzywoustego, Żegrze, Poznań, województwo wielkopolskie, 61-292, Polska",
+      "lat": 52.3748378,
+      "lon": 16.9810699,
+      "start_time": "2026-01-20T08:30:00",
+      "end_time": "2026-01-20T10:00:00",
+      "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
+      "id": "52644bd467643d84c0088a7aaf0c89d6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "2026-01-20T08:30:00",
+      "end_time": "2026-01-20T10:00:00",
+      "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
+      "id": "9c26c717af2c82813bf533528092a825"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ślężańska, Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-248, Polska",
+      "lat": 52.3798464,
+      "lon": 16.9724148,
+      "start_time": "2026-01-20T08:30:00",
+      "end_time": "2026-01-20T10:00:00",
+      "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
+      "id": "13d6517ec36636d9e9c3b69c97d526b9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-01-21T08:30:00",
+      "end_time": "2026-01-21T10:00:00",
+      "original_description": "Poznań: ul. Policka 18, 18A,  przepompownia, ul. Bukowska 440, ROD \"Leśna Polana\".",
+      "id": "0b3976a3e73086eb1e3c230687842ac1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Policka, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4114,
+      "lon": 16.8175823,
+      "start_time": "2026-01-21T08:30:00",
+      "end_time": "2026-01-21T10:00:00",
+      "original_description": "Poznań: ul. Policka 18, 18A,  przepompownia, ul. Bukowska 440, ROD \"Leśna Polana\".",
+      "id": "7ee7be060cc6b9ca7d9cde60c3a3db4f"
     },
     {
       "type": "unplanned",
