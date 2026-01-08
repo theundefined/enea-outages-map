@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-08T07:02:52.784089+00:00",
+  "last_update": "2026-01-08T07:34:41.285282+00:00",
   "outages": [
     {
       "type": "planned",
@@ -332,6 +332,26 @@
       "id": "acc85281674cf10e35ece43c1e71b916"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Świętego Wincentego, Zawady, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-003, Polska",
+      "lat": 52.4141515,
+      "lon": 16.9532481,
+      "start_time": "2026-01-15T16:00:00",
+      "end_time": "2026-01-15T17:00:00",
+      "original_description": "Poznań: ul. Św. Wincentego 10, 12, 15, parking.",
+      "id": "d0d425e0b165d8325d64a0221e8fb560"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gościnna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3488352,
+      "lon": 17.0334734,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T15:30:00",
+      "original_description": "Poznań: ul. Gościnna dz. 1/349, dz. 1/350, dz. 1/351, dz. 1/363, dz. 1/365.",
+      "id": "683fab521210ebd6cbfbcc8801aa4d11"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
@@ -360,6 +380,56 @@
       "end_time": "2026-01-08T03:30:00",
       "original_description": "Granowo ul. Poznańska, ul. Sportowa, ul. Wspólna, Kotowo, Kubaczyn, Płastowo.",
       "id": "bebd8732acd018ecf9b837d87f894491"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gołębia, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4067111,
+      "lon": 16.9325619,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T10:30:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "1402286c0952fd554721261d9e6fd981"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T10:30:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "fb1a1185d5107e7d3da5e4d0ed6dcbad"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T10:30:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "66b9a82658a1adeb0ad88069b5440a99"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrocławska, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-838, Polska",
+      "lat": 52.4064287,
+      "lon": 16.9330123,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T10:30:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "02a892119396712e0958dd639328b7ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętosławska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-840, Polska",
+      "lat": 52.4070198,
+      "lon": 16.9342512,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T10:30:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "db7754033ded07af03e3270ccbfdc8fc"
     }
   ]
 }
