@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-08T09:00:11.943328+00:00",
+  "last_update": "2026-01-08T09:37:05.624719+00:00",
   "outages": [
     {
       "type": "planned",
@@ -580,6 +580,56 @@
       "end_time": "2026-01-08T10:30:00",
       "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
       "id": "db7754033ded07af03e3270ccbfdc8fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gołębia, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4067111,
+      "lon": 16.9325619,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "0836f29bea3e9ab871b63c503af3a267"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "7366a5d96db0d744540d2cb1a10f0983"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "c4fe571039cc1c49a72fbd3559d4d2a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrocławska, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-838, Polska",
+      "lat": 52.4064287,
+      "lon": 16.9330123,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "3f2f884a5e342f2ac91eda9f5a05cede"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętosławska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-840, Polska",
+      "lat": 52.4070198,
+      "lon": 16.9342512,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T12:00:00",
+      "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
+      "id": "6ab7eb63298b42fa044c0d2b754ff2e1"
     }
   ]
 }
