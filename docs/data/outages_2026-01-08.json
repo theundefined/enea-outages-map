@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-08T10:21:36.421933+00:00",
+  "last_update": "2026-01-08T10:49:30.287258+00:00",
   "outages": [
     {
       "type": "planned",
@@ -630,6 +630,26 @@
       "end_time": "2026-01-08T12:00:00",
       "original_description": "Poznań ul. Gołębia, ul. Podgórna, ul. Szkolna, ul. Świętosławska, ul. Wrocławska.",
       "id": "6ab7eb63298b42fa044c0d2b754ff2e1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T14:00:00",
+      "original_description": "Strykowo ul. Poznańska, ul. Zielarska.",
+      "id": "19530651e94c89431c2332b18ecdfc9c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielarska, Gołuski, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-069, Polska",
+      "lat": 52.3624804,
+      "lon": 16.7470252,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-08T14:00:00",
+      "original_description": "Strykowo ul. Poznańska, ul. Zielarska.",
+      "id": "f86653494fb748acdd101780e4ddb44c"
     }
   ]
 }
