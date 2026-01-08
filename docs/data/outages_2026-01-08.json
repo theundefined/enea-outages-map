@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-08T08:37:25.190131+00:00",
+  "last_update": "2026-01-08T09:00:11.943328+00:00",
   "outages": [
     {
       "type": "planned",
@@ -330,6 +330,66 @@
       "end_time": "2026-01-13T14:00:00",
       "original_description": "Poznań: ul. Obornicka 229 dz. 8/2 stacja telefonii komórkowej.",
       "id": "6723e951c2044100526ebba8e05c99e7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "61cb907cb2c9e5adf07fb889cd33929b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dziwnowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4357123,
+      "lon": 16.8195259,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "65832f9f0f83ef9adb4272d73d1d8dc4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kościerzyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4355937,
+      "lon": 16.8163307,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "7d3efa713f06db2b49580eee2dc648a4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kwidzyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4340224,
+      "lon": 16.8191309,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "b6c8a31352cc28d9a71130a0b6d1cc52"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "725a5271f314533263c1c1d4fc4795dd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "2ad12ad2dbec99402a59fcc3ad2c6a44"
     },
     {
       "type": "planned",
