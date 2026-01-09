@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-09T07:03:48.479285+00:00",
+  "last_update": "2026-01-09T07:35:43.856319+00:00",
   "outages": [
     {
       "type": "planned",
@@ -390,6 +390,26 @@
       "end_time": "2026-01-20T10:00:00",
       "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
       "id": "13d6517ec36636d9e9c3b69c97d526b9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T10:00:00",
+      "original_description": "Puszczykowo ul. Zielona, ul. Poznańska 42, 44,",
+      "id": "614529f171684fe5414d4966a9e7b2fd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T10:00:00",
+      "original_description": "Puszczykowo ul. Zielona, ul. Poznańska 42, 44,",
+      "id": "578fa26cfda39917ef26fa06b8779712"
     },
     {
       "type": "planned",
