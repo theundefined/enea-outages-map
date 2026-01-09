@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-09T18:58:18.492297+00:00",
+  "last_update": "2026-01-09T19:24:28.816431+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2850,6 +2850,56 @@
       "end_time": "2026-01-09T12:30:00",
       "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
       "id": "64d0e238f988ea6dbad46570c5bc52db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błońska, Świerczewo, Poznań, województwo wielkopolskie, 61-410, Polska",
+      "lat": 52.3594129,
+      "lon": 16.879606,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T22:30:00",
+      "original_description": "Poznań ul. Błońska, ul. Franciszka Witaszka, ul. Leszczyńska, ul. Wiktora Gosienieckiego, ul. Władysława Orkana.",
+      "id": "bfec02a9577ba89e1dc03d359f3cee60"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Witaszka, Świerczewo, Poznań, województwo wielkopolskie, 61-410, Polska",
+      "lat": 52.3591447,
+      "lon": 16.8787069,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T22:30:00",
+      "original_description": "Poznań ul. Błońska, ul. Franciszka Witaszka, ul. Leszczyńska, ul. Wiktora Gosienieckiego, ul. Władysława Orkana.",
+      "id": "1d19ed4a05cfa997f87af3af230657a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leszczyńska, Świerczewo, Poznań, województwo wielkopolskie, 61-411, Polska",
+      "lat": 52.3595932,
+      "lon": 16.8811028,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T22:30:00",
+      "original_description": "Poznań ul. Błońska, ul. Franciszka Witaszka, ul. Leszczyńska, ul. Wiktora Gosienieckiego, ul. Władysława Orkana.",
+      "id": "c2e8716bc791ff42377952526e62bae2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiktora Gosienieckiego, Świerczewo, Poznań, województwo wielkopolskie, 61-411, Polska",
+      "lat": 52.3581981,
+      "lon": 16.8805602,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T22:30:00",
+      "original_description": "Poznań ul. Błońska, ul. Franciszka Witaszka, ul. Leszczyńska, ul. Wiktora Gosienieckiego, ul. Władysława Orkana.",
+      "id": "0c81fa555c62aab138449330b723182c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Orkana, Świerczewo, Poznań, województwo wielkopolskie, 61-407, Polska",
+      "lat": 52.3603449,
+      "lon": 16.8797614,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T22:30:00",
+      "original_description": "Poznań ul. Błońska, ul. Franciszka Witaszka, ul. Leszczyńska, ul. Wiktora Gosienieckiego, ul. Władysława Orkana.",
+      "id": "32449e79eacf51890376bb32b3c38e12"
     }
   ]
 }
