@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-09T09:03:22.373495+00:00",
+  "last_update": "2026-01-09T09:39:13.284116+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2540,6 +2540,166 @@
       "end_time": "2026-01-09T12:00:00",
       "original_description": "Poznań os. Pod Lipami, rondo Śródka, rynek Śródecki, ul. Andrzeja Łaskarza, ul. Bnińska, ul. Bóżnicza, ul. Bydgoska, ul. Cybińska, ul. Dominikańska, ul. Ewarysta Estkowskiego, ul. Garbary, ul. Grochowe Łąki, ul. Jana Pawła II, ul. Kaliska, ul. Katowicka, ul. Klasztorna, ul. Kmieca, ul. Koralowa, ul. Kórnicka, ul. Kramarska, ul. Krańcowa, ul. Masztalarska, ul. Miłosławska, ul. Na Stoku, ul. Naramowicka, ul. Piaskowa, ul. Piotra Tomickiego, ul. Polanka, ul. Prymasa Stefana Wyszyńskiego, ul. Słowiańska, ul. Stanisława Konarskiego, ul. Stanisława Małachowskiego, ul. Stary Rynek, ul. Szelągowska, ul. Szewska, ul. Szyperska, ul. Ślusarska, ul. Średzka, ul. Śródka, ul. św. Michała, ul. św. Wincentego, ul. Termalna, ul. Ugory, ul. Warszawska, ul. Wielka, ul. Wilczak, ul. Woźna, ul. Wójtowska, ul. Zagórze, ul. Zagrodnicza, ul. Zaniemyska, ul. Zawady, ul. Zdrojowa, ul. Żydowska.",
       "id": "a0db41828c178a4e8d0e8289d4cc6a95"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "183b57ab5c8356830d8c50f4f5c5a85f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "8716c6f08e1ea8150c36935a28fa072a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cicha, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-710, Polska",
+      "lat": 52.4162002,
+      "lon": 16.9228386,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "0c9f4cac3fa372a3806a716def598a05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziewicza Góra, Czerwonak, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-004, Polska",
+      "lat": 52.479996,
+      "lon": 17.0111017,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "1de2049e19e704bc9be0b9cd26f217e7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dzięcioła, Konstantynowo, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.4141098,
+      "lon": 16.7175042,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "8ce5bc03beff2f3aff01929be63ad78e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krucza, Rataje, Poznań, województwo wielkopolskie, 61-387, Polska",
+      "lat": 52.3844304,
+      "lon": 16.9496195,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "c98550ec16f3135484eed8328dc7a6f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "b0f9767188d2ce231607636be21c13ef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miła, Ogrody, Poznań, województwo wielkopolskie, 60-586, Polska",
+      "lat": 52.417859,
+      "lon": 16.8868546,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "2642dbaaeb1ecaea56f8591e851d6125"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orla, Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, 61-374, Polska",
+      "lat": 52.3804817,
+      "lon": 16.9482479,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "19e5485858937383359a974044d3eb25"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "97e19b60ef2256de430f9791a3685d57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skowronka, Rakownia, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5626544,
+      "lon": 17.0338642,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "51724f2f0f7ed5c06689c14d0456d04b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sokoła, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "f88323dc1325a890e83a36d94238affd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trakt, Kliny, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-008, Polska",
+      "lat": 52.4788424,
+      "lon": 17.0383907,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "90f64baf6ad2b669bc82a1da172dc004"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Urocza, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4663611,
+      "lon": 16.949835,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "836e4b9e6eea947732d9f8bfe95ae403"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Urokliwa, Kliny, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-008, Polska",
+      "lat": 52.4901518,
+      "lon": 17.0465483,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "da6e24b4a00dd85c4efc344d23e472b2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zaciszna, Czapury, gmina Mosina, powiat poznański, województwo wielkopolskie, 61-332, Polska",
+      "lat": 52.3205653,
+      "lon": 16.9246953,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-09T12:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra, ul. Leśna, Kliny ul. Brzozowa, ul. Cicha, ul. Dzięcioła, ul. Krucza, ul. Miła, ul. Orła, ul. Poznańska, ul. Skowronka, ul. Sokoła, ul. Trakt, ul. Urocza, ul. Urokliwa, ul. Zaciszna, Mielno ul. Akacjowa, ul. Brzozowa.",
+      "id": "64d0e238f988ea6dbad46570c5bc52db"
     }
   ]
 }
