@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-10T11:15:01.994767+00:00",
+  "last_update": "2026-01-10T11:30:18.063571+00:00",
   "outages": [
     {
       "type": "planned",
@@ -730,6 +730,36 @@
       "end_time": "2026-01-10T12:30:00",
       "original_description": "Poznań ul. Byczyńska, ul. Grunwaldzka, ul. Rumuńska.",
       "id": "8b1845da5c73fe91df9ffef3dd42fff9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Byczyńska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3955355,
+      "lon": 16.8604709,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-10T14:00:00",
+      "original_description": "Poznań ul. Byczyńska, ul. Grunwaldzka, ul. Rumuńska.",
+      "id": "78ac8043e26455d80a89dc443cc146e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-10T14:00:00",
+      "original_description": "Poznań ul. Byczyńska, ul. Grunwaldzka, ul. Rumuńska.",
+      "id": "b1ebe79ed97d30041c1394319acccd91"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumuńska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-325, Polska",
+      "lat": 52.3966262,
+      "lon": 16.861487,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-10T14:00:00",
+      "original_description": "Poznań ul. Byczyńska, ul. Grunwaldzka, ul. Rumuńska.",
+      "id": "8a8e9f751dec0a5fd9cc4e8a017a2fe4"
     }
   ]
 }
