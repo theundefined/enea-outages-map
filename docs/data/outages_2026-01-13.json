@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-13T11:57:48.194353+00:00",
+  "last_update": "2026-01-13T12:55:37.596797+00:00",
   "outages": [
     {
       "type": "planned",
@@ -670,6 +670,26 @@
       "end_time": "2026-01-21T11:30:00",
       "original_description": "Poznań: ul. Bodawska 17, 19, 21, 23, ul. Ługańska 5, od 2 do 8 parzyste, ul. Iłowska 2.",
       "id": "f5b60f2f900447d9f3a6188918c77849"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-21T09:00:00",
+      "end_time": "2026-01-21T13:00:00",
+      "original_description": "Gmina Opalenica miejscowość Wojnowice Wielkopolskie ul. Wodna cała,  ul. Dworcowa cała, ul. Robotnicza cała (oprócz nr 1A), ul. Poznańska 1, od 2 do 16A nr parzyste, 3, 11, ul. Łagiewska od 2 do 26 nr parzyste, ul. Słoneczna 1,  Szkoła Podstawowa im. B. Chrzanowskiego, hydrofornia, sklep Groszek,  Kubus meble na wymiar, Biblioteka, sala wiejska, Autopralnia CPN, dworzec kolejowy,  Salon Fryzjerski \"U Justyny\"",
+      "id": "342dd89cc3237bf4d1fb08fb1e992338"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "2026-01-21T09:00:00",
+      "end_time": "2026-01-21T13:00:00",
+      "original_description": "Gmina Opalenica miejscowość Wojnowice Wielkopolskie ul. Wodna cała,  ul. Dworcowa cała, ul. Robotnicza cała (oprócz nr 1A), ul. Poznańska 1, od 2 do 16A nr parzyste, 3, 11, ul. Łagiewska od 2 do 26 nr parzyste, ul. Słoneczna 1,  Szkoła Podstawowa im. B. Chrzanowskiego, hydrofornia, sklep Groszek,  Kubus meble na wymiar, Biblioteka, sala wiejska, Autopralnia CPN, dworzec kolejowy,  Salon Fryzjerski \"U Justyny\"",
+      "id": "2220284b299ad725cd9ed65bb4b62cdc"
     },
     {
       "type": "planned",
