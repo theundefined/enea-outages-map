@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-13T11:00:42.156116+00:00",
+  "last_update": "2026-01-13T11:31:43.710967+00:00",
   "outages": [
     {
       "type": "planned",
@@ -733,6 +733,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Książęca, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-348, Polska",
+      "lat": 52.3671861,
+      "lon": 16.930722,
+      "start_time": "2026-01-27T08:00:00",
+      "end_time": "2026-01-27T13:00:00",
+      "original_description": "Poznań: ul. Książęca 47, 47A-D, 49, 49A-D.",
+      "id": "71e1ea2a594ad32b5b94a6fa577360a0"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Dereniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
       "lat": 52.3605579,
       "lon": 17.0285227,
@@ -840,6 +850,66 @@
       "end_time": "2026-01-13T11:00:00",
       "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Botaniczna, ul. Jana Henryka Dąbrowskiego, ul. Miła, ul. Szpitalna, ul. Zofii Nałkowskiej.",
       "id": "48238a290963c42eb3adab4bebfd1735"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Botaniczna, Ogrody, Poznań, województwo wielkopolskie, 60-586, Polska",
+      "lat": 52.4188497,
+      "lon": 16.8857416,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T14:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Botaniczna, ul. Jana Henryka Dąbrowskiego, ul. Miła, ul. Szpitalna, ul. Zofii Nałkowskiej.",
+      "id": "a1c0abc1d0480e7f0e2c47408178ab3c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T14:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Botaniczna, ul. Jana Henryka Dąbrowskiego, ul. Miła, ul. Szpitalna, ul. Zofii Nałkowskiej.",
+      "id": "04d12bc932c5d87421f6939dfa3b7fd3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miła, Ogrody, Poznań, województwo wielkopolskie, 60-586, Polska",
+      "lat": 52.417859,
+      "lon": 16.8868546,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T14:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Botaniczna, ul. Jana Henryka Dąbrowskiego, ul. Miła, ul. Szpitalna, ul. Zofii Nałkowskiej.",
+      "id": "4aef50ae6bfe687d1e11d66c97aee42a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Plac Ludwika Waryńskiego, Ogrody, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4166661,
+      "lon": 16.8832256,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T14:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Botaniczna, ul. Jana Henryka Dąbrowskiego, ul. Miła, ul. Szpitalna, ul. Zofii Nałkowskiej.",
+      "id": "2dd7aca24703b3e418c41e00ecfe1655"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szpitalna, Ogrody, Poznań, województwo wielkopolskie, 60-572, Polska",
+      "lat": 52.4125941,
+      "lon": 16.8773812,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T14:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Botaniczna, ul. Jana Henryka Dąbrowskiego, ul. Miła, ul. Szpitalna, ul. Zofii Nałkowskiej.",
+      "id": "3b4efefc2602d9c0c56db2462db3e9dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zofii Nałkowskiej, Ogrody, Poznań, województwo wielkopolskie, 60-573, Polska",
+      "lat": 52.4178728,
+      "lon": 16.8882874,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T14:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Botaniczna, ul. Jana Henryka Dąbrowskiego, ul. Miła, ul. Szpitalna, ul. Zofii Nałkowskiej.",
+      "id": "b09ebec675ea2d803007903687fb703f"
     }
   ]
 }
