@@ -1,0 +1,645 @@
+{
+  "last_update": "2026-01-13T01:22:09.261071+00:00",
+  "outages": [
+    {
+      "type": "planned",
+      "geocoded_address": "Bażanta, Kliny, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-008, Polska",
+      "lat": 52.4773806,
+      "lon": 17.0410692,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "f3bb56d0a58fc6bbb3a33f97faf09156"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krucza, Rataje, Poznań, województwo wielkopolskie, 61-387, Polska",
+      "lat": 52.3844304,
+      "lon": 16.9496195,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "1baa9044c12ec170833c7c3fcd1b3f4e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "506597d5a6651f5b795ba6ac063ffb0e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przepiórki, Rakownia, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5653197,
+      "lon": 17.0352374,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "53f76f97c180fd0707a26b8006053d20"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sokoła, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "23162a4550d3fb276c5fe13b216b5829"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sowia, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-139, Polska",
+      "lat": 52.3989433,
+      "lon": 16.9567029,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T12:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "66f3a94d7db75f6c20c57796a05ecf39"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "2026-01-13T08:00:00",
+      "end_time": "2026-01-13T14:00:00",
+      "original_description": "Poznań: ul. Obornicka 229 dz. 8/2 stacja telefonii komórkowej.",
+      "id": "6723e951c2044100526ebba8e05c99e7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "61cb907cb2c9e5adf07fb889cd33929b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dziwnowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4357123,
+      "lon": 16.8195259,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "65832f9f0f83ef9adb4272d73d1d8dc4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kościerzyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4355937,
+      "lon": 16.8163307,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "7d3efa713f06db2b49580eee2dc648a4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kwidzyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4340224,
+      "lon": 16.8191309,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "b6c8a31352cc28d9a71130a0b6d1cc52"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "725a5271f314533263c1c1d4fc4795dd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T11:30:00",
+      "original_description": "Poznań: ul. Kościerzyńska od 3 do 47 nieparzyste, od 8 do 34 parzyste, ul. Kwidzyńska, ul. Darłowska 52, 52A, 54, 56, 71, ul. Sianowska od 99 do 113 nieparzyste, od 112 do 128 parzyste, ul. Dziwnowska 6, 8, 10, ul. Dąbrowskiego 485.",
+      "id": "2ad12ad2dbec99402a59fcc3ad2c6a44"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dereniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3605579,
+      "lon": 17.0285227,
+      "start_time": "2026-01-13T08:30:00",
+      "end_time": "2026-01-13T15:30:00",
+      "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
+      "id": "20e3e38e7373fb4c988c3926364854e5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gościnna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3488352,
+      "lon": 17.0334734,
+      "start_time": "2026-01-14T08:30:00",
+      "end_time": "2026-01-14T15:30:00",
+      "original_description": "Poznań: ul. Gościnna dz. 1/349, dz. 1/350, dz. 1/351, dz. 1/363, dz. 1/365.",
+      "id": "6bab73d2ef80e7120e9efbc125d97fac"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przeskok, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3648714,
+      "lon": 16.9902253,
+      "start_time": "2026-01-15T08:30:00",
+      "end_time": "2026-01-15T10:30:00",
+      "original_description": "Poznań: ul. Przeskok 3, 3A.",
+      "id": "9493ffe10f534041adbe1a712895c497"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wagrowska, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-373, Polska",
+      "lat": 52.3786813,
+      "lon": 16.9446854,
+      "start_time": "2026-01-15T08:30:00",
+      "end_time": "2026-01-15T15:30:00",
+      "original_description": "Poznań: ul. Wagrowska 6, 10.",
+      "id": "9975affe4ae83742e2f1baafc602efe3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kozia, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.4072732,
+      "lon": 16.9308082,
+      "start_time": "2026-01-15T09:00:00",
+      "end_time": "2026-01-15T11:00:00",
+      "original_description": "Poznań: ul. Kozia 5, 6, ul. Świętosławska 6, 7, 8, 9, 10.",
+      "id": "9a1ac7e135ad16b59549c669851ed516"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świętosławska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-840, Polska",
+      "lat": 52.4070198,
+      "lon": 16.9342512,
+      "start_time": "2026-01-15T09:00:00",
+      "end_time": "2026-01-15T11:00:00",
+      "original_description": "Poznań: ul. Kozia 5, 6, ul. Świętosławska 6, 7, 8, 9, 10.",
+      "id": "acc85281674cf10e35ece43c1e71b916"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świętego Wincentego, Zawady, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-003, Polska",
+      "lat": 52.4141515,
+      "lon": 16.9532481,
+      "start_time": "2026-01-15T16:00:00",
+      "end_time": "2026-01-15T17:00:00",
+      "original_description": "Poznań: ul. Św. Wincentego 10, 12, 15, parking.",
+      "id": "d0d425e0b165d8325d64a0221e8fb560"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "2026-01-16T08:00:00",
+      "end_time": "2026-01-16T11:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Lipowa od 1 do 23 nr nieparzyste, ul. Poznańska 39, od 53 do 67 nr nieparzyste, ul. Jaśminowa cała, ul. Jarzębinowa cała (oprócz 57A, 57B, 57C, 77 i 79), ul. Akacjowa 11B, 12, 15, 17, 19, ul. Bukowa 1, od 3 do 10, 12, 14, działki nr 98/8, 115/4, 115/6, 115/8, 522/8, 527, 531, 539/1, 701/5, Fabryka Okien i Drzwi SAPOR,",
+      "id": "cc91fb41019b60f7ea7ea7663ecc7c43"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "2026-01-16T08:00:00",
+      "end_time": "2026-01-16T11:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Lipowa od 1 do 23 nr nieparzyste, ul. Poznańska 39, od 53 do 67 nr nieparzyste, ul. Jaśminowa cała, ul. Jarzębinowa cała (oprócz 57A, 57B, 57C, 77 i 79), ul. Akacjowa 11B, 12, 15, 17, 19, ul. Bukowa 1, od 3 do 10, 12, 14, działki nr 98/8, 115/4, 115/6, 115/8, 522/8, 527, 531, 539/1, 701/5, Fabryka Okien i Drzwi SAPOR,",
+      "id": "494a10dbf800d3c0211b0a64d3b3bcbe"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "2026-01-16T08:00:00",
+      "end_time": "2026-01-16T11:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Lipowa od 1 do 23 nr nieparzyste, ul. Poznańska 39, od 53 do 67 nr nieparzyste, ul. Jaśminowa cała, ul. Jarzębinowa cała (oprócz 57A, 57B, 57C, 77 i 79), ul. Akacjowa 11B, 12, 15, 17, 19, ul. Bukowa 1, od 3 do 10, 12, 14, działki nr 98/8, 115/4, 115/6, 115/8, 522/8, 527, 531, 539/1, 701/5, Fabryka Okien i Drzwi SAPOR,",
+      "id": "0e6d129fe28da0de6fd74bdbc75c6463"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-16T08:00:00",
+      "end_time": "2026-01-16T11:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Lipowa od 1 do 23 nr nieparzyste, ul. Poznańska 39, od 53 do 67 nr nieparzyste, ul. Jaśminowa cała, ul. Jarzębinowa cała (oprócz 57A, 57B, 57C, 77 i 79), ul. Akacjowa 11B, 12, 15, 17, 19, ul. Bukowa 1, od 3 do 10, 12, 14, działki nr 98/8, 115/4, 115/6, 115/8, 522/8, 527, 531, 539/1, 701/5, Fabryka Okien i Drzwi SAPOR,",
+      "id": "3b3f988cb7b55537df7279d0fd0fb924"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-16T08:30:00",
+      "end_time": "2026-01-16T12:30:00",
+      "original_description": "Paczkowo ulice Polna 1 - 41A, Szparagowa 21, Średzka 5, 7, 11, 6 - 20 Parzyste, 21 - 34, 39B, Siekierki Wielkie ul. Poznańska 47A, 47B,",
+      "id": "873e078d46b4895c16218372a3b51344"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jarzębinowa, Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4738117,
+      "lon": 16.8969717,
+      "start_time": "2026-01-16T10:00:00",
+      "end_time": "2026-01-16T14:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Klonowa cała, ul. Nad Wierzbami cała,  ul. Słoneczna cała, ul. Tęczowa cała, ul. Pogodna cała, ul. Błękitna cała, ul. Lipowa nr parzyste, 25, ul. Poznańska 32, od 69 do 91 nr nieparzyste,  ul. Jarzębinowa  57, 57A, 57B, 57C, 77 i 79,  sklep Żabka, Sklep Spożywczo-Przemysłowy  Henryka  Grzymska, Tawerna, przepompownia,",
+      "id": "ada689395698b584a68e3911b32a2ea6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-16T10:00:00",
+      "end_time": "2026-01-16T14:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Klonowa cała, ul. Nad Wierzbami cała,  ul. Słoneczna cała, ul. Tęczowa cała, ul. Pogodna cała, ul. Błękitna cała, ul. Lipowa nr parzyste, 25, ul. Poznańska 32, od 69 do 91 nr nieparzyste,  ul. Jarzębinowa  57, 57A, 57B, 57C, 77 i 79,  sklep Żabka, Sklep Spożywczo-Przemysłowy  Henryka  Grzymska, Tawerna, przepompownia,",
+      "id": "a93f65bae15498d53bc34df02254da61"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ludwika Idzikowskiego, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4252138,
+      "lon": 16.8551394,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Sterowa, ul. Startowa 15A, 17, 19, ul. Pilotów od 5 do 23 nieparzyste, ul. Szybowcowa od 2 do 26 parzyste, od 1 do 17 nieparzyste, ul. Idzikowskiego 19, ul. Skarżyńskiego.",
+      "id": "607eb4aef5e741314181586fada20e3f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Startowa 1, 2, 4, 4A, ul. Przelot od 4 do 50 parzyste, od 9 do 17 nieparzyste, dz. 30/4, ul. Dąbrowskiego 262/280, 282/292, dz. 1/6.",
+      "id": "bb1040fb08a03931ffe63cf434001d66"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pilotów, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.425293,
+      "lon": 16.8533889,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Sterowa, ul. Startowa 15A, 17, 19, ul. Pilotów od 5 do 23 nieparzyste, ul. Szybowcowa od 2 do 26 parzyste, od 1 do 17 nieparzyste, ul. Idzikowskiego 19, ul. Skarżyńskiego.",
+      "id": "932171779b2110302d433de94cfa8165"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przelot, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4233728,
+      "lon": 16.8570039,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Startowa 1, 2, 4, 4A, ul. Przelot od 4 do 50 parzyste, od 9 do 17 nieparzyste, dz. 30/4, ul. Dąbrowskiego 262/280, 282/292, dz. 1/6.",
+      "id": "9923877a63a98f4fecf44f672f0e3172"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stanisława Skarżyńskiego, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4242441,
+      "lon": 16.8550702,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Sterowa, ul. Startowa 15A, 17, 19, ul. Pilotów od 5 do 23 nieparzyste, ul. Szybowcowa od 2 do 26 parzyste, od 1 do 17 nieparzyste, ul. Idzikowskiego 19, ul. Skarżyńskiego.",
+      "id": "031f9247bea7c6ff2b4920ed6f6d9e12"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Startowa, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.4261395,
+      "lon": 16.8562671,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Startowa 1, 2, 4, 4A, ul. Przelot od 4 do 50 parzyste, od 9 do 17 nieparzyste, dz. 30/4, ul. Dąbrowskiego 262/280, 282/292, dz. 1/6.",
+      "id": "9a42f1ce087ac669cb1eb78a373fc03a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Startowa, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.4261395,
+      "lon": 16.8562671,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Sterowa, ul. Startowa 15A, 17, 19, ul. Pilotów od 5 do 23 nieparzyste, ul. Szybowcowa od 2 do 26 parzyste, od 1 do 17 nieparzyste, ul. Idzikowskiego 19, ul. Skarżyńskiego.",
+      "id": "4bee1b62a831dced732246351f467448"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sterowa, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.4260959,
+      "lon": 16.8547707,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Sterowa, ul. Startowa 15A, 17, 19, ul. Pilotów od 5 do 23 nieparzyste, ul. Szybowcowa od 2 do 26 parzyste, od 1 do 17 nieparzyste, ul. Idzikowskiego 19, ul. Skarżyńskiego.",
+      "id": "aca2dad5fe51c6c3cc897b6b584fa1f2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szybowcowa, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4240071,
+      "lon": 16.8550271,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T12:30:00",
+      "original_description": "Poznań: ul. Sterowa, ul. Startowa 15A, 17, 19, ul. Pilotów od 5 do 23 nieparzyste, ul. Szybowcowa od 2 do 26 parzyste, od 1 do 17 nieparzyste, ul. Idzikowskiego 19, ul. Skarżyńskiego.",
+      "id": "9a4cd63474bd557e37953785a7f9b5b8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gościnna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3488352,
+      "lon": 17.0334734,
+      "start_time": "2026-01-19T08:30:00",
+      "end_time": "2026-01-19T15:30:00",
+      "original_description": "Poznań: ul. Gościnna dz. 1/349, dz. 1/350, dz. 1/351, dz. 1/363, dz. 1/365.",
+      "id": "683fab521210ebd6cbfbcc8801aa4d11"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jawornicka, Junikowo, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.389702,
+      "lon": 16.8538982,
+      "start_time": "2026-01-20T07:30:00",
+      "end_time": "2026-01-20T13:30:00",
+      "original_description": "Poznań: ul. Jawornicka 46, 50, 52.",
+      "id": "bdd2167689e28ca2be07e47dc0a84a10"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4795026,
+      "lon": 16.9188663,
+      "start_time": "2026-01-20T08:00:00",
+      "end_time": "2026-01-20T11:30:00",
+      "original_description": "Poznań: ul. Huby Moraskie 20, 22, 24, 25, 26, 27, 29, 31, ul. Rumiankowa 132, 134, dz. 295/6.",
+      "id": "d97e05e03d3060030b89ad83594fef12"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "2026-01-20T08:00:00",
+      "end_time": "2026-01-20T11:30:00",
+      "original_description": "Poznań: ul. Huby Moraskie 20, 22, 24, 25, 26, 27, 29, 31, ul. Rumiankowa 132, 134, dz. 295/6.",
+      "id": "c28a494b8c631d63ca96ccf5150cfc28"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "2026-01-20T08:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Puszczykowo ul. Lipowa, ul. Owocowa, ul. Poznańska 109,",
+      "id": "5e39cdbd2cff1bfadc402fe69a108de6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Owocowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.3653318,
+      "lon": 17.0182361,
+      "start_time": "2026-01-20T08:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Puszczykowo ul. Lipowa, ul. Owocowa, ul. Poznańska 109,",
+      "id": "4f7a14b590d52c55abbdf2c884deff98"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-20T08:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Puszczykowo ul. Lipowa, ul. Owocowa, ul. Poznańska 109,",
+      "id": "2f2c9c54253102e1d15553e923be4050"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "2026-01-20T08:00:00",
+      "end_time": "2026-01-20T14:00:00",
+      "original_description": "Poznań: ul. Obornicka 338.",
+      "id": "f0032497f3f84d104bb8f488646a3ca3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bobrzańska, Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-242, Polska",
+      "lat": 52.383534,
+      "lon": 16.9712599,
+      "start_time": "2026-01-20T08:30:00",
+      "end_time": "2026-01-20T10:00:00",
+      "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
+      "id": "1deee39188b71d2b70953f54e5f84c72"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bolesława Krzywoustego, Żegrze, Poznań, województwo wielkopolskie, 61-292, Polska",
+      "lat": 52.3748378,
+      "lon": 16.9810699,
+      "start_time": "2026-01-20T08:30:00",
+      "end_time": "2026-01-20T10:00:00",
+      "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
+      "id": "52644bd467643d84c0088a7aaf0c89d6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "2026-01-20T08:30:00",
+      "end_time": "2026-01-20T10:00:00",
+      "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
+      "id": "9c26c717af2c82813bf533528092a825"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ślężańska, Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-248, Polska",
+      "lat": 52.3798464,
+      "lon": 16.9724148,
+      "start_time": "2026-01-20T08:30:00",
+      "end_time": "2026-01-20T10:00:00",
+      "original_description": "Poznań: ul. Ślężańska od 1 do 43 nieparzyste, od 8 do 26 parzyste, ul. Bobrzańska 20, os. Orla Białego 86A, ul. Dziadoszańska 41, 43.",
+      "id": "13d6517ec36636d9e9c3b69c97d526b9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Edwarda Raczyńskiego, Podolany, Poznań, województwo wielkopolskie, 60-465, Polska",
+      "lat": 52.4547765,
+      "lon": 16.8869514,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "72409b9cc22d66271187bec7b62da217"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "235cfc7ebe7b577e55f4944a1d2274df"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Plażowa, Strykowo, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-062, Polska",
+      "lat": 52.2657893,
+      "lon": 16.611639,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "b254239384f162340c6df810bd122a5c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "b5295d68e121a1b3f07114382bc440f5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "0c40bcf972b14e8b1f27cc6e3dc96ff2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przylesie, Ławica, Skórzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3915847,
+      "lon": 16.8084887,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "0c55ec4e3cdf7bb555ee6aa0acbe077e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "d89f71859afd42afa4a46da5268349d9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "164143f6a39aaabb1c94daf3c00c6ee3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Średzka, Komandoria, Komandoria-Pomet, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-118, Polska",
+      "lat": 52.4127122,
+      "lon": 16.966039,
+      "start_time": "2026-01-20T10:00:00",
+      "end_time": "2026-01-20T12:00:00",
+      "original_description": "Zaniemyśl ul. Plażowa 1, 2, 40, dz. 36/37, ul. Edwarda Raczyńskiego 24, 26, 28, 28A, 30, 30A, 32, 36, 38, 39a, 40, 40B, 40C, 42, 42A, 42B, 44, 44A, 45, 45 B, 45B, 45C, 45D, 46,  10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8,  1, 3, 5, 7,  11, 13, 15, 17, 19, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 39A, 41, 9, DOM.CAMP, ul. Kwiatowa 1, 3, 4, 5, 6, 7, ul. Słoneczna 21, ul. Topolowa 1, 2, 3, pl. Berwińskiego 5, ul. Czarnecka, ul. Poznańska 11, 13, 15, 16, 17, 19, 21, 3, 5, 6, 7, 9, ul. Przylesie 6B, ul. Powstańców Wielkopolskich 2, 4,  24, 4, ul. Średzka 2, 4, 6, 8",
+      "id": "2c1f7c0b485b831e48c1357f0dcca06b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T10:00:00",
+      "original_description": "Puszczykowo ul. Zielona, ul. Poznańska 42, 44,",
+      "id": "614529f171684fe5414d4966a9e7b2fd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T10:00:00",
+      "original_description": "Puszczykowo ul. Zielona, ul. Poznańska 42, 44,",
+      "id": "578fa26cfda39917ef26fa06b8779712"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T13:00:00",
+      "original_description": "Kobylnica: ul. Poznańska dz. 8/6, dz. 9/2.",
+      "id": "ff9221122b0a061b0523bd3f0029699f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T14:00:00",
+      "original_description": "Poznań: ul. Obornicka 229 dz. 8/2 stacja telefonii komórkowej.",
+      "id": "acf5d406c473b688deb52187156461ba"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-01-21T08:30:00",
+      "end_time": "2026-01-21T10:00:00",
+      "original_description": "Poznań: ul. Policka 18, 18A,  przepompownia, ul. Bukowska 440, ROD \"Leśna Polana\".",
+      "id": "0b3976a3e73086eb1e3c230687842ac1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Policka, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4114,
+      "lon": 16.8175823,
+      "start_time": "2026-01-21T08:30:00",
+      "end_time": "2026-01-21T10:00:00",
+      "original_description": "Poznań: ul. Policka 18, 18A,  przepompownia, ul. Bukowska 440, ROD \"Leśna Polana\".",
+      "id": "7ee7be060cc6b9ca7d9cde60c3a3db4f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dereniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3605579,
+      "lon": 17.0285227,
+      "start_time": "2026-01-28T08:30:00",
+      "end_time": "2026-01-28T15:30:00",
+      "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
+      "id": "02e6964662625d7a32c8ba68522c69f6"
+    }
+  ]
+}
