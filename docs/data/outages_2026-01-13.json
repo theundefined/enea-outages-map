@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-13T07:49:18.794872+00:00",
+  "last_update": "2026-01-13T07:58:24.400816+00:00",
   "outages": [
     {
       "type": "planned",
@@ -640,6 +640,46 @@
       "end_time": "2026-01-28T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "02e6964662625d7a32c8ba68522c69f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Biedrzyckiego, Łazarz, Poznań, województwo wielkopolskie, 60-272, Polska",
+      "lat": 52.3892002,
+      "lon": 16.8862354,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T11:00:00",
+      "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
+      "id": "64d3600cfa3889fc3225521d5f08a00c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błażeja Winklera, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3903278,
+      "lon": 16.8871132,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T11:00:00",
+      "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
+      "id": "6a5daec3ece5dd604d65e77415b8c7fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Jarochowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961127,
+      "lon": 16.894134,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T11:00:00",
+      "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
+      "id": "882563716f849679d0d7af51ed269374"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Macieja Palacza, Pogodno, Grunwald Południe, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3964455,
+      "lon": 16.8677181,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-13T11:00:00",
+      "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
+      "id": "b34f1d6e318e14616e4b4e3a168f76aa"
     }
   ]
 }
