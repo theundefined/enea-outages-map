@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-14T06:30:01.245447+00:00",
+  "last_update": "2026-01-14T06:58:50.298671+00:00",
   "outages": [
     {
       "type": "planned",
@@ -480,6 +480,86 @@
       "end_time": "2026-01-21T14:00:00",
       "original_description": "Poznań: ul. Obornicka 229 dz. 8/2 stacja telefonii komórkowej.",
       "id": "acf5d406c473b688deb52187156461ba"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Cedzyńska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-005, Polska",
+      "lat": 52.3667679,
+      "lon": 16.8489866,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T16:00:00",
+      "original_description": "Poznań: ul. Trzebińska od 1 do 9, ul. Sycowska od 5 do 23 nieparzyste, od 6 do 18 parzyste, ul. Pobielska, ul. Radyńska, ul. Wojnowicka, ul. Kowalewicka od 16 do 75, ul. Cedzyńska, ul. Fabianowo od 7 do 55 nieparzyste, od 10 do 34 parzyste.",
+      "id": "b7268ed3f0e821d757927a2629f09c55"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3680729,
+      "lon": 16.8470077,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T16:00:00",
+      "original_description": "Poznań: ul. Trzebińska od 1 do 9, ul. Sycowska od 5 do 23 nieparzyste, od 6 do 18 parzyste, ul. Pobielska, ul. Radyńska, ul. Wojnowicka, ul. Kowalewicka od 16 do 75, ul. Cedzyńska, ul. Fabianowo od 7 do 55 nieparzyste, od 10 do 34 parzyste.",
+      "id": "6adf0ffc32cad22faeab8ca5832a8d27"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kowalewicka, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-005, Polska",
+      "lat": 52.3671701,
+      "lon": 16.8468384,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T16:00:00",
+      "original_description": "Poznań: ul. Trzebińska od 1 do 9, ul. Sycowska od 5 do 23 nieparzyste, od 6 do 18 parzyste, ul. Pobielska, ul. Radyńska, ul. Wojnowicka, ul. Kowalewicka od 16 do 75, ul. Cedzyńska, ul. Fabianowo od 7 do 55 nieparzyste, od 10 do 34 parzyste.",
+      "id": "d76fc90c4373eda665dde6107cf0dca9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pobielska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.3674177,
+      "lon": 16.8439092,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T16:00:00",
+      "original_description": "Poznań: ul. Trzebińska od 1 do 9, ul. Sycowska od 5 do 23 nieparzyste, od 6 do 18 parzyste, ul. Pobielska, ul. Radyńska, ul. Wojnowicka, ul. Kowalewicka od 16 do 75, ul. Cedzyńska, ul. Fabianowo od 7 do 55 nieparzyste, od 10 do 34 parzyste.",
+      "id": "5b37a96de4b4f617bb96c43d00092537"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radyńska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-002, Polska",
+      "lat": 52.3667167,
+      "lon": 16.8446956,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T16:00:00",
+      "original_description": "Poznań: ul. Trzebińska od 1 do 9, ul. Sycowska od 5 do 23 nieparzyste, od 6 do 18 parzyste, ul. Pobielska, ul. Radyńska, ul. Wojnowicka, ul. Kowalewicka od 16 do 75, ul. Cedzyńska, ul. Fabianowo od 7 do 55 nieparzyste, od 10 do 34 parzyste.",
+      "id": "8b77a3e14e6178676a2491a1224fe06f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sycowska, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-004, Polska",
+      "lat": 52.3601806,
+      "lon": 16.8354639,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T16:00:00",
+      "original_description": "Poznań: ul. Trzebińska od 1 do 9, ul. Sycowska od 5 do 23 nieparzyste, od 6 do 18 parzyste, ul. Pobielska, ul. Radyńska, ul. Wojnowicka, ul. Kowalewicka od 16 do 75, ul. Cedzyńska, ul. Fabianowo od 7 do 55 nieparzyste, od 10 do 34 parzyste.",
+      "id": "26558ad80127866a078c0aa867b1b609"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trzebińska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.3668445,
+      "lon": 16.8352775,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T16:00:00",
+      "original_description": "Poznań: ul. Trzebińska od 1 do 9, ul. Sycowska od 5 do 23 nieparzyste, od 6 do 18 parzyste, ul. Pobielska, ul. Radyńska, ul. Wojnowicka, ul. Kowalewicka od 16 do 75, ul. Cedzyńska, ul. Fabianowo od 7 do 55 nieparzyste, od 10 do 34 parzyste.",
+      "id": "802541e1c9c67532b89f5c1d52b460fc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wojnowicka, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-002, Polska",
+      "lat": 52.3660607,
+      "lon": 16.8466118,
+      "start_time": "2026-01-21T08:00:00",
+      "end_time": "2026-01-21T16:00:00",
+      "original_description": "Poznań: ul. Trzebińska od 1 do 9, ul. Sycowska od 5 do 23 nieparzyste, od 6 do 18 parzyste, ul. Pobielska, ul. Radyńska, ul. Wojnowicka, ul. Kowalewicka od 16 do 75, ul. Cedzyńska, ul. Fabianowo od 7 do 55 nieparzyste, od 10 do 34 parzyste.",
+      "id": "95c1b2aab2e51621621bae62194e7e11"
     },
     {
       "type": "planned",
