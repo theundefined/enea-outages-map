@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-14T10:21:56.412871+00:00",
+  "last_update": "2026-01-14T10:50:43.367630+00:00",
   "outages": [
     {
       "type": "planned",
@@ -700,6 +700,16 @@
       "end_time": "2026-01-27T13:00:00",
       "original_description": "Poznań: ul. Książęca 47, 47A-D, 49, 49A-D.",
       "id": "71e1ea2a594ad32b5b94a6fa577360a0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-01-28T08:00:00",
+      "end_time": "2026-01-28T14:00:00",
+      "original_description": "Poznań: os. Przyjaźni 6, 7, 8, 9, 128.",
+      "id": "4d4f1fe2d7a69719a62d811b6790c259"
     },
     {
       "type": "planned",
