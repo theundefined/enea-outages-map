@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-14T07:31:47.491387+00:00",
+  "last_update": "2026-01-14T07:50:30.218408+00:00",
   "outages": [
     {
       "type": "planned",
@@ -710,6 +710,16 @@
       "end_time": "2026-01-28T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "02e6964662625d7a32c8ba68522c69f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głuszyna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3166706,
+      "lon": 16.9499986,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-14T09:45:00",
+      "original_description": "Poznań ulica Głuszyna .",
+      "id": "7e48171ca855968c660bc8c88606e321"
     }
   ]
 }
