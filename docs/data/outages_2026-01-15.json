@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-15T07:58:54.592392+00:00",
+  "last_update": "2026-01-15T08:39:32.458283+00:00",
   "outages": [
     {
       "type": "planned",
@@ -690,6 +690,16 @@
       "end_time": "2026-01-26T10:30:00",
       "original_description": "Poznań: ul. Śmigi od 33 do 45 nieparzyste, ul. Rakietowa, ul. Skrzydlata.",
       "id": "f11f88431a4c15948f2444b1a3677887"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "2026-01-26T08:00:00",
+      "end_time": "2026-01-26T16:00:00",
+      "original_description": "Gmina Stęszew miejscowość Łódź ul. Jeziorna cała, ul. Trzebawska cała, ul. Wypoczynkowa cała, ul. Szkolna od 1 do 4A, 5A, \ndziałki numer 2/1, 56/2, 57/1, 57/4, 59/2,  78/2, od 85/1 do 85/16, od 86/2 do 86/9, od 87/2 do 87/8, od 88/3 do 88/13, 171/1, 234/4,\nKlub Wodny LOK \"Saling\", Polski Związek Wędkarski, Biuro Liga Obrony Kraju, Tłocznia ścieków, PZW Okręg Poznań KOŁO 56 Poznań Grunwald,",
+      "id": "d2322b048569129d2bc9db13c7c8698e"
     },
     {
       "type": "planned",
