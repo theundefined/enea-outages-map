@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-16T17:57:56.471241+00:00",
+  "last_update": "2026-01-16T18:38:54.926860+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1100,6 +1100,106 @@
       "end_time": "2026-01-16T18:00:00",
       "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
       "id": "17bdbc5337dd0faf19c676043374e610"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworkowa, Sołacz, Poznań, województwo wielkopolskie, 60-608, Polska",
+      "lat": 52.4168062,
+      "lon": 16.9163996,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "f7eaeaab1d1d7554a7662df553f74c12"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Feliksa Nowowiejskiego, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-717, Polska",
+      "lat": 52.4132088,
+      "lon": 16.9219925,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "acc5dd09da6c98f94cfc86e38616cc76"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fryderyka Chopina, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-708, Polska",
+      "lat": 52.4136241,
+      "lon": 16.9189832,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "cc3b1052bf2942f3652d9dc15b088572"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grudzieniec, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4194773,
+      "lon": 16.9010792,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "1c48d6391e135b603e8a0523526c3ffd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karola Libelta, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-716, Polska",
+      "lat": 52.4113691,
+      "lon": 16.921589,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "85ce417ecda51decefa14240e6b9e997"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Pułaskiego, Sołacz, Poznań, województwo wielkopolskie, 61-705, Polska",
+      "lat": 52.414787,
+      "lon": 16.9169621,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "80a0e4df7697d075b9781ca913d5e708"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księcia Mieszka I, Nowe Winogrady Południe, Osiedle Przyjaźni, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4291135,
+      "lon": 16.9200967,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "03bff17f644b1883fd34e795a930b480"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pomnik przyrody Aleja Niepodległości, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-734, Polska",
+      "lat": 52.4130348,
+      "lon": 16.9205878,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "19c6940f101cc76f7ff2a4f5b777a193"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wielkopolska, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-154, Polska",
+      "lat": 52.3919131,
+      "lon": 16.9433857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "1af6e85774d474c7f0d855dce763d634"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zygmunta Noskowskiego, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-704, Polska",
+      "lat": 52.4116028,
+      "lon": 16.9159562,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-16T21:00:00",
+      "original_description": "Poznań al. Niepodległości, al. Wielkopolska, ul. Dworkowa, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Grudzieniec, ul. Karola Libelta, ul. Kazimierza Pułaskiego, ul. Księcia Mieszka I, ul. Zygmunta Noskowskiego.",
+      "id": "9c67e2618b393d29ad9e1736cca8d3b7"
     }
   ]
 }
