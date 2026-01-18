@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-18T18:50:22.796796+00:00",
+  "last_update": "2026-01-18T19:13:26.038119+00:00",
   "outages": [
     {
       "type": "planned",
@@ -920,6 +920,36 @@
       "end_time": "2026-01-30T13:30:00",
       "original_description": "Poznań ul. Hawelańska 21, 25.",
       "id": "a3092bef31a0c755c1cddbc9b331ff5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-18T22:30:00",
+      "original_description": "Jeziorki ul. Bukowska, ul. Pocztowa, ul. Poznańska.",
+      "id": "68964d7c9220e7219aa5e2526b88ffff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.248571,
+      "lon": 17.0886353,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-18T22:30:00",
+      "original_description": "Jeziorki ul. Bukowska, ul. Pocztowa, ul. Poznańska.",
+      "id": "25ae55e417d535e8413380f53c6b76e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-18T22:30:00",
+      "original_description": "Jeziorki ul. Bukowska, ul. Pocztowa, ul. Poznańska.",
+      "id": "4948542a11339b5c5e6f3e3d45dc6185"
     }
   ]
 }
