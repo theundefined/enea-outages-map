@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-19T20:57:14.774303+00:00",
+  "last_update": "2026-01-19T21:22:41.268421+00:00",
   "outages": [
     {
       "type": "planned",
@@ -960,6 +960,246 @@
       "end_time": "2026-01-19T11:30:00",
       "original_description": "Poznań ul. 5 Stycznia, ul. Ikara, ul. Latawcowa, ul. Przelot.",
       "id": "c31c5dc9a66552d06ff5b6d5e6bf2d02"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "617383c26a64e8f90c0758fba79cd55f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "ea89de69c281effbce864a2ac27f4cd4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błękitna, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-656, Polska",
+      "lat": 52.4304551,
+      "lon": 16.9048887,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "980a908a8fd64db06b7d305708ec280a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jarzębinowa, Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4738117,
+      "lon": 16.8969717,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "3891db966e3d9dce6d5404acdb8dc440"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "a52db36b79f8f89cd5ff16be19246a05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "632a20d9656dcf07d4429adb605f66d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "a68484b817987047d3ddcdcd4aea1b8c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "6c7722b280c3722a79ec86bd5305e3d8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "a0ba94bc0ccecd8f915f42f9d1b5f9f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "197c2e04affd856c75be90455892c73b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tęczowa, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3924959,
+      "lon": 16.8799077,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:00:00",
+      "original_description": "Niepruszewo ul. Akacjowa, ul. Błękitna, ul. Bukowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Klonowa, ul. Lipowa, ul. Pogodna, ul. Poznańska, ul. Słoneczna, ul. Tęczowa.",
+      "id": "48d15d9408bd0683c0aadf71680383d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czechowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4346609,
+      "lon": 16.8238543,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "5d2aaa07a0e0edb7a85259fcdae7d4bd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "39deed9e14a4f145e577bae3bc134260"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziwnowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4357123,
+      "lon": 16.8195259,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "45c347b625d5707cf38a43f325728eb8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Elbląska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4383865,
+      "lon": 16.8256759,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "aea79f3032809d506d65549c49d6488e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "4bfa9c8d1ad1b25dfd6649d2b0175327"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karlińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4344651,
+      "lon": 16.8290173,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "db9f2f6b43ee258bfeef08cdba0d7160"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lemierzycka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4348176,
+      "lon": 16.8262394,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "9519098bae1856249fb14915ac914bb4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Muszkowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4340994,
+      "lon": 16.8248311,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "15c3fb254750cd7feeb02952ba98edee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owczarska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4336542,
+      "lon": 16.824506,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "f035b8db788a9b9bc0bc4dbd75ebbefc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ownicka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4336824,
+      "lon": 16.8262791,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "bdcf952ee823abd5965cb0cf5bfaaa2f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rybojadzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4346803,
+      "lon": 16.8250705,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "c2c1fbe92c36f2280f78738ebcb51b67"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "3ae383062e7067dda01568dd1822adb4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sułowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4335635,
+      "lon": 16.8273687,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T00:30:00",
+      "original_description": "Poznań ul. Czechowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Jana Henryka Dąbrowskiego, ul. Karlińska, ul. Lemierzycka, ul. Muszkowska, ul. Owczarska, ul. Ownicka, ul. Rybojadzka, ul. Sianowska, ul. Sułowska.",
+      "id": "13efea9bec22381a9de42802f6eea7c7"
     }
   ]
 }
