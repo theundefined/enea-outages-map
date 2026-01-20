@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-20T16:17:13.061974+00:00",
+  "last_update": "2026-01-20T16:54:01.292540+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2033,6 +2033,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Emilii Sczanieckiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3942967,
+      "lon": 16.8976266,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T19:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
+      "id": "fbfad0e9bfbc37738f5ae315030a12a8"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
       "lat": 52.4066079,
       "lon": 16.9372258,
@@ -2050,6 +2060,36 @@
       "end_time": "2026-01-20T19:00:00",
       "original_description": "Poznań ul. Garbary, ul. Grochowe Łąki.",
       "id": "ed687775198b65750d77bf03bdf4272f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T19:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
+      "id": "aff8bd3614a745f40e3926c4a4cce623"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościół pw. św. Andrzeja Apostoła, 92, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3510298,
+      "lon": 17.0254837,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T19:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
+      "id": "4c95d2e810458aa490fe18be69129c35"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marcina Kasprzaka, Łazarz, Poznań, województwo wielkopolskie, 60-245, Polska",
+      "lat": 52.3883781,
+      "lon": 16.8905487,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T19:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
+      "id": "3427882b10bdb7f02abd01f430a9fca7"
     }
   ]
 }
