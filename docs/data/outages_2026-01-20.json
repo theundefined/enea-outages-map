@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-20T07:38:56.923514+00:00",
+  "last_update": "2026-01-20T07:54:47.220918+00:00",
   "outages": [
     {
       "type": "planned",
@@ -820,6 +820,56 @@
       "end_time": "2026-01-30T13:30:00",
       "original_description": "Poznań ul. Hawelańska 21, 25.",
       "id": "a3092bef31a0c755c1cddbc9b331ff5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bobrzańska, Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-242, Polska",
+      "lat": 52.383534,
+      "lon": 16.9712599,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T11:00:00",
+      "original_description": "Poznań os. Orła Białego, ul. Bobrzańska, ul. Dziadoszańska, ul. Kurlandzka, ul. Ślężańska.",
+      "id": "5f6eb7551c05b71854aaf3f2b4b452b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Krzywoustego, Żegrze, Poznań, województwo wielkopolskie, 61-292, Polska",
+      "lat": 52.3748378,
+      "lon": 16.9810699,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T11:00:00",
+      "original_description": "Poznań os. Orła Białego, ul. Bobrzańska, ul. Dziadoszańska, ul. Kurlandzka, ul. Ślężańska.",
+      "id": "ed891ca628d902d2d01bdc691339569e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kurlandzka, Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-249, Polska",
+      "lat": 52.3769455,
+      "lon": 16.958801,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T11:00:00",
+      "original_description": "Poznań os. Orła Białego, ul. Bobrzańska, ul. Dziadoszańska, ul. Kurlandzka, ul. Ślężańska.",
+      "id": "cba35e6415da89db875230a42a6a22d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T11:00:00",
+      "original_description": "Poznań os. Orła Białego, ul. Bobrzańska, ul. Dziadoszańska, ul. Kurlandzka, ul. Ślężańska.",
+      "id": "83723cecf3b1820096c5e1f46264f914"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ślężańska, Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-248, Polska",
+      "lat": 52.3798464,
+      "lon": 16.9724148,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T11:00:00",
+      "original_description": "Poznań os. Orła Białego, ul. Bobrzańska, ul. Dziadoszańska, ul. Kurlandzka, ul. Ślężańska.",
+      "id": "c2d2ec4f9a8f9a890480c5dbc50eebc0"
     }
   ]
 }
