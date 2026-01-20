@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-20T15:16:21.332875+00:00",
+  "last_update": "2026-01-20T15:49:10.344015+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2030,6 +2030,26 @@
       "end_time": "2026-01-20T16:00:00",
       "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
       "id": "5fd5e14fcc24e434219220e4fc036b3a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
+      "lat": 52.4066079,
+      "lon": 16.9372258,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T19:00:00",
+      "original_description": "Poznań ul. Garbary, ul. Grochowe Łąki.",
+      "id": "eaef9132373764164b28442cd05ecba5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowe Łąki, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-757, Polska",
+      "lat": 52.4127013,
+      "lon": 16.9386289,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T19:00:00",
+      "original_description": "Poznań ul. Garbary, ul. Grochowe Łąki.",
+      "id": "ed687775198b65750d77bf03bdf4272f"
     }
   ]
 }
