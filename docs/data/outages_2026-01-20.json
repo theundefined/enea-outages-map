@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-20T18:31:53.151421+00:00",
+  "last_update": "2026-01-20T19:50:54.569296+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2090,6 +2090,46 @@
       "end_time": "2026-01-20T19:00:00",
       "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
       "id": "3427882b10bdb7f02abd01f430a9fca7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Emilii Sczanieckiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3942967,
+      "lon": 16.8976266,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T20:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
+      "id": "f94c13e6ca5d4aab354bec38c0e1367a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T20:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
+      "id": "1fc8f6964a758af2c4c9d6044d8aa8ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościół pw. św. Andrzeja Apostoła, 92, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3510298,
+      "lon": 17.0254837,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T20:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
+      "id": "f9df1b1bba4c7db76b64c290db02773b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marcina Kasprzaka, Łazarz, Poznań, województwo wielkopolskie, 60-245, Polska",
+      "lat": 52.3883781,
+      "lon": 16.8905487,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T20:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Emilii Sczanieckiej, ul. Głogowska, ul. Marcina Kasprzaka.",
+      "id": "f7c546949baf21a949e23aaa7b00fc11"
     }
   ]
 }
