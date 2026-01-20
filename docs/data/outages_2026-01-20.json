@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-20T11:50:44.903270+00:00",
+  "last_update": "2026-01-20T12:44:25.898812+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1200,6 +1200,756 @@
       "end_time": "2026-01-20T13:30:00",
       "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
       "id": "632b2cc15b30174a493e2f147722c133"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "27 Grudnia, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-725, Polska",
+      "lat": 52.4081776,
+      "lon": 16.9223847,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "d55a51a82ca9f7f105c07b93edfeb855"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "3 Maja, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-728, Polska",
+      "lat": 52.4090081,
+      "lon": 16.9248006,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "3380f51a988e11933bf490efb2db90e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "5 Stycznia, Wola, Ławica, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4224148,
+      "lon": 16.8540631,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "214765ef73efef4624d5203082629314"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Mickiewicza, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-835, Polska",
+      "lat": 52.4092101,
+      "lon": 16.9103072,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "e5d8bfea5f0d123ac59f82d00ad70c3f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "c4996525609deb6484867fa8cf896835"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Andrzeja i Władysława Niegolewskich, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3949865,
+      "lon": 16.900367,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "306d8036a5a0e10bec9e26c18cd0cd76"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-820, Polska",
+      "lat": 52.4120686,
+      "lon": 16.9052036,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "43183f321a810dac8c36d5c74e7f0397"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "ce616fe21a0d8b0ae768efc0a64215e6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "acadb3f513dddfb8a28f3e82c0ebcb6c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cicha, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-710, Polska",
+      "lat": 52.4162002,
+      "lon": 16.9228386,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "b44bbb1970f26e4888fce0c795716de9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "eb546deac6bd70f0a45f2f465048c431"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3680885,
+      "lon": 16.9128704,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "00467aa52cf149a48e42b943c3f3c586"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Energetyczna, Karolin, Główna, Poznań, województwo wielkopolskie, 61-016, Polska",
+      "lat": 52.4349465,
+      "lon": 16.9842077,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "a00a4f1be2461594d1ea181ed672e70e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Henryka Sienkiewicza, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-832, Polska",
+      "lat": 52.4098066,
+      "lon": 16.9052061,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "71176149d7a2648a00ccf2856d5f9d07"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Henryka Wieniawskiego, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 60-831, Polska",
+      "lat": 52.4104344,
+      "lon": 16.9168659,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "9a7805a69c0c0d5581b1a48a96390d30"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ireneusza Wierzejewskiego, Junikowo, Poznań, województwo wielkopolskie, 60-177, Polska",
+      "lat": 52.3927556,
+      "lon": 16.8324071,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "fee7381a2cdd36d973ca424036acc55f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "3399248ae3a8d711e885d2009d9e7866"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Kasprowicza, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4519627,
+      "lon": 16.8611727,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "978b767f4add939619d6aab07363e4ea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Pawła II, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3992514,
+      "lon": 16.9527022,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "8841547820eb8e6fd976a03a9344fd0c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "cbb36c3cd752e6510ee44f9c48ac7d39"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "7b947f0a0e9c2a0da71266c612bed47b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jodłowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3706062,
+      "lon": 16.8959475,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "dcce58a648c8ec915ff433e68a77a7b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "b613d13e10a1eec028cdeefa0b83ca47"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "aee94aeb9c1ef270026cd9e0ebd8f8d2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "83e7f3ccc2c6392ce665922aa0a498e7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "1a1084c87e4bbf241d24ad36faee6859"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "3bc4b18d2b726761abfe694c1971f56b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "c1f306fa40a13186a5af68a45541039c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Magnoliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3869836,
+      "lon": 16.8116487,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "f41760b322298836d46c680a1145ea70"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marii Konopnickiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4032644,
+      "lon": 16.9015829,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "bcd64d7eb81193f4ae5a8d1214d19fb2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mostowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-854, Polska",
+      "lat": 52.4049657,
+      "lon": 16.9394473,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "6a2ab7fc227d6d51d1468fbde380dd4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "lat": 52.410976,
+      "lon": 16.9264675,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "44a71f3478470e8f5ecee5525983ec44"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "b5954e56bc59cb119d9c7c52745f605a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowotomyska, Świt, Grunwald Północ, Poznań, województwo wielkopolskie, 60-367, Polska",
+      "lat": 52.4050989,
+      "lon": 16.8789192,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "0f3c1bdafa047b9e9e4a676c6eee5037"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "9a0f55e4c8c9060d1a0419b15febad84"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "65ab86ba90fd734c2ff7364f78af8e10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pofam-Poznań, 12B, Wojska Polskiego, Osiedle Tysiąclecia, Źródelnia, Stargard, powiat stargardzki, województwo zachodniopomorskie, 73-110, Polska",
+      "lat": 53.3423352,
+      "lon": 15.036236,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "8aceb9c5707d6e701d758011f5b8b53e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pofam-Poznań, 3, 3 Maja, Stare Miasto, Podzamcze, Jarosław, powiat jarosławski, województwo podkarpackie, 37-500, Polska",
+      "lat": 50.0167903,
+      "lon": 22.6848583,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "b93fe11ee16fa0bb6420d9a66cb5fb10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pofam-Poznań, 44/3, Jana Długosza, Osiedle Centrum, Nowy Sącz, województwo małopolskie, 33-300, Polska",
+      "lat": 49.6171778,
+      "lon": 20.6996887,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "384965eec79c5a979c2e2b5f5ebb5af0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "258f28eba38242e161453c4ce88da5d8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poprzeczna, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-315, Polska",
+      "lat": 52.3639558,
+      "lon": 16.9895337,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "06f996f634bc0c0ccbfafd978478be28"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "e279fe9065ae13497733a3cb4c4954f5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Granowo ul. Poznańska, ul. Sportowa, ul. Wspólna, Kotowo, Kubaczyn, Płastowo.",
+      "id": "7f57eca7ac0da82cfef01f00ca3838a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "c29426fe2f4432672531fc966fc8ce13"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przemysłowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-581, Polska",
+      "lat": 52.400503,
+      "lon": 16.9184599,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "25ec960764a71197c5a43c2446d234c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Półwiejska, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-885, Polska",
+      "lat": 52.4038631,
+      "lon": 16.9304338,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "5beeba2917ff63b2e446190e16d5fe5f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "8a301bd5e0b836a356ce66bae9f1bc71"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzeczna, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-013, Polska",
+      "lat": 52.4255053,
+      "lon": 16.9755612,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "1d27d1f43618b48c922493a642544416"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "3576be03162d01d9e7b699fc7fa00026"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skośna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4069741,
+      "lon": 16.915624,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "20a1ecef9137f0c59754177da4778530"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "6f2ebd74c1197bf05e0ada27f01fdbdb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "9c2ecef0a3188ec902fec4cae093de86"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Granowo ul. Poznańska, ul. Sportowa, ul. Wspólna, Kotowo, Kubaczyn, Płastowo.",
+      "id": "1a3a872939be83ba9b153fd71d32dee5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Mikołajczyka, Bnin, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.2274186,
+      "lon": 17.0901567,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "68cad8564635db0b9b7de31526528d2b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Moniuszki, Puszczykówko, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2706307,
+      "lon": 16.8618661,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "8edaeb7cf5ff8cdf10d365ca50c3a4c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-804, Polska",
+      "lat": 52.4045902,
+      "lon": 16.888403,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "ab07366dadf46d255be666d7cebbdd8c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Staszica, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-529, Polska",
+      "lat": 52.4136212,
+      "lon": 16.8993516,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "b82eecad5c0225d73fd10e7eb314c07d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Żeromskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-545, Polska",
+      "lat": 52.4192108,
+      "lon": 16.8936243,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "7259ae829f5887284c85724fea722b2e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "13e2a71a4ce11fd2c0894ba70cbbe3a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "d2581b384b397c50a0dd282c7dc922d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słodka, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.438146,
+      "lon": 17.0687094,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "f956c74271eeb69316d2313b60b8bc6f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "91fc84c11d888188d8f2b66558250713"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Kościuszki, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-898, Polska",
+      "lat": 52.4022309,
+      "lon": 16.9243989,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "1c495c63f3106bf6a2804988c04c1c81"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiejska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4211828,
+      "lon": 16.9756718,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "892c285357655d05bd557973113f58b0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "231847615e7fb4b8a120ae30c9f00636"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Granowo ul. Poznańska, ul. Sportowa, ul. Wspólna, Kotowo, Kubaczyn, Płastowo.",
+      "id": "4ae693531027f71dccf5be6dba480da5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "9760fa9180422aa34f3afdafd2065b57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wyzwolenia, Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, 61-381, Polska",
+      "lat": 52.378458,
+      "lon": 16.9527213,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "e68e78107e96665e0c963ba9206a7703"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Stanisława Reymonta, Puszczykówko, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2733443,
+      "lon": 16.867968,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "70e83812158ff12611639e6d52730eb3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zamkowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-768, Polska",
+      "lat": 52.409286,
+      "lon": 16.9321993,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "3715d0ecdf5a924c9b6c615f14b17537"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "97126763199d31f4c1c51a152ba929d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "bf6320b5d7e987a932217131070199e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "c2600db87bc2393243e1cd88dbd36c37"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świerkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.3715758,
+      "lon": 16.8996578,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "1cd6098f683c33ffb3f95847a2a7dd0a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żabikowo-Kolonia, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-031, Polska",
+      "lat": 52.3474868,
+      "lon": 16.8627328,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-20T15:30:00",
+      "original_description": "Grodzisk Wielkopolski ul. Mikołajczyka, Drapak, Łęczyce, Troszczyn, Wojnowice, Opalenica os. Osiedle Centrum, pl. Plac Józefa Piłsudskiego, Rynek, ul. 27 Grudnia, ul. 3 Maja, ul. 5 Stycznia, ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Dębowa, ul. Dr Ireneusza Wierzejewskiego, ul. Dr Ludwika Adamczyka, ul. Dworcowa, ul. Energetyczna, ul. Farna, ul. Gen. Józefa Karge, ul. Gen. Józefa Niemojewskiego, ul. Gimnazjalna, ul. Henryka Sienkiewicza, ul. Henryka Wieniawskiego, ul. Jana Henryka Dąbrowskiego, ul. Jana Kasprowicza, ul. Jana Pawła II, ul. Jaśminowa, ul. Jesionowa, ul. Jodłowa, ul. Kasztanowa, ul. Kolejowa, ul. Kolonia, ul. Kręta, ul. Krótka, ul. Ks. Antoniego Gustowskiego, ul. Kwiatowa, ul. Leśna, ul. Łąkowa, ul. Magnoliowa, ul. Marcina Milczyńskiego, ul. Marii Konopnickiej, ul. Młyńska, ul. Mostowa, ul. Niegolewskich, ul. Nowa, ul. Nowotomyska, ul. Ogrodowa, ul. Opalińskich, ul. Parkowa, ul. Podzamcze, ul. Polna, ul. Poprzeczna, ul. Porażyńska, ul. Powstańca Kozaka, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Półwiejska, ul. Przemysłowa, ul. Rolna, ul. Różana, ul. Rzeczna, ul. Skośna, ul. Słodka, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Stanisława Moniuszki, ul. Stanisława Przybyszewskiego, ul. Stanisława Staszica, ul. Stefana Żeromskiego, ul. Strumykowa, ul. Szkolna, ul. Świerkowa, ul. Tadeusza Kościuszki, ul. Ticza Bara, ul. Wiejska, ul. Władysława Stanisława Reymonta, ul. Wodna, ul. Wspólna, ul. Wyzwolenia, ul. Zamkowa, ul. Zarzecze, ul. Zbożowa, ul. Zielona, Dakowy Suche ul. Szkolna.",
+      "id": "d80920cf4d22bfd45c9acd5b02e0d1dc"
     }
   ]
 }
