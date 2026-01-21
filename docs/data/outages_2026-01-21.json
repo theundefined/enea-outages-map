@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-21T18:03:21.517974+00:00",
+  "last_update": "2026-01-21T18:57:49.085961+00:00",
   "outages": [
     {
       "type": "planned",
@@ -710,6 +710,46 @@
       "end_time": "2026-01-21T15:00:00",
       "original_description": "Bogucin ul. Janikowska, Poznań ul. Janikowska, ul. Kołodzieja, ul. Kosiarzy, ul. Prząśniczki.",
       "id": "deae9c513933c216c3b54f7231212f49"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T22:00:00",
+      "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
+      "id": "aac91c02747fbfa5fea01c8b77d92363"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T22:00:00",
+      "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
+      "id": "7b1a71c0f8c42b390fcc0fba37706434"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Południowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3749646,
+      "lon": 16.9001757,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T22:00:00",
+      "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
+      "id": "dd180138c2d7723b21ccf8141aa4a180"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T22:00:00",
+      "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
+      "id": "eae2768f80cff68cf8481daa5f82b101"
     }
   ]
 }
