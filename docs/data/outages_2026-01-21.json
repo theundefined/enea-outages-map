@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-21T11:40:30.686910+00:00",
+  "last_update": "2026-01-21T11:57:18.829522+00:00",
   "outages": [
     {
       "type": "planned",
@@ -700,6 +700,16 @@
       "end_time": "2026-01-21T12:00:00",
       "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
       "id": "cafa39771879168ed96efe895420093d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kosiarzy, Janikowo, Główna, Poznań, województwo wielkopolskie, 61-070, Polska",
+      "lat": 52.4339051,
+      "lon": 17.0052491,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T15:00:00",
+      "original_description": "Bogucin ul. Janikowska, Poznań ul. Janikowska, ul. Kołodzieja, ul. Kosiarzy, ul. Prząśniczki.",
+      "id": "deae9c513933c216c3b54f7231212f49"
     }
   ]
 }
