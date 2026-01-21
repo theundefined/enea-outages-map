@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-21T08:42:32.701421+00:00",
+  "last_update": "2026-01-21T09:16:39.342811+00:00",
   "outages": [
     {
       "type": "planned",
@@ -623,6 +623,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Karolewo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2397222,
+      "lon": 16.8622222,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T12:00:00",
+      "original_description": "Skoki ul. Karolewo, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "f3ed280936a3d7d4457d1e802a21f70a"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
       "lat": 52.4062698,
       "lon": 16.9302717,
@@ -630,6 +640,16 @@
       "end_time": "2026-01-21T12:00:00",
       "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
       "id": "71cc16c19ae2d7144d262cb1b5df4139"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T12:00:00",
+      "original_description": "Skoki ul. Karolewo, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "e1c5dd2fb85d37aa6e006fe927629f2b"
     },
     {
       "type": "unplanned",
@@ -643,6 +663,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T12:00:00",
+      "original_description": "Skoki ul. Karolewo, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "5360c452bb8d4022004f4b75f8a14d6f"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Południowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
       "lat": 52.3749646,
       "lon": 16.9001757,
@@ -650,6 +680,16 @@
       "end_time": "2026-01-21T12:00:00",
       "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
       "id": "e210d4c69943efafb64659161d636f83"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-21T12:00:00",
+      "original_description": "Skoki ul. Karolewo, ul. Polna, ul. Poznańska, ul. Topolowa.",
+      "id": "0c220085256644b9da2e113602b77c6d"
     },
     {
       "type": "unplanned",
