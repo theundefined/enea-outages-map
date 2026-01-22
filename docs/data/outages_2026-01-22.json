@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-22T07:37:59.788451+00:00",
+  "last_update": "2026-01-22T07:53:32.687131+00:00",
   "outages": [
     {
       "type": "planned",
@@ -773,6 +773,36 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:00:00",
+      "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
+      "id": "2963d2684907d813144e95c4c40de250"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:00:00",
+      "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
+      "id": "0cc8388291fabaf7fae01b986ce6490e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Południowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3749646,
+      "lon": 16.9001757,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:00:00",
+      "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
+      "id": "750487f2c9457323cc4ddc825dbeaaa6"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Rekreacyjna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4657294,
       "lon": 16.797641,
@@ -790,6 +820,16 @@
       "end_time": "2026-01-22T11:00:00",
       "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
       "id": "cf5eb3bbf7b2f49a71d10205ceeee3b6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:00:00",
+      "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
+      "id": "ec08ad3646bdf05cac869e9f2a8e159b"
     }
   ]
 }
