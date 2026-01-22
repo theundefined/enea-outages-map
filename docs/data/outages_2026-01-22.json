@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-22T07:53:32.687131+00:00",
+  "last_update": "2026-01-22T08:29:02.648867+00:00",
   "outages": [
     {
       "type": "planned",
@@ -830,6 +830,26 @@
       "end_time": "2026-01-22T11:00:00",
       "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
       "id": "ec08ad3646bdf05cac869e9f2a8e159b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Galileusza, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3877028,
+      "lon": 16.8597577,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:30:00",
+      "original_description": "Poznań ul. Galileusza, ul. Promienista.",
+      "id": "44a388d51f155f77e6899807e51b5476"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:30:00",
+      "original_description": "Poznań ul. Galileusza, ul. Promienista.",
+      "id": "60158be0925875c17166d864de29a1c4"
     }
   ]
 }
