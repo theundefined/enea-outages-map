@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-22T06:30:53.487691+00:00",
+  "last_update": "2026-01-22T07:02:28.999311+00:00",
   "outages": [
     {
       "type": "planned",
@@ -353,6 +353,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Smoka Wawelskiego, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4055954,
+      "lon": 16.8357424,
+      "start_time": "2026-01-28T08:00:00",
+      "end_time": "2026-01-28T15:00:00",
+      "original_description": "Poznań: ul. Szeherezady od 65 do 87 nieparzyste, ul. Smoka Wawelskiego od 2 do 24A parzyste.",
+      "id": "7addeab5d70c1883abd1b6cad294a037"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szeherezady, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-194, Polska",
+      "lat": 52.4095982,
+      "lon": 16.8332442,
+      "start_time": "2026-01-28T08:00:00",
+      "end_time": "2026-01-28T15:00:00",
+      "original_description": "Poznań: ul. Szeherezady od 65 do 87 nieparzyste, ul. Smoka Wawelskiego od 2 do 24A parzyste.",
+      "id": "74c0f302b035541083938a774f0b48f0"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Beskidzka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-433, Polska",
       "lat": 52.4458097,
       "lon": 16.8323933,
@@ -380,6 +400,16 @@
       "end_time": "2026-01-28T15:30:00",
       "original_description": "Poznań: ul. Dereniowa od 22 do 38 parzyste, od 37 do 43 nieparzyste.",
       "id": "02e6964662625d7a32c8ba68522c69f6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Klaudyny Potockiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3893721,
+      "lon": 16.9032844,
+      "start_time": "2026-01-29T08:00:00",
+      "end_time": "2026-01-29T15:00:00",
+      "original_description": "Poznań: ul. Potockiej od 24 do 32 parzyste.",
+      "id": "4e55de2582202b3cd11d698a82095230"
     },
     {
       "type": "planned",
@@ -620,6 +650,96 @@
       "end_time": "2026-02-04T11:30:00",
       "original_description": "Poznań: ul. Głogowska 411 do 423 nieparzyste.",
       "id": "a8bb5236f428f9dc6d98ec8bcae42f8a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Junikowska, Junikowo, Poznań, województwo wielkopolskie, 60-164, Polska",
+      "lat": 52.38356,
+      "lon": 16.8475804,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "5d0a63a3e68e15b466b22c7e30e23025"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kamienicka, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.3798923,
+      "lon": 16.8497349,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "102023e98b752c5ec69d5ecf72cb6f87"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Miśnieńska, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3784148,
+      "lon": 16.8359518,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "f2a28160ac20e96f611dc754bbd6941a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żagańska, Junikowo, Poznań, województwo wielkopolskie, 60-167, Polska",
+      "lat": 52.3791834,
+      "lon": 16.8443523,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "e5eb3b8008b8c936ac1c636dc7ec1a1f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jasna Rola, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4542749,
+      "lon": 16.941773,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "2a7157b18a4af011e5c8ef984a02dfd2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "28e8d715684a9a7c907fb1e7bacbb477"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rubież, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4492865,
+      "lon": 16.9505211,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "f2b06a504a038c1c1ca6a53ac16ac34e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bułgarska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-325, Polska",
+      "lat": 52.3962032,
+      "lon": 16.8622017,
+      "start_time": "2026-02-05T08:30:00",
+      "end_time": "2026-02-05T11:30:00",
+      "original_description": "Poznań: ul. Bułgarska od 6 do 18 parzyste, od 34 do 64 parzyste, ul. Trybunalska 27.",
+      "id": "e2ef0b001c14801a63944ec6b9e9b0dc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trybunalska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-325, Polska",
+      "lat": 52.3996761,
+      "lon": 16.8653342,
+      "start_time": "2026-02-05T08:30:00",
+      "end_time": "2026-02-05T11:30:00",
+      "original_description": "Poznań: ul. Bułgarska od 6 do 18 parzyste, od 34 do 64 parzyste, ul. Trybunalska 27.",
+      "id": "e31e4bab29f60bdd25df4aeaf5955a8f"
     },
     {
       "type": "planned",
