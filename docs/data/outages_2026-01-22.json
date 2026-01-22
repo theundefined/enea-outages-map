@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-22T15:48:57.796461+00:00",
+  "last_update": "2026-01-22T16:16:44.999678+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,36 @@
       "end_time": "2026-01-22T15:30:00",
       "original_description": "Poznań ul. Franciszka Firlika, ul. Hulewiczów, ul. Obornicka.",
       "id": "91a4904176293ace6742360c13d1f63f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Firlika, Piątkowo, Poznań, województwo wielkopolskie, 60-691, Polska",
+      "lat": 52.4527842,
+      "lon": 16.9006157,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T18:30:00",
+      "original_description": "Poznań ul. Franciszka Firlika, ul. Hulewiczów, ul. Obornicka.",
+      "id": "ba91b30446ee233e6b80f0f533bf038e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hulewiczów, Piątkowo, Poznań, województwo wielkopolskie, 60-685, Polska",
+      "lat": 52.4568166,
+      "lon": 16.9004458,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T18:30:00",
+      "original_description": "Poznań ul. Franciszka Firlika, ul. Hulewiczów, ul. Obornicka.",
+      "id": "499dccda2b1bbe863c24f9936907fa24"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T18:30:00",
+      "original_description": "Poznań ul. Franciszka Firlika, ul. Hulewiczów, ul. Obornicka.",
+      "id": "3a5d3162252d185dc0ed49be40a0b6b4"
     }
   ]
 }
