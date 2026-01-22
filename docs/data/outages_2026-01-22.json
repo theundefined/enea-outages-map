@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-22T09:41:31.868460+00:00",
+  "last_update": "2026-01-22T10:01:18.592330+00:00",
   "outages": [
     {
       "type": "planned",
@@ -890,6 +890,46 @@
       "end_time": "2026-01-22T11:30:00",
       "original_description": "Chomęcice ul. Podgórna, ul. Południowa, ul. Poznańska, ul. Wspólna.",
       "id": "4cd4eaf1347e9b1657fb7429f0ed644b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chojnicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751085,
+      "lon": 16.7897565,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T12:30:00",
+      "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
+      "id": "26d8edd8678c1d6535b26a34e4350ccd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Jeziorem, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4417301,
+      "lon": 16.8041042,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T12:30:00",
+      "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
+      "id": "8a977dee8b26d240ab23f1ca68eade0e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rekreacyjna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4657294,
+      "lon": 16.797641,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T12:30:00",
+      "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
+      "id": "cf30b5a525007bf94c4d43ccf2322ab3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słupska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4510895,
+      "lon": 16.8030346,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T12:30:00",
+      "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
+      "id": "d36dd0191235882951d5351ebb6b1624"
     }
   ]
 }
