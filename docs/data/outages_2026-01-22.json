@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-22T07:02:28.999311+00:00",
+  "last_update": "2026-01-22T07:37:59.788451+00:00",
   "outages": [
     {
       "type": "planned",
@@ -750,6 +750,46 @@
       "end_time": "2026-02-09T15:30:00",
       "original_description": "Poznań: os. Piastowskie 116, 116A, garaże.",
       "id": "6b3b5fff8ab0e4920f1d9d41d070a809"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chojnicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751085,
+      "lon": 16.7897565,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:00:00",
+      "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
+      "id": "bef5d200527d7532ababd3ac6f4a60f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Jeziorem, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4417301,
+      "lon": 16.8041042,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:00:00",
+      "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
+      "id": "0203ccfe9759d8afa9c5fe1651688677"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rekreacyjna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4657294,
+      "lon": 16.797641,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:00:00",
+      "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
+      "id": "207232c7885b9f4c934998fd439f6bb2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słupska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4510895,
+      "lon": 16.8030346,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-22T11:00:00",
+      "original_description": "Poznań ul. Chojnicka, ul. Nad Jeziorem, ul. Rekreacyjna, ul. Słupska.",
+      "id": "cf5eb3bbf7b2f49a71d10205ceeee3b6"
     }
   ]
 }
