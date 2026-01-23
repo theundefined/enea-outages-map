@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-23T07:55:45.154658+00:00",
+  "last_update": "2026-01-23T08:28:17.778487+00:00",
   "outages": [
     {
       "type": "planned",
@@ -860,6 +860,36 @@
       "end_time": "2026-02-06T11:30:00",
       "original_description": "Poznań ul. Przełęcz 4, ul. Czechosłowacka 104A, 106, 106 A, 108, 139, 141, 143, 145, 147, 149, 151, 155, 157, 159, 161, 163",
       "id": "ad8f9cdce7731bdccf7d0fa18d221f24"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dziewińska, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3928746,
+      "lon": 16.8395384,
+      "start_time": "2026-02-09T08:30:00",
+      "end_time": "2026-02-09T12:30:00",
+      "original_description": "Poznań: ul. Dziewińska do 3 do 35 nieparzyste, od 4 do 38 parzyste, pl. Światowida od 4 do 12 parzyste, ul. Srebrna 10, 12, ul. Grunwaldzka od 259 do 269 nieparzyste.",
+      "id": "d9a31c4236c943bb84cec6a21a6d000b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "2026-02-09T08:30:00",
+      "end_time": "2026-02-09T12:30:00",
+      "original_description": "Poznań: ul. Dziewińska do 3 do 35 nieparzyste, od 4 do 38 parzyste, pl. Światowida od 4 do 12 parzyste, ul. Srebrna 10, 12, ul. Grunwaldzka od 259 do 269 nieparzyste.",
+      "id": "209df27ba64dde66d257286ea6b25f56"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Srebrna, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3902532,
+      "lon": 16.8418332,
+      "start_time": "2026-02-09T08:30:00",
+      "end_time": "2026-02-09T12:30:00",
+      "original_description": "Poznań: ul. Dziewińska do 3 do 35 nieparzyste, od 4 do 38 parzyste, pl. Światowida od 4 do 12 parzyste, ul. Srebrna 10, 12, ul. Grunwaldzka od 259 do 269 nieparzyste.",
+      "id": "3ee85c25c102c5c35de28aadf000f37f"
     },
     {
       "type": "planned",
