@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-23T09:54:48.873984+00:00",
+  "last_update": "2026-01-23T10:21:38.289779+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1010,6 +1010,26 @@
       "end_time": "2026-01-23T11:00:00",
       "original_description": "Poznań ul. Chotomińska, ul. Gardowska, ul. Ostrowska, ul. Poznańskie Sady, ul. Rodawska, ul. Wieprawska.",
       "id": "2f41682666704cb8328f9cbc5777d0d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dobiegniewska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4049628,
+      "lon": 16.8284233,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T12:30:00",
+      "original_description": "Poznań ul. Dobiegniewska, ul. Perzycka.",
+      "id": "6f38fa8a7acad941abd95ce017223b95"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T12:30:00",
+      "original_description": "Poznań ul. Dobiegniewska, ul. Perzycka.",
+      "id": "79db01b97f1f581fd79343228c2001fc"
     }
   ]
 }
