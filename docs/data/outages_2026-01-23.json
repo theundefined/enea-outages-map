@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-23T12:41:01.568790+00:00",
+  "last_update": "2026-01-23T13:32:46.671461+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1030,6 +1030,26 @@
       "end_time": "2026-01-23T12:30:00",
       "original_description": "Poznań ul. Dobiegniewska, ul. Perzycka.",
       "id": "79db01b97f1f581fd79343228c2001fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dobiegniewska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4049628,
+      "lon": 16.8284233,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T14:00:00",
+      "original_description": "Poznań ul. Dobiegniewska, ul. Perzycka.",
+      "id": "111474ce164217474fb4ddbb4791d818"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T14:00:00",
+      "original_description": "Poznań ul. Dobiegniewska, ul. Perzycka.",
+      "id": "a60e0687b49ba4f96d87071afb3077f0"
     },
     {
       "type": "unplanned",
