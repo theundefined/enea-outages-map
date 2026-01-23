@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-23T07:41:20.805323+00:00",
+  "last_update": "2026-01-23T07:55:45.154658+00:00",
   "outages": [
     {
       "type": "planned",
@@ -890,6 +890,96 @@
       "end_time": "2026-02-10T11:30:00",
       "original_description": "Poznań: ul. Bułgarska od 6 do 18 parzyste, od 34 do 64 parzyste, ul. Trybunalska 27.",
       "id": "5c83abedb4fbdc2bbe0668f70b3ca964"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chotomińska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3666981,
+      "lon": 16.9964692,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Chotomińska, ul. Gardowska, ul. Ostrowska, ul. Poznańskie Sady, ul. Rodawska, ul. Wieprawska.",
+      "id": "889e3dbab42dbb53a12c740868c44df7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dobiegniewska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4049628,
+      "lon": 16.8284233,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Dobiegniewska, ul. Perzycka.",
+      "id": "ef17d76b6e44f284062a3528e3599698"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Galileusza, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3877028,
+      "lon": 16.8597577,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Galileusza.",
+      "id": "6dc820ee46b97ee2f7817ad7140815eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gardowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3674173,
+      "lon": 16.9961312,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Chotomińska, ul. Gardowska, ul. Ostrowska, ul. Poznańskie Sady, ul. Rodawska, ul. Wieprawska.",
+      "id": "2ba7a8993400dedf6a9401146dbc7201"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3662503,
+      "lon": 16.9949315,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Chotomińska, ul. Gardowska, ul. Ostrowska, ul. Poznańskie Sady, ul. Rodawska, ul. Wieprawska.",
+      "id": "936d09461f39c9bae75cb5b5f8c5d5a8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Dobiegniewska, ul. Perzycka.",
+      "id": "03e1bd388a99bf54688024aa69a44d8a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańskie Sady, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3599073,
+      "lon": 17.0003913,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Chotomińska, ul. Gardowska, ul. Ostrowska, ul. Poznańskie Sady, ul. Rodawska, ul. Wieprawska.",
+      "id": "23d37a6822fe8d53a0d4cb70ac9f37fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rodawska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.3614607,
+      "lon": 17.0056966,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Chotomińska, ul. Gardowska, ul. Ostrowska, ul. Poznańskie Sady, ul. Rodawska, ul. Wieprawska.",
+      "id": "366fd65df70f3f18dd30dc7de2c18abe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wieprawska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3662855,
+      "lon": 16.9983593,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-23T11:00:00",
+      "original_description": "Poznań ul. Chotomińska, ul. Gardowska, ul. Ostrowska, ul. Poznańskie Sady, ul. Rodawska, ul. Wieprawska.",
+      "id": "2f41682666704cb8328f9cbc5777d0d6"
     }
   ]
 }
