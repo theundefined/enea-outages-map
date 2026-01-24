@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-24T17:34:33.184670+00:00",
+  "last_update": "2026-01-24T17:46:58.768860+00:00",
   "outages": [
     {
       "type": "planned",
@@ -890,6 +890,106 @@
       "end_time": "2026-01-24T13:00:00",
       "original_description": "Poznań ul. Strzeszyńska.",
       "id": "0230989b412cd30795e7f899989ffbbf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gruntowa, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3651412,
+      "lon": 16.8598123,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "d5e57481573dfc2c647443463a1f199d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "56d28d847088b4efa7b4724beab1f8ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3571115,
+      "lon": 16.8522718,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "fb849f115f824f617564ff04b849374f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mieleszyńska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3635248,
+      "lon": 16.861783,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "eaa5fe531944888c11ba399532a9a5d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Otwarta, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3648959,
+      "lon": 16.861143,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "6f971f45bd7e712e7a21ac38d6f75277"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stara Cegielnia, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3638796,
+      "lon": 16.8645236,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "126bd12cb654b98a21c6867e233a997c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szachty, Fabianowo, Fabianowo-Kotowo, Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.3632539,
+      "lon": 16.8700991,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "7e815fe10e956c9bab1038d5dbca179b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szuwarowa, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3665895,
+      "lon": 16.8559604,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "3c5e02ba6219e8b3b544620e0897258c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tyniecka, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3618887,
+      "lon": 16.8582761,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "a3a80585fbe5b358c7c299aee923cbe9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zamiejska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3642133,
+      "lon": 16.8633129,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T21:00:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "3456de437a5cd7033410688d0fa6cefb"
     }
   ]
 }
