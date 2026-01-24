@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-24T19:29:47.846434+00:00",
+  "last_update": "2026-01-24T19:41:19.900953+00:00",
   "outages": [
     {
       "type": "planned",
@@ -990,6 +990,56 @@
       "end_time": "2026-01-24T21:00:00",
       "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
       "id": "3456de437a5cd7033410688d0fa6cefb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Krysiewicza, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-887, Polska",
+      "lat": 52.4044101,
+      "lon": 16.9298894,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T23:00:00",
+      "original_description": "Poznań ul. Bolesława Krysiewicza, ul. Długa, ul. Franciszka Ratajczaka, ul. Ogrodowa, ul. Piekary.",
+      "id": "fe30736b323a52f5cee2842f7519211c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T23:00:00",
+      "original_description": "Poznań ul. Bolesława Krysiewicza, ul. Długa, ul. Franciszka Ratajczaka, ul. Ogrodowa, ul. Piekary.",
+      "id": "d7a2d122d81982a54be136c4a99ea695"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4041749,
+      "lon": 16.9241355,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T23:00:00",
+      "original_description": "Poznań ul. Bolesława Krysiewicza, ul. Długa, ul. Franciszka Ratajczaka, ul. Ogrodowa, ul. Piekary.",
+      "id": "e33bde218edd15e9ff9828f60cea77f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T23:00:00",
+      "original_description": "Poznań ul. Bolesława Krysiewicza, ul. Długa, ul. Franciszka Ratajczaka, ul. Ogrodowa, ul. Piekary.",
+      "id": "bf6da7496cc1d224cba88dcb6c3b3aa8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-820, Polska",
+      "lat": 52.4042344,
+      "lon": 16.9283714,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-24T23:00:00",
+      "original_description": "Poznań ul. Bolesława Krysiewicza, ul. Długa, ul. Franciszka Ratajczaka, ul. Ogrodowa, ul. Piekary.",
+      "id": "ade518fb3995f148cdcb46d3d184c94a"
     }
   ]
 }
