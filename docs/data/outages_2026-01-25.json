@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-25T07:56:31.738053+00:00",
+  "last_update": "2026-01-25T08:28:31.890305+00:00",
   "outages": [
     {
       "type": "planned",
@@ -930,6 +930,156 @@
       "end_time": "2026-01-25T10:30:00",
       "original_description": "Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
       "id": "fcee955be2e3b0a4dc2adbc4f62d7db5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Alojzego Nowaka, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3575848,
+      "lon": 16.8922266,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "2a277dd3f62c4fea1da16be25ac2ffd6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębiecka, Osiedle Powstańców Śląskich, Stary Luboń, Luboń, powiat poznański, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3542635,
+      "lon": 16.887314,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "bc4ffd24ba4eda3a630731b67be6ca66"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hugona Kołłątaja, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3707531,
+      "lon": 16.8866502,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "c1d8877d992c74c578e7aeff9d3ca3d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Ludygi-Laskowskiego, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3577289,
+      "lon": 16.8911544,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "ba7d77ecad4fcf7ca799da4dfc99a05f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Janusza Korczaka, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3601868,
+      "lon": 16.8861277,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "07e05c2bde99af68127a8475d16015a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Joachima Lelewela, Świerczewo, Poznań, województwo wielkopolskie, 61-409, Polska",
+      "lat": 52.3623992,
+      "lon": 16.8816517,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "63ac50c14299eed5b3b9b63ac4c085be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Rymera, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.357641,
+      "lon": 16.8897021,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "eb063bd9218a6488e77e437735889c82"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leszczyńska, Świerczewo, Poznań, województwo wielkopolskie, 61-411, Polska",
+      "lat": 52.3595932,
+      "lon": 16.8811028,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "fd9b39664bbb98d40e29c7bbf410f468"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "56db67a25f7c5a848b96f82b14fd246f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romana Kozaka, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3582508,
+      "lon": 16.8842605,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "ab4fc9d27f543b9a8a4c6ecba6509c11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Teodora Tyca, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3571507,
+      "lon": 16.8922377,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "1027d20113ec36ca1c92b2a5c5bf15ef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Styczyńskiego, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3581982,
+      "lon": 16.8885546,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "a41648f8f61c1445bd1d269454f0430c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojciecha Korfantego, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3581819,
+      "lon": 16.8910011,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "43ed85d0bd5dc55c9092f2be3dfa681a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świerczewska, Żabikowo, Poznań, powiat poznański, województwo wielkopolskie, 61-410, Polska",
+      "lat": 52.3563885,
+      "lon": 16.8759652,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "5f344f779e3a385c0609920d88c359ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żabikowska, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-004, Polska",
+      "lat": 52.3391184,
+      "lon": 16.8345486,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-25T11:30:00",
+      "original_description": "Luboń ul. Dębiecka, ul. Świerczewska, ul. Żabikowska, Poznań ul. Alojzego Nowaka, ul. Hugona Kołłątaja, ul. Jana Ludygi-Laskowskiego, ul. Janusza Korczaka, ul. Joachima Lelewela, ul. Józefa Rymera, ul. Leszczyńska, ul. Opolska, ul. Romana Kozaka, ul. Teodora Tyca, ul. Wincentego Styczyńskiego, ul. Wojciecha Korfantego.",
+      "id": "5eed593d79c8f806d3fdaa41b274e539"
     }
   ]
 }
