@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-26T06:00:19.619397+00:00",
+  "last_update": "2026-01-26T06:54:12.799510+00:00",
   "outages": [
     {
       "type": "planned",
@@ -630,6 +630,16 @@
       "end_time": "2026-02-02T11:30:00",
       "original_description": "Poznań: ul. Ławica 9, 9A, od 4 do 20 parzyste, ul. Grąbczowska bez 13 i 13B, ul. Templińska 29, 34, 36, ul. Bukowska 372, ul. Moryńska bez 12.",
       "id": "6565411ec0210641fc2c7c9f37875eb4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-02-03T08:00:00",
+      "end_time": "2026-02-03T14:00:00",
+      "original_description": "Poznań: os. Przyjaźni 23A-Ł, 22A-E.",
+      "id": "1573eef3597ed94adfdf6543d2cb8c8f"
     },
     {
       "type": "planned",
