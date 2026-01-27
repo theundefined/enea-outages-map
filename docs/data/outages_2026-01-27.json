@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-27T08:37:03.623962+00:00",
+  "last_update": "2026-01-27T09:02:28.363833+00:00",
   "outages": [
     {
       "type": "planned",
@@ -700,6 +700,26 @@
       "end_time": "2026-02-04T12:30:00",
       "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
       "id": "f2b06a504a038c1c1ca6a53ac16ac34e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Generała Tadeusza Kutrzeby, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-718, Polska",
+      "lat": 52.4152239,
+      "lon": 16.9317635,
+      "start_time": "2026-02-05T08:00:00",
+      "end_time": "2026-02-05T13:00:00",
+      "original_description": "Poznań: ul. Kutrzeby dz. 62/4 stacja telefonii komórkowej.",
+      "id": "72eb886a22f0ca77dc867c2d92d82daa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-02-05T08:00:00",
+      "end_time": "2026-02-05T13:00:00",
+      "original_description": "Poznań: ul. Piątkowska dz. 17/5.",
+      "id": "0de99a6a86d2426786deea1218a5c5a4"
     },
     {
       "type": "planned",
