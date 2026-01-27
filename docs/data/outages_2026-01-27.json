@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-27T18:01:30.856093+00:00",
+  "last_update": "2026-01-27T18:55:59.963434+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1420,6 +1420,336 @@
       "end_time": "2026-01-27T14:00:00",
       "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
       "id": "15c1dc9852048c9b0dcd68b1b5c11d68"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "1 Maja, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3335419,
+      "lon": 16.8849169,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "2a816125d74930ac2f74111695f356d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "24a89ced287af3995f2e8ac51b25a45b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Azaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-443, Polska",
+      "lat": 52.3638663,
+      "lon": 16.9062508,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "b3f9611d1feb78a2f5db88f81346d185"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chabrowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3710253,
+      "lon": 16.9098027,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "642168f456dcc65c8aa556b9c33d86fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dojazdowa, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3323124,
+      "lon": 16.8796447,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "3eb4451cdc88675d78ed3e0eb97411a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fiołkowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3747467,
+      "lon": 16.9076006,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "286bbc00c5790b030629a35e4ceea718"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grzybowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-472, Polska",
+      "lat": 52.3738192,
+      "lon": 16.9021465,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "a77f440f1aac24bb386201c7ecb9dc65"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana III Sobieskiego, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3244972,
+      "lon": 16.87943,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "b2e4017dcd24138240695f6d9fcc6bb4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juranda, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
+      "lat": 52.4540119,
+      "lon": 16.9556167,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "2f190abcfc5d64ad9c64dd7b3789bd78"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jęczmienna, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4260048,
+      "lon": 16.9237618,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "92ebc9f3b29ad116510f88b63204dbfa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kalinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-437, Polska",
+      "lat": 52.3675868,
+      "lon": 16.9024129,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "82fa68ed7a2b465cd09cc712cf253d63"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "943fbac6c91f157035ada2579532b33c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konwaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705079,
+      "lon": 16.9136939,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "05a9600f707f5e9884bcaeca8389d0bc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lucjana Rydla, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.32691,
+      "lon": 16.8831103,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "873152b5a024b8c6cbdf18e3a06aa7f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maciejkowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3800525,
+      "lon": 16.8218193,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "af260ba4897cedf94ba07f1206609155"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "599b503083fd31e3f5914832fd2a822c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705387,
+      "lon": 16.9104483,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "d958e650ada69e9b6843c867fd852f7b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nagietkowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3882097,
+      "lon": 16.8099544,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "8c4e37865dc50648c662123ddc58553f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Narcyzowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3877625,
+      "lon": 16.8106357,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "ad2662154f6cded2349f73fa370ee8d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "1e9d12fba8aa2c74b9fa0b32c6fafa70"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owsiana, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4237885,
+      "lon": 16.9237489,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "3e323efc90bcf990ec96c081864f9dbc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "1bd5489874c975515e985318b685817f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "b271cace6d4dfdd857867d8a46775e45"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "88910e22d99793eebbee0a0346aefb8f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pszenna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4245706,
+      "lon": 16.9248939,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "60d5b685b0de4aca2334e01e4a2977e6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sporna, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-709, Polska",
+      "lat": 52.4151835,
+      "lon": 16.9217047,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "2311c883f8076162c5164e0a1cb9ca05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słonecznikowa, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4774997,
+      "lon": 16.9390768,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "3bc41f79fdd34c285649f8902de5faaa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warzywna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4269598,
+      "lon": 16.9298115,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "e2abc91d1396a806b5f9cff2739c6ba2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "21906977666defa4ad649a75ccdb2bd1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wirowska, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-004, Polska",
+      "lat": 52.3445353,
+      "lon": 16.8363515,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "059c8e2fb242b6a2ca3b5929e5357781"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wysoka, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-810, Polska",
+      "lat": 52.4056318,
+      "lon": 16.9296254,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "b02ffaf8c46e105fe92a35b8849de5ce"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łączna, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3341799,
+      "lon": 16.8806855,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "66808d126882e0f0bc1dd25e80de0298"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żytnia, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4361604,
+      "lon": 16.9432043,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T22:00:00",
+      "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
+      "id": "e8d4a0eaadb1c732910bf935e7115dc7"
     }
   ]
 }
