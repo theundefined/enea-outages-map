@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-27T19:24:42.674949+00:00",
+  "last_update": "2026-01-27T19:47:13.493342+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1750,6 +1750,76 @@
       "end_time": "2026-01-27T22:00:00",
       "original_description": "Luboń ul. 1 Maja, ul. Akacjowa, ul. Azaliowa, ul. Chabrowa, ul. Dojazdowa, ul. Fiołkowa, ul. Grzybowa, ul. Jana III Sobieskiego, ul. Jęczmienna, ul. Juranda, ul. Kalinowa, ul. Kasztanowa, ul. Konwaliowa, ul. Łączna, ul. Maciejkowa, ul. Makowa, ul. Malinowa, ul. Nagietkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Owsiana, ul. Parkowa, ul. Polna, ul. Poznańska, ul. Pszenna, ul. Rydla, ul. Słonecznikowa, ul. Sporna, ul. Warzywna, ul. Wierzbowa, ul. Wirowska, ul. Wysoka, ul. Żytnia.",
       "id": "e8d4a0eaadb1c732910bf935e7115dc7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fabianowska, Osiedle Brzozowy Gaj, Aniołowo, Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.366295,
+      "lon": 16.8312422,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:00:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "f5d0e8ebcc6c898a0e8dfd53f70b4427"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Piotra Wawrzyniaka, Swarzędz, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
+      "lat": 52.4061298,
+      "lon": 17.0707243,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:00:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "493c431e1b0c8b91ea335ecb7d12eabd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:00:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "0d31bb4fe1d6e7a43bd81c0eff17fa5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piastowska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3723364,
+      "lon": 16.9178297,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:00:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "1dfbf27af4d24bee862ad04c4b430271"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:00:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "db2f245e2b868afb8029fcbb87ee2d11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:00:00",
+      "original_description": "Komorniki ul. Poznańska.",
+      "id": "0387f263b3f93cf8d0238ed3001e1a11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:00:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "fa26b5386e3756e60b8c6cc711dd982f"
     }
   ]
 }
