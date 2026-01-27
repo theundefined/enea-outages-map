@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-27T06:48:10.716338+00:00",
+  "last_update": "2026-01-27T07:17:25.057788+00:00",
   "outages": [
     {
       "type": "planned",
@@ -810,6 +810,476 @@
       "end_time": "2026-02-10T11:30:00",
       "original_description": "Poznań: ul. Bułgarska od 6 do 18 parzyste, od 34 do 64 parzyste, ul. Trybunalska 27.",
       "id": "5c83abedb4fbdc2bbe0668f70b3ca964"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Asnyka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-832, Polska",
+      "lat": 52.4103883,
+      "lon": 16.9055655,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "e75c91e73a480ed0735aebd5fe12a4d8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cyraneczki, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4251879,
+      "lon": 17.0672508,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "41ef1ecdc5ea8e0dc1975ff2b5485dd1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darniowa, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4229933,
+      "lon": 17.0649875,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "068874e652f7d3269d9bf4b79d3e71d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Feliksa Nowowiejskiego, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-717, Polska",
+      "lat": 52.4132088,
+      "lon": 16.9219925,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "d182abd96f5a1b7005c3674a2c39f7f5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fryderyka Chopina, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-708, Polska",
+      "lat": 52.4136241,
+      "lon": 16.9189832,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "3a1e5413d79dfd63211d9626c6571b4f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gabrieli Zapolskiej, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4547085,
+      "lon": 16.8663886,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "ff15b43a6aec0758fa384c7fb5da1c9e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grabowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3731907,
+      "lon": 16.9006396,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "dc230f8b95ab9c4b5086f29ebd0828a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Henryka Wieniawskiego, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 60-831, Polska",
+      "lat": 52.4104344,
+      "lon": 16.9168659,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "53fc1adc2e67909cdce74c0e732c777c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Długosza, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4113954,
+      "lon": 16.8911087,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "d385ce89031186b402ef38b71d4755e3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliana Tuwima, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4073831,
+      "lon": 16.8375636,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "f3ef8565d1893d2ffb346e8d091ff11d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jutrzenki, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.442172,
+      "lon": 16.6905394,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "54383212601fd308ba315f100d50f818"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karmelowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4733187,
+      "lon": 16.9316249,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "db1c62a96007c06de7ca0fe441ad7025"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karola Kurpińskiego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "lat": 52.450428,
+      "lon": 16.9173899,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "7588ac7cf595cf0813f0e12462361605"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karola Szymanowskiego, Osiedle Bolesława Chrobrego, Piątkowo, Piątkowo Północ, Poznań, województwo wielkopolskie, 60-688, Polska",
+      "lat": 52.4600793,
+      "lon": 16.9070151,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "1420b06a10f2192ab430b8bd37b6ea55"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Katarzyńska, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.434121,
+      "lon": 17.0799881,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "56295333497798c416f0f861537f018f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "fa65ad7bc74b9fd02cf703d17b5c6a96"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kormorana, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4250228,
+      "lon": 17.0618345,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "198a870b7efb74e79ca446b83e885feb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "cc461d1cc7509a961fa8366a9a0bf649"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krzyżówki, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4247875,
+      "lon": 17.0667192,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "76950e70654ff02164149310bb635703"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "8f52666ebc84dd4d99272aa189e51a8f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "f22994cedc0189504c0624f49caa4b58"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ludomira Różyckiego, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.434062,
+      "lon": 17.0597656,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "dd067c258e3409d7a0ca9a919ad46b26"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mechowska, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4328553,
+      "lon": 17.0676009,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "336e7cb14aab0242fab77df8052b518a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mewy, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4258335,
+      "lon": 17.065236,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "e8f6067eb52399e42b7bc2a637bd95d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mieczysława Karłowicza, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3448174,
+      "lon": 16.8756689,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "ad1f9ebf04708c7c3e5aa4febbd001ef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mirtowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4883541,
+      "lon": 16.940839,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "75c7323ef677dae3b32e45c5e84df887"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miętowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4740266,
+      "lon": 16.9519556,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "7d2dd909cabc564d2065b5b14e83dca0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrężna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4701548,
+      "lon": 17.1775244,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "3b6135441cfc68245d99bdac01d3c30f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perkoza, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4242899,
+      "lon": 17.0670251,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "6c1a5d1d437024cbfa0857345fc23b63"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rodzinny Ogród Działkowy im. Żwirki i Wigury II, Ławica, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4198526,
+      "lon": 16.8537147,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "e75327836016b9ae3ca912d966f4b437"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "a2a52cff454f789ffa65535a86df0d89"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rybitwy, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4264454,
+      "lon": 17.0668397,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "d5f895479f0d65041d976a7ac50a7143"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spadochronowa, Wola, Poznań, województwo wielkopolskie, 60-411, Polska",
+      "lat": 52.4262636,
+      "lon": 16.8510563,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "16e2bc7c64b03835ea0f4fc608fedc07"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Moniuszki, Puszczykówko, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2706307,
+      "lon": 16.8618661,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "b8fbfe6a95b6838f114676d27c36dd6c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
+      "lat": 52.410741,
+      "lon": 16.983344,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "9dab8b7575bef1176555161c14a7787e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szałwiowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.478153,
+      "lon": 16.9589492,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "4d91c927fbe6fa252cbea41a9fb275ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sławomira Mrożka, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4304086,
+      "lon": 17.0638141,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "8a99f14f5836cb8ded187a858f43118c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Boya-Żeleńskiego, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4473598,
+      "lon": 16.8698297,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "5dc197e0b18ebc29adef36537f6c34e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wacława z Szamotuł, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4386882,
+      "lon": 17.0596139,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "31ae84af4271073813468ec2d4ec99d8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wawrzyńca Żuławskiego, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4376118,
+      "lon": 17.0582963,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "6a709a70e16c6045eab9ff67966d03f7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wieżowa, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4085935,
+      "lon": 16.9470147,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "6296fcaf91bc0f561a8cedd77400f531"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielińska, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4266428,
+      "lon": 17.0604709,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "1191653f31735f82a769b7a38b8c5d58"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zimorodka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4258198,
+      "lon": 17.0637838,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "b98c59f7c60624895f16d608db1b8318"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zygmunta Krasińskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-830, Polska",
+      "lat": 52.4121672,
+      "lon": 16.9128989,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "1a1f538a01974b9069ad55c91c006125"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zygmunta Noskowskiego, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-704, Polska",
+      "lat": 52.4116028,
+      "lon": 16.9159562,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "29b45f8670a05bff3fd7e5c01671e9a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łyski, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4246312,
+      "lon": 17.0663669,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "08881891dd59f804c71e789f5d7badb8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T10:30:00",
+      "original_description": "Gruszczyn ul. Adama Asnyka, ul. Feliksa Nowowiejskiego, ul. Fryderyka Chopina, ul. Gabrieli Zapolskiej, ul. Grabowa, ul. Henryka Wieniawskiego, ul. Jana Długosza, ul. Juliana Tuwima, ul. Jutrzenki, ul. Karmelowa, ul. Karola Kurpińskiego, ul. Karola Szymanowskiego, ul. Katarzyńska, ul. Kolejowa, ul. Krańcowa, ul. Krótka, ul. Ludomira Różyckiego, ul. Łąkowa, ul. Mechowska, ul. Mieczysława Karłowicza, ul. Miętowa, ul. Mirtowa, ul. Okrężna, ul. Rumiankowa, ul. Sławomira Mrożka, ul. Spadochronowa, ul. Stanisława Moniuszki, ul. Swarzędzka, ul. Szałwiowa, ul. Tadeusza Boya-Żeleńskiego, ul. Wacława z Szamotuł, ul. Wawrzyńca Żuławskiego, ul. Wieżowa, ul. Zielińska, ul. Zygmunta Krasińskiego, ul. Zygmunta Noskowskiego, ul. Żwirki i Wigury, Kobylnica ul. Kwiatowa, ul. Swarzędzka, ul. Żwirki i Wigury, Mechowo, Poznań ul. Cyraneczki, ul. Darniowa, ul. Kormorana, ul. Krzyżówki, ul. Łyski, ul. Mewy, ul. Perkoza, ul. Rybitwy, ul. Zimorodka.",
+      "id": "9f5f233c42195fac7509bc9da8e658ae"
     }
   ]
 }
