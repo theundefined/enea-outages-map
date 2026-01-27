@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-27T19:58:32.719884+00:00",
+  "last_update": "2026-01-27T20:33:20.683772+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1820,6 +1820,66 @@
       "end_time": "2026-01-27T23:00:00",
       "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
       "id": "fa26b5386e3756e60b8c6cc711dd982f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fabianowska, Osiedle Brzozowy Gaj, Aniołowo, Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.366295,
+      "lon": 16.8312422,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:30:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "5214df5e91d5002d691dd28978f14e99"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Piotra Wawrzyniaka, Swarzędz, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
+      "lat": 52.4061298,
+      "lon": 17.0707243,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:30:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "d32e73d76b56896033d8a63361cf3d1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:30:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "9608be5177ad94b03137f9aaf13dd249"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piastowska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3723364,
+      "lon": 16.9178297,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:30:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "30c44fcd6ec3611b96514ff938bb2744"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:30:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "e559ccd5b4c1a2f6f5c20ad0cdf6e2b9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-27T23:30:00",
+      "original_description": "Komorniki ul. Fabianowska, ul. ks. Piotra Wawrzyniaka, ul. Nowa, ul. Piastowska, ul. Poznańska, ul. Wiśniowa.",
+      "id": "865b2ee748178e5340d68eff98f15b38"
     }
   ]
 }
