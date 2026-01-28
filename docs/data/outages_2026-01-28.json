@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-28T09:02:41.925072+00:00",
+  "last_update": "2026-01-28T09:46:34.112141+00:00",
   "outages": [
     {
       "type": "planned",
@@ -830,6 +830,46 @@
       "end_time": "2026-02-12T14:00:00",
       "original_description": "Poznań: os. Przyjaźni 23A-Ł, 22A-E.",
       "id": "0dc83bb5ff8e049ebe204050b219fdaa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czarna Rola, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 61-625, Polska",
+      "lat": 52.4352363,
+      "lon": 16.9436586,
+      "start_time": "2026-02-12T08:30:00",
+      "end_time": "2026-02-12T11:30:00",
+      "original_description": "Poznań: ul. Czarna Rola dz. 98/6, od 1 do 19 nieparzyste, od 29 do 37 nieparzyste, 10/16, od 20 do 44 bez 40 parzyste, ul. Pasterska od 2 do 14 parzyste, 14A, ul. Karbowska od 2 do 8 parzyste.",
+      "id": "deeae51aa28b604051177362c14e088e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Karbowska, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4351961,
+      "lon": 16.9444087,
+      "start_time": "2026-02-12T08:30:00",
+      "end_time": "2026-02-12T11:30:00",
+      "original_description": "Poznań: ul. Czarna Rola dz. 98/6, od 1 do 19 nieparzyste, od 29 do 37 nieparzyste, 10/16, od 20 do 44 bez 40 parzyste, ul. Pasterska od 2 do 14 parzyste, 14A, ul. Karbowska od 2 do 8 parzyste.",
+      "id": "ac5481e09467c6e8d2bb4a7d6672d5ff"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pasterska, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4337486,
+      "lon": 16.9430134,
+      "start_time": "2026-02-12T08:30:00",
+      "end_time": "2026-02-12T11:30:00",
+      "original_description": "Poznań: ul. Czarna Rola dz. 98/6, od 1 do 19 nieparzyste, od 29 do 37 nieparzyste, 10/16, od 20 do 44 bez 40 parzyste, ul. Pasterska od 2 do 14 parzyste, 14A, ul. Karbowska od 2 do 8 parzyste.",
+      "id": "8a956bbd8279d683fc02a77d6243e0d0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-02-17T08:00:00",
+      "end_time": "2026-02-17T14:00:00",
+      "original_description": "Poznań: os. Przyjaźni 6, 7, 8, 9, 128.",
+      "id": "61e7236d81e88ee28087accb348ff10d"
     },
     {
       "type": "unplanned",
