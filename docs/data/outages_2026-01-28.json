@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-28T08:36:32.871947+00:00",
+  "last_update": "2026-01-28T09:02:41.925072+00:00",
   "outages": [
     {
       "type": "planned",
@@ -550,6 +550,86 @@
       "end_time": "2026-02-04T12:30:00",
       "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
       "id": "f2b06a504a038c1c1ca6a53ac16ac34e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "8f7a6b43e7ef6cf9cafbcd1fbee123f9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nasza, 49, Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-355, Polska",
+      "lat": 52.4039655,
+      "lon": 16.8877029,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "22ecf6d47cd98d19f8e68e0fac79a1b6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "382b7ae8e28767743c67279baa8fe778"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "a533addb133a4636f8ebfa5fde407201"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "c35877d750f213e8b8e0a3fd5d3edee5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "4553dfdeb1b6d29dbe347481f85dde0f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "cd0615b62635c09fc4c4e3667e0e950a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wrzosowa, Wilda, Poznań, województwo wielkopolskie, 61-477, Polska",
+      "lat": 52.3733013,
+      "lon": 16.9105834,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "c4b8bbac4beb2cb7756e3a265e0950a2"
     },
     {
       "type": "planned",
