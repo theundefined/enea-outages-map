@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-28T17:08:15.137053+00:00",
+  "last_update": "2026-01-28T17:49:13.524179+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1060,6 +1060,86 @@
       "end_time": "2026-01-28T11:00:00",
       "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
       "id": "d52ef07d903e2be53a3319133bf49889"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Czerwińskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3679205,
+      "lon": 16.8778527,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T21:00:00",
+      "original_description": "Poznań ul. Bolesława Czerwińskiego, ul. Eugeniusza Kwiatkowskiego, ul. Ignacego Krasickiego, ul. Joachima Lelewela, ul. Karola Buczka, ul. ks. Stanisława Brzóski, ul. Leszczyńska, ul. Tadeusza Vetulaniego, ul. Wojciecha Trąmpczyńskiego.",
+      "id": "7a86cb4a276d02b2be201b80a317cc80"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Eugeniusza Kwiatkowskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3678891,
+      "lon": 16.8850681,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T21:00:00",
+      "original_description": "Poznań ul. Bolesława Czerwińskiego, ul. Eugeniusza Kwiatkowskiego, ul. Ignacego Krasickiego, ul. Joachima Lelewela, ul. Karola Buczka, ul. ks. Stanisława Brzóski, ul. Leszczyńska, ul. Tadeusza Vetulaniego, ul. Wojciecha Trąmpczyńskiego.",
+      "id": "7c25a9d6c114fedcecebc9bf7866a59d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ignacego Krasickiego, Świerczewo, Poznań, województwo wielkopolskie, 61-412, Polska",
+      "lat": 52.3645236,
+      "lon": 16.8818087,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T21:00:00",
+      "original_description": "Poznań ul. Bolesława Czerwińskiego, ul. Eugeniusza Kwiatkowskiego, ul. Ignacego Krasickiego, ul. Joachima Lelewela, ul. Karola Buczka, ul. ks. Stanisława Brzóski, ul. Leszczyńska, ul. Tadeusza Vetulaniego, ul. Wojciecha Trąmpczyńskiego.",
+      "id": "aca1ffc11e34fcc83d1a02f083f6b42d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Joachima Lelewela, Świerczewo, Poznań, województwo wielkopolskie, 61-409, Polska",
+      "lat": 52.3623992,
+      "lon": 16.8816517,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T21:00:00",
+      "original_description": "Poznań ul. Bolesława Czerwińskiego, ul. Eugeniusza Kwiatkowskiego, ul. Ignacego Krasickiego, ul. Joachima Lelewela, ul. Karola Buczka, ul. ks. Stanisława Brzóski, ul. Leszczyńska, ul. Tadeusza Vetulaniego, ul. Wojciecha Trąmpczyńskiego.",
+      "id": "7afaeaa9fbeb466d00139c42beed4a0f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karola Buczka, Świerczewo, Poznań, województwo wielkopolskie, 61-413, Polska",
+      "lat": 52.3644917,
+      "lon": 16.8838635,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T21:00:00",
+      "original_description": "Poznań ul. Bolesława Czerwińskiego, ul. Eugeniusza Kwiatkowskiego, ul. Ignacego Krasickiego, ul. Joachima Lelewela, ul. Karola Buczka, ul. ks. Stanisława Brzóski, ul. Leszczyńska, ul. Tadeusza Vetulaniego, ul. Wojciecha Trąmpczyńskiego.",
+      "id": "4a2c9b44c7645d10001b452295818c4b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Stanisława Brzóski, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3675676,
+      "lon": 16.8779679,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T21:00:00",
+      "original_description": "Poznań ul. Bolesława Czerwińskiego, ul. Eugeniusza Kwiatkowskiego, ul. Ignacego Krasickiego, ul. Joachima Lelewela, ul. Karola Buczka, ul. ks. Stanisława Brzóski, ul. Leszczyńska, ul. Tadeusza Vetulaniego, ul. Wojciecha Trąmpczyńskiego.",
+      "id": "26bd14a7b48d99c94ef361bbadf03540"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leszczyńska, Świerczewo, Poznań, województwo wielkopolskie, 61-411, Polska",
+      "lat": 52.3595932,
+      "lon": 16.8811028,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T21:00:00",
+      "original_description": "Poznań ul. Bolesława Czerwińskiego, ul. Eugeniusza Kwiatkowskiego, ul. Ignacego Krasickiego, ul. Joachima Lelewela, ul. Karola Buczka, ul. ks. Stanisława Brzóski, ul. Leszczyńska, ul. Tadeusza Vetulaniego, ul. Wojciecha Trąmpczyńskiego.",
+      "id": "167e0ba2ba814cda9db0e1973bc31bf1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Vetulaniego, Świerczewo, Poznań, województwo wielkopolskie, 61-409, Polska",
+      "lat": 52.36191,
+      "lon": 16.8825448,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T21:00:00",
+      "original_description": "Poznań ul. Bolesława Czerwińskiego, ul. Eugeniusza Kwiatkowskiego, ul. Ignacego Krasickiego, ul. Joachima Lelewela, ul. Karola Buczka, ul. ks. Stanisława Brzóski, ul. Leszczyńska, ul. Tadeusza Vetulaniego, ul. Wojciecha Trąmpczyńskiego.",
+      "id": "762ef765c49fcf04827419a6ae5a32ca"
     }
   ]
 }
