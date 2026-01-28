@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-28T07:57:23.714234+00:00",
+  "last_update": "2026-01-28T08:36:32.871947+00:00",
   "outages": [
     {
       "type": "planned",
@@ -750,6 +750,196 @@
       "end_time": "2026-02-12T14:00:00",
       "original_description": "Poznań: os. Przyjaźni 23A-Ł, 22A-E.",
       "id": "0dc83bb5ff8e049ebe204050b219fdaa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleksandry Bielerzewskiej, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-369, Polska",
+      "lat": 52.3731857,
+      "lon": 16.9500552,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "85ba3bc58165df7b8d4c4437c4eb2002"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cześnikowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-326, Polska",
+      "lat": 52.4019434,
+      "lon": 16.8694828,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "1a4e16fc6bd7508963cb2613db7b6b9e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszkańska, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-768, Polska",
+      "lat": 52.4085188,
+      "lon": 16.9312213,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Franciszkańska, ul. Ignacego Paderewskiego, ul. Kozia, ul. Sieroca.",
+      "id": "e28dff83700f015691e8ce3a74a84bbf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Garaszewo, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-316, Polska",
+      "lat": 52.3500473,
+      "lon": 16.9661059,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "5a26a5a82cb98c0f038df3cb650f5fe3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gwarna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-703, Polska",
+      "lat": 52.407635,
+      "lon": 16.9212577,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "b6d7eefeb3ca8b81f6f378b38e6fdac5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ignacego Paderewskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.407834,
+      "lon": 16.931121,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Franciszkańska, ul. Ignacego Paderewskiego, ul. Kozia, ul. Sieroca.",
+      "id": "9fd3f4731716258bb11a5c60c73e2de1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Janusza Zeylanda, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-808, Polska",
+      "lat": 52.4074519,
+      "lon": 16.9083045,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "7f8d1b3c33700a4115d0c74d1e78ff5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klasztorna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-779, Polska",
+      "lat": 52.4075569,
+      "lon": 16.9351127,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "03a96c084b95ad98a9538e47e2c4a381"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kozia, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.4072732,
+      "lon": 16.9308082,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "c3b58ac33a3d7e2cf08518af55bd09a8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kozia, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.4072732,
+      "lon": 16.9308082,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Franciszkańska, ul. Ignacego Paderewskiego, ul. Kozia, ul. Sieroca.",
+      "id": "b711233b8f959f58fde60e6be4f16a74"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "b01e4450f1cfb2429bd0c242c2fb6f56"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Książęca, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-348, Polska",
+      "lat": 52.3671861,
+      "lon": 16.930722,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "f3dd7d647d16f50b8b375fefe2d8754d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sieroca, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-768, Polska",
+      "lat": 52.4081233,
+      "lon": 16.9317841,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Franciszkańska, ul. Ignacego Paderewskiego, ul. Kozia, ul. Sieroca.",
+      "id": "dbfaea44fd714efb6565c7ff8cf45a24"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "lat": 52.4082892,
+      "lon": 16.933598,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "b647ffe165a2a69c8e79cd70a348c141"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "f8b37c82503a67846423c055109ad6f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Teofila Mateckiego, Piątkowo, Piątkowo Północ, Poznań, województwo wielkopolskie, 60-689, Polska",
+      "lat": 52.4633883,
+      "lon": 16.8993438,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "d64ee4b4d6f424d7ead5e3fa967aea69"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "ff7d3aab463fbb6b796c1b01dbd98652"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrocławska, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-838, Polska",
+      "lat": 52.4064287,
+      "lon": 16.9330123,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "3f2db68f4836356f02bf1dbdea01ca56"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ślusarska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-775, Polska",
+      "lat": 52.4083377,
+      "lon": 16.9361201,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-28T11:00:00",
+      "original_description": "Poznań ul. Aleksandry Bielerzewskiej, ul. Cześnikowska, ul. Garaszewo, ul. Gwarna, ul. Janusza Zeylanda, ul. Klasztorna, ul. Kościelna, ul. Kozia, ul. Książęca, ul. Stary Rynek, ul. Szkolna, ul. Ślusarska, ul. Teofila Mateckiego, ul. Wodna, ul. Wrocławska.",
+      "id": "d52ef07d903e2be53a3319133bf49889"
     }
   ]
 }
