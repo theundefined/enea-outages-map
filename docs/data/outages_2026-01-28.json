@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-28T05:59:50.417049+00:00",
+  "last_update": "2026-01-28T06:50:16.518552+00:00",
   "outages": [
     {
       "type": "planned",
@@ -620,6 +620,16 @@
       "end_time": "2026-02-06T11:30:00",
       "original_description": "Poznań ul. Przełęcz 4, ul. Czechosłowacka 104A, 106, 106 A, 108, 139, 141, 143, 145, 147, 149, 151, 155, 157, 159, 161, 163",
       "id": "ad8f9cdce7731bdccf7d0fa18d221f24"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Franciszka Stróżyńskiego, Osiedle Stefana Batorego, Piątkowo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4648807,
+      "lon": 16.9182282,
+      "start_time": "2026-02-06T08:30:00",
+      "end_time": "2026-02-06T12:00:00",
+      "original_description": "Poznań: ul. Stróżyńskiego dz. 71/146.",
+      "id": "abc22db403647602b24139dc4a823110"
     },
     {
       "type": "planned",
