@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-29T11:55:24.124836+00:00",
+  "last_update": "2026-01-29T12:52:17.440700+00:00",
   "outages": [
     {
       "type": "planned",
@@ -850,6 +850,36 @@
       "end_time": "2026-02-17T14:00:00",
       "original_description": "Poznań: os. Przyjaźni 6, 7, 8, 9, 128.",
       "id": "61e7236d81e88ee28087accb348ff10d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ignacego Paderewskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.407834,
+      "lon": 16.931121,
+      "start_time": "2026-02-19T08:00:00",
+      "end_time": "2026-02-19T13:00:00",
+      "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
+      "id": "929e7608be55543c2f29c770922a7103"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kozia, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.4072732,
+      "lon": 16.9308082,
+      "start_time": "2026-02-19T08:00:00",
+      "end_time": "2026-02-19T13:00:00",
+      "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
+      "id": "1529b09236899b4fcc5aa1f88bbe8d9a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sieroca, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-768, Polska",
+      "lat": 52.4081233,
+      "lon": 16.9317841,
+      "start_time": "2026-02-19T08:00:00",
+      "end_time": "2026-02-19T13:00:00",
+      "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
+      "id": "605f084657f5ff38bbd9385ef2c10554"
     }
   ]
 }
