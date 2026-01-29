@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-29T14:42:52.434748+00:00",
+  "last_update": "2026-01-29T15:20:54.749457+00:00",
   "outages": [
     {
       "type": "planned",
@@ -880,6 +880,196 @@
       "end_time": "2026-02-19T13:00:00",
       "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
       "id": "605f084657f5ff38bbd9385ef2c10554"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głazowa, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-115, Polska",
+      "lat": 52.375038,
+      "lon": 16.8846076,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "9a9cda73ca3f9353bee7242accf8c775"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kamienna, Świerczewo, Poznań, województwo wielkopolskie, 61-423, Polska",
+      "lat": 52.3729741,
+      "lon": 16.8885495,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "e30abfc7b8548c2abae5eec67d246e17"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pagórkowa, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-116, Polska",
+      "lat": 52.3755567,
+      "lon": 16.8874463,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "c2d8a295a0cca0bb19406593c8a9683a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poniecka, Świerczewo, Poznań, województwo wielkopolskie, 60-115, Polska",
+      "lat": 52.3722796,
+      "lon": 16.8838925,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "1f5a86debd7e4898ba2a48eed1b4a188"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przełom, Świerczewo, Poznań, województwo wielkopolskie, 61-423, Polska",
+      "lat": 52.3728911,
+      "lon": 16.8894816,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "5d16d9a6716ce727310d7eb5c3076be4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przełęcz, Świerczewo, Poznań, województwo wielkopolskie, 61-476, Polska",
+      "lat": 52.3754223,
+      "lon": 16.8889763,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "edd738c509ed76e0c1482a5bde4ff04b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rawicka, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
+      "lat": 52.3740105,
+      "lon": 16.8734113,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "e8658ebe3c4d3d8ca52ff7eb4f145b14"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Turniowa, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-116, Polska",
+      "lat": 52.3752674,
+      "lon": 16.8864488,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "9642b810dc65d8041b2b6c53310d68ef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wąwozowa, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-116, Polska",
+      "lat": 52.3765578,
+      "lon": 16.8869743,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "4dfe4a59f31b5eaf718e99325283664c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śmiełowska, Świerczewo, Poznań, województwo wielkopolskie, 60-115, Polska",
+      "lat": 52.3727197,
+      "lon": 16.8820546,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "e3f3014ca40518743185572dd1ed8d6e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żlebowa, Świerczewo, Poznań, województwo wielkopolskie, 61-476, Polska",
+      "lat": 52.3761755,
+      "lon": 16.8901505,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:00:00",
+      "original_description": "Poznań ul. Głazowa, ul. Kamienna, ul. Pagórkowa, ul. Poniecka, ul. Przełęcz, ul. Przełom, ul. Rawicka, ul. Śmiełowska, ul. Turniowa, ul. Wąwozowa, ul. Żlebowa.",
+      "id": "6f43a0a175b22db983c402cc1d4bbaea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "61ad110ab0a520d1b6a4cc9c74038c5e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-820, Polska",
+      "lat": 52.4120686,
+      "lon": 16.9052036,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "1d6a88ed9f7c761a556d1d62cb1870dd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "f1e48525c13a0551e0d964b9ef3e51e1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Słowackiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-829, Polska",
+      "lat": 52.4095553,
+      "lon": 16.9127548,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "3ac79be4964128119a23ad39ebd69d08"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "d2c97e5e15ee24f34242063bef6bb42a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "7bcfebb0dd35006e29b144904b538033"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-847, Polska",
+      "lat": 52.4123168,
+      "lon": 16.9044958,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "724e6bf624b4bedee7df9485d11922b9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zwierzyniecka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-821, Polska",
+      "lat": 52.4080874,
+      "lon": 16.9117941,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-29T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "c29a838806d828459b88bb5d2e13aa77"
     }
   ]
 }
