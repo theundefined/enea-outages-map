@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-29T09:23:06.353356+00:00",
+  "last_update": "2026-01-29T10:03:57.674335+00:00",
   "outages": [
     {
       "type": "planned",
@@ -680,6 +680,16 @@
       "end_time": "2026-02-06T12:00:00",
       "original_description": "Poznań: ul. Stróżyńskiego dz. 71/146.",
       "id": "abc22db403647602b24139dc4a823110"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-06T10:00:00",
+      "end_time": "2026-02-06T13:00:00",
+      "original_description": "Nowe Miasto nad Wartą ul. Poznańska 8A, 14, 14A, 16,",
+      "id": "abbedc539f1df71e34c8b83a503c18d3"
     },
     {
       "type": "planned",
