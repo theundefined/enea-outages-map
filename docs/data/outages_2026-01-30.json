@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-30T06:27:05.032955+00:00",
+  "last_update": "2026-01-30T07:24:02.767390+00:00",
   "outages": [
     {
       "type": "planned",
@@ -760,6 +760,56 @@
       "end_time": "2026-02-19T13:00:00",
       "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
       "id": "605f084657f5ff38bbd9385ef2c10554"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T10:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica, ul. św. Wawrzyńca.",
+      "id": "a7818069aa90ab58695d5efe6e751ef5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T10:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica, ul. św. Wawrzyńca.",
+      "id": "fd9ce71fcf6426f2ef4627e45e4cb744"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Barańczaka, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-537, Polska",
+      "lat": 52.4157481,
+      "lon": 16.9030885,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T10:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica, ul. św. Wawrzyńca.",
+      "id": "fdfd681fa9da5daf8119823142399ba8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Staszica, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-529, Polska",
+      "lat": 52.4136212,
+      "lon": 16.8993516,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T10:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica, ul. św. Wawrzyńca.",
+      "id": "b74acf94ad49b5ec81cd32e79280f650"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Św. Wawrzyńca, Świętego Wawrzyńca, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4186963,
+      "lon": 16.9029366,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T10:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica, ul. św. Wawrzyńca.",
+      "id": "dfe35511e738e57561e065d1a4ae872d"
     }
   ]
 }
