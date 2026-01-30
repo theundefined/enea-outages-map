@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-30T07:24:02.767390+00:00",
+  "last_update": "2026-01-30T07:58:44.110862+00:00",
   "outages": [
     {
       "type": "planned",
@@ -810,6 +810,146 @@
       "end_time": "2026-01-30T10:30:00",
       "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica, ul. św. Wawrzyńca.",
       "id": "dfe35511e738e57561e065d1a4ae872d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bóżnicza, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-751, Polska",
+      "lat": 52.4122857,
+      "lon": 16.9352753,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "72be70032867e0c4dc77ef56b873af4d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Feliksa Nowowiejskiego, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-717, Polska",
+      "lat": 52.4132088,
+      "lon": 16.9219925,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "e32333455e16e55b7eb2bb8400217a4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowe Łąki, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-757, Polska",
+      "lat": 52.4127013,
+      "lon": 16.9386289,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "b8517cc9458afaa7761eb6248844065b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica.",
+      "id": "cd92d006170b373956c7576947133b58"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Małe Garbary, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4107596,
+      "lon": 16.938373,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "3371509aea68519b7533ce6ea52c2f83"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "lat": 52.410976,
+      "lon": 16.9264675,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "5afb0dfa537658c9beb49d1d6e7b2e5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Na Szańcach, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4238998,
+      "lon": 16.9430338,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "878ce9e81601136b158912aa63c6e5cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica.",
+      "id": "66e044efd7098f79e68f49ad5738f5a3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Plac Wolności, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4081225,
+      "lon": 16.9277159,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "a218659f2093eb85ee925c7a9ef70ec3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Barańczaka, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-537, Polska",
+      "lat": 52.4157481,
+      "lon": 16.9030885,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica.",
+      "id": "f0ff76e185524137ff394971ffe0cc2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Staszica, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-529, Polska",
+      "lat": 52.4136212,
+      "lon": 16.8993516,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Piotra Wawrzyniaka, ul. Stanisława Barańczaka, ul. Stanisława Staszica.",
+      "id": "2ba55964638c4fdbce3dae97671f23da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stary Rynek, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "lat": 52.4082892,
+      "lon": 16.933598,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "6146b4a546c3780392cf437ab168b190"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Za Cytadelą, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4254647,
+      "lon": 16.9306118,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "63669981ae62f8f4647a8d6f8659ec6b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Święty Wojciech, Stare Miasto, Poznań, województwo wielkopolskie, 61-747, Polska",
+      "lat": 52.4132396,
+      "lon": 16.9296036,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-30T11:00:00",
+      "original_description": "Poznań pl. Wolności, ul. Bóżnicza, ul. Feliksa Nowowiejskiego, ul. Grochowe Łąki, ul. Małe Garbary, ul. Młyńska, ul. Na Szańcach, ul. Stary Rynek, ul. Święty Wojciech, ul. Za Cytadelą.",
+      "id": "a36f4a2f3d83dcba554947b9ceb8e9e9"
     }
   ]
 }
