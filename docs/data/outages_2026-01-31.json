@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-01-31T15:20:41.763000+00:00",
+  "last_update": "2026-01-31T15:46:15.652196+00:00",
   "outages": [
     {
       "type": "planned",
@@ -640,6 +640,496 @@
       "end_time": "2026-01-31T17:30:00",
       "original_description": "Poznań ul. Bożeny, ul. Dobrochny, ul. św. Kingi, ul. Świętochny, ul. Warszawska, ul. Władymira.",
       "id": "fa104d6c285e105c9b0d0dbd8c2d2b76"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Mickiewicza, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-835, Polska",
+      "lat": 52.4092101,
+      "lon": 16.9103072,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "a6411f1c88cb700e0131a3386a74b21e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "fe1960a87937fe99635a919c887be3e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-820, Polska",
+      "lat": 52.4120686,
+      "lon": 16.9052036,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "5e8aa888d3e71578d9199ebf3e6c2511"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "c22ffe7704770dc13790600d3387bddf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "bf6c75c22291f9eeef47772f7b4e764e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cicha, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-710, Polska",
+      "lat": 52.4162002,
+      "lon": 16.9228386,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "de368fbe765b1678740e7b0652fc6cf6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cisowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3746491,
+      "lon": 16.8956975,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "3765fbfd741b56abe654f1e342574506"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cypriana Kamila Norwida, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3470199,
+      "lon": 16.8734286,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "9ee1b0ced4d98274f7ba84384057c63f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czeremchowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3731637,
+      "lon": 16.8960019,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "0ae3d72c96119920b54dfb55a0d7d042"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "35831e1e80048403c222354748e48e1b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "dc3cae334976ef44eaae4be3353088be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "40736f4745dca041fac28f2c4794b571"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeziorna, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3190516,
+      "lon": 16.8063421,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "a04a494b714c1f49b632e8bc971db567"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeżynowa, Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3693677,
+      "lon": 17.0351542,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "a692d20c1acfe8d5b738490abf25d954"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jodłowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3706062,
+      "lon": 16.8959475,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "05c31d36252af602f0db8eba2251ede4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Słowackiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-829, Polska",
+      "lat": 52.4095553,
+      "lon": 16.9127548,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "c2dd91883a6551674a1dc00348eb9bab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jęczmienna, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4260048,
+      "lon": 16.9237618,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "63a4ef22481b26a3b87d3c5f64e3ad17"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kłosowa, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4367644,
+      "lon": 16.943193,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "67304a048d4a0a72b9e497cb7f26e27d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "f7bb1a3e410475d87157b0c5ea3633d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "1778097cad4074d2eb3a58886eff1778"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705387,
+      "lon": 16.9104483,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "e6606051cc6695b1021eb42fc23ee974"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "c1b294ea9fa405574cc94c5efd644f4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marii Konopnickiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4032644,
+      "lon": 16.9015829,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "8fe06f3dd7e1a4fc432c207662619920"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mieczykowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3890811,
+      "lon": 16.8092825,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "cdbf1282d8e48bfcbcde346683395471"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miodowa, Ogrody, Poznań, województwo wielkopolskie, 60-595, Polska",
+      "lat": 52.4136973,
+      "lon": 16.8715861,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "eb3814800af4118b6eb7f0f834af89ef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mściszewska, Murowana Goślina, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5755475,
+      "lon": 16.9995098,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "b98f3d93df90d1519894daf4c6ab6af7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Na Stoku, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4227278,
+      "lon": 16.9460901,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "4b036c1071bb0842ae33ea8298602c4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nadwarciańska, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4678103,
+      "lon": 16.9664956,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "af7420f3ea153495b5c506c979710404"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owsiana, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4237885,
+      "lon": 16.9237489,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "8d6e9e031b0aaa603b35722062dceee0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pałac Górków, 27, Wodna, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-781, Polska",
+      "lat": 52.4072865,
+      "lon": 16.9346527,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "0c77a55519d964aa5894ab076dfde713"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "389f7c8d1db04e90382a4279f1585967"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pszenna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4245706,
+      "lon": 16.9248939,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "1da94cc46ee68dd9d6db5d2621ebdd38"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radosna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4136213,
+      "lon": 16.8732563,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "2695219b43c40215c3a0f775581dc759"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radzimska, Mściszewo, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.5892126,
+      "lon": 16.9626941,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "aed91d1ef08887f0fc0264fe747d4577"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "48d2f5e93385405b8137bfeb0ae70769"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "fddd91d4a80add1643034b66412ab755"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "b62e9c938393554f27863c2c795980b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starczanowska, Murowana Goślina, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5790647,
+      "lon": 17.0041681,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "6e65fadf65f02e8154215b77218e842b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Żeromskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-545, Polska",
+      "lat": 52.4192108,
+      "lon": 16.8936243,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "04b602c5b86397aaa3ab1afc89c42425"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiosenna, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4145998,
+      "lon": 16.8720792,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "3e95eb504a93139437bdb721228138dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "464d5a95a670d92e6daf623a513291e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łabędzia, Rataje, Poznań, województwo wielkopolskie, 61-393, Polska",
+      "lat": 52.3865105,
+      "lon": 16.9491718,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "4eee26f28db12ac83489ff099223ea3b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łanowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3814024,
+      "lon": 16.9138488,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "7b3185f0bb2fcb85e9e28c3f66c887f7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "081b060793721a5db07bfb5bd8824466"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świerkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.3715758,
+      "lon": 16.8996578,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "68fe209b86e7b1e3395a2c588182ba85"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Źródlana, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-642, Polska",
+      "lat": 52.425412,
+      "lon": 16.91106,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "191b278da9aff98b0d7a228b8f8f8241"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żniwna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4236767,
+      "lon": 16.9278324,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "9cd5757a1503740322c5bdfbd8245198"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żurawia, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-860, Polska",
+      "lat": 52.4129219,
+      "lon": 16.9055421,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "ba2069d9ee51900d3bfeccbd1d06ef72"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żytnia, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4361604,
+      "lon": 16.9432043,
+      "start_time": "Brak danych",
+      "end_time": "2026-01-31T19:00:00",
+      "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Przebędowo, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
+      "id": "b8bc9332e170414a9a64f0374a68704f"
     }
   ]
 }
