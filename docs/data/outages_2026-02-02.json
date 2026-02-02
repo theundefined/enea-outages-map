@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-02T06:03:01.492854+00:00",
+  "last_update": "2026-02-02T07:16:04.119476+00:00",
   "outages": [
     {
       "type": "planned",
@@ -543,6 +543,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-02-16T08:30:00",
+      "end_time": "2026-02-16T11:30:00",
+      "original_description": "Poznań: ul. Ławica 9, 9A, od 4 do 20 parzyste, ul. Grąbczowska bez 13 i 13B, ul. Templińska 29, 34, 36, ul. Bukowska 372, ul. Moryńska bez 12.",
+      "id": "26e88f4e543bfa4263b2d288a4d84185"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Templińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4097315,
+      "lon": 16.8277511,
+      "start_time": "2026-02-16T08:30:00",
+      "end_time": "2026-02-16T11:30:00",
+      "original_description": "Poznań: ul. Ławica 9, 9A, od 4 do 20 parzyste, ul. Grąbczowska bez 13 i 13B, ul. Templińska 29, 34, 36, ul. Bukowska 372, ul. Moryńska bez 12.",
+      "id": "7c97f2838b87e6242e68b47c9555b38f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ławica, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4112414,
+      "lon": 16.8253002,
+      "start_time": "2026-02-16T08:30:00",
+      "end_time": "2026-02-16T11:30:00",
+      "original_description": "Poznań: ul. Ławica 9, 9A, od 4 do 20 parzyste, ul. Grąbczowska bez 13 i 13B, ul. Templińska 29, 34, 36, ul. Bukowska 372, ul. Moryńska bez 12.",
+      "id": "9a073473c6321498cad643ac79d37da2"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
       "lat": 52.4313634,
       "lon": 16.9267169,
@@ -550,6 +580,26 @@
       "end_time": "2026-02-17T14:00:00",
       "original_description": "Poznań: os. Przyjaźni 6, 7, 8, 9, 128.",
       "id": "61e7236d81e88ee28087accb348ff10d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głowicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-182, Polska",
+      "lat": 52.4058093,
+      "lon": 16.8222775,
+      "start_time": "2026-02-17T08:30:00",
+      "end_time": "2026-02-17T12:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza bez 52, 56, 47 i 47A.",
+      "id": "8d15bb18377e2424af8bbc11a14771ea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "2026-02-17T08:30:00",
+      "end_time": "2026-02-17T12:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza bez 52, 56, 47 i 47A.",
+      "id": "c5f1261c74cff92a20a81df66947785e"
     },
     {
       "type": "planned",
