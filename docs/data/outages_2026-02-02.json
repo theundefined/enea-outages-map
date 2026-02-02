@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-02T11:55:38.489921+00:00",
+  "last_update": "2026-02-02T12:55:33.884589+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2103,6 +2103,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Nad Jeziorem, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4417301,
+      "lon": 16.8041042,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-02T15:00:00",
+      "original_description": "Poznań ul. Nad Jeziorem, ul. Słupska, ul. Stobnicka.",
+      "id": "c9b76b9e4a6064cd758864092e7161b9"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
       "lat": 52.4109536,
       "lon": 16.9350496,
@@ -2173,6 +2183,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Stobnicka, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4569424,
+      "lon": 16.8160274,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-02T15:00:00",
+      "original_description": "Poznań ul. Nad Jeziorem, ul. Słupska, ul. Stobnicka.",
+      "id": "3f3d4e3e5680e8bca71c02aa7cc60a8a"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
       "lat": 52.4075185,
       "lon": 16.9322942,
@@ -2180,6 +2200,16 @@
       "end_time": "2026-02-02T15:00:00",
       "original_description": "Drużyń ul. Wichrowe Wzgórze, Granowo ul. 1 Maja, ul. Długa, ul. Dworcowa, ul. Kolejowa, ul. Komunalna, ul. Konstytucji 3 Maja, ul. Kwiatowa, ul. Nowa, ul. Okrężna, ul. Poznańska, ul. Przemysłowa, ul. Rolna, ul. Sportowa, ul. Stawowa, ul. Szkolna, ul. Torowa, ul. Warzywna, ul. Wspólna, ul. Zbożowa, ul. Zielony Skwer, Kotowo, Kubaczyn, Woźniki, Płastowo.",
       "id": "c893326ad66572a5ee2c6b7837b6b05a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słupska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4510895,
+      "lon": 16.8030346,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-02T15:00:00",
+      "original_description": "Poznań ul. Nad Jeziorem, ul. Słupska, ul. Stobnicka.",
+      "id": "f9da0262a5fb97ab01583cb320c6367f"
     },
     {
       "type": "unplanned",
