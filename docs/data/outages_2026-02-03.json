@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-03T16:27:33.856679+00:00",
+  "last_update": "2026-02-03T17:28:56.783250+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1370,6 +1370,96 @@
       "end_time": "2026-02-03T17:30:00",
       "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
       "id": "971c1faea994308a35f084166eb71db1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "7d74600dfd47ea784318724f53f0c825"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chemiczna, Karolin, Główna, Poznań, województwo wielkopolskie, 61-014, Polska",
+      "lat": 52.4312383,
+      "lon": 16.9676555,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "4c07b0d0455de0bb1f78b506262dc564"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gdyńska, Główna, Poznań, województwo wielkopolskie, 61-017, Polska",
+      "lat": 52.4267011,
+      "lon": 16.9782627,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "281567b364beaad0242a5198e46389ea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Helska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-014, Polska",
+      "lat": 52.4275813,
+      "lon": 16.9725603,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "b455c046470b35a7a9d978e14d693eae"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-012, Polska",
+      "lat": 52.4244767,
+      "lon": 16.9714946,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "635963ed769f79c8f9aec16526009579"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rozewska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-014, Polska",
+      "lat": 52.4275246,
+      "lon": 16.9719944,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "81f24f1751e2a2fb0a7db8593f712c4a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzeczna, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-013, Polska",
+      "lat": 52.4255053,
+      "lon": 16.9755612,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "d764d76fd32a6a49c4258b785bec3f82"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skromna, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-013, Polska",
+      "lat": 52.4260546,
+      "lon": 16.9742477,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "dab1a7943f8f62e907147b68a45ea29e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sucha, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4258613,
+      "lon": 16.9822289,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-03T19:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Chemiczna, ul. Gdyńska, ul. Helska, ul. Nadolnik, ul. Rozewska, ul. Rzeczna, ul. Skromna, ul. Sucha.",
+      "id": "db6159b0d6ad16321080adb8d364d5b8"
     }
   ]
 }
