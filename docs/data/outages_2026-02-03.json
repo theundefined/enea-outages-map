@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-03T07:27:36.453075+00:00",
+  "last_update": "2026-02-03T08:01:01.543475+00:00",
   "outages": [
     {
       "type": "planned",
@@ -903,6 +903,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Jasna Rola, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4542749,
+      "lon": 16.941773,
+      "start_time": "2026-02-18T08:30:00",
+      "end_time": "2026-02-18T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "66b22fc4b3f3590a51f3d8d2465a525f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-02-18T08:30:00",
+      "end_time": "2026-02-18T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "9ba20c4d8654f26cacab1a290893db38"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rubież, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4492865,
+      "lon": 16.9505211,
+      "start_time": "2026-02-18T08:30:00",
+      "end_time": "2026-02-18T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "eeb17dc21c38d54a26ac828f416593e4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Ignacego Paderewskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
       "lat": 52.407834,
       "lon": 16.931121,
@@ -930,6 +960,46 @@
       "end_time": "2026-02-19T13:00:00",
       "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
       "id": "605f084657f5ff38bbd9385ef2c10554"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Junikowska, Junikowo, Poznań, województwo wielkopolskie, 60-164, Polska",
+      "lat": 52.38356,
+      "lon": 16.8475804,
+      "start_time": "2026-02-19T08:30:00",
+      "end_time": "2026-02-19T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "f6457a93c56090727bed2ef5ea8dcdad"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kamienicka, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.3798923,
+      "lon": 16.8497349,
+      "start_time": "2026-02-19T08:30:00",
+      "end_time": "2026-02-19T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "f716bbc7bc8e461aad83bd32018b1f50"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Miśnieńska, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3784148,
+      "lon": 16.8359518,
+      "start_time": "2026-02-19T08:30:00",
+      "end_time": "2026-02-19T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "83c256edfaa69e2890f6cda233cc88af"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żagańska, Junikowo, Poznań, województwo wielkopolskie, 60-167, Polska",
+      "lat": 52.3791834,
+      "lon": 16.8443523,
+      "start_time": "2026-02-19T08:30:00",
+      "end_time": "2026-02-19T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "461ccbb80fefa3e7c8432671ef5e6fac"
     }
   ]
 }
