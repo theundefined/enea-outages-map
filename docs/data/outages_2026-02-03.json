@@ -1,0 +1,895 @@
+{
+  "last_update": "2026-02-03T01:55:16.522979+00:00",
+  "outages": [
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-02-03T08:00:00",
+      "end_time": "2026-02-03T14:00:00",
+      "original_description": "Poznań: os. Przyjaźni 23A-Ł, 22A-E.",
+      "id": "1573eef3597ed94adfdf6543d2cb8c8f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głowicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-182, Polska",
+      "lat": 52.4058093,
+      "lon": 16.8222775,
+      "start_time": "2026-02-03T08:30:00",
+      "end_time": "2026-02-03T12:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza bez 52, 56, 47 i 47A.",
+      "id": "9f7252f29f3589a1db940839c1625342"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "2026-02-03T08:30:00",
+      "end_time": "2026-02-03T12:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza bez 52, 56, 47 i 47A.",
+      "id": "634f9342159b74e1744e595413ec3310"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "2026-02-04T08:00:00",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Miasto Pniewy ul. Spichrzowa cała, ul. Dworcowa od 24 do 26, od 45 do 48, ul. Międzychodzka od 1 do 24, ul. Młyńska od 1 do 9 (oprócz 1A, 1B), ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2,, ul. Targowa od nr 1 do nr 12, 14, 16, działki nr 162, Przychodnia Lekarza Rodzinnego, Centrum Leczniczo-Rehabilitacyjne POSTĘP, Poradnia Ginekologiczno-położnicza, apteka,  Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracowani Cukiernicza Naturalnie",
+      "id": "b1ac7227302058072c41ba02c2ddcf57"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Międzychodzka, Świt, Grunwald Północ, Poznań, województwo wielkopolskie, 60-369, Polska",
+      "lat": 52.4056621,
+      "lon": 16.8777064,
+      "start_time": "2026-02-04T08:00:00",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Miasto Pniewy ul. Spichrzowa cała, ul. Dworcowa od 24 do 26, od 45 do 48, ul. Międzychodzka od 1 do 24, ul. Młyńska od 1 do 9 (oprócz 1A, 1B), ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2,, ul. Targowa od nr 1 do nr 12, 14, 16, działki nr 162, Przychodnia Lekarza Rodzinnego, Centrum Leczniczo-Rehabilitacyjne POSTĘP, Poradnia Ginekologiczno-położnicza, apteka,  Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracowani Cukiernicza Naturalnie",
+      "id": "ed9e9397c6621c5ce46ff46941edf63f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "lat": 52.410976,
+      "lon": 16.9264675,
+      "start_time": "2026-02-04T08:00:00",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Miasto Pniewy ul. Spichrzowa cała, ul. Dworcowa od 24 do 26, od 45 do 48, ul. Międzychodzka od 1 do 24, ul. Młyńska od 1 do 9 (oprócz 1A, 1B), ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2,, ul. Targowa od nr 1 do nr 12, 14, 16, działki nr 162, Przychodnia Lekarza Rodzinnego, Centrum Leczniczo-Rehabilitacyjne POSTĘP, Poradnia Ginekologiczno-położnicza, apteka,  Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracowani Cukiernicza Naturalnie",
+      "id": "fa009b7545d2848520d22554ec0ad54e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-04T08:00:00",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Miasto Pniewy ul. Spichrzowa cała, ul. Dworcowa od 24 do 26, od 45 do 48, ul. Międzychodzka od 1 do 24, ul. Młyńska od 1 do 9 (oprócz 1A, 1B), ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2,, ul. Targowa od nr 1 do nr 12, 14, 16, działki nr 162, Przychodnia Lekarza Rodzinnego, Centrum Leczniczo-Rehabilitacyjne POSTĘP, Poradnia Ginekologiczno-położnicza, apteka,  Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracowani Cukiernicza Naturalnie",
+      "id": "307e10bccbe1657d3642b896d70a519e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Społeczna Szkoła Podstawowa nr 1 im. św. Urszuli Ledóchowskiej, Grunwaldzka, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3930468,
+      "lon": 16.8604437,
+      "start_time": "2026-02-04T08:00:00",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Miasto Pniewy ul. Spichrzowa cała, ul. Dworcowa od 24 do 26, od 45 do 48, ul. Międzychodzka od 1 do 24, ul. Młyńska od 1 do 9 (oprócz 1A, 1B), ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2,, ul. Targowa od nr 1 do nr 12, 14, 16, działki nr 162, Przychodnia Lekarza Rodzinnego, Centrum Leczniczo-Rehabilitacyjne POSTĘP, Poradnia Ginekologiczno-położnicza, apteka,  Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracowani Cukiernicza Naturalnie",
+      "id": "90032f7b5677c48c6c4d109f3e983cce"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Głogowska 411 do 423 nieparzyste.",
+      "id": "a8bb5236f428f9dc6d98ec8bcae42f8a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Junikowska, Junikowo, Poznań, województwo wielkopolskie, 60-164, Polska",
+      "lat": 52.38356,
+      "lon": 16.8475804,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "5d0a63a3e68e15b466b22c7e30e23025"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kamienicka, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.3798923,
+      "lon": 16.8497349,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "102023e98b752c5ec69d5ecf72cb6f87"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Miśnieńska, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3784148,
+      "lon": 16.8359518,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "f2a28160ac20e96f611dc754bbd6941a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żagańska, Junikowo, Poznań, województwo wielkopolskie, 60-167, Polska",
+      "lat": 52.3791834,
+      "lon": 16.8443523,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
+      "id": "e5eb3b8008b8c936ac1c636dc7ec1a1f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jasna Rola, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4542749,
+      "lon": 16.941773,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "2a7157b18a4af011e5c8ef984a02dfd2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "28e8d715684a9a7c907fb1e7bacbb477"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rubież, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4492865,
+      "lon": 16.9505211,
+      "start_time": "2026-02-04T08:30:00",
+      "end_time": "2026-02-04T12:30:00",
+      "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
+      "id": "f2b06a504a038c1c1ca6a53ac16ac34e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T13:00:00",
+      "original_description": "Miasto Pniewy ul. Konopnickiej cała, ul. Prusa cała, ul. Sienkiewicza cała, ul. Reymonta cała, ul. Kraszewskiego cała, ul. Turowska cała, ul. Zamorska cała, ul. Lwówecka cała (oprócz nr  22) ul. Spokojna od 1 do 8, 20, ul. Zielona 2, ul. Felickiego 4B, ul. Jasna 5D, 5F, ul. Łąkowa 44, ul. Poznańska 57, 60, ul. Słowiańska 18, ul. Radosna 19, ul. Strzelecka od 8 do 18C, (oprócz 10A, 10B, 10C, 11A, 16, 16A, ), 18F,  18G, 18H, 18I, od 19 do 33, ul. Krótka 1, 2, ul. Wolności  od 1 do 19, 21, 23, 27, 27A, 30, 32, 35, ul. Powstańców Wielkopolskich 1, 5, 6, 7,  działki nr 13, 577/7, 578/2, 598/22, 613/1, 640/3, 802/51, 885/4, 1110/1,  2078/1, 2078/4,  2079, Zespół Szkół im. Emilii Szczanieckiej, Nadleśnictwo Pniewy, Centrum Kultury Pniewy,  Graeb, serwis wulkanizacyjny, Kościół, plebania,  stacja paliw Michałowski, Firma Michałowski, Dom Pomocy Społecznej, OSP, biblioteka, Pracowniczy Ogród Działkowy Wrzos, Pniewskie Przedsiębiorstwo Komunalne  Sp. z o.o., Węzeł cieplny W10061, W10059, zakład stolarski,",
+      "id": "9a2c938915a0dc79d5f5bfb56bf9b886"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Plac Wolności, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4081225,
+      "lon": 16.9277159,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T13:00:00",
+      "original_description": "Miasto Pniewy ul. Konopnickiej cała, ul. Prusa cała, ul. Sienkiewicza cała, ul. Reymonta cała, ul. Kraszewskiego cała, ul. Turowska cała, ul. Zamorska cała, ul. Lwówecka cała (oprócz nr  22) ul. Spokojna od 1 do 8, 20, ul. Zielona 2, ul. Felickiego 4B, ul. Jasna 5D, 5F, ul. Łąkowa 44, ul. Poznańska 57, 60, ul. Słowiańska 18, ul. Radosna 19, ul. Strzelecka od 8 do 18C, (oprócz 10A, 10B, 10C, 11A, 16, 16A, ), 18F,  18G, 18H, 18I, od 19 do 33, ul. Krótka 1, 2, ul. Wolności  od 1 do 19, 21, 23, 27, 27A, 30, 32, 35, ul. Powstańców Wielkopolskich 1, 5, 6, 7,  działki nr 13, 577/7, 578/2, 598/22, 613/1, 640/3, 802/51, 885/4, 1110/1,  2078/1, 2078/4,  2079, Zespół Szkół im. Emilii Szczanieckiej, Nadleśnictwo Pniewy, Centrum Kultury Pniewy,  Graeb, serwis wulkanizacyjny, Kościół, plebania,  stacja paliw Michałowski, Firma Michałowski, Dom Pomocy Społecznej, OSP, biblioteka, Pracowniczy Ogród Działkowy Wrzos, Pniewskie Przedsiębiorstwo Komunalne  Sp. z o.o., Węzeł cieplny W10061, W10059, zakład stolarski,",
+      "id": "7b26d5618d29af3b0732caf9c6c25a01"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T13:00:00",
+      "original_description": "Miasto Pniewy ul. Konopnickiej cała, ul. Prusa cała, ul. Sienkiewicza cała, ul. Reymonta cała, ul. Kraszewskiego cała, ul. Turowska cała, ul. Zamorska cała, ul. Lwówecka cała (oprócz nr  22) ul. Spokojna od 1 do 8, 20, ul. Zielona 2, ul. Felickiego 4B, ul. Jasna 5D, 5F, ul. Łąkowa 44, ul. Poznańska 57, 60, ul. Słowiańska 18, ul. Radosna 19, ul. Strzelecka od 8 do 18C, (oprócz 10A, 10B, 10C, 11A, 16, 16A, ), 18F,  18G, 18H, 18I, od 19 do 33, ul. Krótka 1, 2, ul. Wolności  od 1 do 19, 21, 23, 27, 27A, 30, 32, 35, ul. Powstańców Wielkopolskich 1, 5, 6, 7,  działki nr 13, 577/7, 578/2, 598/22, 613/1, 640/3, 802/51, 885/4, 1110/1,  2078/1, 2078/4,  2079, Zespół Szkół im. Emilii Szczanieckiej, Nadleśnictwo Pniewy, Centrum Kultury Pniewy,  Graeb, serwis wulkanizacyjny, Kościół, plebania,  stacja paliw Michałowski, Firma Michałowski, Dom Pomocy Społecznej, OSP, biblioteka, Pracowniczy Ogród Działkowy Wrzos, Pniewskie Przedsiębiorstwo Komunalne  Sp. z o.o., Węzeł cieplny W10061, W10059, zakład stolarski,",
+      "id": "b9081015e344914d9e4e662e8315aa6d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "8f7a6b43e7ef6cf9cafbcd1fbee123f9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nasza, 49, Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-355, Polska",
+      "lat": 52.4039655,
+      "lon": 16.8877029,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "22ecf6d47cd98d19f8e68e0fac79a1b6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "382b7ae8e28767743c67279baa8fe778"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "a533addb133a4636f8ebfa5fde407201"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "c35877d750f213e8b8e0a3fd5d3edee5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "4553dfdeb1b6d29dbe347481f85dde0f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "cd0615b62635c09fc4c4e3667e0e950a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wrzosowa, Wilda, Poznań, województwo wielkopolskie, 61-477, Polska",
+      "lat": 52.3733013,
+      "lon": 16.9105834,
+      "start_time": "2026-02-04T11:00:00",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Miąskowo 19-24,\nMurzynowo Leśne ul. Poznańska 1-40, ul. Pogodna, ul. Piaskowa, ul. Wrzosowa, ul. Polna, ul. Jaśminowa, ul. Nasza, ul. Wierzbowa 5,",
+      "id": "c4b8bbac4beb2cb7756e3a265e0950a2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Generała Tadeusza Kutrzeby, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-718, Polska",
+      "lat": 52.4152239,
+      "lon": 16.9317635,
+      "start_time": "2026-02-05T08:00:00",
+      "end_time": "2026-02-05T13:00:00",
+      "original_description": "Poznań: ul. Kutrzeby dz. 62/4 stacja telefonii komórkowej.",
+      "id": "72eb886a22f0ca77dc867c2d92d82daa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-02-05T08:00:00",
+      "end_time": "2026-02-05T13:00:00",
+      "original_description": "Poznań: ul. Piątkowska dz. 17/5.",
+      "id": "0de99a6a86d2426786deea1218a5c5a4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rakietowa, Baraki, Krzesiny, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-317, Polska",
+      "lat": 52.339359,
+      "lon": 16.9747908,
+      "start_time": "2026-02-05T08:30:00",
+      "end_time": "2026-02-05T10:30:00",
+      "original_description": "Poznań: ul. Śmigi od 33 do 45 nieparzyste, ul. Rakietowa, ul. Skrzydlata.",
+      "id": "7f744f47d529d5f21c8864c1edab23db"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Skrzydlata, Baraki, Krzesiny, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-317, Polska",
+      "lat": 52.3400783,
+      "lon": 16.9750143,
+      "start_time": "2026-02-05T08:30:00",
+      "end_time": "2026-02-05T10:30:00",
+      "original_description": "Poznań: ul. Śmigi od 33 do 45 nieparzyste, ul. Rakietowa, ul. Skrzydlata.",
+      "id": "b63b20e0ef85bfa0652adeec56565b08"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Śmigi, Krzesiny, Garaszewo, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-317, Polska",
+      "lat": 52.3419982,
+      "lon": 16.9713264,
+      "start_time": "2026-02-05T08:30:00",
+      "end_time": "2026-02-05T10:30:00",
+      "original_description": "Poznań: ul. Śmigi od 33 do 45 nieparzyste, ul. Rakietowa, ul. Skrzydlata.",
+      "id": "1d371d2d853a22b6b3f6dd078bcb060b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "2026-02-06T08:30:00",
+      "end_time": "2026-02-06T11:30:00",
+      "original_description": "Poznań ul. Przełęcz 4, ul. Czechosłowacka 104A, 106, 106 A, 108, 139, 141, 143, 145, 147, 149, 151, 155, 157, 159, 161, 163",
+      "id": "52ede32a3f3e797dadf2a848b3b2034c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przełęcz, Świerczewo, Poznań, województwo wielkopolskie, 61-476, Polska",
+      "lat": 52.3754223,
+      "lon": 16.8889763,
+      "start_time": "2026-02-06T08:30:00",
+      "end_time": "2026-02-06T11:30:00",
+      "original_description": "Poznań ul. Przełęcz 4, ul. Czechosłowacka 104A, 106, 106 A, 108, 139, 141, 143, 145, 147, 149, 151, 155, 157, 159, 161, 163",
+      "id": "ad8f9cdce7731bdccf7d0fa18d221f24"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Franciszka Stróżyńskiego, Osiedle Stefana Batorego, Piątkowo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4648807,
+      "lon": 16.9182282,
+      "start_time": "2026-02-06T08:30:00",
+      "end_time": "2026-02-06T12:00:00",
+      "original_description": "Poznań: ul. Stróżyńskiego dz. 71/146.",
+      "id": "abc22db403647602b24139dc4a823110"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-06T10:00:00",
+      "end_time": "2026-02-06T13:00:00",
+      "original_description": "Nowe Miasto nad Wartą ul. Poznańska 8A, 14, 14A, 16,",
+      "id": "abbedc539f1df71e34c8b83a503c18d3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dziewińska, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3928746,
+      "lon": 16.8395384,
+      "start_time": "2026-02-09T08:30:00",
+      "end_time": "2026-02-09T12:30:00",
+      "original_description": "Poznań: ul. Dziewińska do 3 do 35 nieparzyste, od 4 do 38 parzyste, pl. Światowida od 4 do 12 parzyste, ul. Srebrna 10, 12, ul. Grunwaldzka od 259 do 269 nieparzyste.",
+      "id": "d9a31c4236c943bb84cec6a21a6d000b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "2026-02-09T08:30:00",
+      "end_time": "2026-02-09T12:30:00",
+      "original_description": "Poznań: ul. Dziewińska do 3 do 35 nieparzyste, od 4 do 38 parzyste, pl. Światowida od 4 do 12 parzyste, ul. Srebrna 10, 12, ul. Grunwaldzka od 259 do 269 nieparzyste.",
+      "id": "209df27ba64dde66d257286ea6b25f56"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Srebrna, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3902532,
+      "lon": 16.8418332,
+      "start_time": "2026-02-09T08:30:00",
+      "end_time": "2026-02-09T12:30:00",
+      "original_description": "Poznań: ul. Dziewińska do 3 do 35 nieparzyste, od 4 do 38 parzyste, pl. Światowida od 4 do 12 parzyste, ul. Srebrna 10, 12, ul. Grunwaldzka od 259 do 269 nieparzyste.",
+      "id": "3ee85c25c102c5c35de28aadf000f37f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "2026-02-09T08:30:00",
+      "end_time": "2026-02-09T15:30:00",
+      "original_description": "Poznań: os. Piastowskie 116, 116A, garaże.",
+      "id": "6b3b5fff8ab0e4920f1d9d41d070a809"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-10T08:30:00",
+      "end_time": "2026-02-10T09:30:00",
+      "original_description": "Nekla ul. Rynek 11, 12, 12 a,  13, 14, 15, 16, 17A, 17B, 17C, 17D, 18, 18A, 1A, DZ. 418/2, dz.422, ul. Wrzesińska 5, 6, 7A, ul. Poznańska 1, 10, 10A, 2, 4, 6, 7, 8",
+      "id": "2d2d944defc38fe189037a0d46d22229"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stary Rynek, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "lat": 52.4082892,
+      "lon": 16.933598,
+      "start_time": "2026-02-10T08:30:00",
+      "end_time": "2026-02-10T09:30:00",
+      "original_description": "Nekla ul. Rynek 11, 12, 12 a,  13, 14, 15, 16, 17A, 17B, 17C, 17D, 18, 18A, 1A, DZ. 418/2, dz.422, ul. Wrzesińska 5, 6, 7A, ul. Poznańska 1, 10, 10A, 2, 4, 6, 7, 8",
+      "id": "0b49e4814e16180fc43d0a17edb94d4f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wrzesińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4193337,
+      "lon": 16.9765039,
+      "start_time": "2026-02-10T08:30:00",
+      "end_time": "2026-02-10T09:30:00",
+      "original_description": "Nekla ul. Rynek 11, 12, 12 a,  13, 14, 15, 16, 17A, 17B, 17C, 17D, 18, 18A, 1A, DZ. 418/2, dz.422, ul. Wrzesińska 5, 6, 7A, ul. Poznańska 1, 10, 10A, 2, 4, 6, 7, 8",
+      "id": "c9d8669209f90222827f435684c1af6e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bułgarska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-325, Polska",
+      "lat": 52.3962032,
+      "lon": 16.8622017,
+      "start_time": "2026-02-10T08:30:00",
+      "end_time": "2026-02-10T11:30:00",
+      "original_description": "Poznań: ul. Bułgarska od 6 do 18 parzyste, od 34 do 64 parzyste, ul. Trybunalska 27.",
+      "id": "4ef8eed259636d8c7359fd1d9b00d93f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trybunalska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-325, Polska",
+      "lat": 52.3996761,
+      "lon": 16.8653342,
+      "start_time": "2026-02-10T08:30:00",
+      "end_time": "2026-02-10T11:30:00",
+      "original_description": "Poznań: ul. Bułgarska od 6 do 18 parzyste, od 34 do 64 parzyste, ul. Trybunalska 27.",
+      "id": "5c83abedb4fbdc2bbe0668f70b3ca964"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Polna 10, 3, 3A, 6,  1, 2, 2A, 4, 6, 8, DZ.142/5, ul. Leśna 4, 6,  14a, 14B, 2, 2A, 8A, ul. Zaciszna, ul. Bukowa, ul. Kalinowa 2A, 2b, ul. Poznańska 10, 12, 14, 15, 17, 19, 50, 52, 54, 56 B, 58, skrzyż. DW, ul. Sportowa 2",
+      "id": "bc982fceff7b5648bb561c60ebc464a7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jałowcowa, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-472, Polska",
+      "lat": 52.3761932,
+      "lon": 16.9027945,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "ff4aec0a03b1242e9353c8b8b5125158"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "0956b4957dda38eb2eceebd9e2143143"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kalinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-437, Polska",
+      "lat": 52.3675868,
+      "lon": 16.9024129,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "6ed3f0f83119488a190d9e0a398f151f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kalinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-437, Polska",
+      "lat": 52.3675868,
+      "lon": 16.9024129,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Polna 10, 3, 3A, 6,  1, 2, 2A, 4, 6, 8, DZ.142/5, ul. Leśna 4, 6,  14a, 14B, 2, 2A, 8A, ul. Zaciszna, ul. Bukowa, ul. Kalinowa 2A, 2b, ul. Poznańska 10, 12, 14, 15, 17, 19, 50, 52, 54, 56 B, 58, skrzyż. DW, ul. Sportowa 2",
+      "id": "5d19302e1334a199e36c2652ea6f6d42"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "5130270bab166f2f90572ef5b0d586a8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Polna 10, 3, 3A, 6,  1, 2, 2A, 4, 6, 8, DZ.142/5, ul. Leśna 4, 6,  14a, 14B, 2, 2A, 8A, ul. Zaciszna, ul. Bukowa, ul. Kalinowa 2A, 2b, ul. Poznańska 10, 12, 14, 15, 17, 19, 50, 52, 54, 56 B, 58, skrzyż. DW, ul. Sportowa 2",
+      "id": "ba862b0301b4b4781126a04234ba86f3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Liliowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4771877,
+      "lon": 16.7864784,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "96e99f5502077ac04fa609221fc322b6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mahoniowa, Chyby, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-081, Polska",
+      "lat": 52.453361,
+      "lon": 16.7636229,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "d653aaea0daac0bbb68d33d7e3246ac4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Orzechowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-447, Polska",
+      "lat": 52.362929,
+      "lon": 16.9083908,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "f31ab9f79a0fe521ac33078fd4b184ef"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Polna 10, 3, 3A, 6,  1, 2, 2A, 4, 6, 8, DZ.142/5, ul. Leśna 4, 6,  14a, 14B, 2, 2A, 8A, ul. Zaciszna, ul. Bukowa, ul. Kalinowa 2A, 2b, ul. Poznańska 10, 12, 14, 15, 17, 19, 50, 52, 54, 56 B, 58, skrzyż. DW, ul. Sportowa 2",
+      "id": "5d3c0b6e3cf899ff624a29eab9061ea1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "f550efb438ad5efe08e2425639810091"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Polna 10, 3, 3A, 6,  1, 2, 2A, 4, 6, 8, DZ.142/5, ul. Leśna 4, 6,  14a, 14B, 2, 2A, 8A, ul. Zaciszna, ul. Bukowa, ul. Kalinowa 2A, 2b, ul. Poznańska 10, 12, 14, 15, 17, 19, 50, 52, 54, 56 B, 58, skrzyż. DW, ul. Sportowa 2",
+      "id": "14343db71664ed539d6d9bd8d2642db3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "54c0937a3415fc1f68554c994a0689d4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Różana 10, 11, 12, 13, 14, 15, 16, 18, 20, 21, 22, 24, 26, 27, 28, 29, 31, 33, 6, 9,  23, ul. Orzechowa 2, 3, 30, 6, 7, ul. Jaśminowa 6A, 6B, 8, 8A,  1, 2, 2 A, 4, 4A, 6, ul. Mahoniowa 12A, DZ. 34/3,  1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 17A, 18, 2, 21, 23, 25, 27, 29, 2A, 3, 31, 3A, 4, 6, 7, 8, 9, dz. 40/4, ul. Kalinowa 10, 12, 14, 16, 18, 20, 22, 24, 4A, 5, 6, 8,  2, 4, 8,  13, ul. Jałowcowa 1, 10, 11, 12, 13, 14, 1A, 2, 3, 4, 5, 5A, 8, 9, ul. Liliowa 3, 4, 5, 7, ul. Poznańska 46, 48, ul. Kasztanowa 1, 3, ul. Sportowa 11, 13, 15, 17, 19, 5, 7, 9",
+      "id": "86bf64163f2e0107ee1fef9b3055374a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Polna 10, 3, 3A, 6,  1, 2, 2A, 4, 6, 8, DZ.142/5, ul. Leśna 4, 6,  14a, 14B, 2, 2A, 8A, ul. Zaciszna, ul. Bukowa, ul. Kalinowa 2A, 2b, ul. Poznańska 10, 12, 14, 15, 17, 19, 50, 52, 54, 56 B, 58, skrzyż. DW, ul. Sportowa 2",
+      "id": "ab068cd709047869f72fc877a61ee1d6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zaciszna, Czapury, gmina Mosina, powiat poznański, województwo wielkopolskie, 61-332, Polska",
+      "lat": 52.3205653,
+      "lon": 16.9246953,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:00:00",
+      "original_description": "Tulce ul. Polna 10, 3, 3A, 6,  1, 2, 2A, 4, 6, 8, DZ.142/5, ul. Leśna 4, 6,  14a, 14B, 2, 2A, 8A, ul. Zaciszna, ul. Bukowa, ul. Kalinowa 2A, 2b, ul. Poznańska 10, 12, 14, 15, 17, 19, 50, 52, 54, 56 B, 58, skrzyż. DW, ul. Sportowa 2",
+      "id": "e318b6b8043f5c62f8b3861cdf00359c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo 79, 81, ul. Roślinna od 1 do 3 nieparzyste, od 2 do 10 parzyste, 10A-C, ul. Jagodowa od 24 do 38 parzyste.",
+      "id": "42843b1909bf22d787b605dd01e57cd5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Roślinna, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.365729,
+      "lon": 17.0073943,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo 79, 81, ul. Roślinna od 1 do 3 nieparzyste, od 2 do 10 parzyste, 10A-C, ul. Jagodowa od 24 do 38 parzyste.",
+      "id": "ae9f5395203d3429c268d34d68406e50"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Roślinna, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.365729,
+      "lon": 17.0073943,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:30:00",
+      "original_description": "Poznań: ul. Roślinna od 12 do 20 parzyste, 22, od 24 do 34 parzyste, 34A, 36, 38, 38A-B, ul. Sierpowa 40.",
+      "id": "04d7f729e220a5f79a585644105c4fbd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sierpowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.367821,
+      "lon": 17.0151878,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:30:00",
+      "original_description": "Poznań: ul. Roślinna od 12 do 20 parzyste, 22, od 24 do 34 parzyste, 34A, 36, 38, 38A-B, ul. Sierpowa 40.",
+      "id": "4c6cf118107704e53401a07f4f55a834"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "2026-02-11T08:30:00",
+      "end_time": "2026-02-11T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo 79, 81, ul. Roślinna od 1 do 3 nieparzyste, od 2 do 10 parzyste, 10A-C, ul. Jagodowa od 24 do 38 parzyste.",
+      "id": "fd142b12b6fc85bdb00c761cbcb09c55"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "55a928403bd9dbf4e8593237e006ce9e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Daliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3899001,
+      "lon": 16.8101651,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "22b4db450cfed7c0f1d54c09f88883a8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Irysowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3833989,
+      "lon": 16.8291071,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "4cda6905d1f179b3a6d9b33939ffdeb5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "04dcf793e2015713323bf9797869a4bb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "985bd9572fa207c4da504d38112a6aa7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Narcyzowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3877625,
+      "lon": 16.8106357,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "5f0b4b9e9c9ba312482fc1b92ef49392"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "a68d7f22f6686d524320f4b00aa3e776"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "b9da6fd91447a9a3e088d14d47cc03f3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tulipanowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3876508,
+      "lon": 16.8142466,
+      "start_time": "2026-02-11T12:00:00",
+      "end_time": "2026-02-11T15:00:00",
+      "original_description": "Tulce ul. Narcyzowa 1, 3, 5, 7,  10, 2, 4, 6, 8,  12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Makowa 2, 3, 4, 5, 6, 7, 8, 9,  1, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, DZ.10/5,  57, 63, 65, DZ.17,  7, dz.260/12, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 9,  7, 8, ul. Poznańska 2, 4, 44, 8, ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Klonowa",
+      "id": "754d740ce93d2c8f3b9c606203ad3508"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-02-12T08:00:00",
+      "end_time": "2026-02-12T14:00:00",
+      "original_description": "Poznań: os. Przyjaźni 23A-Ł, 22A-E.",
+      "id": "0dc83bb5ff8e049ebe204050b219fdaa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czarna Rola, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 61-625, Polska",
+      "lat": 52.4352363,
+      "lon": 16.9436586,
+      "start_time": "2026-02-12T08:30:00",
+      "end_time": "2026-02-12T11:30:00",
+      "original_description": "Poznań: ul. Czarna Rola dz. 98/6, od 1 do 19 nieparzyste, od 29 do 37 nieparzyste, 10/16, od 20 do 44 bez 40 parzyste, ul. Pasterska od 2 do 14 parzyste, 14A, ul. Karbowska od 2 do 8 parzyste.",
+      "id": "deeae51aa28b604051177362c14e088e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Karbowska, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4351961,
+      "lon": 16.9444087,
+      "start_time": "2026-02-12T08:30:00",
+      "end_time": "2026-02-12T11:30:00",
+      "original_description": "Poznań: ul. Czarna Rola dz. 98/6, od 1 do 19 nieparzyste, od 29 do 37 nieparzyste, 10/16, od 20 do 44 bez 40 parzyste, ul. Pasterska od 2 do 14 parzyste, 14A, ul. Karbowska od 2 do 8 parzyste.",
+      "id": "ac5481e09467c6e8d2bb4a7d6672d5ff"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pasterska, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4337486,
+      "lon": 16.9430134,
+      "start_time": "2026-02-12T08:30:00",
+      "end_time": "2026-02-12T11:30:00",
+      "original_description": "Poznań: ul. Czarna Rola dz. 98/6, od 1 do 19 nieparzyste, od 29 do 37 nieparzyste, 10/16, od 20 do 44 bez 40 parzyste, ul. Pasterska od 2 do 14 parzyste, 14A, ul. Karbowska od 2 do 8 parzyste.",
+      "id": "8a956bbd8279d683fc02a77d6243e0d0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-02-16T08:30:00",
+      "end_time": "2026-02-16T11:30:00",
+      "original_description": "Poznań: ul. Ławica 9, 9A, od 4 do 20 parzyste, ul. Grąbczowska bez 13 i 13B, ul. Templińska 29, 34, 36, ul. Bukowska 372, ul. Moryńska bez 12.",
+      "id": "26e88f4e543bfa4263b2d288a4d84185"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Templińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4097315,
+      "lon": 16.8277511,
+      "start_time": "2026-02-16T08:30:00",
+      "end_time": "2026-02-16T11:30:00",
+      "original_description": "Poznań: ul. Ławica 9, 9A, od 4 do 20 parzyste, ul. Grąbczowska bez 13 i 13B, ul. Templińska 29, 34, 36, ul. Bukowska 372, ul. Moryńska bez 12.",
+      "id": "7c97f2838b87e6242e68b47c9555b38f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ławica, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4112414,
+      "lon": 16.8253002,
+      "start_time": "2026-02-16T08:30:00",
+      "end_time": "2026-02-16T11:30:00",
+      "original_description": "Poznań: ul. Ławica 9, 9A, od 4 do 20 parzyste, ul. Grąbczowska bez 13 i 13B, ul. Templińska 29, 34, 36, ul. Bukowska 372, ul. Moryńska bez 12.",
+      "id": "9a073473c6321498cad643ac79d37da2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-02-17T08:00:00",
+      "end_time": "2026-02-17T14:00:00",
+      "original_description": "Poznań: os. Przyjaźni 6, 7, 8, 9, 128.",
+      "id": "61e7236d81e88ee28087accb348ff10d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głowicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-182, Polska",
+      "lat": 52.4058093,
+      "lon": 16.8222775,
+      "start_time": "2026-02-17T08:30:00",
+      "end_time": "2026-02-17T12:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza bez 52, 56, 47 i 47A.",
+      "id": "8d15bb18377e2424af8bbc11a14771ea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "2026-02-17T08:30:00",
+      "end_time": "2026-02-17T12:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza bez 52, 56, 47 i 47A.",
+      "id": "c5f1261c74cff92a20a81df66947785e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ignacego Paderewskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.407834,
+      "lon": 16.931121,
+      "start_time": "2026-02-19T08:00:00",
+      "end_time": "2026-02-19T13:00:00",
+      "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
+      "id": "929e7608be55543c2f29c770922a7103"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kozia, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.4072732,
+      "lon": 16.9308082,
+      "start_time": "2026-02-19T08:00:00",
+      "end_time": "2026-02-19T13:00:00",
+      "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
+      "id": "1529b09236899b4fcc5aa1f88bbe8d9a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sieroca, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-768, Polska",
+      "lat": 52.4081233,
+      "lon": 16.9317841,
+      "start_time": "2026-02-19T08:00:00",
+      "end_time": "2026-02-19T13:00:00",
+      "original_description": "Poznań: ul. Kozia 15, ul. Sieroca 2, 7, ul. Paderewskiego 3/5.",
+      "id": "605f084657f5ff38bbd9385ef2c10554"
+    }
+  ]
+}
