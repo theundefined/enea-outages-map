@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-04T07:53:18.402940+00:00",
+  "last_update": "2026-02-04T08:37:11.747010+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1050,6 +1050,506 @@
       "end_time": "2026-03-02T15:30:00",
       "original_description": "Poznań: os. Piastowskie 116, 116A, garaże.",
       "id": "2ba3c03abbd213193db6d3f2a9a31caa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "ed6ac03ca6736123c143709bdd677a6d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "252c8f5e6b34d5c56ff050d3e156527b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "607e0ce0c41ca0c10df3eb1519336058"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3685248,
+      "lon": 16.8930113,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "08631832c3acd74c7f223af6358aa630"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jabłonkowska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-435, Polska",
+      "lat": 52.366366,
+      "lon": 16.8994513,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "7d94cd371c23e680193a8a8758f3741c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "b6522e0072c0bdb35dae187b7b247ffc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "63a0cd1572cf1bd557eb69ebb862b07b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Modrzewiowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3701225,
+      "lon": 16.8958809,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "68db01a8ff9eb3b76dc12f52a2860031"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:00:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska.",
+      "id": "0540064cdf12b2af19d42d30d10f25c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ananasowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4646348,
+      "lon": 16.9493593,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "78d937551cbe2461f2881c2eab3f50d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Azaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-443, Polska",
+      "lat": 52.3638663,
+      "lon": 16.9062508,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "53e8dfe4f8366e9c65aca23a7d9e8fbd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Krzywoustego, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-208, Polska",
+      "lat": 52.3911432,
+      "lon": 16.9639046,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "6556044bc0db8de8ace6dc5d75c3fe57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bratkowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3800811,
+      "lon": 16.8150299,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "8b2e1e5b9c3bfab048369fe0c5c616f1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "4de548716c8b5c36ce902351b6828d3a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "5ec03bc822f755ba89819c4cb138889b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fiołkowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3747467,
+      "lon": 16.9076006,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "436b0d1cfab05d88da4a608fb82690ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Frezjowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3850327,
+      "lon": 16.8274234,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "5fa70fa546a226984051485393ea5ab4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gruszowa, Skórzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3840892,
+      "lon": 16.8014938,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "e3340bb9036cb4524e0c9b9b74f7db1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaworowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-456, Polska",
+      "lat": 52.3685529,
+      "lon": 16.9050344,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "4179d001db0248c1118a32fb841626ae"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeziorna, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3190516,
+      "lon": 16.8063421,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "409306901b2153931ac42d5f228a4fa6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "e42dd122827290844a31d3c12d2fcd27"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konwaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705079,
+      "lon": 16.9136939,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "ec0d751dc11b900d02d5ad5b1fdcd316"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "0ab9d8e4bfbbc6157a0a75f18fd39182"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "c89dbd50d92434afc01e3a98a68c5e0f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "c4135aed460e0979656e3c77089716a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "1960609994258a7b9c4157aa86a8216e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mieszka I, Probostwo, Pobiedziska, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-010, Polska",
+      "lat": 52.4702917,
+      "lon": 17.2781139,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "ec46758c19bf31fed8275bec9e59ef19"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Narcyzowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3877625,
+      "lon": 16.8106357,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "8217e5704286669e7b95cf29769b58b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "ab563c91530fc0c5740e29bcbb585511"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4537561,
+      "lon": 16.913691,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "9f72f075c7e65c929adcae2adaa70d32"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Władysława Łokietka, Naramowice, Poznań, województwo wielkopolskie, 61-610, Polska",
+      "lat": 52.4503992,
+      "lon": 16.9413914,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "34cfe2f5ec82339d45f8627a904d4b45"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Zygmunta Starego, Piątkowo, Poznań, województwo wielkopolskie, 60-684, Polska",
+      "lat": 52.459678,
+      "lon": 16.9124296,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "decaea7af0cb85dc5ed09db833718d7f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pofam-Poznań, 11, Karola Szymanowskiego, Kolonia Robotnicza, Ostrowiec Świętokrzyski, powiat ostrowiecki, województwo świętokrzyskie, 27-400, Polska",
+      "lat": 50.9527895,
+      "lon": 21.3611577,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "fd1b32a411e618fa0de35497d52c842b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "297bc3a9f11636e8df3878d91cf7c4b0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pomarańczowa, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4633699,
+      "lon": 16.953423,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "87535f8189919c648cd3d03c51b34dc2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "dcbae4d7b34e2b83238d884cd5f854bc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "82523bf686e1642b47beb0dd297f0490"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "6991c174ea637b1a92a68f4063a5fd6d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sokolnicka, Paczkowo, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-021, Polska",
+      "lat": 52.405427,
+      "lon": 17.1650617,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "4277ffbcc4f265b7faf3f6a72160be7f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "1a69100f707e9abfe9955ff9f6c12783"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Batorego, Stary Luboń, Luboń, powiat poznański, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.346361,
+      "lon": 16.8924418,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "007a3de0ffc0dec88163a77393095110"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stokrotkowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3827642,
+      "lon": 16.8263654,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "4a0d43d387535d53a74c0bb05eddda0c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "b39f46c09116535d5266385bf47ac322"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "fb51814138441b61e289e17257925464"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "226cbe40f695152e3bcbba8225720ebe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tulipanowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3876508,
+      "lon": 16.8142466,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "90027a69096ce38aa81915b342073806"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "5e1f0e2d0b2533faed0ed7b56e553475"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wjazdowa, Kamińsko, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5391065,
+      "lon": 17.0535178,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "10f986652dd9c956066e10dfe863165c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "82ab1f11204c6e7ed5c2e5d008ae9e8a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętego Walentego, Kostrzyn, gmina Kostrzyn, powiat poznański, województwo wielkopolskie, 62-025, Polska",
+      "lat": 52.4059339,
+      "lon": 17.2055319,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T11:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
+      "id": "0e49c35271bee1d1974a073a182f09f2"
     }
   ]
 }
