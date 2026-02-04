@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-04T22:58:15.880843+00:00",
+  "last_update": "2026-02-04T23:33:37.474621+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1710,6 +1710,76 @@
       "end_time": "2026-02-04T14:30:00",
       "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
       "id": "825ace4ccd1ce1fd8fef5b8c846575c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzask, Świt, Grunwald Północ, Poznań, województwo wielkopolskie, 60-369, Polska",
+      "lat": 52.4068859,
+      "lon": 16.8786714,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T02:30:00",
+      "original_description": "Poznań ul. Brzask, ul. Grochowska, ul. Jesienna, ul. Modra, ul. Płomienna, ul. Poranek, ul. Swoboda.",
+      "id": "becd41e1646ba8511914325c29eeac36"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowska, Raszyn, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-277, Polska",
+      "lat": 52.3948481,
+      "lon": 16.8832358,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T02:30:00",
+      "original_description": "Poznań ul. Brzask, ul. Grochowska, ul. Jesienna, ul. Modra, ul. Płomienna, ul. Poranek, ul. Swoboda.",
+      "id": "dbfc5c0631b774f9775bc8eb34724c10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesienna, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-376, Polska",
+      "lat": 52.4079912,
+      "lon": 16.8752835,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T02:30:00",
+      "original_description": "Poznań ul. Brzask, ul. Grochowska, ul. Jesienna, ul. Modra, ul. Płomienna, ul. Poranek, ul. Swoboda.",
+      "id": "82df878cd672ea0c43bf0f1f588c0183"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Modra, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-376, Polska",
+      "lat": 52.4093238,
+      "lon": 16.8742082,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T02:30:00",
+      "original_description": "Poznań ul. Brzask, ul. Grochowska, ul. Jesienna, ul. Modra, ul. Płomienna, ul. Poranek, ul. Swoboda.",
+      "id": "dfd876a9bf019ec8e41cf5a0531bf47c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poranek, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-389, Polska",
+      "lat": 52.4062095,
+      "lon": 16.8741957,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T02:30:00",
+      "original_description": "Poznań ul. Brzask, ul. Grochowska, ul. Jesienna, ul. Modra, ul. Płomienna, ul. Poranek, ul. Swoboda.",
+      "id": "cbdaedcb01678181c628e17a5e53714e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Płomienna, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-391, Polska",
+      "lat": 52.4095389,
+      "lon": 16.8717013,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T02:30:00",
+      "original_description": "Poznań ul. Brzask, ul. Grochowska, ul. Jesienna, ul. Modra, ul. Płomienna, ul. Poranek, ul. Swoboda.",
+      "id": "4721f5ee075ec03ce421b13d7faac0cd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Swoboda, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-398, Polska",
+      "lat": 52.4106594,
+      "lon": 16.8728051,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T02:30:00",
+      "original_description": "Poznań ul. Brzask, ul. Grochowska, ul. Jesienna, ul. Modra, ul. Płomienna, ul. Poranek, ul. Swoboda.",
+      "id": "96097ace13e60b7dc9a6e4b7191e1df8"
     }
   ]
 }
