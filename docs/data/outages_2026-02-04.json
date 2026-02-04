@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-04T10:58:45.430955+00:00",
+  "last_update": "2026-02-04T11:38:41.272189+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1630,6 +1630,86 @@
       "end_time": "2026-02-04T11:30:00",
       "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa, ul. Bratkowa, ul. Konwaliowa, ul. ks.kanonika Kazimierza Wencla, ul. Malwowa, ul. Powstańców Wielkopolskich, ul. Różana, ul. Topolowa, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa, ul. Dworcowa, ul. Jaworowa, ul. Jeziorna, ul. Klonowa, ul. ks.kanonika Kazimierza Wencla, ul. Lipowa, ul. Malwowa, ul. Nowa, ul. Poznańska, ul. Robotnicza, ul. Szamotulska, ul. Topolowa, ul. Wierzbowa, Brodziszewo ul. Kopanińska, ul. Leśna, ul. Lipowa, ul. Łąkowa, ul. Polna, ul. Sokolnicka, ul. Szamotulska, ul. Szkolna, ul. Wjazdowa, Emilianowo, Gałowo ul. Azaliowa, ul. Bratkowa, ul. Czereśniowa, ul. Fiołkowa, ul. Frezjowa, ul. Gruszowa, ul. Kwiatowa, ul. Narcyzowa, ul. Różana, ul. Sportowa, ul. Stokrotkowa, ul. Szamotulska, ul. Topolowa, ul. Tulipanowa, ul. Wierzbowa, Jastrowo ul. Ananasowa, ul. Pomarańczowa, ul. Szamotulska, ul. Świętego Walentego, ul. Wernisażowa, Ostrolesie ul. Świętego Walentego, Kępa ul. Lipowa, Szamotuły ul. Bolesława Chrobrego, ul. Bolesława Krzywoustego, ul. Lipowa, ul. Mieszka I, ul. Stefana Batorego, ul. Szkolna, ul. Władysława Łokietka, ul. Władysława Warneńczyka, ul. Zygmunta Starego.",
       "id": "0e49c35271bee1d1974a073a182f09f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
+      "id": "dcc07b609e8139e7605fc11116d6f769"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
+      "id": "414179dde59ad453ad4aaee7c18cf1a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśnowolska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4341926,
+      "lon": 16.8223926,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
+      "id": "2d22351cb651058fbfe6c82da4af8bea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4340298,
+      "lon": 16.8207202,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
+      "id": "bb862c061aa674b1d3eb2bb239c8dead"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Meliorantów, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4302803,
+      "lon": 16.8222668,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
+      "id": "0549b833aafe23be8b96a4e77fab275a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pniewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4287754,
+      "lon": 16.8235245,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
+      "id": "0e7c462b6ab4f752786497bfc2deddbe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
+      "id": "256e680a45ae7e6504899829ce364494"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wejherowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4310885,
+      "lon": 16.8275401,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-04T14:30:00",
+      "original_description": "Poznań ul. Darłowska, ul. Jana Henryka Dąbrowskiego, ul. Leśnowolska, ul. Malborska, ul. Meliorantów, ul. Pniewska, ul. Sianowska, ul. Wejherowska.",
+      "id": "825ace4ccd1ce1fd8fef5b8c846575c4"
     }
   ]
 }
