@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-05T17:34:59.669787+00:00",
+  "last_update": "2026-02-05T18:29:08.355265+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1250,6 +1250,36 @@
       "end_time": "2026-02-05T15:00:00",
       "original_description": "Plewiska ul. Azaliowa, ul. Chlebowa, ul. Czarna Droga, ul. Fabianowska, ul. Garncarska, ul. Grunwaldzka, ul. Jesienna, ul. Kolejowa, ul. Krokusowa, ul. Młyńska, ul. Nadrzeczna, ul. Poranna, ul. Przewozowa, ul. Rzemieślnicza, ul. Sasankowa, ul. Szkolna, ul. Wąska, ul. Wiosenna, ul. Wrzosowa, ul. Zimowa, Poznań ul. Sycowska.",
       "id": "00cd1f40a636dbe72200f39d4f1f334a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T21:30:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska, ul. Towarowa.",
+      "id": "f31019d9dbe8b6636a5fe40dfc06a07a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T21:30:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska, ul. Towarowa.",
+      "id": "dd80156469d2b9786f108e2929f4cebc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Matyi, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.4017068,
+      "lon": 16.9206037,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-05T21:30:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska, ul. Towarowa.",
+      "id": "97793fa023bd49898d47039ffaa990c1"
     }
   ]
 }
