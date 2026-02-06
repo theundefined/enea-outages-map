@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-06T11:19:05.458225+00:00",
+  "last_update": "2026-02-06T11:50:23.363071+00:00",
   "outages": [
     {
       "type": "planned",
@@ -160,6 +160,36 @@
       "end_time": "2026-02-10T11:30:00",
       "original_description": "Poznań: ul. Bułgarska od 6 do 18 parzyste, od 34 do 64 parzyste, ul. Trybunalska 27.",
       "id": "5c83abedb4fbdc2bbe0668f70b3ca964"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grodnicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.415454,
+      "lon": 17.0461251,
+      "start_time": "2026-02-11T08:00:00",
+      "end_time": "2026-02-11T13:00:00",
+      "original_description": "Poznań: ul. Warpińska od 26 do 40 parzyste, od 25 do 35 nieparzyste, ul. Grodnicka od 2 do 22 nieparzyste, ul. Starkowska 25-27, od 22 do 28 parzyste.",
+      "id": "7041b125f1305deead8f19b0176331a9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Starkowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4136932,
+      "lon": 17.0468837,
+      "start_time": "2026-02-11T08:00:00",
+      "end_time": "2026-02-11T13:00:00",
+      "original_description": "Poznań: ul. Warpińska od 26 do 40 parzyste, od 25 do 35 nieparzyste, ul. Grodnicka od 2 do 22 nieparzyste, ul. Starkowska 25-27, od 22 do 28 parzyste.",
+      "id": "3f5e17bb891454ad351a329af86d18d6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Warpińska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4133838,
+      "lon": 17.0481825,
+      "start_time": "2026-02-11T08:00:00",
+      "end_time": "2026-02-11T13:00:00",
+      "original_description": "Poznań: ul. Warpińska od 26 do 40 parzyste, od 25 do 35 nieparzyste, ul. Grodnicka od 2 do 22 nieparzyste, ul. Starkowska 25-27, od 22 do 28 parzyste.",
+      "id": "91609e5d707e4ac0916654a12883eb93"
     },
     {
       "type": "planned",
@@ -1000,6 +1030,86 @@
       "end_time": "2026-02-06T13:30:00",
       "original_description": "Nowe Miasto nad Wartą ul. Poznańska.",
       "id": "ca592af1ffbe5114955c74ac2ad40fe1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cedzyńska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-005, Polska",
+      "lat": 52.3667679,
+      "lon": 16.8489866,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T15:00:00",
+      "original_description": "Poznań ul. Cedzyńska, ul. Fabianowo, ul. Kowalewicka, ul. Pobielska, ul. Radyńska, ul. Sycowska, ul. Trzebińska, ul. Wojnowicka.",
+      "id": "9ec030821e075bbb31357eeac7df8949"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3680729,
+      "lon": 16.8470077,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T15:00:00",
+      "original_description": "Poznań ul. Cedzyńska, ul. Fabianowo, ul. Kowalewicka, ul. Pobielska, ul. Radyńska, ul. Sycowska, ul. Trzebińska, ul. Wojnowicka.",
+      "id": "84cea2d56d46dd1afd2030e225c515c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kowalewicka, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-005, Polska",
+      "lat": 52.3671701,
+      "lon": 16.8468384,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T15:00:00",
+      "original_description": "Poznań ul. Cedzyńska, ul. Fabianowo, ul. Kowalewicka, ul. Pobielska, ul. Radyńska, ul. Sycowska, ul. Trzebińska, ul. Wojnowicka.",
+      "id": "9d742902158709e78f964a19cf2206f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pobielska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.3674177,
+      "lon": 16.8439092,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T15:00:00",
+      "original_description": "Poznań ul. Cedzyńska, ul. Fabianowo, ul. Kowalewicka, ul. Pobielska, ul. Radyńska, ul. Sycowska, ul. Trzebińska, ul. Wojnowicka.",
+      "id": "6261fae3cba0abf929ffc290029c104e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radyńska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-002, Polska",
+      "lat": 52.3667167,
+      "lon": 16.8446956,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T15:00:00",
+      "original_description": "Poznań ul. Cedzyńska, ul. Fabianowo, ul. Kowalewicka, ul. Pobielska, ul. Radyńska, ul. Sycowska, ul. Trzebińska, ul. Wojnowicka.",
+      "id": "a1f8bd6f687e1d85aeb3c38f9a3597f8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sycowska, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-004, Polska",
+      "lat": 52.3601806,
+      "lon": 16.8354639,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T15:00:00",
+      "original_description": "Poznań ul. Cedzyńska, ul. Fabianowo, ul. Kowalewicka, ul. Pobielska, ul. Radyńska, ul. Sycowska, ul. Trzebińska, ul. Wojnowicka.",
+      "id": "b963d53315d572e82d3f17ddb2badbcb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trzebińska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.3668445,
+      "lon": 16.8352775,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T15:00:00",
+      "original_description": "Poznań ul. Cedzyńska, ul. Fabianowo, ul. Kowalewicka, ul. Pobielska, ul. Radyńska, ul. Sycowska, ul. Trzebińska, ul. Wojnowicka.",
+      "id": "c5dcb5f782e0e5a091b167d8aeb38998"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojnowicka, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-002, Polska",
+      "lat": 52.3660607,
+      "lon": 16.8466118,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T15:00:00",
+      "original_description": "Poznań ul. Cedzyńska, ul. Fabianowo, ul. Kowalewicka, ul. Pobielska, ul. Radyńska, ul. Sycowska, ul. Trzebińska, ul. Wojnowicka.",
+      "id": "c2f8d656a5f47fb1f5adf15da7477207"
     }
   ]
 }
