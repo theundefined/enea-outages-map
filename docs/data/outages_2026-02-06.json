@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-06T17:10:41.559690+00:00",
+  "last_update": "2026-02-06T18:01:04.954173+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1450,6 +1450,36 @@
       "end_time": "2026-02-06T19:00:00",
       "original_description": "Piaskowo ul. ks.kanonika Kazimierza Wencla, Ostroróg ul. ks.kanonika Kazimierza Wencla, ul. Poznańska.",
       "id": "d3660746cc51696651b7519b88ae4d54"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T20:30:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska, ul. Towarowa.",
+      "id": "15dcd96b8172958149f06d9706c130ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T20:30:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska, ul. Towarowa.",
+      "id": "318fba431258d729bc513b1184a9b34b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Matyi, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.4017068,
+      "lon": 16.9206037,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T20:30:00",
+      "original_description": "Gądki ul. Leśna, ul. Poznańska, ul. Towarowa.",
+      "id": "0155bcb4a0c23f5c33b98c3f96c7148e"
     }
   ]
 }
