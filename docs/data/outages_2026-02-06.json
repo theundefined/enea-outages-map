@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-06T04:12:48.747056+00:00",
+  "last_update": "2026-02-06T05:31:38.175975+00:00",
   "outages": [
     {
       "type": "planned",
@@ -870,6 +870,46 @@
       "end_time": "2026-03-02T15:30:00",
       "original_description": "Poznań: os. Piastowskie 116, 116A, garaże.",
       "id": "2ba3c03abbd213193db6d3f2a9a31caa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Spychalskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-542, Polska",
+      "lat": 52.3949671,
+      "lon": 16.9183069,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T08:00:00",
+      "original_description": "Poznań ul. Jana Spychalskiego, ul. Jana Żupańskiego, ul. Przemysłowa, ul. Wierzbięcice.",
+      "id": "da6f72436a1ee005ff7d2bb6c75f4204"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Żupańskiego, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-568, Polska",
+      "lat": 52.3962152,
+      "lon": 16.921614,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T08:00:00",
+      "original_description": "Poznań ul. Jana Spychalskiego, ul. Jana Żupańskiego, ul. Przemysłowa, ul. Wierzbięcice.",
+      "id": "4f56a5aecb061c8f2bd2b8a3b38013f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przemysłowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-581, Polska",
+      "lat": 52.400503,
+      "lon": 16.9184599,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T08:00:00",
+      "original_description": "Poznań ul. Jana Spychalskiego, ul. Jana Żupańskiego, ul. Przemysłowa, ul. Wierzbięcice.",
+      "id": "0694e13d257f011aff0f7bd116e2ee72"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-579, Polska",
+      "lat": 52.3978524,
+      "lon": 16.9190897,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T08:00:00",
+      "original_description": "Poznań ul. Jana Spychalskiego, ul. Jana Żupańskiego, ul. Przemysłowa, ul. Wierzbięcice.",
+      "id": "a9e3e95010e016b179769e3667a43c2c"
     }
   ]
 }
