@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-06T05:31:38.175975+00:00",
+  "last_update": "2026-02-06T06:31:05.914415+00:00",
   "outages": [
     {
       "type": "planned",
@@ -830,6 +830,86 @@
       "end_time": "2026-02-19T11:30:00",
       "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
       "id": "461ccbb80fefa3e7c8432671ef5e6fac"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ignacego Dobrogojskiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-692, Polska",
+      "lat": 52.4399873,
+      "lon": 16.9155373,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T10:30:00",
+      "original_description": "Poznań: ul. Zakrzewskiego od 6 do 14 parzyste, 7, 9, 11, 15, ul. Przyłuskiego 18, ul. Dobrzyckiego od 9 do 33, ul. Dobrogojskiego 18, 20.",
+      "id": "d156138b1847b8e815214a5b2366f555"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krzysztofa Żegockiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4400545,
+      "lon": 16.916974,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T10:30:00",
+      "original_description": "Poznań: ul. Siewna 15, ul. Lechicka od 52 do 64 parzyste, 61, 63, 85, Laser Tag Poznań (Fort Va), ul. Księcia Mieszka I (przepompownia wód deszczowych), ul. Żegockiego od 1 do 30.",
+      "id": "562a46e05a1f53915c8e9f05526d8a40"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ksawerego Zakrzewskiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-692, Polska",
+      "lat": 52.4401689,
+      "lon": 16.9145965,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T10:30:00",
+      "original_description": "Poznań: ul. Zakrzewskiego od 6 do 14 parzyste, 7, 9, 11, 15, ul. Przyłuskiego 18, ul. Dobrzyckiego od 9 do 33, ul. Dobrogojskiego 18, 20.",
+      "id": "14a5487dcb719a55b293226be0455dd0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lechicka, Piątkowo, Poznań, województwo wielkopolskie, 61-692, Polska",
+      "lat": 52.4431229,
+      "lon": 16.9119921,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T10:30:00",
+      "original_description": "Poznań: ul. Siewna 15, ul. Lechicka od 52 do 64 parzyste, 61, 63, 85, Laser Tag Poznań (Fort Va), ul. Księcia Mieszka I (przepompownia wód deszczowych), ul. Żegockiego od 1 do 30.",
+      "id": "292d9ba76a4aad1a232dd4d6ffefa7d0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mikołaja Dobrzyckiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-692, Polska",
+      "lat": 52.4399592,
+      "lon": 16.9140713,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T10:30:00",
+      "original_description": "Poznań: ul. Zakrzewskiego od 6 do 14 parzyste, 7, 9, 11, 15, ul. Przyłuskiego 18, ul. Dobrzyckiego od 9 do 33, ul. Dobrogojskiego 18, 20.",
+      "id": "2c2defabf764b4b10a49ad4d476d6b1d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rodzinny Ogród Działkowy im. ks. Leona Przyłuskiego, Sołacz, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4372687,
+      "lon": 16.8975654,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T10:30:00",
+      "original_description": "Poznań: ul. Zakrzewskiego od 6 do 14 parzyste, 7, 9, 11, 15, ul. Przyłuskiego 18, ul. Dobrzyckiego od 9 do 33, ul. Dobrogojskiego 18, 20.",
+      "id": "6db669ffde760b90dfc3c588912d3df9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Siewna, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4418259,
+      "lon": 16.9151016,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T10:30:00",
+      "original_description": "Poznań: ul. Siewna 15, ul. Lechicka od 52 do 64 parzyste, 61, 63, 85, Laser Tag Poznań (Fort Va), ul. Księcia Mieszka I (przepompownia wód deszczowych), ul. Żegockiego od 1 do 30.",
+      "id": "4c9d3530b22482044ea3048a9fcfa6b6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wielka Spluwa Laser Tag, 28, Święty Wojciech, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-749, Polska",
+      "lat": 52.4121788,
+      "lon": 16.9335397,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T10:30:00",
+      "original_description": "Poznań: ul. Siewna 15, ul. Lechicka od 52 do 64 parzyste, 61, 63, 85, Laser Tag Poznań (Fort Va), ul. Księcia Mieszka I (przepompownia wód deszczowych), ul. Żegockiego od 1 do 30.",
+      "id": "0ba3138c815816d9edc2f139e11efed4"
     },
     {
       "type": "planned",
