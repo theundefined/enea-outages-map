@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-06T15:37:03.407659+00:00",
+  "last_update": "2026-02-06T16:22:52.164179+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1440,6 +1440,16 @@
       "end_time": "2026-02-06T18:00:00",
       "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
       "id": "01fa2bfa42c9d82982a643d66999563a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-06T19:00:00",
+      "original_description": "Piaskowo ul. ks.kanonika Kazimierza Wencla, Ostroróg ul. ks.kanonika Kazimierza Wencla, ul. Poznańska.",
+      "id": "d3660746cc51696651b7519b88ae4d54"
     }
   ]
 }
