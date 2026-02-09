@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-09T14:41:31.542690+00:00",
+  "last_update": "2026-02-09T15:39:14.367332+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1000,6 +1000,46 @@
       "end_time": "2026-02-09T16:00:00",
       "original_description": "Poznań ul. Bolesława Leśmiana, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Leopolda Staffa.",
       "id": "6c2a867da953f385feb877ebe9270bad"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Leśmiana, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-197, Polska",
+      "lat": 52.4101166,
+      "lon": 16.8528921,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-09T17:30:00",
+      "original_description": "Poznań ul. Bolesława Leśmiana, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Leopolda Staffa.",
+      "id": "025034ecbda042d6a2648f150f9aa463"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konstantego Ildefonsa Gałczyńskiego, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4083649,
+      "lon": 16.8521258,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-09T17:30:00",
+      "original_description": "Poznań ul. Bolesława Leśmiana, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Leopolda Staffa.",
+      "id": "0bf0fd751d2ea23454ccf3813887ba68"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krzysztofa Kamila Baczyńskiego, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-197, Polska",
+      "lat": 52.4095432,
+      "lon": 16.8523302,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-09T17:30:00",
+      "original_description": "Poznań ul. Bolesława Leśmiana, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Leopolda Staffa.",
+      "id": "5d39c20045af97c72358d015ae46f655"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leopolda Staffa, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4076239,
+      "lon": 16.8533421,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-09T17:30:00",
+      "original_description": "Poznań ul. Bolesława Leśmiana, ul. Konstantego Ildefonsa Gałczyńskiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Leopolda Staffa.",
+      "id": "24772b7e56e2832da12875cd4bb7d1fc"
     }
   ]
 }
