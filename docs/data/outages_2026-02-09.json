@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-09T06:40:41.359175+00:00",
+  "last_update": "2026-02-09T07:43:34.631702+00:00",
   "outages": [
     {
       "type": "planned",
@@ -930,6 +930,26 @@
       "end_time": "2026-02-23T10:30:00",
       "original_description": "Poznań: ul. Śmigi od 33 do 45 nieparzyste, ul. Rakietowa, ul. Skrzydlata.",
       "id": "c058fd0f13dc0adada01b249deda6dc0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4795026,
+      "lon": 16.9188663,
+      "start_time": "2026-02-26T08:30:00",
+      "end_time": "2026-02-26T11:00:00",
+      "original_description": "Poznań: ul. Huby Moraskie 20, 22, 24, 25, 26, 27, 29, 31, ul. Rumiankowa 132, 134, dz. 295/6.",
+      "id": "db90fc78098a2885a03594251c3313ac"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "2026-02-26T08:30:00",
+      "end_time": "2026-02-26T11:00:00",
+      "original_description": "Poznań: ul. Huby Moraskie 20, 22, 24, 25, 26, 27, 29, 31, ul. Rumiankowa 132, 134, dz. 295/6.",
+      "id": "85cf9a1eecba152acdf4117c6ebf4959"
     },
     {
       "type": "planned",
