@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-10T12:01:19.959814+00:00",
+  "last_update": "2026-02-10T13:49:39.132432+00:00",
   "outages": [
     {
       "type": "planned",
@@ -523,6 +523,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Dobrepole, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.345898,
+      "lon": 17.0243916,
+      "start_time": "2026-02-17T08:00:00",
+      "end_time": "2026-02-17T20:00:00",
+      "original_description": "Poznań: ul. Gospodarska 24, cmentarz, ul. Dobrepole od 28 do 50 parzyste, od 23 do 39 nieparzyste.",
+      "id": "93f57246fa5751a67c456031d0d71f8b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gospodarska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3543871,
+      "lon": 17.0276859,
+      "start_time": "2026-02-17T08:00:00",
+      "end_time": "2026-02-17T20:00:00",
+      "original_description": "Poznań: ul. Gospodarska 24, cmentarz, ul. Dobrepole od 28 do 50 parzyste, od 23 do 39 nieparzyste.",
+      "id": "778dfae6893a9df8c2a0437c4c17af1f"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Głowicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-182, Polska",
       "lat": 52.4058093,
       "lon": 16.8222775,
@@ -743,6 +763,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Generała Tadeusza Kutrzeby, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-718, Polska",
+      "lat": 52.4152239,
+      "lon": 16.9317635,
+      "start_time": "2026-02-19T08:00:00",
+      "end_time": "2026-02-19T14:00:00",
+      "original_description": "Poznań: ul. Kutrzeby dz. 62/4 stacja telefonii komórkowej.",
+      "id": "ffc6054bd922511ee75ce68a493d341a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-02-19T08:00:00",
+      "end_time": "2026-02-19T14:00:00",
+      "original_description": "Poznań: ul. Piątkowska dz. 17/5.",
+      "id": "8b300e051dd24bd57a78b7f7db60420f"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Junikowska, Junikowo, Poznań, województwo wielkopolskie, 60-164, Polska",
       "lat": 52.38356,
       "lon": 16.8475804,
@@ -860,6 +900,16 @@
       "end_time": "2026-02-20T10:30:00",
       "original_description": "Poznań: ul. Siewna 15, ul. Lechicka od 52 do 64 parzyste, 61, 63, 85, Laser Tag Poznań (Fort Va), ul. Księcia Mieszka I (przepompownia wód deszczowych), ul. Żegockiego od 1 do 30.",
       "id": "0ba3138c815816d9edc2f139e11efed4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nad Różanym Potokiem, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4691098,
+      "lon": 16.9140204,
+      "start_time": "2026-02-20T08:30:00",
+      "end_time": "2026-02-20T12:00:00",
+      "original_description": "Poznań: ul. Nad Różanym Potokiem dz. 71/147 stacja GSM.",
+      "id": "e4b99190c1d27cc7246369491882d140"
     },
     {
       "type": "planned",
