@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-11T10:07:02.226040+00:00",
+  "last_update": "2026-02-11T11:06:39.971802+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1100,6 +1100,56 @@
       "end_time": "2026-03-03T15:00:00",
       "original_description": "Kicin: ul. Poznańska 91.\nKliny: ul. Cicha dz. 91/1.",
       "id": "5c42481fdd1e160dcde7c35308f26215"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stobnicka, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4569424,
+      "lon": 16.8160274,
+      "start_time": "2026-03-03T10:00:00",
+      "end_time": "2026-03-03T14:00:00",
+      "original_description": "Poznań: ul. Stobnicka od 31 do 99 nieparzyste.",
+      "id": "f5ba7abf6770c9f8315b03b9f001c7da"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "2026-03-04T08:30:00",
+      "end_time": "2026-03-04T15:30:00",
+      "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
+      "id": "29e424801a1d1329db588279007ddac0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głogowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3685248,
+      "lon": 16.8930113,
+      "start_time": "2026-03-04T08:30:00",
+      "end_time": "2026-03-04T15:30:00",
+      "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
+      "id": "fcfa2cb7caebeafeea0956b2166348cb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "2026-03-04T08:30:00",
+      "end_time": "2026-03-04T15:30:00",
+      "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
+      "id": "361e07f4af6b397fe013df43bcf72dd7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "2026-03-04T08:30:00",
+      "end_time": "2026-03-04T15:30:00",
+      "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
+      "id": "e1bfd79db12a0b4bffa13339ab8777c1"
     }
   ]
 }
