@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-11T22:47:43.289083+00:00",
+  "last_update": "2026-02-11T23:17:56.799943+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1180,6 +1180,36 @@
       "end_time": "2026-03-04T15:30:00",
       "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
       "id": "e1bfd79db12a0b4bffa13339ab8777c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dezyderego Chłapowskiego, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-503, Polska",
+      "lat": 52.3879755,
+      "lon": 16.9195456,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-12T02:30:00",
+      "original_description": "Poznań ul. Dąbrówki, ul. Dezyderego Chłapowskiego, ul. Zmartwychwstańców.",
+      "id": "09916e5ed0578ca52a10df5553570b56"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-12T02:30:00",
+      "original_description": "Poznań ul. Dąbrówki, ul. Dezyderego Chłapowskiego, ul. Zmartwychwstańców.",
+      "id": "ac4547e62376c5799c794233f7802b23"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zmartwychwstańców, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3873521,
+      "lon": 16.9216205,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-12T02:30:00",
+      "original_description": "Poznań ul. Dąbrówki, ul. Dezyderego Chłapowskiego, ul. Zmartwychwstańców.",
+      "id": "c61fd26e657099f93bbb36d7dd439d93"
     }
   ]
 }
