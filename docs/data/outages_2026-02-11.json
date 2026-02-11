@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-11T11:06:39.971802+00:00",
+  "last_update": "2026-02-11T11:55:18.019846+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1103,6 +1103,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Smoka Wawelskiego, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4055954,
+      "lon": 16.8357424,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T15:30:00",
+      "original_description": "Poznań: ul. Wawelskiego 22, 24, 24A.",
+      "id": "91c4ed0bba5e00338140bf5f9a8b3f7a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Spacerowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.465908,
+      "lon": 16.7941901,
+      "start_time": "2026-03-03T10:00:00",
+      "end_time": "2026-03-03T14:00:00",
+      "original_description": "Poznań: ul. Spacerowa, ul. Uzdrowiskowa 2.",
+      "id": "6af206ce804832aecfc1caaba8a77ec8"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Stobnicka, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 61-480, Polska",
       "lat": 52.4569424,
       "lon": 16.8160274,
@@ -1110,6 +1130,16 @@
       "end_time": "2026-03-03T14:00:00",
       "original_description": "Poznań: ul. Stobnicka od 31 do 99 nieparzyste.",
       "id": "f5ba7abf6770c9f8315b03b9f001c7da"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Uzdrowiskowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4640332,
+      "lon": 16.7977946,
+      "start_time": "2026-03-03T10:00:00",
+      "end_time": "2026-03-03T14:00:00",
+      "original_description": "Poznań: ul. Spacerowa, ul. Uzdrowiskowa 2.",
+      "id": "1590901411bf7be3c0d461f16e856a1c"
     },
     {
       "type": "planned",
