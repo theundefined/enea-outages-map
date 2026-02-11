@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-11T07:31:58.531293+00:00",
+  "last_update": "2026-02-11T08:08:28.199982+00:00",
   "outages": [
     {
       "type": "planned",
@@ -900,6 +900,66 @@
       "end_time": "2026-02-24T11:30:00",
       "original_description": "Poznań: ul. Odległa, ul. Kopanina 103, ul. Gubińska 10, dz. 29/1, ul. Wągrowiecka dz. 33.",
       "id": "efe967f045c72eab988e34461bf7dfce"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rewalska, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-466, Polska",
+      "lat": 52.4561006,
+      "lon": 16.8738664,
+      "start_time": "2026-02-25T08:30:00",
+      "end_time": "2026-02-25T12:30:00",
+      "original_description": "Poznań ul. Żegiestowska 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zakopiańska 167, 169, ul. Szczawnicka 100, 102, 110, ul. Tylicka 5, ul. Węgorzewska 1, 10, 10A, 11, 12, 13, 14 A, 17, 21/23, 3, 4, 6, 8, 9, ul. Rewalska 10, 11, 11A, 13, 15, 2, 3, 5, 7, 9",
+      "id": "e0a5778c20963d145fdbf1162ebd3390"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "2026-02-25T08:30:00",
+      "end_time": "2026-02-25T12:30:00",
+      "original_description": "Poznań ul. Żegiestowska 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zakopiańska 167, 169, ul. Szczawnicka 100, 102, 110, ul. Tylicka 5, ul. Węgorzewska 1, 10, 10A, 11, 12, 13, 14 A, 17, 21/23, 3, 4, 6, 8, 9, ul. Rewalska 10, 11, 11A, 13, 15, 2, 3, 5, 7, 9",
+      "id": "22291454a2ff8df526ab5382f6115b0b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tylicka, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-466, Polska",
+      "lat": 52.4541069,
+      "lon": 16.8736876,
+      "start_time": "2026-02-25T08:30:00",
+      "end_time": "2026-02-25T12:30:00",
+      "original_description": "Poznań ul. Żegiestowska 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zakopiańska 167, 169, ul. Szczawnicka 100, 102, 110, ul. Tylicka 5, ul. Węgorzewska 1, 10, 10A, 11, 12, 13, 14 A, 17, 21/23, 3, 4, 6, 8, 9, ul. Rewalska 10, 11, 11A, 13, 15, 2, 3, 5, 7, 9",
+      "id": "60a48697d3683e30f2ff47737163f359"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Węgorzewska, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-466, Polska",
+      "lat": 52.4553924,
+      "lon": 16.8752247,
+      "start_time": "2026-02-25T08:30:00",
+      "end_time": "2026-02-25T12:30:00",
+      "original_description": "Poznań ul. Żegiestowska 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zakopiańska 167, 169, ul. Szczawnicka 100, 102, 110, ul. Tylicka 5, ul. Węgorzewska 1, 10, 10A, 11, 12, 13, 14 A, 17, 21/23, 3, 4, 6, 8, 9, ul. Rewalska 10, 11, 11A, 13, 15, 2, 3, 5, 7, 9",
+      "id": "edea1720e68adf8f9809ef734008f3f0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zakopiańska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-479, Polska",
+      "lat": 52.4477978,
+      "lon": 16.8867114,
+      "start_time": "2026-02-25T08:30:00",
+      "end_time": "2026-02-25T12:30:00",
+      "original_description": "Poznań ul. Żegiestowska 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zakopiańska 167, 169, ul. Szczawnicka 100, 102, 110, ul. Tylicka 5, ul. Węgorzewska 1, 10, 10A, 11, 12, 13, 14 A, 17, 21/23, 3, 4, 6, 8, 9, ul. Rewalska 10, 11, 11A, 13, 15, 2, 3, 5, 7, 9",
+      "id": "bfacf4ae3b513afb4f75ec0c5d40287c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żegiestowska, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-466, Polska",
+      "lat": 52.4547925,
+      "lon": 16.8745793,
+      "start_time": "2026-02-25T08:30:00",
+      "end_time": "2026-02-25T12:30:00",
+      "original_description": "Poznań ul. Żegiestowska 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zakopiańska 167, 169, ul. Szczawnicka 100, 102, 110, ul. Tylicka 5, ul. Węgorzewska 1, 10, 10A, 11, 12, 13, 14 A, 17, 21/23, 3, 4, 6, 8, 9, ul. Rewalska 10, 11, 11A, 13, 15, 2, 3, 5, 7, 9",
+      "id": "5f7438c51233c3e80fdef2ebac5b112a"
     },
     {
       "type": "planned",
