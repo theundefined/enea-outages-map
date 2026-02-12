@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-12T07:30:14.409476+00:00",
+  "last_update": "2026-02-12T08:04:56.916937+00:00",
   "outages": [
     {
       "type": "planned",
@@ -490,6 +490,16 @@
       "end_time": "2026-02-20T12:00:00",
       "original_description": "Poznań: ul. Nad Różanym Potokiem dz. 71/147 stacja GSM.",
       "id": "e4b99190c1d27cc7246369491882d140"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Górnicza, Górczyn, Poznań, województwo wielkopolskie, 60-107, Polska",
+      "lat": 52.3841136,
+      "lon": 16.8731753,
+      "start_time": "2026-02-23T08:30:00",
+      "end_time": "2026-02-23T10:30:00",
+      "original_description": "Poznań: ul. Górnicza od 2/1 do 2/61, od 2/67 do 2/78, 2/103, 2/100, 2/108, 2/108A, 2/106, 2/107, 2/125, 2/133.",
+      "id": "f32aa04a1b29bf53ac7553587ab13b1b"
     },
     {
       "type": "planned",
