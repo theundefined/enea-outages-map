@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-12T08:04:56.916937+00:00",
+  "last_update": "2026-02-12T09:02:21.828644+00:00",
   "outages": [
     {
       "type": "planned",
@@ -660,6 +660,56 @@
       "end_time": "2026-02-26T11:00:00",
       "original_description": "Poznań: ul. Huby Moraskie 20, 22, 24, 25, 26, 27, 29, 31, ul. Rumiankowa 132, 134, dz. 295/6.",
       "id": "85cf9a1eecba152acdf4117c6ebf4959"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "2026-02-26T08:30:00",
+      "end_time": "2026-02-26T12:30:00",
+      "original_description": "Poznań: ul. Kajakowa od 13 do 37 nieparzyste, od 16 do 36 parzyste, ul. Admiralska od 3 do 57 nieparzyste, od 10 do 46 parzyste, od 50 do 64 parzyste, 64A, ul. Szantowa 11, ul. Jachtowa 14,  20.",
+      "id": "c1f05cd07876ab088eedf7d959147cac"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "2026-02-26T08:30:00",
+      "end_time": "2026-02-26T12:30:00",
+      "original_description": "Poznań: ul. Kajakowa od 13 do 37 nieparzyste, od 16 do 36 parzyste, ul. Admiralska od 3 do 57 nieparzyste, od 10 do 46 parzyste, od 50 do 64 parzyste, 64A, ul. Szantowa 11, ul. Jachtowa 14,  20.",
+      "id": "5ae47c0baa1f0104a057bf51c67b90a3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "2026-02-26T08:30:00",
+      "end_time": "2026-02-26T12:30:00",
+      "original_description": "Poznań: ul. Kajakowa od 13 do 37 nieparzyste, od 16 do 36 parzyste, ul. Admiralska od 3 do 57 nieparzyste, od 10 do 46 parzyste, od 50 do 64 parzyste, 64A, ul. Szantowa 11, ul. Jachtowa 14,  20.",
+      "id": "ee5e1094ee784dde55c35e8d37b00635"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szantowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764484,
+      "lon": 16.7768643,
+      "start_time": "2026-02-26T08:30:00",
+      "end_time": "2026-02-26T12:30:00",
+      "original_description": "Poznań: ul. Kajakowa od 13 do 37 nieparzyste, od 16 do 36 parzyste, ul. Admiralska od 3 do 57 nieparzyste, od 10 do 46 parzyste, od 50 do 64 parzyste, 64A, ul. Szantowa 11, ul. Jachtowa 14,  20.",
+      "id": "ba8bc0a46000642a883210f647402fdc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Glebowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3551889,
+      "lon": 17.0157795,
+      "start_time": "2026-02-27T08:30:00",
+      "end_time": "2026-02-27T10:30:00",
+      "original_description": "Poznań: ul. Glebowa 1B, 1C, 1D, 1E, od 3 do 17 nieparzyste bez 17A, od 8 do 22 parzyste.",
+      "id": "9d03270c64b56b0780d562e12d680fad"
     },
     {
       "type": "planned",
