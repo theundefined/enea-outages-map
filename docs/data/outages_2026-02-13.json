@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-13T06:41:22.985404+00:00",
+  "last_update": "2026-02-13T07:39:35.840387+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1130,6 +1130,106 @@
       "end_time": "2026-02-13T10:00:00",
       "original_description": "Dąbrówka ul. Polna, ul. Poznańska, Skórzewo ul. Biedronki, ul. Księdza Stanisława Kozierowskiego, ul. Poznańska, ul. Świerszcza, ul. Trzmiela.",
       "id": "39599f99ab91dc26496b4c66250e6fc8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "afd498d01d362dbb7ba4c306b88ac517"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kaliowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.382541,
+      "lon": 16.8264306,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "4a693d49d478ef2abccaac0cced610d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krobska, Junikowo, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3786613,
+      "lon": 16.8302642,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "7250fc71162871366113c62bd2599caa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krokusowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3815547,
+      "lon": 16.8283168,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "46ab74c9d20327c8e40f7b7c993d4573"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miśnieńska, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3784148,
+      "lon": 16.8359518,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "4c4e6004d3e2dbea47c1ce9a20ada163"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowosolska, Junikowo, Poznań, województwo wielkopolskie, 60-171, Polska",
+      "lat": 52.3799376,
+      "lon": 16.8327368,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "99b2f3dc9f06fce30b923ac96a12ec7e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stokrotkowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3827642,
+      "lon": 16.8263654,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "3ca993b8b3684a64b44527706d2b8333"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzelińska, Junikowo, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3793057,
+      "lon": 16.8307831,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "bd64475c5aba9cdfdca7eeaf058f8f1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Twardogórska, Junikowo, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3788404,
+      "lon": 16.828644,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:30:00",
+      "original_description": "Plewiska ul. Grunwaldzka, Poznań ul. Grunwaldzka, ul. Kaliowa, ul. Krobska, ul. Krokusowa, ul. Miśnieńska, ul. Nowosolska, ul. Stokrotkowa, ul. Strzelińska, ul. Twardogórska.",
+      "id": "0b650d74f47aad58f88fa2a9f68e7e14"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rekreacyjna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4657294,
+      "lon": 16.797641,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T11:00:00",
+      "original_description": "Poznań ul. Rekreacyjna.",
+      "id": "af30bac9b6e7738fa62f211e1340be72"
     }
   ]
 }
