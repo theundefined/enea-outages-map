@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-13T05:44:21.264850+00:00",
+  "last_update": "2026-02-13T06:41:22.985404+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,66 @@
       "end_time": "2026-02-13T05:30:00",
       "original_description": "Granowo ul. Kolejowa, ul. Komunalna, ul. Konstytucji 3 Maja, ul. Poznańska, ul. Przemysłowa, ul. Stawowa, ul. Szkolna.",
       "id": "8bcee6ebfc059389b01e0b4f075e5bc3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Biedronki, Skórzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-185, Polska",
+      "lat": 52.3895527,
+      "lon": 16.7795328,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:00:00",
+      "original_description": "Dąbrówka ul. Polna, ul. Poznańska, Skórzewo ul. Biedronki, ul. Księdza Stanisława Kozierowskiego, ul. Poznańska, ul. Świerszcza, ul. Trzmiela.",
+      "id": "dde441d4efb7c85698d872a6029a0d44"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Stanisława Kozierowskiego, Skórzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-185, Polska",
+      "lat": 52.3915883,
+      "lon": 16.7746014,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:00:00",
+      "original_description": "Dąbrówka ul. Polna, ul. Poznańska, Skórzewo ul. Biedronki, ul. Księdza Stanisława Kozierowskiego, ul. Poznańska, ul. Świerszcza, ul. Trzmiela.",
+      "id": "db2e7490586751696b4f2e4e693f0185"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:00:00",
+      "original_description": "Dąbrówka ul. Polna, ul. Poznańska, Skórzewo ul. Biedronki, ul. Księdza Stanisława Kozierowskiego, ul. Poznańska, ul. Świerszcza, ul. Trzmiela.",
+      "id": "0b5d15f28b1e65f476ef92c96e4d0c71"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:00:00",
+      "original_description": "Dąbrówka ul. Polna, ul. Poznańska, Skórzewo ul. Biedronki, ul. Księdza Stanisława Kozierowskiego, ul. Poznańska, ul. Świerszcza, ul. Trzmiela.",
+      "id": "4ef6cc93b70d156df7c5c44abef92982"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trzmiela, Skórzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-185, Polska",
+      "lat": 52.3884378,
+      "lon": 16.7798158,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:00:00",
+      "original_description": "Dąbrówka ul. Polna, ul. Poznańska, Skórzewo ul. Biedronki, ul. Księdza Stanisława Kozierowskiego, ul. Poznańska, ul. Świerszcza, ul. Trzmiela.",
+      "id": "19bd8749a3aeed2df68417555a2d9d86"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świerszcza, Skórzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-185, Polska",
+      "lat": 52.3880528,
+      "lon": 16.7815103,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-13T10:00:00",
+      "original_description": "Dąbrówka ul. Polna, ul. Poznańska, Skórzewo ul. Biedronki, ul. Księdza Stanisława Kozierowskiego, ul. Poznańska, ul. Świerszcza, ul. Trzmiela.",
+      "id": "39599f99ab91dc26496b4c66250e6fc8"
     }
   ]
 }
