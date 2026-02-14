@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-14T06:56:58.442286+00:00",
+  "last_update": "2026-02-14T07:34:46.274671+00:00",
   "outages": [
     {
       "type": "planned",
@@ -920,6 +920,126 @@
       "end_time": "2026-03-04T15:30:00",
       "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
       "id": "e1bfd79db12a0b4bffa13339ab8777c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cisowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3746491,
+      "lon": 16.8956975,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "42b71d0acc375c003a34b6f9410e2a82"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "0ea847c05103c7d5c066ef47705233be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czeremchowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3731637,
+      "lon": 16.8960019,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "8090b385c3e756584777d4e4ce7086fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "6630254c9cc645a857e5bb7ac8cee02b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Górecka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3718577,
+      "lon": 16.8928666,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "098c1d62490440b1ee338541f7b0a899"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nizinna, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3726545,
+      "lon": 16.891149,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "0880c16a675f48cebf15c38dbc78cc86"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Olchowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-474, Polska",
+      "lat": 52.3744895,
+      "lon": 16.8984966,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "ea7c86ae68041c7e650132734f9c499f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podmokła, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3720852,
+      "lon": 16.8919242,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "3d6402e89fc64a64aab136ef17431894"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Południowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3749646,
+      "lon": 16.9001757,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "782ec24ba8e08378dd6b62c166e40ab4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tarninowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3745578,
+      "lon": 16.8971272,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "a76542793c45970143f748823f149923"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śliwkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3718525,
+      "lon": 16.8949212,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "78d07e28ae71087e83a154f11813fee0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żlebowa, Świerczewo, Poznań, województwo wielkopolskie, 61-476, Polska",
+      "lat": 52.3761755,
+      "lon": 16.8901505,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T10:30:00",
+      "original_description": "Poznań ul. Cisowa, ul. Czechosłowacka, ul. Czeremchowa, ul. Czereśniowa, ul. Górecka, ul. Nizinna, ul. Olchowa, ul. Podmokła, ul. Południowa, ul. Śliwkowa, ul. Tarninowa, ul. Żlebowa.",
+      "id": "4cc489ca60c125367215bdc262b04191"
     }
   ]
 }
