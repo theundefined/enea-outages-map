@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-14T16:25:29.747631+00:00",
+  "last_update": "2026-02-14T16:55:25.782989+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1520,6 +1520,66 @@
       "end_time": "2026-02-14T17:30:00",
       "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
       "id": "4d1282077e3262a55f18823806e0af11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3897927,
+      "lon": 16.9243288,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "5718f9b8cd2a459dc11f2d3438305275"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pionierska, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3775545,
+      "lon": 16.9182897,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "f8318c421bb9ce2e4df3dfe76642db80"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "a9b05c5525fffe8ea1b619aeb29de5b9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Saperska, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-494, Polska",
+      "lat": 52.3825272,
+      "lon": 16.919704,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "d22b2b03a9e1de39bc9957874da02bba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tokarska, Wilda, Poznań, województwo wielkopolskie, 61-486, Polska",
+      "lat": 52.3784071,
+      "lon": 16.911899,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "150b5ff21f9f2dee76934aa4d76886da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-14T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "9bde81339b9e13ba3182554a68fd76d1"
     }
   ]
 }
