@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-15T09:49:40.424869+00:00",
+  "last_update": "2026-02-15T10:12:27.687819+00:00",
   "outages": [
     {
       "type": "planned",
@@ -920,6 +920,36 @@
       "end_time": "2026-03-04T15:30:00",
       "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
       "id": "e1bfd79db12a0b4bffa13339ab8777c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Feliksa Nowowiejskiego, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-717, Polska",
+      "lat": 52.4132088,
+      "lon": 16.9219925,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-15T13:30:00",
+      "original_description": "Poznań ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna.",
+      "id": "3a3eee7fc612b13dcfd833c27a4c1451"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "lat": 52.410976,
+      "lon": 16.9264675,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-15T13:30:00",
+      "original_description": "Poznań ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna.",
+      "id": "1c7cc53f896be91d9a91d1415f18b662"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Solna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-735, Polska",
+      "lat": 52.4114704,
+      "lon": 16.9306253,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-15T13:30:00",
+      "original_description": "Poznań ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna.",
+      "id": "51d4c12764cba97cd8c8aacad401203c"
     }
   ]
 }
