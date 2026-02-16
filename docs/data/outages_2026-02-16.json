@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-16T04:24:43.659772+00:00",
+  "last_update": "2026-02-16T05:49:41.748833+00:00",
   "outages": [
     {
       "type": "planned",
@@ -530,6 +530,26 @@
       "end_time": "2026-02-24T15:30:00",
       "original_description": "Poznań: ul. Szamotulska od 78 do 94 parzyste.",
       "id": "279db3d3899db380c48e5e985c3fa8a0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dobrepole, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.345898,
+      "lon": 17.0243916,
+      "start_time": "2026-02-24T08:30:00",
+      "end_time": "2026-02-24T20:00:00",
+      "original_description": "Poznań ul. Gospodarska 15L, 15M, 17, 19, 20, 21, 21a, 21C,  cmentarz, ul. Dobrepole 23, 24A, 25/27, 26/28, 31, 34, 38,  50,  44, 46, 48",
+      "id": "bca6595a6fe603b19d8a8bcae2a1dfe2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gospodarska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3543871,
+      "lon": 17.0276859,
+      "start_time": "2026-02-24T08:30:00",
+      "end_time": "2026-02-24T20:00:00",
+      "original_description": "Poznań ul. Gospodarska 15L, 15M, 17, 19, 20, 21, 21a, 21C,  cmentarz, ul. Dobrepole 23, 24A, 25/27, 26/28, 31, 34, 38,  50,  44, 46, 48",
+      "id": "8e3a5439f5236c051a03fa98cac6b12c"
     },
     {
       "type": "planned",
