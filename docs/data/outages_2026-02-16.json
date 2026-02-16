@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-16T07:42:50.228272+00:00",
+  "last_update": "2026-02-16T08:29:40.554830+00:00",
   "outages": [
     {
       "type": "planned",
@@ -940,6 +940,116 @@
       "end_time": "2026-03-04T15:30:00",
       "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
       "id": "e1bfd79db12a0b4bffa13339ab8777c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "3714d3266fb618a1f3eeef4a456d994f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "73e1d1f7f1f60ac50ddd1e14d677cbed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "5d0d7c9a8278e9dea9d40fecd7727bdd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Miedzą, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-457, Polska",
+      "lat": 52.4339244,
+      "lon": 16.799316,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "7240e61588b1f171ba3c26cdc834e863"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Przemysława, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-064, Polska",
+      "lat": 52.3891145,
+      "lon": 17.0052118,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "f996a288d15c71ef7af718292fe57823"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "92fc3fee46ef552fcc21a78e836293c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przygraniczna, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-457, Polska",
+      "lat": 52.4347809,
+      "lon": 16.800975,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "1a6302fb6ffa19072489ed2dd2807563"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "7c137b64b970b7feb476546a84dd4f5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "8aaf3eeb880ec17878e95909ef78a7ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "b1144391fde97ef25e1d6dac4975e232"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wypoczynkowa, Kiekrz, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 62-081, Polska",
+      "lat": 52.4474349,
+      "lon": 16.7889228,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-16T11:00:00",
+      "original_description": "Baranowo ul. Klonowa, ul. Lipowa, ul. Nad Miedzą, ul. Poznańska, ul. Przemysława, ul. Słoneczna, ul. Spokojna, ul. Wspólna, ul. Wypoczynkowa, Poznań ul. Jana Henryka Dąbrowskiego, ul. Nad Miedzą, ul. Przygraniczna.",
+      "id": "44c262727cfdd2d2cb13c864c8adfe9e"
     }
   ]
 }
