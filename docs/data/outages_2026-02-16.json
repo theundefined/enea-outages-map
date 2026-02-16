@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-16T08:29:40.554830+00:00",
+  "last_update": "2026-02-16T09:31:07.384990+00:00",
   "outages": [
     {
       "type": "planned",
@@ -553,6 +553,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-24T11:30:00",
+      "end_time": "2026-02-24T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Poznańska od 10 do 12B, 26, działki nr 3/15,  10, 11/1, 11/2, 11/13, 11/15, 11/22, 48, Folwark Polityka, działki rekreacyjne, stacja bazowa T-Mobile 40283,",
+      "id": "f2b2da1c6a47026506781b30c897254d"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Rewalska, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-466, Polska",
       "lat": 52.4561006,
       "lon": 16.8738664,
@@ -700,6 +710,16 @@
       "end_time": "2026-02-26T12:30:00",
       "original_description": "Poznań: ul. Kajakowa od 13 do 37 nieparzyste, od 16 do 36 parzyste, ul. Admiralska od 3 do 57 nieparzyste, od 10 do 46 parzyste, od 50 do 64 parzyste, 64A, ul. Szantowa 11, ul. Jachtowa 14,  20.",
       "id": "ba8bc0a46000642a883210f647402fdc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podolańska, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4394784,
+      "lon": 16.8868242,
+      "start_time": "2026-02-27T08:00:00",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań: ul. Podolańska 44, 44A, 44B, 45, 46, 52.",
+      "id": "da6e8d28cc988eb68f8f075b0bb439eb"
     },
     {
       "type": "planned",
