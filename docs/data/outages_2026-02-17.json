@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-17T11:02:22.400753+00:00",
+  "last_update": "2026-02-17T11:51:07.778695+00:00",
   "outages": [
     {
       "type": "planned",
@@ -853,6 +853,116 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Agrestowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3698238,
+      "lon": 17.0015862,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 30, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "be7d8b8cbaffeb63c91eb385e8bd1f5c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Brokułowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3708353,
+      "lon": 17.005569,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 30, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "18dc0cce3e33f05f3a1000637d332fc6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dyniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3709709,
+      "lon": 17.0055903,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 30, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "56ff79486b97bb7e4188d8e7b09d6616"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Jagodowa od 24 do 38 parzyste, ul. Roślinna od 1 do 10, 10A-C, ul. Szczepankowo 79, 81.",
+      "id": "984bbc61e232d10f3ff30cf22cadab5f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 30, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "c46f7dc3f5259698c28737f7d84f966c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 30, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "b407fe408fdb8976e9097ba71fb5d2cf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Roślinna, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.365729,
+      "lon": 17.0073943,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Jagodowa od 24 do 38 parzyste, ul. Roślinna od 1 do 10, 10A-C, ul. Szczepankowo 79, 81.",
+      "id": "19d9afac4a1d545663b4b5b73a1debde"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rzodkiewkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3706585,
+      "lon": 17.0066846,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 30, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "b7a5710452c067e45fc213ebcd2dfee2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stewnicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3737936,
+      "lon": 16.9986544,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 30, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "25a77f2ead5057462f07c955be1146e6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Jagodowa od 24 do 38 parzyste, ul. Roślinna od 1 do 10, 10A-C, ul. Szczepankowo 79, 81.",
+      "id": "70f196aff57f987b0ad3902e4b5c645f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szparagowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3711021,
+      "lon": 17.0045019,
+      "start_time": "2026-03-03T08:30:00",
+      "end_time": "2026-03-03T10:30:00",
+      "original_description": "Poznań: ul. Szparagowa, ul. Dyniowa, ul. Brokułowa, ul. Rzodkiewkowa, ul. Jagodowa od 2 do 22 parzyste, od 3 do 31 nieparzyste, ul. Agrestowa od 3 do 30, ul. Stewnicka 14, ul. Michałowo od 14 do 54 parzyste.",
+      "id": "4b55f9381af0d2d59c3a690c7d8091d4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Smoka Wawelskiego, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
       "lat": 52.4055954,
       "lon": 16.8357424,
@@ -890,6 +1000,76 @@
       "end_time": "2026-03-03T14:00:00",
       "original_description": "Poznań: ul. Spacerowa, ul. Uzdrowiskowa 2.",
       "id": "1590901411bf7be3c0d461f16e856a1c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Anyżowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4719481,
+      "lon": 16.9360377,
+      "start_time": "2026-03-04T08:15:00",
+      "end_time": "2026-03-04T12:30:00",
+      "original_description": "Poznań: ul. Mleczowa bez 1 i A,, ul. Anyżowa, ul. Wrotyczowa, ul. Słonecznikowa, ul. Mariampolska, ul. Rumiankowa 27, ul. Umultowska od 116 do 126 parzyste, od 99 do  125 nieparzyste, ul. Ślazowa 3.",
+      "id": "49b805d850005323e321f4f19c7e3ef2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mariampolska, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4759664,
+      "lon": 16.940216,
+      "start_time": "2026-03-04T08:15:00",
+      "end_time": "2026-03-04T12:30:00",
+      "original_description": "Poznań: ul. Mleczowa bez 1 i A,, ul. Anyżowa, ul. Wrotyczowa, ul. Słonecznikowa, ul. Mariampolska, ul. Rumiankowa 27, ul. Umultowska od 116 do 126 parzyste, od 99 do  125 nieparzyste, ul. Ślazowa 3.",
+      "id": "e7e1f01ae58cb6e180d2e240826ed296"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "2026-03-04T08:15:00",
+      "end_time": "2026-03-04T12:30:00",
+      "original_description": "Poznań: ul. Mleczowa bez 1 i A,, ul. Anyżowa, ul. Wrotyczowa, ul. Słonecznikowa, ul. Mariampolska, ul. Rumiankowa 27, ul. Umultowska od 116 do 126 parzyste, od 99 do  125 nieparzyste, ul. Ślazowa 3.",
+      "id": "55cf7f2d74c41cf98b07b8ab08f4b352"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słonecznikowa, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4774997,
+      "lon": 16.9390768,
+      "start_time": "2026-03-04T08:15:00",
+      "end_time": "2026-03-04T12:30:00",
+      "original_description": "Poznań: ul. Mleczowa bez 1 i A,, ul. Anyżowa, ul. Wrotyczowa, ul. Słonecznikowa, ul. Mariampolska, ul. Rumiankowa 27, ul. Umultowska od 116 do 126 parzyste, od 99 do  125 nieparzyste, ul. Ślazowa 3.",
+      "id": "e19573e5528e3a2bec66897e579dbb9d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Umultowska, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4750115,
+      "lon": 16.9404752,
+      "start_time": "2026-03-04T08:15:00",
+      "end_time": "2026-03-04T12:30:00",
+      "original_description": "Poznań: ul. Mleczowa bez 1 i A,, ul. Anyżowa, ul. Wrotyczowa, ul. Słonecznikowa, ul. Mariampolska, ul. Rumiankowa 27, ul. Umultowska od 116 do 126 parzyste, od 99 do  125 nieparzyste, ul. Ślazowa 3.",
+      "id": "c5702792ae8b34090fde0d39a9d17c56"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wrotyczowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.472491,
+      "lon": 16.9374502,
+      "start_time": "2026-03-04T08:15:00",
+      "end_time": "2026-03-04T12:30:00",
+      "original_description": "Poznań: ul. Mleczowa bez 1 i A,, ul. Anyżowa, ul. Wrotyczowa, ul. Słonecznikowa, ul. Mariampolska, ul. Rumiankowa 27, ul. Umultowska od 116 do 126 parzyste, od 99 do  125 nieparzyste, ul. Ślazowa 3.",
+      "id": "08f0cbafb3c04c90ca45d88ea82c7b98"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ślazowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4719477,
+      "lon": 16.9390416,
+      "start_time": "2026-03-04T08:15:00",
+      "end_time": "2026-03-04T12:30:00",
+      "original_description": "Poznań: ul. Mleczowa bez 1 i A,, ul. Anyżowa, ul. Wrotyczowa, ul. Słonecznikowa, ul. Mariampolska, ul. Rumiankowa 27, ul. Umultowska od 116 do 126 parzyste, od 99 do  125 nieparzyste, ul. Ślazowa 3.",
+      "id": "bd9730714f9eba8325420122fd3d6fec"
     },
     {
       "type": "planned",
