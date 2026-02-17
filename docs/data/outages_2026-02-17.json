@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-17T05:04:22.959191+00:00",
+  "last_update": "2026-02-17T06:08:08.862334+00:00",
   "outages": [
     {
       "type": "planned",
@@ -930,6 +930,16 @@
       "end_time": "2026-03-04T15:30:00",
       "original_description": "Poznań: ul. Jesionowa od 2 do 14 parzyste, 18, 20, od 5 do 15 nieparzyste, 15A-B, 23, 25, 25A-D, ul. Brzozowa od 36 do 65, ul. Głogowa 3, od 4 do 12 parzyste, ul. Opolska 56, 56A-C.",
       "id": "e1bfd79db12a0b4bffa13339ab8777c1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Klemensa Janickiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-541, Polska",
+      "lat": 52.4188309,
+      "lon": 16.8964404,
+      "start_time": "2026-03-04T09:00:00",
+      "end_time": "2026-03-04T12:00:00",
+      "original_description": "Poznań: ul. Janickiego 23A-F.",
+      "id": "2e02021c24ffcb548496d522a1930ef9"
     }
   ]
 }
