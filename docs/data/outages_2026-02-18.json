@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-18T11:04:36.992010+00:00",
+  "last_update": "2026-02-18T11:51:24.528392+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1170,6 +1170,116 @@
       "end_time": "2026-03-05T12:30:00",
       "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
       "id": "841215de78e5f010ef68eacfd09a3d53"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gąsawska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-038, Polska",
+      "lat": 52.4128547,
+      "lon": 16.9793867,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "bd07cc4cf1a548dff53260368bfa3487"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "34ef98916a7c6176a02dac33060f102f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kruszwicka, Czekalskie, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-046, Polska",
+      "lat": 52.4131911,
+      "lon": 16.9844503,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "48f81251583a7e6b1c7536c73c499f04"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nakielska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-038, Polska",
+      "lat": 52.4126487,
+      "lon": 16.9805573,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "00588470c2b6f97b7db97a7d44d77e05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radziejowska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-038, Polska",
+      "lat": 52.4127696,
+      "lon": 16.9811607,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "007ca3724babd26ec8a7bdaf7cad6efa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rogowska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-035, Polska",
+      "lat": 52.412897,
+      "lon": 16.9784671,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "3555ce2aeccdf50d373f502b24d24f59"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
+      "lat": 52.410741,
+      "lon": 16.983344,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "4c1e332b0717ae54928a5855e574bfb3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Toruńska, Czekalskie, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-046, Polska",
+      "lat": 52.4115896,
+      "lon": 16.9836594,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "c551fc4e4742520014a41f18cbb57e31"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trzemeszeńska, Warszawskie, Komandoria-Pomet, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-038, Polska",
+      "lat": 52.4124758,
+      "lon": 16.9807889,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "c1e2e33b0551cfbab926eb22db09aa8b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Witkowska, Warszawskie, Komandoria-Pomet, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
+      "lat": 52.4110066,
+      "lon": 16.9808935,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "9262c2f07df7691aa0bee8c68d94c68c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łabiszyńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-038, Polska",
+      "lat": 52.4127086,
+      "lon": 16.9822055,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-18T14:30:00",
+      "original_description": "Poznań ul. Gąsawska, ul. Krańcowa, ul. Kruszwicka, ul. Łabiszyńska, ul. Nakielska, ul. Radziejowska, ul. Rogowska, ul. Swarzędzka, ul. Toruńska, ul. Trzemeszeńska, ul. Witkowska.",
+      "id": "c239a225242b0d0201e97dba24a7f3fe"
     }
   ]
 }
