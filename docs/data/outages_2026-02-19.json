@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-19T06:11:42.734593+00:00",
+  "last_update": "2026-02-19T07:18:01.749636+00:00",
   "outages": [
     {
       "type": "planned",
@@ -413,6 +413,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-25T09:00:00",
+      "end_time": "2026-02-25T14:00:00",
+      "original_description": "Gmina Ostroróg miejscowość Piaskowo 1, 2, 54, 64, 66, ul. Wencla 21, 23, 25, 28, 54, \nmiasto Ostroróg ul. Wencla cała,  ul. Poznańska 28, 54, 59, 61, 64, 66, 67, kaplica cmentarna,",
+      "id": "2832609d30ee16e2f2197a49d63e19f0"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
       "lat": 52.4795026,
       "lon": 16.9188663,
@@ -530,6 +540,36 @@
       "end_time": "2026-02-27T11:00:00",
       "original_description": "Poznań: ul. Podolańska 44, 44A, 44B, 45, 46, 52.",
       "id": "da6e8d28cc988eb68f8f075b0bb439eb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-02-27T08:00:00",
+      "end_time": "2026-02-27T15:00:00",
+      "original_description": "Poznań: ul. Złotowska 23, 25, 27, 44, 46, 48, ul. Sadnicka, ul. Bukowska 364.",
+      "id": "c658e46c152e1dbade60db327798de0f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sadnicka, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4121082,
+      "lon": 16.8269397,
+      "start_time": "2026-02-27T08:00:00",
+      "end_time": "2026-02-27T15:00:00",
+      "original_description": "Poznań: ul. Złotowska 23, 25, 27, 44, 46, 48, ul. Sadnicka, ul. Bukowska 364.",
+      "id": "da01ba00966f69089409818548ccbda6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Złotowska, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4124762,
+      "lon": 16.8324672,
+      "start_time": "2026-02-27T08:00:00",
+      "end_time": "2026-02-27T15:00:00",
+      "original_description": "Poznań: ul. Złotowska 23, 25, 27, 44, 46, 48, ul. Sadnicka, ul. Bukowska 364.",
+      "id": "1f2b58b78e9858e9427cbe9548d2201f"
     },
     {
       "type": "planned",
