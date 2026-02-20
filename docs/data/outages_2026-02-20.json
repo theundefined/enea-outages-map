@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-20T21:59:50.283769+00:00",
+  "last_update": "2026-02-20T22:37:13.913487+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1800,6 +1800,56 @@
       "end_time": "2026-02-20T22:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "3089fa3e1959a8fec08eebe51bd78d74"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-21T01:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "b317857a26bec70a62abacf38b91fbde"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-21T01:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "931fd0ea599966b61c6b4d55c56937bb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-21T01:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "4be6ff2555777498098481e8d54a1b14"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-21T01:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "e8890e4e5495b5b12e5e98b632946ece"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-21T01:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "2fb3c5eac7e5424b981ab8f473d982ca"
     }
   ]
 }
