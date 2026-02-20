@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-20T05:42:48.061357+00:00",
+  "last_update": "2026-02-20T06:36:45.658030+00:00",
   "outages": [
     {
       "type": "planned",
@@ -330,6 +330,36 @@
       "end_time": "2026-02-25T14:00:00",
       "original_description": "Gmina Ostroróg miejscowość Piaskowo 1, 2, 54, 64, 66, ul. Wencla 21, 23, 25, 28, 54, \nmiasto Ostroróg ul. Wencla cała,  ul. Poznańska 28, 54, 59, 61, 64, 66, 67, kaplica cmentarna,",
       "id": "2832609d30ee16e2f2197a49d63e19f0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dusznicka, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4565513,
+      "lon": 16.8725769,
+      "start_time": "2026-02-26T08:00:00",
+      "end_time": "2026-02-26T14:00:00",
+      "original_description": "Gmina Duszniki miejscowość Podrzewie ul. Dusznicka od 1 do 15,ul. Łąkowa 1, 2, 3, 4, 5, 9, ul. Poznańska 13, 14, ul. Sękowska 2A, działki nr 41/2, 62/2, 541, 544, 552/1, 629, bramownica, fotoradar, Bar Pod Wierzbą",
+      "id": "f9d51453913e4738be6c669973cccf9a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-02-26T08:00:00",
+      "end_time": "2026-02-26T14:00:00",
+      "original_description": "Gmina Duszniki miejscowość Podrzewie ul. Dusznicka od 1 do 15,ul. Łąkowa 1, 2, 3, 4, 5, 9, ul. Poznańska 13, 14, ul. Sękowska 2A, działki nr 41/2, 62/2, 541, 544, 552/1, 629, bramownica, fotoradar, Bar Pod Wierzbą",
+      "id": "e13bd566dcbe4d91bc14609f2adbf4ef"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "2026-02-26T08:00:00",
+      "end_time": "2026-02-26T14:00:00",
+      "original_description": "Gmina Duszniki miejscowość Podrzewie ul. Dusznicka od 1 do 15,ul. Łąkowa 1, 2, 3, 4, 5, 9, ul. Poznańska 13, 14, ul. Sękowska 2A, działki nr 41/2, 62/2, 541, 544, 552/1, 629, bramownica, fotoradar, Bar Pod Wierzbą",
+      "id": "16115f561712c714b85bc581d4c426a5"
     },
     {
       "type": "planned",
@@ -1220,6 +1250,56 @@
       "end_time": "2026-02-20T05:30:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "da133e6f31811362dd70dbcc5dcf72e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T07:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "9f2f245e0f3d5b4d8ae1ebbaa1080ed2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T07:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "3c3abc13b5a49d6d717f6dce76c7f65a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T07:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "68b53e4f4a60be002b50b1beeb488a8d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T07:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "8f0c85be92c14099091b8b63ab2833fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T07:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "fd72afd5858cd19f27a20eb45f870ef0"
     }
   ]
 }
