@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-20T14:10:00.992601+00:00",
+  "last_update": "2026-02-20T14:59:30.353789+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1570,6 +1570,136 @@
       "end_time": "2026-02-20T14:30:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "5f6e2c9b3ddaf6e3fed1a154e32cda98"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "48315574f04f9e17289c008960b448b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "f05b94acddbb7a36ccaa9f67b0bb28b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "8517610528834b1b982e505eacb1cd21"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "47326820b12b7a32fcd51fec3e73ad32"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "bdeb4c5b8e482397daea9ceb3e34ff9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Emilii Plater, Świerczewo, Poznań, województwo wielkopolskie, 61-406, Polska",
+      "lat": 52.36282,
+      "lon": 16.8868886,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T18:00:00",
+      "original_description": "Chodzież ul. Armii \"Poznań\", ul. Emilii Plater, ul. gen. Józefa Bema, ul. gen. Leopolda Okulickiego, ul. gen. Władysława Andersa, ul. Jana Kochanowskiego, ul. Karczewnik, ul. ks. kanonika Władysława Kaźmierczaka, ul. Ludwika Waryńskiego, ul. Marii Konopnickiej, ul. Obrońców Westerplatte, ul. Podgórna, ul. Tadeusza Siejaka, Stróżewko, Stróżewo.",
+      "id": "b91e9f0c083fd5b41bc52e463fff8a5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Kochanowskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-845, Polska",
+      "lat": 52.4109263,
+      "lon": 16.9091411,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T18:00:00",
+      "original_description": "Chodzież ul. Armii \"Poznań\", ul. Emilii Plater, ul. gen. Józefa Bema, ul. gen. Leopolda Okulickiego, ul. gen. Władysława Andersa, ul. Jana Kochanowskiego, ul. Karczewnik, ul. ks. kanonika Władysława Kaźmierczaka, ul. Ludwika Waryńskiego, ul. Marii Konopnickiej, ul. Obrońców Westerplatte, ul. Podgórna, ul. Tadeusza Siejaka, Stróżewko, Stróżewo.",
+      "id": "c33833b2f53327ce361509ba007fe41d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Bema, Rokietnica, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 62-090, Polska",
+      "lat": 52.5160779,
+      "lon": 16.7331718,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T18:00:00",
+      "original_description": "Chodzież ul. Armii \"Poznań\", ul. Emilii Plater, ul. gen. Józefa Bema, ul. gen. Leopolda Okulickiego, ul. gen. Władysława Andersa, ul. Jana Kochanowskiego, ul. Karczewnik, ul. ks. kanonika Władysława Kaźmierczaka, ul. Ludwika Waryńskiego, ul. Marii Konopnickiej, ul. Obrońców Westerplatte, ul. Podgórna, ul. Tadeusza Siejaka, Stróżewko, Stróżewo.",
+      "id": "62f1c72419483667b2d1a3332af8acda"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marii Konopnickiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4032644,
+      "lon": 16.9015829,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T18:00:00",
+      "original_description": "Chodzież ul. Armii \"Poznań\", ul. Emilii Plater, ul. gen. Józefa Bema, ul. gen. Leopolda Okulickiego, ul. gen. Władysława Andersa, ul. Jana Kochanowskiego, ul. Karczewnik, ul. ks. kanonika Władysława Kaźmierczaka, ul. Ludwika Waryńskiego, ul. Marii Konopnickiej, ul. Obrońców Westerplatte, ul. Podgórna, ul. Tadeusza Siejaka, Stróżewko, Stróżewo.",
+      "id": "51eb26baf18136e8ae5ab5c1319fedda"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Plac Ludwika Waryńskiego, Ogrody, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4166661,
+      "lon": 16.8832256,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T18:00:00",
+      "original_description": "Chodzież ul. Armii \"Poznań\", ul. Emilii Plater, ul. gen. Józefa Bema, ul. gen. Leopolda Okulickiego, ul. gen. Władysława Andersa, ul. Jana Kochanowskiego, ul. Karczewnik, ul. ks. kanonika Władysława Kaźmierczaka, ul. Ludwika Waryńskiego, ul. Marii Konopnickiej, ul. Obrońców Westerplatte, ul. Podgórna, ul. Tadeusza Siejaka, Stróżewko, Stróżewo.",
+      "id": "3ba38d8bf11787005ecd4395451843ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T18:00:00",
+      "original_description": "Chodzież ul. Armii \"Poznań\", ul. Emilii Plater, ul. gen. Józefa Bema, ul. gen. Leopolda Okulickiego, ul. gen. Władysława Andersa, ul. Jana Kochanowskiego, ul. Karczewnik, ul. ks. kanonika Władysława Kaźmierczaka, ul. Ludwika Waryńskiego, ul. Marii Konopnickiej, ul. Obrońców Westerplatte, ul. Podgórna, ul. Tadeusza Siejaka, Stróżewko, Stróżewo.",
+      "id": "9b3bb2ad80b6285cb0a8c615125bfb43"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pomnik Armii Poznań, Księcia Józefa, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-747, Polska",
+      "lat": 52.4151714,
+      "lon": 16.9305496,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T18:00:00",
+      "original_description": "Chodzież ul. Armii \"Poznań\", ul. Emilii Plater, ul. gen. Józefa Bema, ul. gen. Leopolda Okulickiego, ul. gen. Władysława Andersa, ul. Jana Kochanowskiego, ul. Karczewnik, ul. ks. kanonika Władysława Kaźmierczaka, ul. Ludwika Waryńskiego, ul. Marii Konopnickiej, ul. Obrońców Westerplatte, ul. Podgórna, ul. Tadeusza Siejaka, Stróżewko, Stróżewo.",
+      "id": "b1061820eb3990f0e355f0ce5ca14031"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "XXI Liceum Ogólnokształcące im. gen. Władysława Andersa, 17, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.4009219,
+      "lon": 16.9304026,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T18:00:00",
+      "original_description": "Chodzież ul. Armii \"Poznań\", ul. Emilii Plater, ul. gen. Józefa Bema, ul. gen. Leopolda Okulickiego, ul. gen. Władysława Andersa, ul. Jana Kochanowskiego, ul. Karczewnik, ul. ks. kanonika Władysława Kaźmierczaka, ul. Ludwika Waryńskiego, ul. Marii Konopnickiej, ul. Obrońców Westerplatte, ul. Podgórna, ul. Tadeusza Siejaka, Stróżewko, Stróżewo.",
+      "id": "2ed8d08d165a94dcd60331ddb46b8c1f"
     }
   ]
 }
