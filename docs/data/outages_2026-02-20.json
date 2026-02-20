@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-20T06:36:45.658030+00:00",
+  "last_update": "2026-02-20T07:34:40.040330+00:00",
   "outages": [
     {
       "type": "planned",
@@ -713,6 +713,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bazyliowa, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4796397,
+      "lon": 16.945854,
+      "start_time": "2026-03-03T08:00:00",
+      "end_time": "2026-03-03T18:00:00",
+      "original_description": "Poznań: ul. Naramowicka 356, 357C-E, 359B-E, 361, 368, 369, 370, ul. Bazyliowa, ul. Gorczycowa, ul. Dziurawcowa.",
+      "id": "cbffc3458113081f4e25997870603847"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dziurawcowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.479543,
+      "lon": 16.9467042,
+      "start_time": "2026-03-03T08:00:00",
+      "end_time": "2026-03-03T18:00:00",
+      "original_description": "Poznań: ul. Naramowicka 356, 357C-E, 359B-E, 361, 368, 369, 370, ul. Bazyliowa, ul. Gorczycowa, ul. Dziurawcowa.",
+      "id": "77d548ff79e3930410ff9c258298b6b3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gorczycowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4799887,
+      "lon": 16.9469318,
+      "start_time": "2026-03-03T08:00:00",
+      "end_time": "2026-03-03T18:00:00",
+      "original_description": "Poznań: ul. Naramowicka 356, 357C-E, 359B-E, 361, 368, 369, 370, ul. Bazyliowa, ul. Gorczycowa, ul. Dziurawcowa.",
+      "id": "5e4235ca39b5c40fd32f61d7d60699a3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-03-03T08:00:00",
+      "end_time": "2026-03-03T18:00:00",
+      "original_description": "Poznań: ul. Naramowicka 356, 357C-E, 359B-E, 361, 368, 369, 370, ul. Bazyliowa, ul. Gorczycowa, ul. Dziurawcowa.",
+      "id": "221cbb9b08747d5ae02e5bceb4d7bf7d"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Agrestowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
       "lat": 52.3698238,
       "lon": 17.0015862,
@@ -1300,6 +1340,56 @@
       "end_time": "2026-02-20T07:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "fd72afd5858cd19f27a20eb45f870ef0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "d3fb2007b3b38bdcd2dc13e905f1becd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "0987920e358f484245cc97c03e16bee6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "df81e58c2230fa2ea1e919ba2b71e0f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "35ee016a0386cc65922431a742f63041"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-20T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "b7266c3a8ae16a3bcfa3886e5562e04d"
     }
   ]
 }
