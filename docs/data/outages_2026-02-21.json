@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-21T21:00:19.474841+00:00",
+  "last_update": "2026-02-21T21:34:35.405529+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1580,6 +1580,26 @@
       "end_time": "2026-02-21T22:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "3ee446188e0f7bb72f32a98d4d8d6fed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T00:30:00",
+      "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
+      "id": "59147b2d5efaeff57873029c45720f37"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T00:30:00",
+      "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
+      "id": "e2e11ccbce285e28f344fa0d24e1cad2"
     }
   ]
 }
