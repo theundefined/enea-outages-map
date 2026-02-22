@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-22T08:28:04.987692+00:00",
+  "last_update": "2026-02-22T08:57:33.443383+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1230,6 +1230,126 @@
       "end_time": "2026-02-22T10:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "2d1e986757c3449ad3e13a15eafa239f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "ad0804fbfca3f0cde1b6122979f8eedc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "18066268f04ce41bb17ca90f75b45cda"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "6e031088e5ed58fb6b8dcfbb187dd893"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "d36cd71080ce2656a476ef294ba3f041"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "36b4674fe4d8c74683bf453bc6ea5a9d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Barska, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.381462,
+      "lon": 16.9146359,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T12:00:00",
+      "original_description": "Poznań ul. Barska, ul. Czwartaków, ul. Łanowa, ul. Rolna, ul. Sportowa, ul. Tokarska, ul. Wspólna.",
+      "id": "3b0a48c6e7c16e9a7339148d4549bd3a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czwartaków, Wilda, Poznań, województwo wielkopolskie, 61-495, Polska",
+      "lat": 52.3817842,
+      "lon": 16.9177767,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T12:00:00",
+      "original_description": "Poznań ul. Barska, ul. Czwartaków, ul. Łanowa, ul. Rolna, ul. Sportowa, ul. Tokarska, ul. Wspólna.",
+      "id": "77aa3aa5f1e9c1f954a78e7c43cbd32b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T12:00:00",
+      "original_description": "Poznań ul. Barska, ul. Czwartaków, ul. Łanowa, ul. Rolna, ul. Sportowa, ul. Tokarska, ul. Wspólna.",
+      "id": "e0541dc20b43db1c819edbf232c2b3c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T12:00:00",
+      "original_description": "Poznań ul. Barska, ul. Czwartaków, ul. Łanowa, ul. Rolna, ul. Sportowa, ul. Tokarska, ul. Wspólna.",
+      "id": "55ad9b6e0d6253a227baf87f1a274b65"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tokarska, Wilda, Poznań, województwo wielkopolskie, 61-486, Polska",
+      "lat": 52.3784071,
+      "lon": 16.911899,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T12:00:00",
+      "original_description": "Poznań ul. Barska, ul. Czwartaków, ul. Łanowa, ul. Rolna, ul. Sportowa, ul. Tokarska, ul. Wspólna.",
+      "id": "cca454c325566cd73b508226d7696db2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T12:00:00",
+      "original_description": "Poznań ul. Barska, ul. Czwartaków, ul. Łanowa, ul. Rolna, ul. Sportowa, ul. Tokarska, ul. Wspólna.",
+      "id": "2a2d3beebe9b82e0f93a74eb5e5bc2af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łanowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3814024,
+      "lon": 16.9138488,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-22T12:00:00",
+      "original_description": "Poznań ul. Barska, ul. Czwartaków, ul. Łanowa, ul. Rolna, ul. Sportowa, ul. Tokarska, ul. Wspólna.",
+      "id": "a140010a2ed9b3261a97718e8f1fa421"
     }
   ]
 }
