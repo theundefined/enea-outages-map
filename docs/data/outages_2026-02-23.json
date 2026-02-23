@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-23T20:05:18.019297+00:00",
+  "last_update": "2026-02-23T20:59:08.720503+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2380,6 +2380,146 @@
       "end_time": "2026-02-23T22:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "07596b8848d2f7c3f21b39754e838a05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "1ebf9b7f2500d9fab17a57bb04a518cc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "cdcc81698bcdf266b5ad503e83bc1943"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.39658,
+      "lon": 16.8986607,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "6822f783eb93417b50240ed2d2424248"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Strusia, Łazarz, Poznań, województwo wielkopolskie, 60-711, Polska",
+      "lat": 52.3969847,
+      "lon": 16.9029524,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "62ddac5ce07ac62f730f1d7fede4358e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Łukaszewicza, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3917149,
+      "lon": 16.9027271,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "c4a821edec1661c03005cd98289e5406"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościół pw. św. Andrzeja Apostoła, 92, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3510298,
+      "lon": 17.0254837,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "8f02e624b3fd7841fafb60bd7bcae823"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ryszarda Berwińskiego, Łazarz, Poznań, województwo wielkopolskie, 60-738, Polska",
+      "lat": 52.3979439,
+      "lon": 16.9029444,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "89c54933a8d82e2269b82495f116cfc2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sebastiana Klonowica, Łazarz, Poznań, województwo wielkopolskie, 60-743, Polska",
+      "lat": 52.3971235,
+      "lon": 16.9006235,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "0ac92f2b18c2ce9ce132730eb73d7d00"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:00:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "658fa20985bbf941607283b7b9398119"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "cd62544108663f965a7c41f3f85f9ff6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "7628bd9c71299c19016443ff9afea1e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "5fa62cdc1d9034e6ad220223b3c9c7be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "bcd0b92ec390897b027db5734279771d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T23:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "92458bd9df0dc1d8bd402f1952ee309f"
     }
   ]
 }
