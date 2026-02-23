@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-23T07:33:52.916806+00:00",
+  "last_update": "2026-02-23T08:08:02.678533+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1560,6 +1560,136 @@
       "end_time": "2026-02-23T08:30:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "0c53da942503841922933fd22cf4f0af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ciechocińska, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-467, Polska",
+      "lat": 52.4535196,
+      "lon": 16.8774508,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "e0208f30b09e8c08e4fb359b458e3510"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cieplicka, Podolany, Poznań, województwo wielkopolskie, 60-472, Polska",
+      "lat": 52.4531411,
+      "lon": 16.8841247,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "e67d2a7b9fb707640bbfc1871b4daf20"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jastarnicka, Podolany, Poznań, województwo wielkopolskie, 60-472, Polska",
+      "lat": 52.4532815,
+      "lon": 16.8811381,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "be558f7230ce2e402a0e0255f1ce2a73"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kartuska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-471, Polska",
+      "lat": 52.4504973,
+      "lon": 16.8790798,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "f8edd2bdb818d1750453704b4eb130b2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubomierska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-473, Polska",
+      "lat": 52.4507725,
+      "lon": 16.8803134,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "1424eb0b32e966c3412a8858e58fe062"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nałęczowska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-472, Polska",
+      "lat": 52.4530742,
+      "lon": 16.8828716,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "1c7502c540d135d9a19953379602b4ae"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Niepołomicka, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-473, Polska",
+      "lat": 52.451402,
+      "lon": 16.8818682,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "fa233f0f28d87f6ed948c67532214446"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poronińska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-472, Polska",
+      "lat": 52.4532388,
+      "lon": 16.8829953,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "2a6be50c4a311025beb952241d8ffefc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Raciborska, Podolany, Poznań, województwo wielkopolskie, 60-472, Polska",
+      "lat": 52.4531307,
+      "lon": 16.8817824,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "310f7c31d32f85b373b1b681ee4aaaa2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "006ccb2be2f5bf876d8341e9674df31e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Strzeszyńska.",
+      "id": "c33d27b02e061565440d8af42045ce5b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szaflarska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-471, Polska",
+      "lat": 52.4513385,
+      "lon": 16.8797451,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "1adf5538e86cde978f2b793b24090857"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zakopiańska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-479, Polska",
+      "lat": 52.4477978,
+      "lon": 16.8867114,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T09:00:00",
+      "original_description": "Poznań ul. Ciechocińska, ul. Cieplicka, ul. Jastarnicka, ul. Kartuska, ul. Lubomierska, ul. Nałęczowska, ul. Niepołomicka, ul. Poronińska, ul. Raciborska, ul. Strzeszyńska, ul. Szaflarska, ul. Zakopiańska.",
+      "id": "1cc4c3b2057819021f1771640e30f540"
     },
     {
       "type": "unplanned",
