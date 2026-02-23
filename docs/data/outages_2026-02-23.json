@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-23T15:05:09.654997+00:00",
+  "last_update": "2026-02-23T15:58:57.379089+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2040,6 +2040,16 @@
       "end_time": "2026-02-23T17:30:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "02ec5c38cb29a49b9f2fab810731d0d2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szosa Poznańska, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2506863,
+      "lon": 16.8504597,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-23T20:30:00",
+      "original_description": "Golęczewo ul. Szosa Poznańska 29, parking, Zajazd Dziupla",
+      "id": "57d38ca96112fb7c38e0f192f1d566db"
     }
   ]
 }
