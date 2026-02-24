@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-24T06:14:35.129496+00:00",
+  "last_update": "2026-02-24T07:18:32.616248+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1490,6 +1490,96 @@
       "end_time": "2026-02-24T07:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "9aaae03b23416ecc811788fd7db2dc3c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "ccbdcd38d64a8e2918569b7f26b3c2bc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "2683e7fa15ee0091d1055d2dcf0abb69"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.39658,
+      "lon": 16.8986607,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "c1da73da8b37f5a7155208c3152eb9ec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Strusia, Łazarz, Poznań, województwo wielkopolskie, 60-711, Polska",
+      "lat": 52.3969847,
+      "lon": 16.9029524,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "03dc39d74930aede5685e58ce667ed79"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Łukaszewicza, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3917149,
+      "lon": 16.9027271,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "89bee6987cc4216f17be48e9717b2084"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościół pw. św. Andrzeja Apostoła, 92, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3510298,
+      "lon": 17.0254837,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "5544d2d5f59cb74deb9226f745b21136"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ryszarda Berwińskiego, Łazarz, Poznań, województwo wielkopolskie, 60-738, Polska",
+      "lat": 52.3979439,
+      "lon": 16.9029444,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "50f5a59bb50ac637fe969dce098de8b4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sebastiana Klonowica, Łazarz, Poznań, województwo wielkopolskie, 60-743, Polska",
+      "lat": 52.3971235,
+      "lon": 16.9006235,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "181aa5676c954a0e3804802faec2797e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T09:30:00",
+      "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
+      "id": "892cdad08fc4649976c0c88c930616f9"
     }
   ]
 }
