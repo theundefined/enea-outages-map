@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-24T05:11:22.256572+00:00",
+  "last_update": "2026-02-24T06:14:35.129496+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1020,6 +1020,16 @@
       "end_time": "2026-03-05T12:30:00",
       "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
       "id": "841215de78e5f010ef68eacfd09a3d53"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Anyżowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4719481,
+      "lon": 16.9360377,
+      "start_time": "2026-03-06T08:00:00",
+      "end_time": "2026-03-06T14:00:00",
+      "original_description": "Poznań: ul. Anyżowa od 3 do 15 nieparzyste.",
+      "id": "dcf24cbb6651befde6543524e60c55cf"
     },
     {
       "type": "planned",
