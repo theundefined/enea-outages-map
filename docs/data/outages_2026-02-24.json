@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-24T07:18:32.616248+00:00",
+  "last_update": "2026-02-24T08:02:57.515897+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1580,6 +1580,156 @@
       "end_time": "2026-02-24T09:30:00",
       "original_description": "Poznań ul. Andrzeja i Władysława Niegolewskich, ul. Bolesława Limanowskiego, ul. Głogowska, ul. Jana Matejki, ul. Józefa Łukaszewicza, ul. Józefa Strusia, ul. Ryszarda Berwińskiego, ul. Sebastiana Klonowica, ul. Stanisława Wyspiańskiego.",
       "id": "892cdad08fc4649976c0c88c930616f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "6d98ef43d2e0d666798afd0376e25099"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "d996a188810bf3a44a35520d1d7e68ca"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "515b5ac6f5c74cdd8446a5338cbb8929"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "9e1e65f3428c2b55547c7260d6ddbb56"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "01d0a6314af1eb8d8f7e50a5bb23c262"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Giżycka, Junikowo, Poznań, województwo wielkopolskie, 60-106, Polska",
+      "lat": 52.3826617,
+      "lon": 16.8584802,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "f47aae18491db855dccd470298d2d88c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gubińska, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.38372,
+      "lon": 16.851838,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "9dfcc4b950f995bc09b4b5e2b7edb852"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gęsia, Junikowo, Poznań, województwo wielkopolskie, 60-106, Polska",
+      "lat": 52.3823,
+      "lon": 16.8590922,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "bf142c06c56222a57a8b1c163fd14c4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kacza, Junikowo, Poznań, województwo wielkopolskie, 60-106, Polska",
+      "lat": 52.3802175,
+      "lon": 16.8622788,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "cc24c752ec5bd3a840b856fa85aa6966"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kopanina, Górczyn, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3751848,
+      "lon": 16.8622863,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "554bd60f3ad3a9f1084b177fbfba8c8c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kopanina, Górczyn, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3751848,
+      "lon": 16.8622863,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Kopanina.",
+      "id": "59dc0b14f714729a93fb0151c65b687b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Odległa, Junikowo, Poznań, województwo wielkopolskie, 60-161, Polska",
+      "lat": 52.3815734,
+      "lon": 16.8564613,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "504f6c756c19f5e758bac3029270176b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "a97d16e3fb5b464685ae94b4c3399f6f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przepiórcza, Junikowo, Poznań, województwo wielkopolskie, 60-161, Polska",
+      "lat": 52.3835972,
+      "lon": 16.8572991,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "43c3bf27a8c05e19d868047d6614c4e0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ziębicka, Junikowo, Poznań, województwo wielkopolskie, 60-164, Polska",
+      "lat": 52.3835035,
+      "lon": 16.8450278,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-24T11:00:00",
+      "original_description": "Poznań ul. Gęsia, ul. Giżycka, ul. Gubińska, ul. Kacza, ul. Kopanina, ul. Odległa, ul. Promienista, ul. Przepiórcza, ul. Ziębicka.",
+      "id": "562b5fbff29dafdca4bab9dbe175bf65"
     }
   ]
 }
