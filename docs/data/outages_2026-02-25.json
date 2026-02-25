@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-25T08:07:47.887787+00:00",
+  "last_update": "2026-02-25T09:05:33.339398+00:00",
   "outages": [
     {
       "type": "planned",
@@ -982,6 +982,46 @@
       "id": "e27eaf5b5963f7ca403ae31f86990980"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-03-10T09:00:00",
+      "end_time": "2026-03-10T11:00:00",
+      "original_description": "Poznań: ul. Dąbrowskiego 131/135, 137, 139, 141, 147, 149.",
+      "id": "002ac46af8cc92369dd65856ab4b4a9e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gorzysława, Huta Szkła Antoninek - Owens Illinois Polska, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4064525,
+      "lon": 17.0350047,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Poznań: ul. Gorzysława od 26 do 52 parzyste, 31/37, ul. Letnia, ul. Radziwoja od 27 do 63 nieparzyste bez 43.",
+      "id": "2926dae5e5176b03c93b59c0edfdc5c8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Letnia, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4056993,
+      "lon": 17.0349651,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Poznań: ul. Gorzysława od 26 do 52 parzyste, 31/37, ul. Letnia, ul. Radziwoja od 27 do 63 nieparzyste bez 43.",
+      "id": "e6336d550af99d5d75e8cb75196e910d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radziwoja, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4072718,
+      "lon": 17.0286588,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Poznań: ul. Gorzysława od 26 do 52 parzyste, 31/37, ul. Letnia, ul. Radziwoja od 27 do 63 nieparzyste bez 43.",
+      "id": "58d0e04c1878da9e8845cb4d0140e2a5"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
       "lat": 52.4106938,
@@ -1130,6 +1170,56 @@
       "end_time": "2026-02-25T08:30:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "1ab170bf7eae7d34e4cadab3e2babf3d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "e93a7db9b2c2bd0947e0d16b07552400"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "09e8a0b01c3e622cddbb794f289635a4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "755c36443cb94e2d32c61fd3e7c4cd6c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "b67f1d015b8f9ab295eca4136f36eeb4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "6bc6a21958bd3b2dc06f7af233cd02c3"
     },
     {
       "type": "unplanned",
