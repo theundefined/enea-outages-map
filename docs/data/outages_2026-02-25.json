@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-25T14:11:47.377663+00:00",
+  "last_update": "2026-02-25T15:12:01.257106+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1600,6 +1600,856 @@
       "end_time": "2026-02-25T14:30:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "46de6e770e74cfde41a3fb7176ad759d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "cb577558b9585c1b806e4fbb86951b1c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "d465438dc2b112deaf67fef342cd790f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "d9198bea284002e00e797fd02351decb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "2c369f7bb76c73a192d02acd5a9208ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "817acd4ea74afe8438689ca6a59d1c5d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "5 Stycznia, Wola, Ławica, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4224148,
+      "lon": 16.8540631,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "7086c28699da913609f7ec2a594ebec9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Antoniego Kocjana, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-408, Polska",
+      "lat": 52.4176077,
+      "lon": 16.8605932,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "17621b1e6c26059e950686905c4c7ca4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Białogardzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4344573,
+      "lon": 16.8405845,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "3854d977ec53a5e6127bc85386d6e1be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Białośliwska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4325422,
+      "lon": 16.8417874,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "34add4b421c2e39a10ee842fba3adbe8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Biebrzańska, Wola, Poznań, województwo wielkopolskie, 60-406, Polska",
+      "lat": 52.4269299,
+      "lon": 16.8596819,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "ccbe1462c3a5e3e1d0a62cd5928612f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bohdana Arcta, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-595, Polska",
+      "lat": 52.4173634,
+      "lon": 16.8656752,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "23046766e10cba87ceab707345939ce4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Braniewska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4389744,
+      "lon": 16.8211207,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "ac7268718d54430a179d51d81603414a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Budzyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4336333,
+      "lon": 16.8434486,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "73eb46b6a9ce0fe23f8460e5f99cdab5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cetniewska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4369098,
+      "lon": 16.8184443,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "ce239325042682d53298abb90ca52700"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Charzykowska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-451, Polska",
+      "lat": 52.4327776,
+      "lon": 16.8113806,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "62c099111c6573f25ddd87f509fe578a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chodzieska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335619,
+      "lon": 16.8415936,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "cc512febf85301384376814dd4b70177"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czarnkowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4333693,
+      "lon": 16.8448723,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "6682dffb5c6f45c2210825f7d3d011d3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czechowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4346609,
+      "lon": 16.8238543,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "cb988e4fe1e7af8cad90120987bd9fdf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czesława Tańskiego, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-196, Polska",
+      "lat": 52.4173998,
+      "lon": 16.8646719,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "948844b1b693fe7aa6bf09ca997b9fbe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Człopska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4336485,
+      "lon": 16.8143025,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "adfbf9ffa67ba019b0e9d764dd693b76"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Człuchowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-434, Polska",
+      "lat": 52.4385366,
+      "lon": 16.8406733,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "4423ce14ad7ff6db6101752158a1dfb2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "88ca40f5d842049c7cef444a52711b6a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziwnowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4357123,
+      "lon": 16.8195259,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "ca5af2e8d599ee7cea24a40b9ba6b378"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Elbląska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4383865,
+      "lon": 16.8256759,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "fcb46aaf22179fade0b7ef6993e841b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gniewska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4391809,
+      "lon": 16.8225109,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "847f39dd32c2b63a64a83f2f9532ecab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gorzyńska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4333545,
+      "lon": 16.8154271,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "c3d9c644cd9cfb5048c581b71728d0eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grudziądzka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4342493,
+      "lon": 16.817873,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "bae1757e73bc228d9c8fe55e9b5af249"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Izbicka, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-451, Polska",
+      "lat": 52.4335046,
+      "lon": 16.8111259,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "484ee3db8faf183769d30fa8ffc4948d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "3b0247861f81b80af6ca6130f9209b89"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Nagórskiego, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-408, Polska",
+      "lat": 52.4177446,
+      "lon": 16.8622285,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "235fb55019c5e42a6a36e3b1adb4d6da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Janusza Meissnera, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-408, Polska",
+      "lat": 52.4182606,
+      "lon": 16.863268,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "353b10347b254c6ff259d3ea7e84c877"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jerzego Bajana, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-408, Polska",
+      "lat": 52.4178973,
+      "lon": 16.86129,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "eefcc04b21e00df685dc51f35ab820e0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karlińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4344651,
+      "lon": 16.8290173,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "f189baf00e79fa89551db4ba7fbe0760"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kołobrzeska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335282,
+      "lon": 16.8401597,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "920469b7b889d8d023f77cc8d6c6e49f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościerzyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4355937,
+      "lon": 16.8163307,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "55bd1a6876abf2171905019142fa3ce5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwidzyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4340224,
+      "lon": 16.8191309,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "6fdda45d8bebe77e7ffbf86de8dbce20"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lemierzycka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4348176,
+      "lon": 16.8262394,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "f908bd02cd711076ba41f5f0290c073c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśnowolska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4341926,
+      "lon": 16.8223926,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "5e8b154bb6af6b2e3e4f209c598b1184"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubiatowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4348517,
+      "lon": 16.8279532,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "1ee98417e56006a779f9dcc7746db3b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4386107,
+      "lon": 16.8307323,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "20a337be5f80704dd4accd915b2af135"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lutycka, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 61-670, Polska",
+      "lat": 52.4381939,
+      "lon": 16.8638299,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "f1dd03b586a98df23b6c36c7611a5033"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lęborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436224,
+      "lon": 16.8359188,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "8fe752a3e1e6cc7f0460661c20b8ecf2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.4371112,
+      "lon": 16.8363817,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "d3c1188a5a8556dabc6f5a21616d4ac0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mrzeżyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4374074,
+      "lon": 16.818626,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "3d43d326fb72decab2c36c6e3d1613c9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Muszkowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4340994,
+      "lon": 16.8248311,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "5a33d8a8e53cb98fbf4b7dfb69d76e08"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Myśliborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4375834,
+      "lon": 16.8282687,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "448a90b46088ce1b283c56196bd168d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nidziańska, Wola, Poznań, województwo wielkopolskie, 60-406, Polska",
+      "lat": 52.4265779,
+      "lon": 16.8608499,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "18f589327f7348b0aef0a06326441506"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Notecka, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.4286907,
+      "lon": 16.8563264,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "75843eacc750481ab00fc9e2a7a0b9cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowokramska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4336905,
+      "lon": 16.8286192,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "f8cac86e23f6ff0d013ccda55c072c04"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Olsztyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4337359,
+      "lon": 16.838177,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "16cc279423e40fb5cf54d7dda33e6428"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Lotnictwa Polskiego, Wola, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.422418,
+      "lon": 16.8664131,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "27a8f4166fd26cedabc43654358fe4b9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "d2e4b649813486a70924b03ab9193d31"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owczarska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4336542,
+      "lon": 16.824506,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "e2dcf57113cbf1c2ab83b13d68e813dd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ownicka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4336824,
+      "lon": 16.8262791,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "cfef8d9d1f8fbb9c59a8e0caf7b97ded"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pasłęcka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4401078,
+      "lon": 16.8195062,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "1c429156d8a3a4ca011e0d8d1885ca8a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pawła Zołotowa, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-196, Polska",
+      "lat": 52.4174992,
+      "lon": 16.8634864,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "bdc0f6aff5f128572416a043513cf56e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pawłowicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.477752,
+      "lon": 16.7858284,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "8e1199850f9bdfe7de4ee7fd4824b00a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgajska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4339951,
+      "lon": 16.8394814,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "23cd9ae4f61edabaa84722ff1fac7c99"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polanowska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4406929,
+      "lon": 16.8169403,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "66e14439e75338b1c61bfa131da206f1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Połczyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4337359,
+      "lon": 16.8297193,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "78b61e9d052c380ec682eb2588fede0d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Prabucka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.436797,
+      "lon": 16.8177943,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "61a1885babbdb29fef9943dd2f3d643d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przelot, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4233728,
+      "lon": 16.8570039,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "f6bf7c0371b5aa59f65807903536fd96"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pucka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4400212,
+      "lon": 16.824954,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "8236b49fbf9f551405776a96ecfc878e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rogozińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4323261,
+      "lon": 16.8428395,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "99210e2b6af59dc3d633e10a2e3e7e4d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rybojadzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4346803,
+      "lon": 16.8250705,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "1002fb65e2573e3f6311387a60cf01c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynkowa, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-768, Polska",
+      "lat": 52.4091889,
+      "lon": 16.9327812,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "27f1bd1217475c34ac98568eb33a5887"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Santocka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4381887,
+      "lon": 16.8305414,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "1e3327949c7e025b38d3afeb9e1a6195"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "1e6d43254d547c733cee97735df9972b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Latwisa, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-408, Polska",
+      "lat": 52.4182529,
+      "lon": 16.8602934,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "9bf635c37648e0effeecdba8e40582d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Startowa, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.4261395,
+      "lon": 16.8562671,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "fe00299494197eb28f0cbe02295034e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Drzewieckiego, Osiedle Lotników Wielkopolskich, Wola, Poznań, województwo wielkopolskie, 60-196, Polska",
+      "lat": 52.4169818,
+      "lon": 16.8623126,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "0541f5f01798ed5751a639839d92a853"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Suliszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4345667,
+      "lon": 16.8320905,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "746b21920ebeebd4c6de73883e723c24"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sułowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4335635,
+      "lon": 16.8273687,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "fbdd5dd60d4c7e27585c18d49de51f87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sytkowska, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.4298858,
+      "lon": 16.8559111,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "8b46e2c46e7d17d5d95b423de87b747a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "9af3576fa89c37fe24f281f0d1c314fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słupska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4510895,
+      "lon": 16.8030346,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "dbf87d91f475ecfa467864bd614e343b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tczewska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4387792,
+      "lon": 16.8231518,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "a36cfa52f6514abcf098871940f8d8f1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trzcianecka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-434, Polska",
+      "lat": 52.4372523,
+      "lon": 16.8402262,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "0e5e3cd0a429db03692e0db131f1de40"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trzebiatowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436923,
+      "lon": 16.8355248,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "24dc28e17e98a8b449e0aadc314a19ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warpnowska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4345899,
+      "lon": 16.8146388,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "5f18ce031ccd132b3648b4472b4245c2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wisłocka, Wola, Poznań, województwo wielkopolskie, 60-406, Polska",
+      "lat": 52.4273126,
+      "lon": 16.8587434,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "8f6d626fe6bf74589265f33c30c1e899"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiślana, Wola, Poznań, województwo wielkopolskie, 61-670, Polska",
+      "lat": 52.4243893,
+      "lon": 16.8666217,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "0a363e7cebb6d229a2e048b132d28614"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łagowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4362411,
+      "lon": 16.8190944,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "52bf1085f51542e834af621da1a7dade"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łebska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-456, Polska",
+      "lat": 52.4380636,
+      "lon": 16.8117294,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "62c9cd36bc3f7424884934b7dbd21fe1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łupowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.434894,
+      "lon": 16.8291249,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T18:00:00",
+      "original_description": "Baranowo ul. Szamotulska, Chyby ul. Szamotulska, Przeźmierowo ul. Rynkowa, Poznań os. Lotnictwa Polskiego, os. Orła Białego, ul. 5 Stycznia, ul. Antoniego Kocjana, ul. Białogardzka, ul. Białośliwska, ul. Biebrzańska, ul. Bohdana Arcta, ul. Braniewska, ul. Budzyńska, ul. Cetniewska, ul. Charzykowska, ul. Chodzieska, ul. Czarnkowska, ul. Czechowska, ul. Czesława Tańskiego, ul. Człopska, ul. Człuchowska, ul. Darłowska, ul. Dziwnowska, ul. Elbląska, ul. Gniewska, ul. Gorzyńska, ul. Grudziądzka, ul. Izbicka, ul. Jana Henryka Dąbrowskiego, ul. Jana Nagórskiego, ul. Janusza Meissnera, ul. Jerzego Bajana, ul. Karlińska, ul. Kołobrzeska, ul. Kościerzyńska, ul. Kwidzyńska, ul. Lemierzycka, ul. Leśnowolska, ul. Lęborska, ul. Lubiatowska, ul. Lubowska, ul. Lutycka, ul. Łagowska, ul. Łebska, ul. Łupowska, ul. Maszewska, ul. Mrzeżyńska, ul. Muszkowska, ul. Myśliborska, ul. Nidziańska, ul. Notecka, ul. Nowokramska, ul. Olsztyńska, ul. Owczarska, ul. Ownicka, ul. Pasłęcka, ul. Pawła Zołotowa, ul. Pawłowicka, ul. Podgajska, ul. Polanowska, ul. Połczyńska, ul. Prabucka, ul. Przelot, ul. Pucka, ul. Rogozińska, ul. Rybojadzka, ul. Santocka, ul. Sianowska, ul. Słupska, ul. Stanisława Latwisa, ul. Startowa, ul. Stefana Drzewieckiego, ul. Suliszewska, ul. Sułowska, ul. Sytkowska, ul. Tczewska, ul. Trzcianecka, ul. Trzebiatowska, ul. Warpnowska, ul. Wisłocka, ul. Wiślana.",
+      "id": "93f1e5ba4ee5908c648b9730e6ff0191"
     }
   ]
 }
