@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-25T07:30:07.475718+00:00",
+  "last_update": "2026-02-25T08:07:47.887787+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1130,6 +1130,76 @@
       "end_time": "2026-02-25T08:30:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "1ab170bf7eae7d34e4cadab3e2babf3d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziedzicka, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-345, Polska",
+      "lat": 52.3530554,
+      "lon": 16.9276401,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T11:00:00",
+      "original_description": "Poznań ul. Dziedzicka, ul. Masztowa, ul. Oświęcimska, ul. Starołęcka, ul. Władysława Kotwicza, ul. Żorska, ul. Żywiecka.",
+      "id": "9fcab8f79be7dbd85c1ac302eccde4bc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Masztowa, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-345, Polska",
+      "lat": 52.354373,
+      "lon": 16.9267734,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T11:00:00",
+      "original_description": "Poznań ul. Dziedzicka, ul. Masztowa, ul. Oświęcimska, ul. Starołęcka, ul. Władysława Kotwicza, ul. Żorska, ul. Żywiecka.",
+      "id": "3183ab42ada32eb447e303d6c6d4847f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T11:00:00",
+      "original_description": "Poznań ul. Dziedzicka, ul. Masztowa, ul. Oświęcimska, ul. Starołęcka, ul. Władysława Kotwicza, ul. Żorska, ul. Żywiecka.",
+      "id": "038e5b03ba52956af0ee73237d5e8ef5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T11:00:00",
+      "original_description": "Poznań ul. Starołęcka.",
+      "id": "01726e933269ed21ab3f3b6504d55121"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Kotwicza, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-344, Polska",
+      "lat": 52.3537362,
+      "lon": 16.9310722,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T11:00:00",
+      "original_description": "Poznań ul. Dziedzicka, ul. Masztowa, ul. Oświęcimska, ul. Starołęcka, ul. Władysława Kotwicza, ul. Żorska, ul. Żywiecka.",
+      "id": "d2f053efd7d1fb31df36d5513483cb0b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żorska, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-344, Polska",
+      "lat": 52.3536729,
+      "lon": 16.9287771,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T11:00:00",
+      "original_description": "Poznań ul. Dziedzicka, ul. Masztowa, ul. Oświęcimska, ul. Starołęcka, ul. Władysława Kotwicza, ul. Żorska, ul. Żywiecka.",
+      "id": "42e1c68b916d8a60e1a513a1bb198914"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żywiecka, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-345, Polska",
+      "lat": 52.3526947,
+      "lon": 16.9251905,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-25T11:00:00",
+      "original_description": "Poznań ul. Dziedzicka, ul. Masztowa, ul. Oświęcimska, ul. Starołęcka, ul. Władysława Kotwicza, ul. Żorska, ul. Żywiecka.",
+      "id": "4336c0288ec6bbcfc78b167e5e2dc064"
     }
   ]
 }
