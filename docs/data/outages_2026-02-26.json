@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-26T12:59:54.680950+00:00",
+  "last_update": "2026-02-26T14:12:53.749861+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1543,6 +1543,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T14:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "52201d832215a7df25669ced7db4898d"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Brzeska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-048, Polska",
       "lat": 52.4071937,
       "lon": 16.983973,
@@ -1550,6 +1560,16 @@
       "end_time": "2026-02-26T14:30:00",
       "original_description": "Poznań ul. Augustowska, ul. Brzeska, ul. Czekalskie, ul. Goplańska, ul. Krańcowa, ul. Łomżyńska, ul. Mińska, ul. Mogileńska, ul. Otwocka, ul. Warszawska, ul. Wiankowa.",
       "id": "54458eed52944ea6edb4810df58a9df7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T14:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "5e7455ac2f11ad77b3c205d96b055425"
     },
     {
       "type": "unplanned",
@@ -1573,6 +1593,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T14:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "0894656f6989da4482b97e180ee11e78"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
       "lat": 52.4194782,
       "lon": 16.9762836,
@@ -1580,6 +1610,16 @@
       "end_time": "2026-02-26T14:30:00",
       "original_description": "Poznań ul. Augustowska, ul. Brzeska, ul. Czekalskie, ul. Goplańska, ul. Krańcowa, ul. Łomżyńska, ul. Mińska, ul. Mogileńska, ul. Otwocka, ul. Warszawska, ul. Wiankowa.",
       "id": "485b8323a736f6070490cbd6f51b2aed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T14:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "588b14bf353d790624a18b1d62ad69d6"
     },
     {
       "type": "unplanned",
@@ -1610,6 +1650,16 @@
       "end_time": "2026-02-26T14:30:00",
       "original_description": "Poznań ul. Augustowska, ul. Brzeska, ul. Czekalskie, ul. Goplańska, ul. Krańcowa, ul. Łomżyńska, ul. Mińska, ul. Mogileńska, ul. Otwocka, ul. Warszawska, ul. Wiankowa.",
       "id": "d7257db05707b9acd08a921b1acbb033"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T14:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "fdf0d582d1ca7d49f76ed2006370b771"
     },
     {
       "type": "unplanned",
