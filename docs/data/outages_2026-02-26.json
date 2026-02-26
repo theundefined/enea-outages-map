@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-26T06:41:23.944123+00:00",
+  "last_update": "2026-02-26T07:40:45.369735+00:00",
   "outages": [
     {
       "type": "planned",
@@ -843,6 +843,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Jasielska, Podolany, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4442509,
+      "lon": 16.8952851,
+      "start_time": "2026-03-06T08:30:00",
+      "end_time": "2026-03-06T09:30:00",
+      "original_description": "Poznań: ul. Strzeszyńska 31, 35/37, 36A, 54, 61, 61A, ul. Jasielska 16.",
+      "id": "b1e3c6d4261a673a2177276fdd1a3afb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "2026-03-06T08:30:00",
+      "end_time": "2026-03-06T09:30:00",
+      "original_description": "Poznań: ul. Strzeszyńska 31, 35/37, 36A, 54, 61, 61A, ul. Jasielska 16.",
+      "id": "859de63f3afadcb00c233d9759f9d18b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Gołężycka, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-353, Polska",
       "lat": 52.3599515,
       "lon": 16.9465121,
@@ -1150,6 +1170,56 @@
       "end_time": "2026-02-26T07:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "596977eba169dbe0087a1763b38fc427"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "bb690f3aded4a9b4bd22ecb0ae0f1963"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "32f8fdb50fa11a7379ace1f82f7f6489"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "f9e9b73380bc26d655818d1bf31edb19"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "d719864e5f1e6ede0c1002fef97f6153"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T10:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "97b4c994af0a9940b7e0ea02f942d791"
     }
   ]
 }
