@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-26T11:53:44.715417+00:00",
+  "last_update": "2026-02-26T12:59:54.680950+00:00",
   "outages": [
     {
       "type": "planned",
@@ -923,6 +923,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Kórnicka, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3997552,
+      "lon": 16.9510957,
+      "start_time": "2026-03-10T08:00:00",
+      "end_time": "2026-03-10T16:00:00",
+      "original_description": "Poznań: ul. Kórnicka 5.",
+      "id": "1daa871edadb86c79088bfdd2369133f"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Junacka, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-149, Polska",
       "lat": 52.3889354,
       "lon": 16.8682217,
@@ -1070,6 +1080,36 @@
       "end_time": "2026-03-11T14:30:00",
       "original_description": "Gmina Komorniki miejscowość Rosnówko ul. Leśna cała, ul. Kręta cała, ul. Nowa cała, ul. Jarosławiecka cała (oprócz nr 26), ul. Dworcowa cała, ul. Poznańska 22, 24, 29, działki nr 174, 184/3, 191/19, 306/3, 306/4, 306, 324/2, Klub Jeździecki Wechta, sklep,\n\nGmina Stęszew miejscowość Trzebaw ul. Kościelna cała, ul. Kuika cała, ul. Nowa cała, ul. Topolowa 1, 2, 3, 14, 15,  ul. Polna od 1 do 5, ul. Spokojna cała (oprócz nr od 11 do 16), ul.  Poznańska 1, 3, ul. Leśna od 1 do 4, działki nr 81/5,  87/3, 87/5, 105/16, 105/20, 105/21, 105/22, 105/39, 110/7, 110/9, 174, 177/2, 288, 469, 470, 471, 472, 474, 476, 477,  kaplica, hydrofornia, sklep, stacja kolejowa, automat PKP, warsztat,",
       "id": "69badcec8931222e79181b0d8cc086d3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Błażeja Winklera, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3895538,
+      "lon": 16.8901591,
+      "start_time": "2026-03-12T08:30:00",
+      "end_time": "2026-03-12T11:30:00",
+      "original_description": "Poznań: ul. Jarochowskiego od 41 do 51 nieparzyste, od 50 do 58 parzyste, ul. Winklera 18, ul. Hetmańska 28.",
+      "id": "611f9ba76041709f22cd9fdeb450563b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hetmańska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3830471,
+      "lon": 16.9258024,
+      "start_time": "2026-03-12T08:30:00",
+      "end_time": "2026-03-12T11:30:00",
+      "original_description": "Poznań: ul. Jarochowskiego od 41 do 51 nieparzyste, od 50 do 58 parzyste, ul. Winklera 18, ul. Hetmańska 28.",
+      "id": "c6e7169b1fb873061e49faa25157f9ed"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kazimierza Jarochowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3888627,
+      "lon": 16.8876942,
+      "start_time": "2026-03-12T08:30:00",
+      "end_time": "2026-03-12T11:30:00",
+      "original_description": "Poznań: ul. Jarochowskiego od 41 do 51 nieparzyste, od 50 do 58 parzyste, ul. Winklera 18, ul. Hetmańska 28.",
+      "id": "0ff6844ca1b3d38537205fa89e1a0672"
     },
     {
       "type": "planned",
@@ -1443,6 +1483,56 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T13:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "8c992255d697d5c107721425f485230c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T13:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "13f7e2109ede4e0e2b219435c79e94da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T13:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "853415e4c0c35a3e8ae1dc2bb8ccec72"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T13:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "f6eab89831b097b5cd8d9bd790bc6d8e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T13:00:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "4ce332872d568582a60bd53b69a95e6a"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Augustowska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-051, Polska",
       "lat": 52.4075989,
       "lon": 16.9879136,
@@ -1810,6 +1900,176 @@
       "end_time": "2026-02-26T15:00:00",
       "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
       "id": "a63a814288bcc33af85c59fef4e31a5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "c84b16be99b63b633bf1372d9613a8f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "f2409387dd6cf1722f09381570a5b16e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "49a9fce3ee8ddf4c3d62031fec11f6ef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "1be4ab3c403b13ef2707e672344438bf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "df570391ba843d15955d048ce4a644cd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.248571,
+      "lon": 17.0886353,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "d3ecb2354927467b06e5993ba0e4f938"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "4e31bd19399008385a3205c076cb73af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "2cda304ecebd8c01d2a5d9c60e5b4c9d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "18827c86214c49a47157abf952a8321c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "93c5e6be1592f5dbe916577b3ace346d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "ad41ce99a9b17f6549ce6c89a54ffae6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "868297f9f4effdfcb11e61842eba17d9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna Dolina, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4366614,
+      "lon": 17.0887545,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "7ed55433c4994aaaf895eebad4d15de3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Usługowa, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4599384,
+      "lon": 17.1959395,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "0766bb52b816dd1404d850f00ba7fee5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "b26842b2acf2c7e89c54cb892b2112ad"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wąska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-859, Polska",
+      "lat": 52.4140584,
+      "lon": 16.9056711,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "36b09b96c9dae689956ef826a35397ce"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielone Wzgórze, Szczytniki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.3071557,
+      "lon": 17.0040679,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-26T15:30:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko.",
+      "id": "4b2543fae34f320034bd1756f885918e"
     }
   ]
 }
