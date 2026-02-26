@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-26T09:26:58.650694+00:00",
+  "last_update": "2026-02-26T10:12:02.885664+00:00",
   "outages": [
     {
       "type": "planned",
@@ -750,6 +750,16 @@
       "end_time": "2026-03-04T12:00:00",
       "original_description": "Poznań: ul. Janickiego 23A-F.",
       "id": "2e02021c24ffcb548496d522a1930ef9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "28 Czerwca 1956 roku, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3532487,
+      "lon": 16.9017169,
+      "start_time": "2026-03-05T08:00:00",
+      "end_time": "2026-03-05T15:00:00",
+      "original_description": "Poznań: ul. 28 Czerwca 1956r. od 152 do 164 parzyste.",
+      "id": "09445a9bf42bab62c8dbd3c8e4c10e4d"
     },
     {
       "type": "planned",
