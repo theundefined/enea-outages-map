@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-27T07:58:23.038117+00:00",
+  "last_update": "2026-02-27T08:50:09.703715+00:00",
   "outages": [
     {
       "type": "planned",
@@ -773,6 +773,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Nadbrzeże, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4264891,
+      "lon": 16.9536288,
+      "start_time": "2026-03-10T08:00:00",
+      "end_time": "2026-03-10T13:00:00",
+      "original_description": "Poznań: ul. Wilczak 5, 7, 10, 10A, 11, 12, 14B, 20, 22, 24, ul. Serbska 3A, 4, 5, ul. Nadbrzeże 4.",
+      "id": "d301406770fa0dc2e59e602ab7eb8aec"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Serbska, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-623, Polska",
+      "lat": 52.4302408,
+      "lon": 16.9577556,
+      "start_time": "2026-03-10T08:00:00",
+      "end_time": "2026-03-10T13:00:00",
+      "original_description": "Poznań: ul. Wilczak 5, 7, 10, 10A, 11, 12, 14B, 20, 22, 24, ul. Serbska 3A, 4, 5, ul. Nadbrzeże 4.",
+      "id": "5eb417fd3d18dbd7f603ef61ca628190"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wilczak, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4311506,
+      "lon": 16.9520728,
+      "start_time": "2026-03-10T08:00:00",
+      "end_time": "2026-03-10T13:00:00",
+      "original_description": "Poznań: ul. Wilczak 5, 7, 10, 10A, 11, 12, 14B, 20, 22, 24, ul. Serbska 3A, 4, 5, ul. Nadbrzeże 4.",
+      "id": "fb8eecfc614662475a0a31754fec485d"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kościerzyńska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
       "lat": 52.4355937,
       "lon": 16.8163307,
@@ -940,6 +970,16 @@
       "end_time": "2026-03-11T14:30:00",
       "original_description": "Gmina Komorniki miejscowość Rosnówko ul. Leśna cała, ul. Kręta cała, ul. Nowa cała, ul. Jarosławiecka cała (oprócz nr 26), ul. Dworcowa cała, ul. Poznańska 22, 24, 29, działki nr 174, 184/3, 191/19, 306/3, 306/4, 306, 324/2, Klub Jeździecki Wechta, sklep,\n\nGmina Stęszew miejscowość Trzebaw ul. Kościelna cała, ul. Kuika cała, ul. Nowa cała, ul. Topolowa 1, 2, 3, 14, 15,  ul. Polna od 1 do 5, ul. Spokojna cała (oprócz nr od 11 do 16), ul.  Poznańska 1, 3, ul. Leśna od 1 do 4, działki nr 81/5,  87/3, 87/5, 105/16, 105/20, 105/21, 105/22, 105/39, 110/7, 110/9, 174, 177/2, 288, 469, 470, 471, 472, 474, 476, 477,  kaplica, hydrofornia, sklep, stacja kolejowa, automat PKP, warsztat,",
       "id": "69badcec8931222e79181b0d8cc086d3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "2026-03-12T08:00:00",
+      "end_time": "2026-03-12T13:00:00",
+      "original_description": "Poznań: ul. Sianowska od 130 do 134 parzyste, 134A.",
+      "id": "6b5f95f2319eb69e63ecc64594ee9b59"
     },
     {
       "type": "planned",
@@ -1460,6 +1500,116 @@
       "end_time": "2026-02-27T11:00:00",
       "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
       "id": "1cc64cdff627c227f6da1bb7d9bccada"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Białogardzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4344573,
+      "lon": 16.8405845,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "9c61737e877c8d142bbd5ee7ccae0275"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gorajska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-427, Polska",
+      "lat": 52.4311072,
+      "lon": 16.8349776,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "76ed97b658928deabc64aa7ae32b8558"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "53be878f50f6c602a81548238177c2fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mrowińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-427, Polska",
+      "lat": 52.4298634,
+      "lon": 16.8329805,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "41bf0cab73b892b1dc4e97a3ba04c3a8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Olsztyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4337359,
+      "lon": 16.838177,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "65cd72d2f07708c33932ed6f7a423b04"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Prusimska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-427, Polska",
+      "lat": 52.4299177,
+      "lon": 16.8341407,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "60beeb7281e9d8f184c35b2b60064d28"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przybrodzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-427, Polska",
+      "lat": 52.4273384,
+      "lon": 16.8322745,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "9e49bafba70dd2cba3ea30ac22c459f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przytoczna, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-427, Polska",
+      "lat": 52.4278901,
+      "lon": 16.8340202,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "f04b6a2a7fbce34779705e25441bc7da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Santocka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4381887,
+      "lon": 16.8305414,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "056e62d38daf462ee557218a506740af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wituchowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-427, Polska",
+      "lat": 52.4301105,
+      "lon": 16.8318698,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "6dca5f83dbc4c427290c2ab100916269"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wolińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4331661,
+      "lon": 16.8394575,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T12:00:00",
+      "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
+      "id": "ee7614f7f6303bd4099aaf2ab10015eb"
     }
   ]
 }
