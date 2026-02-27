@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-27T10:06:30.313637+00:00",
+  "last_update": "2026-02-27T10:57:07.254700+00:00",
   "outages": [
     {
       "type": "planned",
@@ -700,6 +700,16 @@
       "end_time": "2026-03-05T12:30:00",
       "original_description": "Poznań: ul. Jasna Rola od 2 do 8 parzyste bez 2A, ul. Rubież od 1 do 17 nieparzyste, 21A-B, od 23 do 31 nieparzyste, 31A, od 2 do 8 parzyste, 18, 20, ul. Naramowicka od 164 do 172 parzyste, 172A-D, 197, 199, 201.",
       "id": "841215de78e5f010ef68eacfd09a3d53"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Okrężna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4777674,
+      "lon": 17.1805552,
+      "start_time": "2026-03-06T08:00:00",
+      "end_time": "2026-03-06T12:30:00",
+      "original_description": "Wschowa: ul. 55 Poznańskiego Pułku Piechoty nr 9 do 15 nieparzyste; ul. Ks. Kostki nr 6A; ul. Moniuszki nr 14 do 24 parzyste, nr 21 do 31 nieparzyste, Przedszkole i Żłobek SŁONECZKO; ul. Okrężna nr 11; ul. Staroleszczyńska nr 13A PHU JARKO; ul. Kolejowa - GAZ-SYSTEM (dz. 1847).\ngm. Wschowa: Przyczyna Dolna nr 1, 10B, 11 do 13, 53B, 53C.",
+      "id": "ac8925d30e7b4ed98074696b5bd13ab8"
     },
     {
       "type": "planned",
@@ -1553,6 +1563,56 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "0c7aef8aef87f34ec94e4ec8dd6baac8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "7068e5e461dd229e0183868950cb893e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "ea2711936b5fa7a0d452433651f63dd6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "0afb9e5e539a317349527eabb972d6cd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "d6d689199cc7a08f2cc027f7cb2ae3d6"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Białogardzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
       "lat": 52.4344573,
       "lon": 16.8405845,
@@ -1660,6 +1720,86 @@
       "end_time": "2026-02-27T12:00:00",
       "original_description": "Poznań ul. Białogardzka, ul. Gorajska, ul. Jana Henryka Dąbrowskiego, ul. Mrowińska, ul. Olsztyńska, ul. Prusimska, ul. Przybrodzka, ul. Przytoczna, ul. Santocka, ul. Wituchowska, ul. Wolińska.",
       "id": "ee7614f7f6303bd4099aaf2ab10015eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T13:30:00",
+      "original_description": "Góra ul. Długa, ul. Kręta, ul. Poznańska, ul. Przełaj, ul. Szamotulska, ul. Szkolna, ul. Terenowa, ul. Tęczowa.",
+      "id": "66b75a4383c366eb74bdf4b22f63a5b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T13:30:00",
+      "original_description": "Góra ul. Długa, ul. Kręta, ul. Poznańska, ul. Przełaj, ul. Szamotulska, ul. Szkolna, ul. Terenowa, ul. Tęczowa.",
+      "id": "394856812b002398bfe295fa31398524"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T13:30:00",
+      "original_description": "Góra ul. Długa, ul. Kręta, ul. Poznańska, ul. Przełaj, ul. Szamotulska, ul. Szkolna, ul. Terenowa, ul. Tęczowa.",
+      "id": "d743d0147cf74a2c36878b6c60656e3f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przełaj, Góra, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-079, Polska",
+      "lat": 52.4727192,
+      "lon": 16.6305458,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T13:30:00",
+      "original_description": "Góra ul. Długa, ul. Kręta, ul. Poznańska, ul. Przełaj, ul. Szamotulska, ul. Szkolna, ul. Terenowa, ul. Tęczowa.",
+      "id": "2016061fa7b877383c9e59a8bd81e2c3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T13:30:00",
+      "original_description": "Góra ul. Długa, ul. Kręta, ul. Poznańska, ul. Przełaj, ul. Szamotulska, ul. Szkolna, ul. Terenowa, ul. Tęczowa.",
+      "id": "2104b2ef1f33fec8f852d20ce63cee5e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T13:30:00",
+      "original_description": "Góra ul. Długa, ul. Kręta, ul. Poznańska, ul. Przełaj, ul. Szamotulska, ul. Szkolna, ul. Terenowa, ul. Tęczowa.",
+      "id": "39ec917b36adbe6b00508e0777d3a83a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Terenowa, Zborówko, Zborowo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.3725456,
+      "lon": 16.629786,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T13:30:00",
+      "original_description": "Góra ul. Długa, ul. Kręta, ul. Poznańska, ul. Przełaj, ul. Szamotulska, ul. Szkolna, ul. Terenowa, ul. Tęczowa.",
+      "id": "29dfbff83d76d29ae223ef331868306f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tęczowa, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3924959,
+      "lon": 16.8799077,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T13:30:00",
+      "original_description": "Góra ul. Długa, ul. Kręta, ul. Poznańska, ul. Przełaj, ul. Szamotulska, ul. Szkolna, ul. Terenowa, ul. Tęczowa.",
+      "id": "806a252a9e0f24c0168ee41d8f4728ad"
     }
   ]
 }
