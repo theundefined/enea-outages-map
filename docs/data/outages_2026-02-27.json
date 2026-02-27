@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-27T14:54:58.319915+00:00",
+  "last_update": "2026-02-27T15:35:30.198663+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1910,6 +1910,96 @@
       "end_time": "2026-02-27T16:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "3abc05993740855efbf57cdf28f4a07d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "71039981902e5341d2cda8b346a9c2c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "78c85fbee3e6313675f1faf799b72737"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "da291ad1408c379a9639df6a1329896d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "506413d30db28c26e77c7c6d2dd0d99e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T17:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "ec23727f2f14daf0e9c667d46444aad4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michała Drzymały, Sołacz, Poznań, województwo wielkopolskie, 60-646, Polska",
+      "lat": 52.4221887,
+      "lon": 16.9133499,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T18:30:00",
+      "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
+      "id": "69675d1175128bbf0202f54d1b4cef41"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T18:30:00",
+      "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
+      "id": "029cfe3880d87854e9948569ea2519e8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T18:30:00",
+      "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
+      "id": "78bf7c0d61c98cc01015d6a4eac954c5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T18:30:00",
+      "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
+      "id": "4e08a7dc909cb32d4967e8dce28a5235"
     }
   ]
 }
