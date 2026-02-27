@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-27T16:54:03.383638+00:00",
+  "last_update": "2026-02-27T17:32:52.110664+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2000,6 +2000,46 @@
       "end_time": "2026-02-27T18:30:00",
       "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
       "id": "4e08a7dc909cb32d4967e8dce28a5235"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michała Drzymały, Sołacz, Poznań, województwo wielkopolskie, 60-646, Polska",
+      "lat": 52.4221887,
+      "lon": 16.9133499,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T20:00:00",
+      "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
+      "id": "2e25f15e719a6e5c61177670525cf2c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T20:00:00",
+      "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
+      "id": "f7eb38a8a5c063dad08ed97b92bd2552"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T20:00:00",
+      "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
+      "id": "9f3a5cc2446e0a0e28fc869b47f0f24b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T20:00:00",
+      "original_description": "Ruchocice ul. Drzymały, ul. Ogrodowa, ul. Poznańska, ul. Wspólna.",
+      "id": "e1065bfe42840ac631d18de01081a0bc"
     }
   ]
 }
