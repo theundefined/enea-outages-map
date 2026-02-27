@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-27T07:11:29.534927+00:00",
+  "last_update": "2026-02-27T07:58:23.038117+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1290,6 +1290,176 @@
       "end_time": "2026-02-27T07:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "00118f399d9eda4cd3b18bc2cf4f31e3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T08:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "6762a0cfdd60378a1af096416a586dd3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T08:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "b0f75c5ed136a2e56582c50827a18754"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T08:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "de25abbb3ba6946f3bb8452d8e6b8a4c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maksymiliana Jackowskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-556, Polska",
+      "lat": 52.4104194,
+      "lon": 16.8919892,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T08:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "c0df76b03c08633abf921d135c92a5c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T08:30:00",
+      "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
+      "id": "b94526f5692b51a2e67cfc3e533de755"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czerniejewska, Warszawskie, Komandoria-Pomet, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-038, Polska",
+      "lat": 52.4116516,
+      "lon": 16.9812381,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "9495fffebdfb8469cd80f3672a201af1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kolska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4113199,
+      "lon": 16.9894439,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "da16fd12ef9598b723549cc5ef24b34d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4106709,
+      "lon": 16.9892118,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "a27603113bc2e077d7be99c7e6b3af34"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kostrzyńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-042, Polska",
+      "lat": 52.4111322,
+      "lon": 16.987591,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "6b0bfd2ba82d0e572bece3d18d9f43e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "2ab06c0e54ce509b699c18e36d23aaa9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kutnowska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-047, Polska",
+      "lat": 52.4107009,
+      "lon": 16.9852088,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "9d94fb6caab5c70a4a364864c02669aa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Płocka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-045, Polska",
+      "lat": 52.4115053,
+      "lon": 16.9851407,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "83b9dc0c1ede7662e8ca3d043c6eced5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
+      "lat": 52.410741,
+      "lon": 16.983344,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "a5b54112622181846a89c87816cf78bd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słupecka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-042, Polska",
+      "lat": 52.4110789,
+      "lon": 16.9866789,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "ef39e2509c5c31b3db711f6bba88b6b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Toruńska, Czekalskie, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-046, Polska",
+      "lat": 52.4115896,
+      "lon": 16.9836594,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "5bb4262d52e784589080a67593a44dc4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łowicka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-047, Polska",
+      "lat": 52.4104168,
+      "lon": 16.9852391,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "fba58a98b09495ef896e08c9864cb932"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łęczycka, Czekalskie, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-042, Polska",
+      "lat": 52.4118516,
+      "lon": 16.9887225,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-27T11:00:00",
+      "original_description": "Poznań ul. Czerniejewska, ul. Kolska, ul. Konińska, ul. Kostrzyńska, ul. Krańcowa, ul. Kutnowska, ul. Łęczycka, ul. Łowicka, ul. Płocka, ul. Słupecka, ul. Swarzędzka, ul. Toruńska.",
+      "id": "1cc64cdff627c227f6da1bb7d9bccada"
     }
   ]
 }
