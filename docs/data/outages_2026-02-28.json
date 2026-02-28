@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-28T14:57:40.501176+00:00",
+  "last_update": "2026-02-28T15:27:06.148316+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1500,6 +1500,126 @@
       "end_time": "2026-02-28T17:00:00",
       "original_description": "Poznań ul. Beskidzka, ul. Biskupińska.",
       "id": "79520fe08d9680bf1929c81bd2979164"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Architektów, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4294709,
+      "lon": 16.8201994,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "70fda5a759ca832f937d6091420d346d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czerska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4287677,
+      "lon": 16.820026,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "8122a7cfb48dd3aeaa0da46e84e628fb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Drogowców, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.43028,
+      "lon": 16.8211616,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "f6e01faa3c01a9db595249d3b820b38a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Geodetów, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4302918,
+      "lon": 16.8200495,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "2c22246645d9817991c33645b3df4912"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karsińska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4286344,
+      "lon": 16.820924,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "abd451584748847fadf3bec929e18c52"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Meliorantów, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4302803,
+      "lon": 16.8222668,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "42ad6a5290af1f9227e2e687e2778287"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pelplińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4274275,
+      "lon": 16.8225647,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "11d27ccc615684c7924f8945701fe339"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pniewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4287754,
+      "lon": 16.8235245,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "f162d9146409eaaa97cdc3445dd026fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skarszewska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4287635,
+      "lon": 16.8217518,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "4fc61af9243366737ecc653c2d3a2971"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sępoleńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4286339,
+      "lon": 16.8226357,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "8a9124942542fd40a56305716cee1701"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tucholska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4280938,
+      "lon": 16.8222313,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "2988bbf66a7b7592719d41e239850d11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wejherowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4310885,
+      "lon": 16.8275401,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T18:30:00",
+      "original_description": "Poznań ul. Architektów, ul. Czerska, ul. Drogowców, ul. Geodetów, ul. Karsińska, ul. Meliorantów, ul. Pelplińska, ul. Pniewska, ul. Sępoleńska, ul. Skarszewska, ul. Tucholska, ul. Wejherowska.",
+      "id": "c89ab02ad13804ff8aea16d2032ba832"
     }
   ]
 }
