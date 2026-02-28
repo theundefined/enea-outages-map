@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-28T13:23:54.539972+00:00",
+  "last_update": "2026-02-28T13:52:29.715850+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1480,6 +1480,26 @@
       "end_time": "2026-02-28T16:30:00",
       "original_description": "Jasin ul. Poznańska.",
       "id": "b332f090463c4bec9698de70405e783d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Beskidzka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-433, Polska",
+      "lat": 52.4458097,
+      "lon": 16.8323933,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T17:00:00",
+      "original_description": "Poznań ul. Beskidzka, ul. Biskupińska.",
+      "id": "f458dde0eee42d4e314104486b088438"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Biskupińska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4622495,
+      "lon": 16.867017,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T17:00:00",
+      "original_description": "Poznań ul. Beskidzka, ul. Biskupińska.",
+      "id": "79520fe08d9680bf1929c81bd2979164"
     }
   ]
 }
