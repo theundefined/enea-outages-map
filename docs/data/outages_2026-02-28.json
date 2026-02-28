@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-02-28T11:54:58.259780+00:00",
+  "last_update": "2026-02-28T12:39:29.460487+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1430,6 +1430,46 @@
       "end_time": "2026-02-28T13:00:00",
       "original_description": "Poznań ul. Augustyna Szamarzewskiego, ul. Bukowska, ul. Józefa Kraszewskiego, ul. Maksymiliana Jackowskiego, ul. Piotra Wawrzyniaka.",
       "id": "de382236136f0f1a816317ea5fe2d351"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Myśliwska, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3844325,
+      "lon": 16.8883878,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T15:30:00",
+      "original_description": "Jasin ul. Poznańska, Łowęcin ul. Myśliwska, ul. Owocowa, Swarzędz ul. Poznańska.",
+      "id": "4f6a9a97b08b52ab5633fba92c4c6cd1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owocowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.3653318,
+      "lon": 17.0182361,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T15:30:00",
+      "original_description": "Jasin ul. Poznańska, Łowęcin ul. Myśliwska, ul. Owocowa, Swarzędz ul. Poznańska.",
+      "id": "6bb015d733dded4822d8b2c6fab19c62"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T15:30:00",
+      "original_description": "Jasin ul. Poznańska, Łowęcin ul. Myśliwska, ul. Owocowa, Swarzędz ul. Poznańska.",
+      "id": "e6a91fd0bf2d3b78ed497b7c8e79706c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-02-28T15:30:00",
+      "original_description": "Jasin ul. Poznańska, Swarzędz ul. Poznańska.",
+      "id": "151e569ddeee07da29f01e4f5e362728"
     }
   ]
 }
