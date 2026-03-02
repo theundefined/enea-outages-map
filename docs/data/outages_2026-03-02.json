@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-02T11:55:27.877461+00:00",
+  "last_update": "2026-03-02T12:53:17.345530+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,46 @@
       "end_time": "2026-03-13T11:30:00",
       "original_description": "Poznań: ul. Poprzeczna, ul. Wybieg 1.",
       "id": "3ec4b8ec2c722d0ad99335f5229b2406"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-03-14T08:00:00",
+      "end_time": "2026-03-14T10:00:00",
+      "original_description": "Gmina Opalenica miejscowość Wojnowice Wielkopolskie ul. Poznańska od 17 do 29 nr nieparzyste oraz od 22 do 32 nr parzyste",
+      "id": "a3a63197bc4aaa3a97d221dfb83ddf26"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kanałowa, Łazarz, Poznań, województwo wielkopolskie, 60-705, Polska",
+      "lat": 52.3973465,
+      "lon": 16.9054406,
+      "start_time": "2026-03-14T10:00:00",
+      "end_time": "2026-03-14T13:00:00",
+      "original_description": "Gmina Opalenica miejscowość Wojnowice Wielkopolskie ul. Łagiewska od 28 do 44 nr parzyste, od 49 do 55 nr nieparzyste, ul. Robotnicza 1A, ul. Kanałowa 1A, ul. Poznańska 9, 9A, 48,  działki nr 209/2, 209/7, 209/13, Przedszkole, sklep, paczkomat InPost, OSP",
+      "id": "27161ac11a4eac93d2a7cb9c1893abb7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pofam-Poznań, 11, Karola Szymanowskiego, Kolonia Robotnicza, Ostrowiec Świętokrzyski, powiat ostrowiecki, województwo świętokrzyskie, 27-400, Polska",
+      "lat": 50.9527895,
+      "lon": 21.3611577,
+      "start_time": "2026-03-14T10:00:00",
+      "end_time": "2026-03-14T13:00:00",
+      "original_description": "Gmina Opalenica miejscowość Wojnowice Wielkopolskie ul. Łagiewska od 28 do 44 nr parzyste, od 49 do 55 nr nieparzyste, ul. Robotnicza 1A, ul. Kanałowa 1A, ul. Poznańska 9, 9A, 48,  działki nr 209/2, 209/7, 209/13, Przedszkole, sklep, paczkomat InPost, OSP",
+      "id": "8bc68bddf39f3082615639bc28249cff"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-03-14T10:00:00",
+      "end_time": "2026-03-14T13:00:00",
+      "original_description": "Gmina Opalenica miejscowość Wojnowice Wielkopolskie ul. Łagiewska od 28 do 44 nr parzyste, od 49 do 55 nr nieparzyste, ul. Robotnicza 1A, ul. Kanałowa 1A, ul. Poznańska 9, 9A, 48,  działki nr 209/2, 209/7, 209/13, Przedszkole, sklep, paczkomat InPost, OSP",
+      "id": "1c263a547de7335fe9afe0b350f4a398"
     },
     {
       "type": "planned",
