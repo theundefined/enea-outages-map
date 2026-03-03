@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-03T07:53:52.239630+00:00",
+  "last_update": "2026-03-03T08:36:55.884160+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,16 @@
       "end_time": "2026-03-14T10:00:00",
       "original_description": "Gmina Opalenica miejscowość Wojnowice Wielkopolskie ul. Poznańska od 17 do 29 nr nieparzyste oraz od 22 do 32 nr parzyste",
       "id": "a3a63197bc4aaa3a97d221dfb83ddf26"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hawelańska (etap III), Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4388081,
+      "lon": 16.9504351,
+      "start_time": "2026-03-14T08:00:00",
+      "end_time": "2026-03-14T13:00:00",
+      "original_description": "Poznań: ul. Hawelańska 12.",
+      "id": "270dbafbb9a8d58997b9ecacf15c0174"
     },
     {
       "type": "planned",
