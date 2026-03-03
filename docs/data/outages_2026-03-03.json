@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-03T11:34:12.294399+00:00",
+  "last_update": "2026-03-03T11:57:40.578264+00:00",
   "outages": [
     {
       "type": "planned",
@@ -820,6 +820,16 @@
       "end_time": "2026-03-10T11:00:00",
       "original_description": "Poznań: ul. Dąbrowskiego 133/135, 137, 139, 141, 147, 149.",
       "id": "18a8a158a42056cace4439711d7c10cf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-03-11T08:00:00",
+      "end_time": "2026-03-11T13:00:00",
+      "original_description": "Poznań: ul. Bukowska 241.",
+      "id": "df007ecd4ebea2fb8d9f7b9825e53c4e"
     },
     {
       "type": "planned",
