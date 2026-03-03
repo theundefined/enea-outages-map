@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-03T10:05:18.844671+00:00",
+  "last_update": "2026-03-03T10:57:03.232476+00:00",
   "outages": [
     {
       "type": "planned",
@@ -670,6 +670,36 @@
       "end_time": "2026-03-09T15:30:00",
       "original_description": "Poznań: ul. Wawelskiego 22, 24, 24A, ul. Szeherezady od 65 do 87 nieparzyste.",
       "id": "0f4a303181a527f6a250e03ff9b7f5b9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nadbrzeże, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4264891,
+      "lon": 16.9536288,
+      "start_time": "2026-03-10T08:00:00",
+      "end_time": "2026-03-10T11:30:00",
+      "original_description": "Poznań: ul. Wilczak 5, 7, 10, 10A, 11, 12, 14B, 20, 22, 24, ul. Serbska 3A, 4, 5, ul. Nadbrzeże 4.",
+      "id": "df3ebe427261625a3a96ccb6e428ec6e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Serbska, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-623, Polska",
+      "lat": 52.4302408,
+      "lon": 16.9577556,
+      "start_time": "2026-03-10T08:00:00",
+      "end_time": "2026-03-10T11:30:00",
+      "original_description": "Poznań: ul. Wilczak 5, 7, 10, 10A, 11, 12, 14B, 20, 22, 24, ul. Serbska 3A, 4, 5, ul. Nadbrzeże 4.",
+      "id": "4e5cf3f21fd07ea484e052ef1907c62e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wilczak, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4311506,
+      "lon": 16.9520728,
+      "start_time": "2026-03-10T08:00:00",
+      "end_time": "2026-03-10T11:30:00",
+      "original_description": "Poznań: ul. Wilczak 5, 7, 10, 10A, 11, 12, 14B, 20, 22, 24, ul. Serbska 3A, 4, 5, ul. Nadbrzeże 4.",
+      "id": "205c031afef326ab91de9b38e99b7512"
     },
     {
       "type": "planned",
