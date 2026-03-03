@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-03T11:57:40.578264+00:00",
+  "last_update": "2026-03-03T13:05:27.310903+00:00",
   "outages": [
     {
       "type": "planned",
@@ -870,6 +870,136 @@
       "end_time": "2026-03-11T14:30:00",
       "original_description": "Poznań: ul. Gorzysława od 26 do 52 parzyste, 31/37, ul. Letnia, ul. Radziwoja od 27 do 63 nieparzyste bez 43.",
       "id": "58d0e04c1878da9e8845cb4d0140e2a5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Stefanowskiej, ul. Krakowickiej, ul. Ławica 17, 19, 21, od 24 do 36 parzyste, ul. Moryńska 3, 3A, 12, ul. Odrzycka, ul. Templińska  od 1 do  25 nieparzyste, od 2 do 32 parzyste, ul. Bukowska 224, od 366 do 390 parzyste bez 372.",
+      "id": "69c918d1e40a38bdc337821f6514da6d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gorzowska, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4121407,
+      "lon": 16.8181504,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Gorzowska, ul. Lubniewicka od 1 do 19, ul. Witnicka, ul. Sławińska od 1 do 17 nieparzyste, od 8 do 22 parzyste, ul. Perzycka od 1 do 27 nieparzyste, od 2 do 30 parzyste, 30B-C, ul. Policka, ul. Szmytówny.",
+      "id": "46c514ec1f74d6ee45f88487b36a00bf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lubniewicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4087271,
+      "lon": 16.8186808,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Gorzowska, ul. Lubniewicka od 1 do 19, ul. Witnicka, ul. Sławińska od 1 do 17 nieparzyste, od 8 do 22 parzyste, ul. Perzycka od 1 do 27 nieparzyste, od 2 do 30 parzyste, 30B-C, ul. Policka, ul. Szmytówny.",
+      "id": "77d009c61c8ca9234a42198211b37ad7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Marii Szmytówny, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4124453,
+      "lon": 16.816261,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Gorzowska, ul. Lubniewicka od 1 do 19, ul. Witnicka, ul. Sławińska od 1 do 17 nieparzyste, od 8 do 22 parzyste, ul. Perzycka od 1 do 27 nieparzyste, od 2 do 30 parzyste, 30B-C, ul. Policka, ul. Szmytówny.",
+      "id": "f15afa25a3e63d06e7be2359064630a8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michaliny Stefanowskiej, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4131386,
+      "lon": 16.8159227,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Stefanowskiej, ul. Krakowickiej, ul. Ławica 17, 19, 21, od 24 do 36 parzyste, ul. Moryńska 3, 3A, 12, ul. Odrzycka, ul. Templińska  od 1 do  25 nieparzyste, od 2 do 32 parzyste, ul. Bukowska 224, od 366 do 390 parzyste bez 372.",
+      "id": "9004e71b57ca478c284f5f7fdd7051a2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Moryńska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4115619,
+      "lon": 16.8219975,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Stefanowskiej, ul. Krakowickiej, ul. Ławica 17, 19, 21, od 24 do 36 parzyste, ul. Moryńska 3, 3A, 12, ul. Odrzycka, ul. Templińska  od 1 do  25 nieparzyste, od 2 do 32 parzyste, ul. Bukowska 224, od 366 do 390 parzyste bez 372.",
+      "id": "f4d7c4ae7b07187875566fecc73568ae"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Odrzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4120769,
+      "lon": 16.8209787,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Stefanowskiej, ul. Krakowickiej, ul. Ławica 17, 19, 21, od 24 do 36 parzyste, ul. Moryńska 3, 3A, 12, ul. Odrzycka, ul. Templińska  od 1 do  25 nieparzyste, od 2 do 32 parzyste, ul. Bukowska 224, od 366 do 390 parzyste bez 372.",
+      "id": "0c4303c001bbc37224b28001bf9fa218"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Gorzowska, ul. Lubniewicka od 1 do 19, ul. Witnicka, ul. Sławińska od 1 do 17 nieparzyste, od 8 do 22 parzyste, ul. Perzycka od 1 do 27 nieparzyste, od 2 do 30 parzyste, 30B-C, ul. Policka, ul. Szmytówny.",
+      "id": "502a6a961bf3952b20bcb7d7509c954d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Policka, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4114,
+      "lon": 16.8175823,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Gorzowska, ul. Lubniewicka od 1 do 19, ul. Witnicka, ul. Sławińska od 1 do 17 nieparzyste, od 8 do 22 parzyste, ul. Perzycka od 1 do 27 nieparzyste, od 2 do 30 parzyste, 30B-C, ul. Policka, ul. Szmytówny.",
+      "id": "a2cc446f9ee33acdc607f83d684089c1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sławińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4096059,
+      "lon": 16.8215316,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Gorzowska, ul. Lubniewicka od 1 do 19, ul. Witnicka, ul. Sławińska od 1 do 17 nieparzyste, od 8 do 22 parzyste, ul. Perzycka od 1 do 27 nieparzyste, od 2 do 30 parzyste, 30B-C, ul. Policka, ul. Szmytówny.",
+      "id": "64f47b13e754e3ce659c4c3598c4a023"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Templińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4097315,
+      "lon": 16.8277511,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Stefanowskiej, ul. Krakowickiej, ul. Ławica 17, 19, 21, od 24 do 36 parzyste, ul. Moryńska 3, 3A, 12, ul. Odrzycka, ul. Templińska  od 1 do  25 nieparzyste, od 2 do 32 parzyste, ul. Bukowska 224, od 366 do 390 parzyste bez 372.",
+      "id": "a6a8c8fa39ce64e1cd15c7afdbb25146"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Witnicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4092618,
+      "lon": 16.8137361,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Gorzowska, ul. Lubniewicka od 1 do 19, ul. Witnicka, ul. Sławińska od 1 do 17 nieparzyste, od 8 do 22 parzyste, ul. Perzycka od 1 do 27 nieparzyste, od 2 do 30 parzyste, 30B-C, ul. Policka, ul. Szmytówny.",
+      "id": "4aa655fc14ff663d74ec34276bf44c21"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ławica, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4112414,
+      "lon": 16.8253002,
+      "start_time": "2026-03-11T08:30:00",
+      "end_time": "2026-03-11T17:30:00",
+      "original_description": "Poznań: ul. Stefanowskiej, ul. Krakowickiej, ul. Ławica 17, 19, 21, od 24 do 36 parzyste, ul. Moryńska 3, 3A, 12, ul. Odrzycka, ul. Templińska  od 1 do  25 nieparzyste, od 2 do 32 parzyste, ul. Bukowska 224, od 366 do 390 parzyste bez 372.",
+      "id": "a6197270a3d3612810f4dc8c4d3413ed"
     },
     {
       "type": "planned",
