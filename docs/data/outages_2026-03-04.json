@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-04T06:29:29.973834+00:00",
+  "last_update": "2026-03-04T07:23:16.405300+00:00",
   "outages": [
     {
       "type": "planned",
@@ -450,6 +450,16 @@
       "end_time": "2026-03-10T11:00:00",
       "original_description": "Poznań: ul. Dąbrowskiego 133/135, 137, 139, 141, 147, 149.",
       "id": "18a8a158a42056cace4439711d7c10cf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańskie Sady, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3599073,
+      "lon": 17.0003913,
+      "start_time": "2026-03-11T08:00:00",
+      "end_time": "2026-03-11T12:00:00",
+      "original_description": "Poznań: ul. Poznańskie Sady 17.",
+      "id": "03a8f64bd82ca785a7590de569e7b788"
     },
     {
       "type": "planned",
@@ -950,6 +960,46 @@
       "end_time": "2026-03-17T16:00:00",
       "original_description": "Gmina Stęszew miejscowość Łódź ul. Jeziorna cała, ul. Trzebawska cała, ul. Wypoczynkowa cała, ul. Szkolna od 1 do 4A, 5A, 15, działki numer 2/1, 36, 56/2, 57/1, 57/4, 59/2, 78/2, od 85/1 do 85/16, od 86/2 do 86/9, od 87/2 do 87/8, od 88/3 do 88/13, 171/1, 234/4, Klub Wodny LOK \"Saling\", Polski Związek Wędkarski, Biuro Liga Obrony Kraju, Tłocznia ścieków, PZW Okręg Poznań KOŁO 56 Poznań Grunwald, domki letniskowe, leśniczówka",
       "id": "043ba06b13ad5458e19fa7fb973df5d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Graniczna, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961602,
+      "lon": 16.9040247,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T10:00:00",
+      "original_description": "Poznań ul. Gąsiorowskich, ul. Graniczna, ul. Kanałowa, ul. Kolejowa.",
+      "id": "f744b042c988b3a9b17b9941cf1f7227"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gąsiorowskich, Łazarz, Poznań, województwo wielkopolskie, 60-704, Polska",
+      "lat": 52.3991581,
+      "lon": 16.9058517,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T10:00:00",
+      "original_description": "Poznań ul. Gąsiorowskich, ul. Graniczna, ul. Kanałowa, ul. Kolejowa.",
+      "id": "83aa0f5ddcd31b063523df3cdf51a0de"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kanałowa, Łazarz, Poznań, województwo wielkopolskie, 60-705, Polska",
+      "lat": 52.3973465,
+      "lon": 16.9054406,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T10:00:00",
+      "original_description": "Poznań ul. Gąsiorowskich, ul. Graniczna, ul. Kanałowa, ul. Kolejowa.",
+      "id": "40a6193ff777a8516b1e1ad4796bfd5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T10:00:00",
+      "original_description": "Poznań ul. Gąsiorowskich, ul. Graniczna, ul. Kanałowa, ul. Kolejowa.",
+      "id": "98053511727bae572f58959b9a6592e6"
     }
   ]
 }
