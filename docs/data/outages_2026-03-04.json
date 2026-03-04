@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-04T10:03:15.565623+00:00",
+  "last_update": "2026-03-04T10:54:08.853843+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1002,6 +1002,26 @@
       "id": "043ba06b13ad5458e19fa7fb973df5d7"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Hulewiczów, Piątkowo, Poznań, województwo wielkopolskie, 60-685, Polska",
+      "lat": 52.4568166,
+      "lon": 16.9004458,
+      "start_time": "2026-03-18T08:30:00",
+      "end_time": "2026-03-18T14:30:00",
+      "original_description": "Poznań: ul. Hulewiczów 3, 6, 7.",
+      "id": "03d6e92602e11417ca843d93c3a71609"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Janiny Porazińskiej, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4092123,
+      "lon": 16.8345739,
+      "start_time": "2026-03-19T08:00:00",
+      "end_time": "2026-03-19T13:00:00",
+      "original_description": "Poznań: ul. Porazińskiej od 1 do 49 nieparzyste, od 24 do 48 parzyste.",
+      "id": "1376c18a6e7f5701c0a9fc28aefee83e"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Graniczna, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
       "lat": 52.3961602,
@@ -1110,6 +1130,136 @@
       "end_time": "2026-03-04T11:00:00",
       "original_description": "Poznań ul. Anyżowa, ul. Mleczowa, ul. Słonecznikowa, ul. Ślazowa, ul. Umultowska, ul. Wrotyczowa, ul. Zagajnikowa.",
       "id": "ab7408d3a010af30038cd9eab5066711"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Andrzeja Sobczaka, Polanka Niemena, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-131, Polska",
+      "lat": 52.3970085,
+      "lon": 16.9584723,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "908f1429b26d8ca469eb567d21aaa589"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-138, Polska",
+      "lat": 52.4059877,
+      "lon": 16.9534833,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "d6a69909e1d6125c026a2dd28bd1808d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Krzywoustego, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-208, Polska",
+      "lat": 52.3911432,
+      "lon": 16.9639046,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "f36eb4808d11dce5a238532312c2412c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brneńska, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-208, Polska",
+      "lat": 52.3935693,
+      "lon": 16.9605861,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "89b0f7b2cf2ac587da2417e982ae7385"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Pawła II, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3992514,
+      "lon": 16.9527022,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "6b3900e0c0797f8c990c4bde0a6b6ac1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kórnicka, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3997552,
+      "lon": 16.9510957,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "4322d19edf7bf6abe50fa9cea8129e0e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Na Miasteczku, 3, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-144, Polska",
+      "lat": 52.3978123,
+      "lon": 16.9501658,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "a37fae667d366936d32ccbadb543804c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Jagiellońskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3916151,
+      "lon": 16.9499975,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "a211602041dcebdfc547b9ad1eb647cd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pleszewska, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3982737,
+      "lon": 16.9532855,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "74ef594b9a1502dbc681b1e41027c08e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przystań, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-138, Polska",
+      "lat": 52.4026343,
+      "lon": 16.9473276,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "1f3ea21b43b33d732aedb68a7cad63c5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sowia, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-139, Polska",
+      "lat": 52.3989433,
+      "lon": 16.9567029,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "31280b77229ed79ccdb90dcc004daaab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łacina, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3968243,
+      "lon": 16.9609927,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "5b3199a3d855f8b2c0e3cec3f994da55"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętego Rocha, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3988972,
+      "lon": 16.9496247,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T14:00:00",
+      "original_description": "Poznań os. Jagiellońskie, ul. Andrzeja Sobczaka, ul. Berdychowo, ul. Bolesława Krzywoustego, ul. Brneńska, ul. Jana Pawła II, ul. Kórnicka, ul. Łacina, ul. Na Miasteczku, ul. Pleszewska, ul. Przystań, ul. Sowia, ul. św. Rocha.",
+      "id": "8450953fea703d6c3f3c2c586939bd07"
     }
   ]
 }
