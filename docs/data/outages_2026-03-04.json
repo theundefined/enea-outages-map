@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-04T11:27:46.617214+00:00",
+  "last_update": "2026-03-04T11:52:57.625732+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1060,6 +1060,16 @@
       "end_time": "2026-03-19T13:00:00",
       "original_description": "Poznań: ul. Porazińskiej od 1 do 49 nieparzyste, od 24 do 48 parzyste.",
       "id": "1376c18a6e7f5701c0a9fc28aefee83e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zagajnikowa, Różany Potok, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4695308,
+      "lon": 16.9418347,
+      "start_time": "2026-03-23T08:00:00",
+      "end_time": "2026-03-23T14:00:00",
+      "original_description": "Poznań: ul. Zagajnikowa 26, 26A-B, 28, 28A-D, 30F, dz. 33.",
+      "id": "c2f448a154694a188d8c943a4cfb3376"
     },
     {
       "type": "unplanned",
