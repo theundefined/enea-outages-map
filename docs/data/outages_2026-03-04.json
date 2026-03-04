@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-04T07:23:16.405300+00:00",
+  "last_update": "2026-03-04T07:57:00.665103+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1000,6 +1000,76 @@
       "end_time": "2026-03-04T10:00:00",
       "original_description": "Poznań ul. Gąsiorowskich, ul. Graniczna, ul. Kanałowa, ul. Kolejowa.",
       "id": "98053511727bae572f58959b9a6592e6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Anyżowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4719481,
+      "lon": 16.9360377,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T11:00:00",
+      "original_description": "Poznań ul. Anyżowa, ul. Mleczowa, ul. Słonecznikowa, ul. Ślazowa, ul. Umultowska, ul. Wrotyczowa, ul. Zagajnikowa.",
+      "id": "829d1fb10bf860f775f9da2067586600"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mleczowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4710283,
+      "lon": 16.9302607,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T11:00:00",
+      "original_description": "Poznań ul. Anyżowa, ul. Mleczowa, ul. Słonecznikowa, ul. Ślazowa, ul. Umultowska, ul. Wrotyczowa, ul. Zagajnikowa.",
+      "id": "17889cfdbcee334ecfb8f29a90657aa9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słonecznikowa, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4774997,
+      "lon": 16.9390768,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T11:00:00",
+      "original_description": "Poznań ul. Anyżowa, ul. Mleczowa, ul. Słonecznikowa, ul. Ślazowa, ul. Umultowska, ul. Wrotyczowa, ul. Zagajnikowa.",
+      "id": "0630b6810aacd76a28e7b3da8cc60272"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Umultowska, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4750115,
+      "lon": 16.9404752,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T11:00:00",
+      "original_description": "Poznań ul. Anyżowa, ul. Mleczowa, ul. Słonecznikowa, ul. Ślazowa, ul. Umultowska, ul. Wrotyczowa, ul. Zagajnikowa.",
+      "id": "3ec3d07a2ea82860d90fa82a8042721f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrotyczowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.472491,
+      "lon": 16.9374502,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T11:00:00",
+      "original_description": "Poznań ul. Anyżowa, ul. Mleczowa, ul. Słonecznikowa, ul. Ślazowa, ul. Umultowska, ul. Wrotyczowa, ul. Zagajnikowa.",
+      "id": "aaca12ce23bdab6d64ffbabb9d5fed1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zagajnikowa, Różany Potok, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4695308,
+      "lon": 16.9418347,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T11:00:00",
+      "original_description": "Poznań ul. Anyżowa, ul. Mleczowa, ul. Słonecznikowa, ul. Ślazowa, ul. Umultowska, ul. Wrotyczowa, ul. Zagajnikowa.",
+      "id": "c479bf50d6d25049a900f9084b4ea101"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ślazowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4719477,
+      "lon": 16.9390416,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-04T11:00:00",
+      "original_description": "Poznań ul. Anyżowa, ul. Mleczowa, ul. Słonecznikowa, ul. Ślazowa, ul. Umultowska, ul. Wrotyczowa, ul. Zagajnikowa.",
+      "id": "ab7408d3a010af30038cd9eab5066711"
     }
   ]
 }
