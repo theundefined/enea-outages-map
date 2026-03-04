@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-04T11:52:57.625732+00:00",
+  "last_update": "2026-03-04T12:51:14.375449+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1060,6 +1060,76 @@
       "end_time": "2026-03-19T13:00:00",
       "original_description": "Poznań: ul. Porazińskiej od 1 do 49 nieparzyste, od 24 do 48 parzyste.",
       "id": "1376c18a6e7f5701c0a9fc28aefee83e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bronowa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4419734,
+      "lon": 16.9106047,
+      "start_time": "2026-03-20T08:30:00",
+      "end_time": "2026-03-20T11:30:00",
+      "original_description": "Poznań: ul. Siewna, ul. Piątkowska 211, 216, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "3e342e81da526ea1b20fae7c5d1503f6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ignacego Dobrogojskiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-692, Polska",
+      "lat": 52.4399873,
+      "lon": 16.9155373,
+      "start_time": "2026-03-20T08:30:00",
+      "end_time": "2026-03-20T11:30:00",
+      "original_description": "Poznań: ul. Dobrogojskiego od 1 do 31 nieparzyste, od 2 do 16 parzyste, 16A, od 22 do 32 parzyste, ul. Dobrzyckiego od 1 do 7 nieparzyste, 6, 6A, 8, ul. Trójpole 9, 11, 21.",
+      "id": "5edbc75782aeb44abc60544d37758ea3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mikołaja Dobrzyckiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-692, Polska",
+      "lat": 52.4399592,
+      "lon": 16.9140713,
+      "start_time": "2026-03-20T08:30:00",
+      "end_time": "2026-03-20T11:30:00",
+      "original_description": "Poznań: ul. Dobrogojskiego od 1 do 31 nieparzyste, od 2 do 16 parzyste, 16A, od 22 do 32 parzyste, ul. Dobrzyckiego od 1 do 7 nieparzyste, 6, 6A, 8, ul. Trójpole 9, 11, 21.",
+      "id": "4e84f1d3637839dd9f5241de8a3bf6e5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-03-20T08:30:00",
+      "end_time": "2026-03-20T11:30:00",
+      "original_description": "Poznań: ul. Siewna, ul. Piątkowska 211, 216, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "5599b90c03b35c1cbf57b1607b476c01"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Siewna, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4418259,
+      "lon": 16.9151016,
+      "start_time": "2026-03-20T08:30:00",
+      "end_time": "2026-03-20T11:30:00",
+      "original_description": "Poznań: ul. Siewna, ul. Piątkowska 211, 216, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "97663cfb61607cdc12dd237a45215e4d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trójpole, Osiedle Przyjaźni, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4369416,
+      "lon": 16.9170945,
+      "start_time": "2026-03-20T08:30:00",
+      "end_time": "2026-03-20T11:30:00",
+      "original_description": "Poznań: ul. Dobrogojskiego od 1 do 31 nieparzyste, od 2 do 16 parzyste, 16A, od 22 do 32 parzyste, ul. Dobrzyckiego od 1 do 7 nieparzyste, 6, 6A, 8, ul. Trójpole 9, 11, 21.",
+      "id": "9e30c19ce3ad35df33202433a648e2e1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Witosa Park - etap I, Trójpole, Winiary, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4382241,
+      "lon": 16.9099641,
+      "start_time": "2026-03-20T08:30:00",
+      "end_time": "2026-03-20T11:30:00",
+      "original_description": "Poznań: ul. Siewna, ul. Piątkowska 211, 216, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "35fc5122c890b9fae6a390f95a88ba36"
     },
     {
       "type": "planned",
