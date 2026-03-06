@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-06T06:07:17.089203+00:00",
+  "last_update": "2026-03-06T07:06:03.129387+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1030,6 +1030,16 @@
       "end_time": "2026-03-20T11:30:00",
       "original_description": "Poznań: ul. Siewna, ul. Piątkowska 211, 216, ul. Bronowa, ul. Witosa 62, 122.",
       "id": "35fc5122c890b9fae6a390f95a88ba36"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "2026-03-23T08:00:00",
+      "end_time": "2026-03-23T14:00:00",
+      "original_description": "Poznań: ul. Szamotulska 69B-C, dz. 7/40, dz. 7/55.",
+      "id": "f4a89683e7ab8655467eeaa04ae6ec6f"
     },
     {
       "type": "planned",
