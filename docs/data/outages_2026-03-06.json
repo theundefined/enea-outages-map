@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-06T09:53:38.820878+00:00",
+  "last_update": "2026-03-06T10:32:00.134717+00:00",
   "outages": [
     {
       "type": "planned",
@@ -840,6 +840,26 @@
       "end_time": "2026-03-18T14:30:00",
       "original_description": "Poznań: ul. Hulewiczów 3, 6, 7.",
       "id": "03d6e92602e11417ca843d93c3a71609"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-03-18T09:00:00",
+      "end_time": "2026-03-18T12:00:00",
+      "original_description": "Poznań: ul. Warzywniaka od 37 do 45 nieparzyste, od 34 do 40 parzyste, ul. Jackowskiego od 22 do 40 parzyste, dz. 128/20, ul. Bukowska 27/29.",
+      "id": "fdeb3497c247c3742ca85c0ea8c53386"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rodzinny Ogród Działkowy im. Maksymiliana Jackowskiego, Wilda, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3759887,
+      "lon": 16.9149698,
+      "start_time": "2026-03-18T09:00:00",
+      "end_time": "2026-03-18T12:00:00",
+      "original_description": "Poznań: ul. Warzywniaka od 37 do 45 nieparzyste, od 34 do 40 parzyste, ul. Jackowskiego od 22 do 40 parzyste, dz. 128/20, ul. Bukowska 27/29.",
+      "id": "b4f7a4c1623f5767b8a99d83212d164d"
     },
     {
       "type": "planned",
