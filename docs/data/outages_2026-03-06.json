@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-06T07:06:03.129387+00:00",
+  "last_update": "2026-03-06T07:49:20.473114+00:00",
   "outages": [
     {
       "type": "planned",
@@ -613,6 +613,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4082663,
+      "lon": 16.9335199,
+      "start_time": "2026-03-13T08:30:00",
+      "end_time": "2026-03-13T11:00:00",
+      "original_description": "Borówiec ulice Dębowa, Kręta 11, 13, 15, 21, 23, 24, Leśna, Poznańska 1 - 10, 11 - 33 Nieparzyste, 30 - 44 Parzyste, Prosta, Zaułek",
+      "id": "32a82a26b04cb1420fab941d342f8aeb"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Gospodarska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
       "lat": 52.3543871,
       "lon": 17.0276859,
@@ -1070,6 +1080,26 @@
       "end_time": "2026-03-23T12:30:00",
       "original_description": "Poznań: ul. Nagłowicka, ul. Pińczowska, ul. Szydłowiecka od 1 do 15 nieparzyste, 15A, od 2 do 16 parzyste, od 22 do 30 parzyste, ul. Piotrowska 10, 17, ul. Minikowo 2A, od 4 do 14 parzyste, 14A-B, 7, od 19 do 31 nieparzyste.",
       "id": "40045fb68b6d1490a925b2daee08867a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dobrepole, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.345898,
+      "lon": 17.0243916,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-06T10:30:00",
+      "original_description": "Poznań ul. Dobrepole, ul. Gospodarska.",
+      "id": "69f1ea5acff3d822d72a0fa77f54a9df"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gospodarska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3543871,
+      "lon": 17.0276859,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-06T10:30:00",
+      "original_description": "Poznań ul. Dobrepole, ul. Gospodarska.",
+      "id": "0f4ad3f244b1a8f456a6a1e3a72cf7f8"
     }
   ]
 }
