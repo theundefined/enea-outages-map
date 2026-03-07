@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-07T17:52:13.843231+00:00",
+  "last_update": "2026-03-07T18:29:32.974721+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1680,6 +1680,146 @@
       "end_time": "2026-03-07T19:30:00",
       "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
       "id": "ba512e5219b4fac7483ad2d6ddd5c212"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Golęczewska, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4749592,
+      "lon": 16.8131041,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "4aef7866039419e7100ba50f570be194"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Medyczna, Chludowo, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 62-001, Polska",
+      "lat": 52.5562852,
+      "lon": 16.8434211,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "00dbb2b629d16db567a3368b4c68cada"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ojca Mariana Żelazka, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-553, Polska",
+      "lat": 52.391156,
+      "lon": 16.9283666,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "b6f96f6073625b4cdd9bca3a67dae7b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "bbc77cf59d4927e3e8d693968e4808a0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "c1f7e2b6e77bc6cc5b4e75c218e523d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "6c22b67e1dfc9ece90609026230205eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "221e5c8e486816b29210227a13279aa5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "f87d203ef757de217641f3ce9d1eb049"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T20:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "c9f5946f0dfb5c0e38877df17b64be32"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T21:00:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "6ded6f22b6ba8d8028e6fdf05374f83b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chojnicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751085,
+      "lon": 16.7897565,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T21:00:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "bcec664c38f8b66b0c76a9faea0b4bc9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Edwarda Nawrota, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773895,
+      "lon": 16.7830538,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T21:00:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "e01e4fd36774e11e5caed1490684e03b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szantowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764484,
+      "lon": 16.7768643,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T21:00:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "5a34e98238323c974030afd50066767b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wilków Morskich, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756107,
+      "lon": 16.7772813,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T21:00:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "e463809669e15138eda88e034aeb7951"
     }
   ]
 }
