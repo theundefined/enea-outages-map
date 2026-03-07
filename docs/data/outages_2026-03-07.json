@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-07T16:49:48.752274+00:00",
+  "last_update": "2026-03-07T17:10:07.222411+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1630,6 +1630,56 @@
       "end_time": "2026-03-07T19:00:00",
       "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
       "id": "33fb1185d1537e28c903b8021f573d2d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T19:30:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "f1abde03d19fdabc2beaaf9e6e110970"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chojnicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751085,
+      "lon": 16.7897565,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T19:30:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "09217406a324c94fb9b29a79087016e6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Edwarda Nawrota, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773895,
+      "lon": 16.7830538,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T19:30:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "f7190a1ff64981c52d2b6addeb4820c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szantowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764484,
+      "lon": 16.7768643,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T19:30:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "9c7cb6ef8f581e24fa787f66fa18b9c3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wilków Morskich, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756107,
+      "lon": 16.7772813,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T19:30:00",
+      "original_description": "Poznań ul. Admiralska, ul. Chojnicka, ul. ks. Edwarda Nawrota, ul. Szantowa, ul. Wilków Morskich.",
+      "id": "ba512e5219b4fac7483ad2d6ddd5c212"
     }
   ]
 }
