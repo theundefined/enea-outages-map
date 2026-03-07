@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-07T05:02:20.551920+00:00",
+  "last_update": "2026-03-07T05:49:36.935441+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1040,6 +1040,96 @@
       "end_time": "2026-03-23T12:30:00",
       "original_description": "Poznań: ul. Nagłowicka, ul. Pińczowska, ul. Szydłowiecka od 1 do 15 nieparzyste, 15A, od 2 do 16 parzyste, od 22 do 30 parzyste, ul. Piotrowska 10, 17, ul. Minikowo 2A, od 4 do 14 parzyste, 14A-B, 7, od 19 do 31 nieparzyste.",
       "id": "40045fb68b6d1490a925b2daee08867a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Golęczewska, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4749592,
+      "lon": 16.8131041,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "eacf49b051eaf7fd11bf291f25241714"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Medyczna, Chludowo, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 62-001, Polska",
+      "lat": 52.5562852,
+      "lon": 16.8434211,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "9d2b33c0439ea8414de12c47b59aface"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ojca Mariana Żelazka, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-553, Polska",
+      "lat": 52.391156,
+      "lon": 16.9283666,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "07bd8e64e9f5373962612da7a69d5565"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "11d88ccfd5125406b2e1fd97e0b227d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "5e21e5555af7ffdc173b3925a3ba973d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "86dd27f84853e1f5d6397416a72f077d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "44b3b9a6587283b4b4a1f8fe58a3fdd5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "d3c220a9e798966b9a13ae0bde1274f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-07T08:30:00",
+      "original_description": "Chludowo ul. Golęczewska, ul. Medyczna, ul. Obornicka, ul. Ojca Mariana Żelazka, ul. Poznańska, ul. Słoneczna, ul. Strumykowa, ul. Szkolna, ul. Wodna.",
+      "id": "7b07bf5e186817200f452ce354d7151f"
     }
   ]
 }
