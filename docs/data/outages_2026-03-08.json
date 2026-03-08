@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-08T08:27:41.895470+00:00",
+  "last_update": "2026-03-08T08:55:40.500054+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1040,6 +1040,56 @@
       "end_time": "2026-03-23T12:30:00",
       "original_description": "Poznań: ul. Nagłowicka, ul. Pińczowska, ul. Szydłowiecka od 1 do 15 nieparzyste, 15A, od 2 do 16 parzyste, od 22 do 30 parzyste, ul. Piotrowska 10, 17, ul. Minikowo 2A, od 4 do 14 parzyste, 14A-B, 7, od 19 do 31 nieparzyste.",
       "id": "40045fb68b6d1490a925b2daee08867a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Emilii Sczanieckiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3942967,
+      "lon": 16.8976266,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-08T12:00:00",
+      "original_description": "Poznań ul. Emilii Sczanieckiej, ul. Franciszka Morawskiego, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Wojciecha Bogusławskiego.",
+      "id": "af060b57ac3c63633f2f1835b3441d29"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Morawskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3941257,
+      "lon": 16.8953297,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-08T12:00:00",
+      "original_description": "Poznań ul. Emilii Sczanieckiej, ul. Franciszka Morawskiego, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Wojciecha Bogusławskiego.",
+      "id": "9ae7077278091c8d3e0fdfdeaaea5327"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Jarochowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961127,
+      "lon": 16.894134,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-08T12:00:00",
+      "original_description": "Poznań ul. Emilii Sczanieckiej, ul. Franciszka Morawskiego, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Wojciecha Bogusławskiego.",
+      "id": "ceaff9aceb0fae1a07cf21bfb094752c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marcina Kasprzaka, Łazarz, Poznań, województwo wielkopolskie, 60-245, Polska",
+      "lat": 52.3883781,
+      "lon": 16.8905487,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-08T12:00:00",
+      "original_description": "Poznań ul. Emilii Sczanieckiej, ul. Franciszka Morawskiego, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Wojciecha Bogusławskiego.",
+      "id": "d5a22e42f3521028cbcc45af7b7daa69"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojciecha Bogusławskiego, Łazarz, Poznań, województwo wielkopolskie, 60-257, Polska",
+      "lat": 52.3921337,
+      "lon": 16.892981,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-08T12:00:00",
+      "original_description": "Poznań ul. Emilii Sczanieckiej, ul. Franciszka Morawskiego, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Wojciecha Bogusławskiego.",
+      "id": "27c3b34d8c249d291b4b07ddcfe41d0e"
     }
   ]
 }
