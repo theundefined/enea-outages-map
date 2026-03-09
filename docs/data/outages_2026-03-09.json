@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-09T14:32:53.107398+00:00",
+  "last_update": "2026-03-09T15:35:58.164861+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1140,6 +1140,36 @@
       "end_time": "2026-03-09T16:30:00",
       "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
       "id": "057b0f8ef5031e2712d8910787e76b73"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-09T18:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "629da02ddf43dd0983164caf1e55125d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hawelańska (etap III), Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4388081,
+      "lon": 16.9504351,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-09T18:00:00",
+      "original_description": "Poznań ul. Hawelańska.",
+      "id": "e063951764857354b66874f37a513319"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Syrenia, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4290162,
+      "lon": 16.9858884,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-09T18:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "73d172c2825c1246d1594445631d7e24"
     }
   ]
 }
