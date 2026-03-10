@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-10T08:37:43.064482+00:00",
+  "last_update": "2026-03-10T09:26:04.125651+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1150,6 +1150,36 @@
       "end_time": "2026-03-23T12:30:00",
       "original_description": "Poznań: ul. Nagłowicka, ul. Pińczowska, ul. Szydłowiecka od 1 do 15 nieparzyste, 15A, od 2 do 16 parzyste, od 22 do 30 parzyste, ul. Piotrowska 10, 17, ul. Minikowo 2A, od 4 do 14 parzyste, 14A-B, 7, od 19 do 31 nieparzyste.",
       "id": "40045fb68b6d1490a925b2daee08867a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Modlińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-049, Polska",
+      "lat": 52.4073784,
+      "lon": 16.9904596,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań: ul. Mogileńska 11, 13, 15, 15A, 19A, 21, 23, 27, 31, 31A, ul. Pułtuska 19, ul. Modlińska 22.",
+      "id": "b25cafc539245d5d412a5da1153afe6e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mogileńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4101227,
+      "lon": 16.9913619,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań: ul. Mogileńska 11, 13, 15, 15A, 19A, 21, 23, 27, 31, 31A, ul. Pułtuska 19, ul. Modlińska 22.",
+      "id": "1b190559816f62f38b139ce82538e12f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pułtuska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-052, Polska",
+      "lat": 52.4082859,
+      "lon": 16.990745,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań: ul. Mogileńska 11, 13, 15, 15A, 19A, 21, 23, 27, 31, 31A, ul. Pułtuska 19, ul. Modlińska 22.",
+      "id": "4934cd6cbc99311276f528edfe3e95ce"
     },
     {
       "type": "planned",
