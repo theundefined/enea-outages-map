@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-10T07:00:47.677150+00:00",
+  "last_update": "2026-03-10T07:51:54.440750+00:00",
   "outages": [
     {
       "type": "planned",
@@ -853,6 +853,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-03-17T11:30:00",
+      "end_time": "2026-03-17T15:30:00",
+      "original_description": "Bolechowo 5, ul. Poznańska 3, 3A, 5, działki 274/15, 271",
+      "id": "e269f3206bd58f67a6a1942aca8be9e4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Hulewiczów, Piątkowo, Poznań, województwo wielkopolskie, 60-685, Polska",
       "lat": 52.4568166,
       "lon": 16.9004458,
@@ -1140,6 +1150,76 @@
       "end_time": "2026-03-23T12:30:00",
       "original_description": "Poznań: ul. Nagłowicka, ul. Pińczowska, ul. Szydłowiecka od 1 do 15 nieparzyste, 15A, od 2 do 16 parzyste, od 22 do 30 parzyste, ul. Piotrowska 10, 17, ul. Minikowo 2A, od 4 do 14 parzyste, 14A-B, 7, od 19 do 31 nieparzyste.",
       "id": "40045fb68b6d1490a925b2daee08867a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Junacka, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-149, Polska",
+      "lat": 52.3889354,
+      "lon": 16.8682217,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T12:30:00",
+      "original_description": "Poznań: ul. Podchorążych 18, 20, od 24 do 52 parzyste, ul. Taczanowskiego od 20 do 30 parzyste,  ul. Kadecka 10, 14, 16, 19, 21, 23, ul. Trębacka, ul. Junacka 25, ul. Promienista 140.",
+      "id": "495557274bd08719615a5c8ec2ca5e64"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kadecka, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-149, Polska",
+      "lat": 52.3899495,
+      "lon": 16.8691917,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T12:30:00",
+      "original_description": "Poznań: ul. Podchorążych 18, 20, od 24 do 52 parzyste, ul. Taczanowskiego od 20 do 30 parzyste,  ul. Kadecka 10, 14, 16, 19, 21, 23, ul. Trębacka, ul. Junacka 25, ul. Promienista 140.",
+      "id": "f5998bb746a6b94f23cf5c75c9debd4a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podchorążych, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-142, Polska",
+      "lat": 52.3895458,
+      "lon": 16.8703744,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T12:30:00",
+      "original_description": "Poznań: ul. Podchorążych 18, 20, od 24 do 52 parzyste, ul. Taczanowskiego od 20 do 30 parzyste,  ul. Kadecka 10, 14, 16, 19, 21, 23, ul. Trębacka, ul. Junacka 25, ul. Promienista 140.",
+      "id": "9b48e6998709f080633cb390db59df48"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T12:30:00",
+      "original_description": "Poznań: ul. Podchorążych 18, 20, od 24 do 52 parzyste, ul. Taczanowskiego od 20 do 30 parzyste,  ul. Kadecka 10, 14, 16, 19, 21, 23, ul. Trębacka, ul. Junacka 25, ul. Promienista 140.",
+      "id": "7f63e15abc1389e38dab95df4cf440a0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Taczanowskiego, Edmunda Taczanowskiego, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-149, Polska",
+      "lat": 52.3916481,
+      "lon": 16.8688732,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T12:30:00",
+      "original_description": "Poznań: ul. Podchorążych 18, 20, od 24 do 52 parzyste, ul. Taczanowskiego od 20 do 30 parzyste,  ul. Kadecka 10, 14, 16, 19, 21, 23, ul. Trębacka, ul. Junacka 25, ul. Promienista 140.",
+      "id": "65a9567a0f3c254e9c7b53231d951e9c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trębacka, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 61-135, Polska",
+      "lat": 52.3880072,
+      "lon": 16.8687728,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T12:30:00",
+      "original_description": "Poznań: ul. Podchorążych 18, 20, od 24 do 52 parzyste, ul. Taczanowskiego od 20 do 30 parzyste,  ul. Kadecka 10, 14, 16, 19, 21, 23, ul. Trębacka, ul. Junacka 25, ul. Promienista 140.",
+      "id": "cfc704949b501622c7ad905c25e51c9f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Urodzajna, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.3605319,
+      "lon": 17.0042668,
+      "start_time": "2026-03-25T08:30:00",
+      "end_time": "2026-03-25T15:30:00",
+      "original_description": "Poznań: ul. Urodzajna.",
+      "id": "3af09a378412c601c84084098a04e15f"
     },
     {
       "type": "unplanned",
