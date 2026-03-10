@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-10T10:05:35.089935+00:00",
+  "last_update": "2026-03-10T10:58:08.372698+00:00",
   "outages": [
     {
       "type": "planned",
@@ -873,6 +873,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Jesienna, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-376, Polska",
+      "lat": 52.4079912,
+      "lon": 16.8752835,
+      "start_time": "2026-03-18T09:00:00",
+      "end_time": "2026-03-18T11:00:00",
+      "original_description": "Leszno: ul. Jesienna, Miła, Miodowa, Wiosenna - całe ulice; ul. Poznańska nr 17 do 51 nieparzyste (oprócz dz. 164/5), Ogrodnictwo WEIN, FREE WAY, PUH B & B BRZOZOWSKI, KAMINIARZ, TRANS-MAR, WIELIŃSKI, VISHOME; ul. Wilkowicka nr 1 do 17 nieparzyste, nr 2 do 14A parzyste, HOMEFITNESS, PHUP AUTO-REGE, działki nr 153/8, 338/6, 339/9.",
+      "id": "7dbc608e78dc11a4566ec4203b73efde"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska Ogólnokształcąca Szkoła Muzyczna I st. nr 2 im. Tadeusza Szeligowskiego, Bydgoska, Śródka, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4117665,
+      "lon": 16.9556609,
+      "start_time": "2026-03-18T09:00:00",
+      "end_time": "2026-03-18T11:00:00",
+      "original_description": "Leszno: ul. Jesienna, Miła, Miodowa, Wiosenna - całe ulice; ul. Poznańska nr 17 do 51 nieparzyste (oprócz dz. 164/5), Ogrodnictwo WEIN, FREE WAY, PUH B & B BRZOZOWSKI, KAMINIARZ, TRANS-MAR, WIELIŃSKI, VISHOME; ul. Wilkowicka nr 1 do 17 nieparzyste, nr 2 do 14A parzyste, HOMEFITNESS, PHUP AUTO-REGE, działki nr 153/8, 338/6, 339/9.",
+      "id": "57afe62daeaf9127c2ff4aeee113dbd9"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
       "lat": 52.4063647,
       "lon": 16.9116898,
@@ -1243,6 +1263,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Tomasza Drobnika, Piątkowo, Poznań, województwo wielkopolskie, 60-692, Polska",
+      "lat": 52.4514826,
+      "lon": 16.9063417,
+      "start_time": "2026-03-25T08:00:00",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań: ul. Drobnika od 2 do 10 parzyste.",
+      "id": "7bee78cec512fa15326c52e566ae0fdf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szpital Kliniczny Przemienienia Pańskiego oddział ul. Długa, 1/2, Długa, Rybaki, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-848, Polska",
+      "lat": 52.4031105,
+      "lon": 16.9357995,
+      "start_time": "2026-03-25T08:30:00",
+      "end_time": "2026-03-25T13:30:00",
+      "original_description": "Łęczyca: ul. Łąkowa, ul Poznańska 1, 1A, 7, 11, 13, 14, 15, 16, 17, 18, 20, Centrum ogrodnicze.",
+      "id": "cd637032a52da5ed014877991bb97294"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "2026-03-25T08:30:00",
+      "end_time": "2026-03-25T13:30:00",
+      "original_description": "Łęczyca: ul. Łąkowa, ul Poznańska 1, 1A, 7, 11, 13, 14, 15, 16, 17, 18, 20, Centrum ogrodnicze.",
+      "id": "59dcc655b8eb744a90cbff707d4d0fdb"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Urodzajna, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
       "lat": 52.3605319,
       "lon": 17.0042668,
@@ -1390,6 +1440,26 @@
       "end_time": "2026-03-10T11:30:00",
       "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Stefana Żeromskiego, ul. Wilkońskich.",
       "id": "2b97885bbec212503611af48e027e77f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T12:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "32a39111726c4a33d2ba7d2bb4312758"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Syrenia, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4290162,
+      "lon": 16.9858884,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T12:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "57a1c627c8142bb6cd21284eee8c15e2"
     }
   ]
 }
