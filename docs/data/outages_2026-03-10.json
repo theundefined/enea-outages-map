@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-10T07:51:54.440750+00:00",
+  "last_update": "2026-03-10T08:37:43.064482+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1222,6 +1222,16 @@
       "id": "3af09a378412c601c84084098a04e15f"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Mirabelkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3652411,
+      "lon": 17.039991,
+      "start_time": "2026-03-26T08:30:00",
+      "end_time": "2026-03-26T15:30:00",
+      "original_description": "Poznań: ul. Mirabelkowa od 4 do 25.",
+      "id": "087c2fa420c29acd1b9a820c968ee3a1"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
       "lat": 52.4294548,
@@ -1280,6 +1290,56 @@
       "end_time": "2026-03-10T07:30:00",
       "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
       "id": "18ab2d3aa66b7d1f44ce6b6cf5acc017"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T09:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "c05f849f614f76dc040dec053c220b3b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Syrenia, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4290162,
+      "lon": 16.9858884,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T09:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "18d1fe0649a664e4c97730d486053ccf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T11:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Stefana Żeromskiego, ul. Wilkońskich.",
+      "id": "c0f824bc3b42462cda59c42ebdc9ef92"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Żeromskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-545, Polska",
+      "lat": 52.4192108,
+      "lon": 16.8936243,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T11:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Stefana Żeromskiego, ul. Wilkońskich.",
+      "id": "99344f9d93af8a9a682f7272102d0c08"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wilkońskich, Ogrody, Poznań, województwo wielkopolskie, 60-543, Polska",
+      "lat": 52.4164386,
+      "lon": 16.8908257,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T11:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego, ul. Stefana Żeromskiego, ul. Wilkońskich.",
+      "id": "2b97885bbec212503611af48e027e77f"
     }
   ]
 }
