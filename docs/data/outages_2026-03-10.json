@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-10T13:18:05.266530+00:00",
+  "last_update": "2026-03-10T14:09:51.610277+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2020,6 +2020,26 @@
       "end_time": "2026-03-10T15:00:00",
       "original_description": "Bolechowo ul. Poznańska, Mściszewo ul. Jęczmienna, ul. Malwowa, ul. Mieczykowa, ul. Nadwarciańska, ul. Owsiana, ul. Pszenna, ul. Radzimska, ul. Rolna, ul. Rumiankowa, ul. Zbożowa, ul. Żniwna, ul. Żytnia, Raduszyn, Murowana Goślina ul. Adama Mickiewicza, ul. Akacjowa, ul. Bolesława Prusa, ul. Brzozowa, ul. Bukowa, ul. Cicha, ul. Cisowa, ul. Cypriana Kamila Norwida, ul. Czeremchowa, ul. Gajowa, ul. Górka, ul. Jagodowa, ul. Jaśminowa, ul. Jeziorna, ul. Jeżynowa, ul. Jodłowa, ul. Juliusza Słowackiego, ul. Kłosowa, ul. Leśna, ul. Lipowa, ul. Łabędzia, ul. Łanowa, ul. Łąkowa, ul. Malinowa, ul. Marii Konopnickiej, ul. Miodowa, ul. Mściszewska, ul. Na Stoku, ul. Nadwarciańska, ul. Radosna, ul. Sosnowa, ul. Starczanowska, ul. Stefana Żeromskiego, ul. Świerkowa, ul. Wiosenna, ul. Źródlana, ul. Żurawia.",
       "id": "564e6fe16910ff79e27bd435e7277ab6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T16:30:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "546862a7106f4b8be2de5e5545fcef5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Syrenia, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4290162,
+      "lon": 16.9858884,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-10T16:30:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "ae8bd2a4d496a7c86d9a7ed8a2a69fca"
     }
   ]
 }
