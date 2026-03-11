@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T12:03:25.482050+00:00",
+  "last_update": "2026-03-11T13:35:35.675544+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1813,6 +1813,26 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T13:30:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "a7e1b182cff7acdf57697466ee51cee6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Syrenia, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4290162,
+      "lon": 16.9858884,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T13:30:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "e2b17c66da37606fce1dd6851af87254"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Gołębia, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
       "lat": 52.4067111,
       "lon": 16.9325619,
@@ -1970,6 +1990,86 @@
       "end_time": "2026-03-11T15:00:00",
       "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
       "id": "b7831fff01b1f7e232c78911655ca26a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Drużynowa, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-483, Polska",
+      "lat": 52.379845,
+      "lon": 16.8961047,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:30:00",
+      "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
+      "id": "ed81ec27b872e4f2494fd36c13ef8176"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Górecka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3718577,
+      "lon": 16.8928666,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:30:00",
+      "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
+      "id": "8902525a19a6c41dc7e2f5fd3a4fd629"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maszynowa, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-483, Polska",
+      "lat": 52.3781948,
+      "lon": 16.8999052,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:30:00",
+      "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
+      "id": "c9faf05d86c17767ba770481d90a2353"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mała, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.3772971,
+      "lon": 16.8966004,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:30:00",
+      "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
+      "id": "df0c0de43901251060d12b12e9f536ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Obrzeże, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.37694,
+      "lon": 16.9003869,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:30:00",
+      "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
+      "id": "9a16498d1f1caf83b79012a4872ac8eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przesmyk, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.3764734,
+      "lon": 16.8981863,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:30:00",
+      "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
+      "id": "61a6be5f940d1dc7472dec334a9ce743"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tarczowa, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.377701,
+      "lon": 16.898273,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:30:00",
+      "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
+      "id": "3e0758da341101585bdad88099664d12"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zwrotnicza, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.3768547,
+      "lon": 16.8980714,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:30:00",
+      "original_description": "Poznań ul. Drużynowa, ul. Górecka, ul. Mała, ul. Maszynowa, ul. Obrzeże, ul. Przesmyk, ul. Tarczowa, ul. Zwrotnicza.",
+      "id": "eedb7ee465620dfbe08a6d451e236c6f"
     }
   ]
 }
