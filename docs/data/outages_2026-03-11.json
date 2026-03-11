@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T05:31:03.146059+00:00",
+  "last_update": "2026-03-11T06:29:16.980607+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1193,6 +1193,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Polanka Niemena, Łacina, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3973308,
+      "lon": 16.9587213,
+      "start_time": "2026-03-24T14:00:00",
+      "end_time": "2026-03-24T16:00:00",
+      "original_description": "Poznań: ul. Niemena 7, 7A-D, 9, 9A-E.",
+      "id": "26b279e80c1fea6d72d4fa5e97c76fe5"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Tomasza Drobnika, Piątkowo, Poznań, województwo wielkopolskie, 60-692, Polska",
       "lat": 52.4514826,
       "lon": 16.9063417,
@@ -1320,6 +1330,26 @@
       "end_time": "2026-03-11T07:30:00",
       "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
       "id": "25f8e4a74ca7377b458a32fcee2c822f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T09:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "e5d774f0108c7bf3ba7079f61ec7d7e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Syrenia, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4290162,
+      "lon": 16.9858884,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T09:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "4dcdad63954e21a56523612fae594aff"
     }
   ]
 }
