@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T10:24:35.621470+00:00",
+  "last_update": "2026-03-11T11:05:39.284473+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1450,6 +1450,36 @@
       "end_time": "2026-03-24T17:30:00",
       "original_description": "Poznań: ul. Stefanowskiej, ul. Krakowickiej, ul. Ławica 17, 19, 21, od 24 do 36 parzyste, ul. Moryńska 3, 3A, 12, ul. Odrzycka, ul. Templińska od 1 do 25 nieparzyste, od 2 do 32 parzyste, ul. Bukowska 224, od 366 do 390 parzyste bez 372.",
       "id": "d8714add9bf6aacfa419b3d6a0b6aedc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Franciszka Firlika, Piątkowo, Poznań, województwo wielkopolskie, 60-691, Polska",
+      "lat": 52.4527842,
+      "lon": 16.9006157,
+      "start_time": "2026-03-24T10:30:00",
+      "end_time": "2026-03-24T12:00:00",
+      "original_description": "Poznań: ul. Obornicka od 285 do 299 nieparzyste, 299A, od 300 do 314 parzyste, ul. Hulewiczów 1, ul. Firlika 3, 5, 7, 9, od 26 do 42 parzyste.",
+      "id": "400a1b34537c58ab0e26df274cf32e0a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hulewiczów, Piątkowo, Poznań, województwo wielkopolskie, 60-685, Polska",
+      "lat": 52.4568166,
+      "lon": 16.9004458,
+      "start_time": "2026-03-24T10:30:00",
+      "end_time": "2026-03-24T12:00:00",
+      "original_description": "Poznań: ul. Obornicka od 285 do 299 nieparzyste, 299A, od 300 do 314 parzyste, ul. Hulewiczów 1, ul. Firlika 3, 5, 7, 9, od 26 do 42 parzyste.",
+      "id": "bef412d768e62e78e71cbbe7279644bb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "2026-03-24T10:30:00",
+      "end_time": "2026-03-24T12:00:00",
+      "original_description": "Poznań: ul. Obornicka od 285 do 299 nieparzyste, 299A, od 300 do 314 parzyste, ul. Hulewiczów 1, ul. Firlika 3, 5, 7, 9, od 26 do 42 parzyste.",
+      "id": "c855f7a5a9588d85a86cdd8e052c5152"
     },
     {
       "type": "planned",
