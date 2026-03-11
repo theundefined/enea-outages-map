@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T02:47:33.985390+00:00",
+  "last_update": "2026-03-11T04:24:52.180537+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1280,6 +1280,26 @@
       "end_time": "2026-03-11T04:30:00",
       "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
       "id": "4ef605a250be7dd6e48f99b180c31424"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T06:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "ffdf098de469ed446222eac92282967d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Syrenia, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4290162,
+      "lon": 16.9858884,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T06:00:00",
+      "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
+      "id": "3632ef27da3f94356956fb2648772c1d"
     }
   ]
 }
