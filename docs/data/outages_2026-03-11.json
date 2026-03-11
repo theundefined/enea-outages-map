@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T16:09:34.552767+00:00",
+  "last_update": "2026-03-11T17:09:54.185607+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2230,6 +2230,66 @@
       "end_time": "2026-03-11T18:00:00",
       "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
       "id": "146ccbe140a01e53c175b00a0d9f76b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Faszynowa, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-359, Polska",
+      "lat": 52.364802,
+      "lon": 16.9339213,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T19:30:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "9134c0cff99d93b3a8d2811f960eea4d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Książęca, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-348, Polska",
+      "lat": 52.3671861,
+      "lon": 16.930722,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T19:30:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "2b461f520179f7cfcd4517a192f731b0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orląt, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-348, Polska",
+      "lat": 52.3655246,
+      "lon": 16.929858,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T19:30:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "6ff9313ab9cc2546b3899ce764493995"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T19:30:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "83de035cec3187e5af18a14071a36ad4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T19:30:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "4ed96a7e5e7d9e29848c145ba8136866"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętego Antoniego, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-348, Polska",
+      "lat": 52.3645871,
+      "lon": 16.9293132,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T19:30:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "b7658499e27f969d06fcf80c4acee569"
     }
   ]
 }
