@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-11T11:05:39.284473+00:00",
+  "last_update": "2026-03-11T11:45:34.785929+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1810,6 +1810,166 @@
       "end_time": "2026-03-11T12:00:00",
       "original_description": "Poznań ul. Bałtycka, ul. Syrenia.",
       "id": "3c9131883d30243796399f82b8b6b630"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gołębia, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4067111,
+      "lon": 16.9325619,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Halszki, ul. Imbirowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo.",
+      "id": "dc3d9f151ea3f6888975aabfd1c92127"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Halszki, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4948411,
+      "lon": 16.9528248,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Halszki, ul. Imbirowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo.",
+      "id": "d748bbb0ed7293e1b8be38bf8e3d93e3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Imbirowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4999024,
+      "lon": 16.9388842,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Halszki, ul. Imbirowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo.",
+      "id": "fd47b3e44233b9c8a3413b4ff0d1af65"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piołunowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 62-009, Polska",
+      "lat": 52.5014064,
+      "lon": 16.9534915,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Halszki, ul. Imbirowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo.",
+      "id": "5dddfe7658a07ee3e1b479b732a4f0a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podbiałowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4983301,
+      "lon": 16.9477619,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Halszki, ul. Imbirowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo.",
+      "id": "3d2fd09254130db4caf6809cc1f8293b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poligonowa, Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4968078,
+      "lon": 16.9205693,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Halszki, ul. Imbirowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo.",
+      "id": "1273e5104c93e7fe15c0d6f4c130add2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Halszki, ul. Imbirowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo.",
+      "id": "094691389024c82076ad034422815d8a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Poznańska.",
+      "id": "ba74e9c7e59c0af2b9e774e356ccefe7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.49832,
+      "lon": 16.946504,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T14:30:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Halszki, ul. Imbirowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo.",
+      "id": "bd0f1b32f72e5ac07c5d1a93c8cdda6d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Faszynowa, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-359, Polska",
+      "lat": 52.364802,
+      "lon": 16.9339213,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:00:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "e2f9c7cbc235217903c3cc2460aef5d2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Książęca, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-348, Polska",
+      "lat": 52.3671861,
+      "lon": 16.930722,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:00:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "1627e48b8ada5654f0da996f71703717"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orląt, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-348, Polska",
+      "lat": 52.3655246,
+      "lon": 16.929858,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:00:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "a4caa0335d1e6139d84fc6fdffcc009a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:00:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "438a2e62d3e9e52a70e9471238e05e3b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:00:00",
+      "original_description": "Poznań ul. Starołęcka.",
+      "id": "14b14b0dee4c5ffca4f06ff2b37e0a88"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starołęcka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3777391,
+      "lon": 16.9414808,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:00:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "9c7bec1b2b54820b28e47f4225e5786b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętego Antoniego, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-348, Polska",
+      "lat": 52.3645871,
+      "lon": 16.9293132,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-11T15:00:00",
+      "original_description": "Poznań os. Piastowskie, ul. Faszynowa, ul. Książęca, ul. Orląt, ul. Starołęcka, ul. św. Antoniego.",
+      "id": "b7831fff01b1f7e232c78911655ca26a"
     }
   ]
 }
