@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-12T08:05:26.798390+00:00",
+  "last_update": "2026-03-12T08:59:01.305658+00:00",
   "outages": [
     {
       "type": "planned",
@@ -970,6 +970,86 @@
       "end_time": "2026-03-24T15:00:00",
       "original_description": "Poznań: ul. Czorsztyńska od 1 do 5 nieparzyste, 5A-B, 3, 4, ul. Buska 2, ul. Karwieńska, ul. Rabczańska 3, 5, ul. Truskawiecka 1A, 2, 3, 5, 13.",
       "id": "4b82a8640e9708796cee6527fc91af98"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hawelańska (etap III), Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4388081,
+      "lon": 16.9504351,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T10:00:00",
+      "original_description": "Poznań: ul. Hawelańska 7, 9, 9A-F, 11, 13, 13A-C.",
+      "id": "f4c5125df2c61959aa963a0732120ce8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hawelańska (etap III), Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4388081,
+      "lon": 16.9504351,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T10:00:00",
+      "original_description": "Poznań: ul. Hawelańska 2, 2A, 4, 4A.",
+      "id": "aea5da91ed9d118eea5b23c4ba56295f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Henryka Kowalówki, Wilczy Młyn, Naramowice, Poznań, województwo wielkopolskie, 61-695, Polska",
+      "lat": 52.4398056,
+      "lon": 16.9555476,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T10:00:00",
+      "original_description": "Poznań: ul. Spornego, ul. Żołnierzy Lenino, ul. Kaczorowskiego, ul. Kowalówki, ul. Rataja od 2 do 48 parzyste., ul. Naramowicka dz. 1/21.",
+      "id": "eab0a56e1d563d04d7885626a7816e65"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kazimierza Spornego, Wilczy Młyn, Naramowice, Poznań, województwo wielkopolskie, 61-694, Polska",
+      "lat": 52.4400236,
+      "lon": 16.9518647,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T10:00:00",
+      "original_description": "Poznań: ul. Spornego, ul. Żołnierzy Lenino, ul. Kaczorowskiego, ul. Kowalówki, ul. Rataja od 2 do 48 parzyste., ul. Naramowicka dz. 1/21.",
+      "id": "4b637dd96ffb940fa2120e8ee3417226"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4746383,
+      "lon": 16.9466437,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T10:00:00",
+      "original_description": "Poznań: ul. Spornego, ul. Żołnierzy Lenino, ul. Kaczorowskiego, ul. Kowalówki, ul. Rataja od 2 do 48 parzyste., ul. Naramowicka dz. 1/21.",
+      "id": "413ff6b7b903fd7b1c558511660db91c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ryszarda Kaczorowskiego, Wilczy Młyn, Naramowice, Poznań, województwo wielkopolskie, 61-694, Polska",
+      "lat": 52.4399329,
+      "lon": 16.9543413,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T10:00:00",
+      "original_description": "Poznań: ul. Spornego, ul. Żołnierzy Lenino, ul. Kaczorowskiego, ul. Kowalówki, ul. Rataja od 2 do 48 parzyste., ul. Naramowicka dz. 1/21.",
+      "id": "3740ea953dd4aeab4c3648555c963962"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Skwer Franciszka Rataja, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4143937,
+      "lon": 16.9312454,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T10:00:00",
+      "original_description": "Poznań: ul. Spornego, ul. Żołnierzy Lenino, ul. Kaczorowskiego, ul. Kowalówki, ul. Rataja od 2 do 48 parzyste., ul. Naramowicka dz. 1/21.",
+      "id": "0aa9b47f30d21716095dc90ecaebd177"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żołnierzy Lenino, Wilczy Młyn, Naramowice, Poznań, województwo wielkopolskie, 61-694, Polska",
+      "lat": 52.4396523,
+      "lon": 16.9529688,
+      "start_time": "2026-03-24T08:30:00",
+      "end_time": "2026-03-24T10:00:00",
+      "original_description": "Poznań: ul. Spornego, ul. Żołnierzy Lenino, ul. Kaczorowskiego, ul. Kowalówki, ul. Rataja od 2 do 48 parzyste., ul. Naramowicka dz. 1/21.",
+      "id": "25a32d5f77c430a0671a2d32dc1823dc"
     },
     {
       "type": "planned",
