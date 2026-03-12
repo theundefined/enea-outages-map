@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-12T12:01:20.864479+00:00",
+  "last_update": "2026-03-12T13:35:17.244173+00:00",
   "outages": [
     {
       "type": "planned",
@@ -773,6 +773,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "2026-03-19T09:00:00",
+      "end_time": "2026-03-19T15:00:00",
+      "original_description": "miejscowość: Okonek ul. Kolejowa 23, 25, 46, 50, 54, 58, 62, 64, 66, 68, 72-86,  Nadleśnictwo, Stacja Kontroli Pojazdów, dz. 267/10, 267/13, 762/4, ul. Poznańska, ul. Ogrodowa nr od 1 do 3, miejscowość Rydzynka dz. 267/9, dz. 267/13.",
+      "id": "5996153488c0561803596d228aa65780"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ogrodowa, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-821, Polska",
+      "lat": 52.4038395,
+      "lon": 16.9248181,
+      "start_time": "2026-03-19T09:00:00",
+      "end_time": "2026-03-19T15:00:00",
+      "original_description": "miejscowość: Okonek ul. Kolejowa 23, 25, 46, 50, 54, 58, 62, 64, 66, 68, 72-86,  Nadleśnictwo, Stacja Kontroli Pojazdów, dz. 267/10, 267/13, 762/4, ul. Poznańska, ul. Ogrodowa nr od 1 do 3, miejscowość Rydzynka dz. 267/9, dz. 267/13.",
+      "id": "7ee7513f4b71fbf29c132b2c12a123cc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-03-19T09:00:00",
+      "end_time": "2026-03-19T15:00:00",
+      "original_description": "miejscowość: Okonek ul. Kolejowa 23, 25, 46, 50, 54, 58, 62, 64, 66, 68, 72-86,  Nadleśnictwo, Stacja Kontroli Pojazdów, dz. 267/10, 267/13, 762/4, ul. Poznańska, ul. Ogrodowa nr od 1 do 3, miejscowość Rydzynka dz. 267/9, dz. 267/13.",
+      "id": "a0877d8ac49cea01428faafbee928cdd"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Daliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
       "lat": 52.3899001,
       "lon": 16.8101651,
@@ -1490,6 +1520,556 @@
       "end_time": "2026-03-27T11:30:00",
       "original_description": "Poznań: ul. Ścinawska od 2 do 36 parzyste, od 3 do 33 nieparzyste, ul. Rzepińska 4, ul. Srebrna 2.",
       "id": "35c8f57c28a95b00a7cd7db6e9e367a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "761e3ac5a7afe56918b597fe18b4169d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bociania, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-621, Polska",
+      "lat": 52.4205149,
+      "lon": 16.8993876,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "d38088f7bd2345a5ed4bdd839a4fcfa3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "119b28923c496500f5c91315bd9fead8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "5e189ccc19f9fc6e1881b625ae0d66de"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dereniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3605579,
+      "lon": 17.0285227,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "9b0e1927b601a30abd0be2615cdf1905"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3680885,
+      "lon": 16.9128704,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "348519b50252920436433d9db06f7700"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jankowicka, Jankowice, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4361933,
+      "lon": 16.5942151,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "7017f721663d3b0ebfc9c831f91896e6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jarzębinowa, Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4738117,
+      "lon": 16.8969717,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "6b0dd079c5633a09b5925c446c9619aa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "5fe60a1f47f6bd24b2d0598cd1e2299b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kalwowska, Jankowice, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4246499,
+      "lon": 16.5977021,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "72b4895a72b8dbbeef9b63e98ff276e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "dad857db5349fe40ed8fa8ff2e196864"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "e4b533209ce2b82efa758c923f9ca7c5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "b8db8fd3457771f3cf58f53b5bacb3ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "cda42ea6caa3949a41ec9578e2459cbe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "174a7192268cb53a7988735962f94b7e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "62a9d5f5aa51f92748e4eda6ece91bbf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "3648258675040984324a3080c6274115"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mahoniowa, Chyby, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-081, Polska",
+      "lat": 52.453361,
+      "lon": 16.7636229,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "d1bb15e737642fdc42ce1fa0b038d311"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "7f435d4a27299dd0ecea33ae68086eae"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miętowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4740266,
+      "lon": 16.9519556,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "35dd48b71f23437a271ec9ea08059e04"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miła, Ogrody, Poznań, województwo wielkopolskie, 60-586, Polska",
+      "lat": 52.417859,
+      "lon": 16.8868546,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "7aa82b0f828478d2b2595bdb83b341d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Modrzewiowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3701225,
+      "lon": 16.8958809,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "1e14c7672857578231d9d9dc55583c82"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "e36aaad453f0d725536bf9099f2d7ae1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "45a2da3d919c301c1a4557fe6b09b4c2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrężna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4701548,
+      "lon": 17.1775244,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "a69dbeb76a57f324c1511cd43af56362"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orla, Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, 61-374, Polska",
+      "lat": 52.3804817,
+      "lon": 16.9482479,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "79ac617b7bd70f5eafbd4b6270eee6b9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedlowa, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3485845,
+      "lon": 16.8786946,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "6edb20fc0bcec6caa6ae122028c1dd1b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Palaczówka, Jankowice, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4404882,
+      "lon": 16.5845506,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "65fb6f7a7400fa4bec6fe86a6c920e5e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "43d8f2242ab905d30fcbb1d16cfa922b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "a6720fd2475367a0b52e71158d9a9ea3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.248571,
+      "lon": 17.0886353,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "7412fefce20434c0cdbd1b2c57d5c671"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "d8e3489d6b582a62da32e278f5defc5b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "d9e02a94afc4c4c1638fc61cd0b5a538"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznań Plaza, 2, Kaspra Drużbickiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4409817,
+      "lon": 16.9190535,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "9dc891f796c206b5bbb76636187d773c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "18f24e033d2e5fd6eba1a610789a2a6c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Południowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3749646,
+      "lon": 16.9001757,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "bb159394c94b686e3edf06408e7e8083"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radosna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4136213,
+      "lon": 16.8732563,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "23afd8daaf6562841a734fa3a77654be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "fbbc4a5fece0c8ccb9e572416ccd7f36"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sokoła, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "c523e0a91dfc26e83d46c6a1752d8c8f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "7726efd2bcb64235e791b8dc68b2d2ec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stawna, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-759, Polska",
+      "lat": 52.4107402,
+      "lon": 16.9355908,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "1f8acb93717e606ef5ea08d077918f10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "c35092a4bdf621d1a6fa5ed43dd9b354"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "bdfcee826ecd6fb5d6a0c506ca68ac79"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Turkawki, Jankowice, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4346164,
+      "lon": 16.5921807,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "aac06652358ea93b1bf531bb979ff705"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tymiankowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4792212,
+      "lon": 16.9626332,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "37ed0d67ccdeb263b16ed05a240dadd9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "e3eb9ead3dbc2c436d42b8b5e1ade8a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiosenna, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4145998,
+      "lon": 16.8720792,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "ac998d9c886d81c678ad007337684b20"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Więckowicka, Jankowice, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4306016,
+      "lon": 16.6018178,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "3e881b98386b31ffce41748ff84f17ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "0bd5a33a08c2f25beb644ad041c0ba80"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "4ad52d280804709a65bb7936fdd9659c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "f7ed373f54da7cce0de2c3189f70382e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Za Ogrodami, Jankowice, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4355044,
+      "lon": 16.5932972,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "d63b31be57a1b9729323600c87b612a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żniwna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4236767,
+      "lon": 16.9278324,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "78a3a9b391e4056f548793d07b3707f5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żurawia, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-860, Polska",
+      "lat": 52.4129219,
+      "lon": 16.9055421,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "33d4f563abbf3d9c97ddb1c4f2f48688"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żwirowa, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3743374,
+      "lon": 16.8661079,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T16:30:00",
+      "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
+      "id": "121ebf87e783ed01959988a3f748e750"
     }
   ]
 }
