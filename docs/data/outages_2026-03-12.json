@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-12T17:31:42.621975+00:00",
+  "last_update": "2026-03-12T18:28:54.853903+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2070,6 +2070,36 @@
       "end_time": "2026-03-12T16:30:00",
       "original_description": "Ceradz Kościelny ul. Bociania, ul. Bukowska, ul. Dębowa, ul. Jankowicka, ul. Kalwowska, ul. Klonowa, ul. Orła, ul. Palaczówka, ul. Piaskowa, ul. Sokoła, ul. Stawna, ul. Turkawki, ul. Więckowicka, ul. Wspólna, ul. Za Ogrodami, ul. Żniwna, ul. Żurawia, Góra ul. Kręta, Jankowice ul. Ogrodowa, ul. Wiśniowa, Rumianek ul. Miętowa, ul. Parkowa, ul. Południowa, ul. Poznańska, ul. Radosna, ul. Rumiankowa, ul. Szkolna, ul. Tymiankowa, Ceradz Dolny ul. Akacjowa, ul. Dereniowa, ul. Jarzębinowa, ul. Jaśminowa, ul. Kasztanowa, ul. Krótka, ul. Kwiatowa, ul. Leśna, ul. Mahoniowa, ul. Makowa, ul. Miła, ul. Modrzewiowa, ul. Okrężna, ul. Osiedle przy Stawie, ul. Parkowa, ul. Pogodna, ul. Polna, ul. Powstańców Wlkp., ul. Sosnowa, ul. Wierzbowa, ul. Wiosenna, Gaj Wielki ul. Bukowska, ul. Jankowicka, ul. Kiączyńska, ul. Kościelna, ul. Nowa, ul. Osiedlowa, ul. Pocztowa, ul. Poznańska, ul. Słoneczna, ul. Wodna, ul. Żwirowa, Kiączyn ul. Czereśniowa, Stare, Sierpówko.",
       "id": "121ebf87e783ed01959988a3f748e750"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bagienna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4767917,
+      "lon": 17.1902683,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T21:00:00",
+      "original_description": "Stęszew ul. Bagienna, ul. Bolesława Chrobrego, ul. Poznańska.",
+      "id": "63987432d423a3f42a4ca7953592cbfd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4537561,
+      "lon": 16.913691,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T21:00:00",
+      "original_description": "Stęszew ul. Bagienna, ul. Bolesława Chrobrego, ul. Poznańska.",
+      "id": "38f7d07025939ced704601a3dced21fa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-12T21:00:00",
+      "original_description": "Stęszew ul. Bagienna, ul. Bolesława Chrobrego, ul. Poznańska.",
+      "id": "013684d6381414575ae827a0ea42abe3"
     }
   ]
 }
