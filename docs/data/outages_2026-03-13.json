@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-13T17:33:03.347875+00:00",
+  "last_update": "2026-03-13T18:03:16.428187+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1660,6 +1660,56 @@
       "end_time": "2026-03-13T16:00:00",
       "original_description": "Poznań ul. Golęczewska, ul. Koszalińska, ul. Złotnicka.",
       "id": "d3417dfc41e59720ef4f089e8492c3d2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolka, Naramowice, Poznań, województwo wielkopolskie, 61-611, Polska",
+      "lat": 52.4529704,
+      "lon": 16.9469932,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T21:00:00",
+      "original_description": "Poznań ul. Bolka, ul. Bronisza, ul. Jasna Rola, ul. Naramowicka, ul. Rubież.",
+      "id": "84e2b799a817d9841da6465d7ecc6d46"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bronisza, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
+      "lat": 52.4545581,
+      "lon": 16.9506409,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T21:00:00",
+      "original_description": "Poznań ul. Bolka, ul. Bronisza, ul. Jasna Rola, ul. Naramowicka, ul. Rubież.",
+      "id": "b4c4b1e92fcb82ad288a5694c36d100e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jasna Rola, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4542749,
+      "lon": 16.941773,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T21:00:00",
+      "original_description": "Poznań ul. Bolka, ul. Bronisza, ul. Jasna Rola, ul. Naramowicka, ul. Rubież.",
+      "id": "fbd1904caecd1ee2b58beb0bd271ab8f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T21:00:00",
+      "original_description": "Poznań ul. Bolka, ul. Bronisza, ul. Jasna Rola, ul. Naramowicka, ul. Rubież.",
+      "id": "d567f7b48530e92c90295bde4d27d727"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rubież, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4492865,
+      "lon": 16.9505211,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T21:00:00",
+      "original_description": "Poznań ul. Bolka, ul. Bronisza, ul. Jasna Rola, ul. Naramowicka, ul. Rubież.",
+      "id": "782566be232a2d200b13a10e582b2437"
     }
   ]
 }
