@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-13T06:29:56.857767+00:00",
+  "last_update": "2026-03-13T07:28:11.729715+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1400,6 +1400,66 @@
       "end_time": "2026-03-27T11:30:00",
       "original_description": "Poznań: ul. Ścinawska od 2 do 36 parzyste, od 3 do 33 nieparzyste, ul. Rzepińska 4, ul. Srebrna 2.",
       "id": "35c8f57c28a95b00a7cd7db6e9e367a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Komornicka, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.3694124,
+      "lon": 16.867113,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T10:30:00",
+      "original_description": "Komorniki ul. Komornicka, ul. Nizinna, ul. Ogrodowa, ul. Poznańska, ul. Warsztatowa.",
+      "id": "490a4b2950423002c047cd5452873285"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nizinna, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3726545,
+      "lon": 16.891149,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T10:30:00",
+      "original_description": "Komorniki ul. Komornicka, ul. Nizinna, ul. Ogrodowa, ul. Poznańska, ul. Warsztatowa.",
+      "id": "184f7bbf8b0209920ef73f40885650d3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T10:30:00",
+      "original_description": "Komorniki ul. Komornicka, ul. Nizinna, ul. Ogrodowa, ul. Poznańska, ul. Warsztatowa.",
+      "id": "121aa4c3b8ccd2b28d01da80b551a748"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T10:30:00",
+      "original_description": "Komorniki ul. Poznańska.",
+      "id": "d31c1dbb25635deb502e0a5b8364e1eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T10:30:00",
+      "original_description": "Komorniki ul. Komornicka, ul. Nizinna, ul. Ogrodowa, ul. Poznańska, ul. Warsztatowa.",
+      "id": "a9c2a109b5bdcd64b78d944ab9cd9eb1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warsztatowa, Swarzędz, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
+      "lat": 52.4028659,
+      "lon": 17.0833573,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T10:30:00",
+      "original_description": "Komorniki ul. Komornicka, ul. Nizinna, ul. Ogrodowa, ul. Poznańska, ul. Warsztatowa.",
+      "id": "045dd807f503b48156ba39a59f6be21f"
     }
   ]
 }
