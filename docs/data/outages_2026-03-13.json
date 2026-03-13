@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-13T08:01:38.978098+00:00",
+  "last_update": "2026-03-13T08:56:18.942412+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1400,6 +1400,46 @@
       "end_time": "2026-03-27T11:30:00",
       "original_description": "Poznań: ul. Ścinawska od 2 do 36 parzyste, od 3 do 33 nieparzyste, ul. Rzepińska 4, ul. Srebrna 2.",
       "id": "35c8f57c28a95b00a7cd7db6e9e367a7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Unisława, Nowy Młyn, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-063, Polska",
+      "lat": 52.4047967,
+      "lon": 17.0168806,
+      "start_time": "2026-03-30T08:30:00",
+      "end_time": "2026-03-30T11:30:00",
+      "original_description": "Poznań: ul. Unisława od 1 do 15 nieparzyste, 15A, od 2 do 20 parzyste, 20A.",
+      "id": "f65e67dcbe127ae398aa3d9909ca744b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leszka, Nowy Młyn, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-043, Polska",
+      "lat": 52.4057704,
+      "lon": 17.0160297,
+      "start_time": "2026-03-31T08:30:00",
+      "end_time": "2026-03-31T11:30:00",
+      "original_description": "Poznań: ul. Radowita, ul. Ziemowita od 27 do 33 nieparzyste, ul. Leszka od 55 do 63 nieparzyste, 63A, od 72 do 92 parzyste.",
+      "id": "fc535551855083aad3b2c44fc5b71f65"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radowita, Nowy Młyn, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-043, Polska",
+      "lat": 52.4042468,
+      "lon": 17.0157855,
+      "start_time": "2026-03-31T08:30:00",
+      "end_time": "2026-03-31T11:30:00",
+      "original_description": "Poznań: ul. Radowita, ul. Ziemowita od 27 do 33 nieparzyste, ul. Leszka od 55 do 63 nieparzyste, 63A, od 72 do 92 parzyste.",
+      "id": "243ae0b7ab18e7145f8653b96f9d6ff7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ziemowita, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-053, Polska",
+      "lat": 52.4051572,
+      "lon": 17.0049725,
+      "start_time": "2026-03-31T08:30:00",
+      "end_time": "2026-03-31T11:30:00",
+      "original_description": "Poznań: ul. Radowita, ul. Ziemowita od 27 do 33 nieparzyste, ul. Leszka od 55 do 63 nieparzyste, 63A, od 72 do 92 parzyste.",
+      "id": "60527e5c10c4a71553350fc52f936b7c"
     },
     {
       "type": "unplanned",
