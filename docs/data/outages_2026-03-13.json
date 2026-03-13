@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-13T11:55:15.545025+00:00",
+  "last_update": "2026-03-13T12:53:04.576177+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1630,6 +1630,36 @@
       "end_time": "2026-03-13T12:00:00",
       "original_description": "Komorniki ul. Komornicka, ul. Nizinna, ul. Ogrodowa, ul. Poznańska, ul. Warsztatowa.",
       "id": "e066d9bb699735545da797a119af27ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Golęczewska, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4749592,
+      "lon": 16.8131041,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T16:00:00",
+      "original_description": "Poznań ul. Golęczewska, ul. Koszalińska, ul. Złotnicka.",
+      "id": "8348344f04a5b44809541512c91c0b5b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Koszalińska, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-626, Polska",
+      "lat": 52.4362166,
+      "lon": 16.8798349,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T16:00:00",
+      "original_description": "Poznań ul. Golęczewska, ul. Koszalińska, ul. Złotnicka.",
+      "id": "11245f19f9e2660cc97729e81db4149b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Złotnicka, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4751378,
+      "lon": 16.8089872,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-13T16:00:00",
+      "original_description": "Poznań ul. Golęczewska, ul. Koszalińska, ul. Złotnicka.",
+      "id": "d3417dfc41e59720ef4f089e8492c3d2"
     }
   ]
 }
