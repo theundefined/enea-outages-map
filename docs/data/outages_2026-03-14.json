@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-14T14:25:51.306679+00:00",
+  "last_update": "2026-03-14T14:53:16.563826+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1730,6 +1730,36 @@
       "end_time": "2026-03-14T16:00:00",
       "original_description": "Oborniki Rynek, ul. Armii Poznań, ul. Czarnkowska, ul. Kościelna, ul. Krótka, ul. Księdza Stefana Szymańskiego, ul. Powstańców Wielkopolskich, ul. Sądowa, ul. Starorzeczna, ul. Szamotulska, ul. Średnia, ul. Wąska, ul. Władysława Siwka, ul. Zamkowa.",
       "id": "3e5410065a2813df4c97547a252446f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Tysiąclecia, Chartowo, Poznań, województwo wielkopolskie, 61-255, Polska",
+      "lat": 52.3941422,
+      "lon": 16.9767429,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T16:45:00",
+      "original_description": "Poznań osiedle Tysiąclecia 70 . 71 . 72",
+      "id": "fccddfd6c7a31365bfc2a9afab18c7b2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chartowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3889605,
+      "lon": 16.9800715,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T18:00:00",
+      "original_description": "Poznań os. Tysiąclecia, ul. Chartowo.",
+      "id": "92f342e2da8690acb9ab8383c82878e7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Park Tysiąclecia, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4068988,
+      "lon": 16.967766,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T18:00:00",
+      "original_description": "Poznań os. Tysiąclecia, ul. Chartowo.",
+      "id": "3d20e3c8b94fc37e311ce238c9875cb9"
     }
   ]
 }
