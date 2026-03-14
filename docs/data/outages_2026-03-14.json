@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-14T03:57:50.501071+00:00",
+  "last_update": "2026-03-14T05:12:14.220837+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1460,6 +1460,166 @@
       "end_time": "2026-03-31T11:30:00",
       "original_description": "Poznań: ul. Radowita, ul. Ziemowita od 27 do 33 nieparzyste, ul. Leszka od 55 do 63 nieparzyste, 63A, od 72 do 92 parzyste.",
       "id": "60527e5c10c4a71553350fc52f936b7c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Armii \"Poznań\", Osiedle Glinki, Kłecko, gmina Kłecko, powiat gnieźnieński, województwo wielkopolskie, 62-270, Polska",
+      "lat": 52.6294471,
+      "lon": 17.4282236,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "311908ec8aaafe0a41b12cfd7b1c978b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czerniejewska, Warszawskie, Komandoria-Pomet, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-038, Polska",
+      "lat": 52.4116516,
+      "lon": 16.9812381,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "28242a011d38fefb3c8701e8201c7d27"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "ec7da81e49ece802592e944196fd972a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gnieźnieńska, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4237511,
+      "lon": 16.9882301,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "c34076a86969c4c941f850c66d0c319b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gąsiorowskich, Łazarz, Poznań, województwo wielkopolskie, 60-704, Polska",
+      "lat": 52.3991581,
+      "lon": 16.9058517,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "85d8025ed18cb3cd2f5b9b7d8dfda6e3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ignacego Paderewskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-770, Polska",
+      "lat": 52.407834,
+      "lon": 16.931121,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "6a1214aa7add2a5a593ccde5b703f610"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeziorna, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3190516,
+      "lon": 16.8063421,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "80c53ac8f43f1a5f922e3e71f8b1a80b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "70e9f0d4d4847d55738385e14e8d2049"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "b8c1fe3db3788e22ce9637262e98be87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Plac Powstańców Wielkopolskich, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.2499759,
+      "lon": 17.0881292,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "439b16b9ebbb9292a8c43fe3ba9e882a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pomnik Armii Poznań, Księcia Józefa, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-747, Polska",
+      "lat": 52.4151714,
+      "lon": 16.9305496,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "87462effc036fee6a6594dab9de2b3a2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "8b3e3380d8a9e9ade7f737ef07bcbfa6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Kościuszki, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-898, Polska",
+      "lat": 52.4022309,
+      "lon": 16.9243989,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "ae6604c9d8380dcae26fe518f4758a6a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Targowa, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3395481,
+      "lon": 16.8720337,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "02b695dc5d7b2acdb9fb659214d76720"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "1daa617c5a883e0928791ce6acf2c0e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zacisze, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "lat": 52.4129557,
+      "lon": 16.913383,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-14T08:30:00",
+      "original_description": "Kłecko ul. Armii \"Poznań\", ul. Czerniejewska, ul. dr Heleny i Wiktora Bujarskich, ul. dr. Juliana Domańskiego, ul. Dworcowa, ul. Gnieźnieńska, ul. Ignacego Paderewskiego, ul. Jeziorna, ul. Karniszewska, ul. Kościelna, ul. Majdany, ul. Ogrodowa, ul. Plac Powstańców Wielkopolskich, ul. Słoneczna, ul. Tadeusza Kościuszki, ul. Targowa, ul. Wodna, ul. Zacisze.",
+      "id": "9b93f190ae5a8069ea6b5b6ed19de7a8"
     }
   ]
 }
