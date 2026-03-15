@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-15T10:51:05.486104+00:00",
+  "last_update": "2026-03-15T11:23:28.813257+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1410,6 +1410,26 @@
       "end_time": "2026-03-31T11:30:00",
       "original_description": "Poznań: ul. Radowita, ul. Ziemowita od 27 do 33 nieparzyste, ul. Leszka od 55 do 63 nieparzyste, 63A, od 72 do 92 parzyste.",
       "id": "60527e5c10c4a71553350fc52f936b7c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-04-13T08:00:00",
+      "end_time": "2026-04-13T17:00:00",
+      "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
+      "id": "7bcef042be62981bb80b2a5550beaee2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "2026-04-13T08:00:00",
+      "end_time": "2026-04-13T17:00:00",
+      "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
+      "id": "b3824320f447ce9c36dc8345a780ee2c"
     }
   ]
 }
