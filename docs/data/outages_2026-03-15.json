@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-15T14:32:25.416148+00:00",
+  "last_update": "2026-03-15T14:59:20.529166+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1430,6 +1430,66 @@
       "end_time": "2026-04-13T17:00:00",
       "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
       "id": "b3824320f447ce9c36dc8345a780ee2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzeźnicka, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-133, Polska",
+      "lat": 52.3903407,
+      "lon": 16.8757422,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-15T18:00:00",
+      "original_description": "Poznań ul. Brzeźnicka, ul. Piotra Ściegiennego, ul. Pogodna, ul. Promienista, ul. Raszyńska, ul. Rynarzewska.",
+      "id": "48e1256f5db99fb3aba47b80bdf3a28c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Ściegiennego, Górczyn, Poznań, województwo wielkopolskie, 60-131, Polska",
+      "lat": 52.3865808,
+      "lon": 16.8796294,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-15T18:00:00",
+      "original_description": "Poznań ul. Brzeźnicka, ul. Piotra Ściegiennego, ul. Pogodna, ul. Promienista, ul. Raszyńska, ul. Rynarzewska.",
+      "id": "20376e7fdd3a4b394d4f6bf4ca060a57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-15T18:00:00",
+      "original_description": "Poznań ul. Brzeźnicka, ul. Piotra Ściegiennego, ul. Pogodna, ul. Promienista, ul. Raszyńska, ul. Rynarzewska.",
+      "id": "d649a6adabab641d3a624d9f468321c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-15T18:00:00",
+      "original_description": "Poznań ul. Brzeźnicka, ul. Piotra Ściegiennego, ul. Pogodna, ul. Promienista, ul. Raszyńska, ul. Rynarzewska.",
+      "id": "597108cf8d899f767fdfb84ab3e2dfdb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Raszyńska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-135, Polska",
+      "lat": 52.3877943,
+      "lon": 16.872936,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-15T18:00:00",
+      "original_description": "Poznań ul. Brzeźnicka, ul. Piotra Ściegiennego, ul. Pogodna, ul. Promienista, ul. Raszyńska, ul. Rynarzewska.",
+      "id": "72b71eeacd2b8de7248755c2500f0135"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynarzewska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-133, Polska",
+      "lat": 52.3901252,
+      "lon": 16.8768311,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-15T18:00:00",
+      "original_description": "Poznań ul. Brzeźnicka, ul. Piotra Ściegiennego, ul. Pogodna, ul. Promienista, ul. Raszyńska, ul. Rynarzewska.",
+      "id": "f39940af896850ae9d82f63534340c59"
     }
   ]
 }
