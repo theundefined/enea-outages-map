@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-16T11:59:11.754964+00:00",
+  "last_update": "2026-03-16T13:44:26.747731+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1500,6 +1500,76 @@
       "end_time": "2026-04-13T17:00:00",
       "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
       "id": "b3824320f447ce9c36dc8345a780ee2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-16T16:30:00",
+      "original_description": "Swadzim ul. Lipowa, ul. Ogrodowa, ul. Parkowa, ul. Poznańska, ul. Wschodnia.",
+      "id": "59228b9da40f1c9dfb23e5782293fd06"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-16T16:30:00",
+      "original_description": "Swadzim ul. Lipowa, ul. Ogrodowa, ul. Parkowa, ul. Poznańska, ul. Wschodnia.",
+      "id": "287e057ba8ffdfc5f2d41888d6f859cc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-16T16:30:00",
+      "original_description": "Swadzim ul. Lipowa, ul. Ogrodowa, ul. Parkowa, ul. Poznańska, ul. Wschodnia.",
+      "id": "2b3886e58a7255049c629f24a6ddb6eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-16T16:30:00",
+      "original_description": "Swadzim ul. Lipowa, ul. Ogrodowa, ul. Parkowa, ul. Poznańska, ul. Wschodnia.",
+      "id": "59d4387ec09f0350a6b85e782b6c8609"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-16T16:30:00",
+      "original_description": "Swadzim ul. Poznańska, ul. Wschodnia.",
+      "id": "64d487da8f2f27183ba6e6d1a0a8189e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wschodnia, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4195491,
+      "lon": 16.9749181,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-16T16:30:00",
+      "original_description": "Swadzim ul. Lipowa, ul. Ogrodowa, ul. Parkowa, ul. Poznańska, ul. Wschodnia.",
+      "id": "99addbaac6450073dc3f8d4e04f89eca"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wschodnia, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4195491,
+      "lon": 16.9749181,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-16T16:30:00",
+      "original_description": "Swadzim ul. Poznańska, ul. Wschodnia.",
+      "id": "f284d057faced08d3d3bc8936e9d2454"
     }
   ]
 }
