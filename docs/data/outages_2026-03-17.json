@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-17T08:34:18.744068+00:00",
+  "last_update": "2026-03-17T09:34:45.624484+00:00",
   "outages": [
     {
       "type": "planned",
@@ -920,6 +920,16 @@
       "end_time": "2026-03-24T17:30:00",
       "original_description": "Poznań: ul. Stefanowskiej, ul. Krakowickiej, ul. Ławica 17, 19, 21, od 24 do 36 parzyste, ul. Moryńska 3, 3A, 12, ul. Odrzycka, ul. Templińska od 1 do 25 nieparzyste, od 2 do 32 parzyste, ul. Bukowska 224, od 366 do 390 parzyste bez 372.",
       "id": "d8714add9bf6aacfa419b3d6a0b6aedc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Regatowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4747964,
+      "lon": 16.7684207,
+      "start_time": "2026-03-24T09:00:00",
+      "end_time": "2026-03-24T17:00:00",
+      "original_description": "Poznań: ul. Regatowa 39, 41, 54, 56, 58, 60, 62.",
+      "id": "f9b089f6dd9e5ce9eb7829989e237d27"
     },
     {
       "type": "planned",
