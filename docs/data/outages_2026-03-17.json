@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-17T06:44:25.433694+00:00",
+  "last_update": "2026-03-17T07:43:04.875516+00:00",
   "outages": [
     {
       "type": "planned",
@@ -973,6 +973,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Wołyńska, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-637, Polska",
+      "lat": 52.426925,
+      "lon": 16.9065641,
+      "start_time": "2026-03-25T08:00:00",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Poznań: ul. Wołyńska od 26 do 40 parzyste, 40A.",
+      "id": "2aabaf450cac0a73b92fcec76fe99572"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Straży Ludowej, Podolany, Poznań, województwo wielkopolskie, 60-465, Polska",
       "lat": 52.455093,
       "lon": 16.8847554,
@@ -1340,6 +1350,96 @@
       "end_time": "2026-04-13T17:00:00",
       "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
       "id": "b3824320f447ce9c36dc8345a780ee2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Białośliwska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4325422,
+      "lon": 16.8417874,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "2eca5216759c470001f7988f6cd7c57b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Budzyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4336333,
+      "lon": 16.8434486,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "7ede9cba251406d249bf9b5b3615f65c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chodzieska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335619,
+      "lon": 16.8415936,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "66438cf36ba3fee548dc2af88f2f9814"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czarnkowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4333693,
+      "lon": 16.8448723,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "bab0d579da24bf0af9bcdaa3998057a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "86d315e04cf7388a755d3d26ce5ab866"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kołobrzeska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335282,
+      "lon": 16.8401597,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "33c56b7babba81d4994a6a677a4192ea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgajska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4339951,
+      "lon": 16.8394814,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "cbc985481f25de8329d1289e256fb63f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rogozińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4323261,
+      "lon": 16.8428395,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "8df8a6f00976f910133c8f6bf3e3d4be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sytkowska, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.4298858,
+      "lon": 16.8559111,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-17T11:00:00",
+      "original_description": "Poznań ul. Białośliwska, ul. Budzyńska, ul. Chodzieska, ul. Czarnkowska, ul. Jana Henryka Dąbrowskiego, ul. Kołobrzeska, ul. Podgajska, ul. Rogozińska, ul. Sytkowska.",
+      "id": "d39963c66066b98caac51cf6fc092a5a"
     }
   ]
 }
