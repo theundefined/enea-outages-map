@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-17T10:30:26.624226+00:00",
+  "last_update": "2026-03-17T11:27:07.234374+00:00",
   "outages": [
     {
       "type": "planned",
@@ -523,6 +523,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Ziarnista, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4359161,
+      "lon": 16.9479498,
+      "start_time": "2026-03-23T08:00:00",
+      "end_time": "2026-03-23T13:00:00",
+      "original_description": "Poznań: ul. Ziarnista 2, 4.",
+      "id": "9de93f1c95b9818b30cadd8bd4badd5b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
       "lat": 52.4108791,
       "lon": 16.8836846,
@@ -540,6 +550,26 @@
       "end_time": "2026-03-23T14:00:00",
       "original_description": "Poznań: ul. Zagajnikowa 26, 26A-B, 28, 28A-D, 30F, dz. 33.",
       "id": "c2f448a154694a188d8c943a4cfb3376"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Admirała Józefa Unruga, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4745003,
+      "lon": 16.7602584,
+      "start_time": "2026-03-23T08:00:00",
+      "end_time": "2026-03-23T17:00:00",
+      "original_description": "Poznań: ul. Remiszewskiej dz. 761/47, dz. 761/48, dz. 761/49, ul. Unruga 19, dz. 757.",
+      "id": "ea373f330adaba096356d4c9bec6557b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Teresy Remiszewskiej, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4754884,
+      "lon": 16.7633492,
+      "start_time": "2026-03-23T08:00:00",
+      "end_time": "2026-03-23T17:00:00",
+      "original_description": "Poznań: ul. Remiszewskiej dz. 761/47, dz. 761/48, dz. 761/49, ul. Unruga 19, dz. 757.",
+      "id": "87eae68a7864ce2c25c736e4ea1ffda7"
     },
     {
       "type": "planned",
