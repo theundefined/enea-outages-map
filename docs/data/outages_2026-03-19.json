@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-19T08:59:25.745240+00:00",
+  "last_update": "2026-03-19T09:56:21.612371+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1230,6 +1230,116 @@
       "end_time": "2026-04-01T16:00:00",
       "original_description": "Poznań: ul. Ćmielowska 4, 6, 8, 10.",
       "id": "3da9620c37f4328046313a0fdbe26feb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świecka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-456, Polska",
+      "lat": 52.4397213,
+      "lon": 16.8142936,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T17:00:00",
+      "original_description": "Poznań: ul. Świecka 18, 20, 22, 24.",
+      "id": "83b37fe19185a8818e322d53e377622c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Madziarska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-616, Polska",
+      "lat": 52.4481386,
+      "lon": 16.9348878,
+      "start_time": "2026-04-02T08:30:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Poznań: ul. Sarmacka 36, 44, 46, 52, ul. Skwierzyńska 1, 2, ul. Swarożyca 1, 2, 2A, ul. Popiela, ul. Madziarska 4, 6, 8, 10, od 12 do 16A parzyste, od 1 do 17A nieparzyste.",
+      "id": "c6f424dccdde7050f7df95f6c2372925"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Popiela, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-615, Polska",
+      "lat": 52.4468882,
+      "lon": 16.9390086,
+      "start_time": "2026-04-02T08:30:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Poznań: ul. Sarmacka 36, 44, 46, 52, ul. Skwierzyńska 1, 2, ul. Swarożyca 1, 2, 2A, ul. Popiela, ul. Madziarska 4, 6, 8, 10, od 12 do 16A parzyste, od 1 do 17A nieparzyste.",
+      "id": "9ca3cd67d248cafca336e36507e71371"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sarmacka, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4452623,
+      "lon": 16.9462921,
+      "start_time": "2026-04-02T08:30:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Poznań: ul. Sarmacka 36, 44, 46, 52, ul. Skwierzyńska 1, 2, ul. Swarożyca 1, 2, 2A, ul. Popiela, ul. Madziarska 4, 6, 8, 10, od 12 do 16A parzyste, od 1 do 17A nieparzyste.",
+      "id": "7be167965c613f07be6e3fae2c223fec"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Skwierzyńska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-616, Polska",
+      "lat": 52.4497962,
+      "lon": 16.9372871,
+      "start_time": "2026-04-02T08:30:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Poznań: ul. Sarmacka 36, 44, 46, 52, ul. Skwierzyńska 1, 2, ul. Swarożyca 1, 2, 2A, ul. Popiela, ul. Madziarska 4, 6, 8, 10, od 12 do 16A parzyste, od 1 do 17A nieparzyste.",
+      "id": "43e074d74995180c0a1d359eaee5db80"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Swarożyca, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-615, Polska",
+      "lat": 52.4469845,
+      "lon": 16.9375792,
+      "start_time": "2026-04-02T08:30:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Poznań: ul. Sarmacka 36, 44, 46, 52, ul. Skwierzyńska 1, 2, ul. Swarożyca 1, 2, 2A, ul. Popiela, ul. Madziarska 4, 6, 8, 10, od 12 do 16A parzyste, od 1 do 17A nieparzyste.",
+      "id": "5cb3cc0a2c16a6203ac75c13c6f0f986"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pszczelna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294857,
+      "lon": 16.9297882,
+      "start_time": "2026-04-03T08:30:00",
+      "end_time": "2026-04-03T11:30:00",
+      "original_description": "Poznań: ul. Wyżyny od 2 do 18 parzyste, ul. Zagonowa 24A, ul. Winna, ul. Winogrady 51, 53, Warzywna, ul. Pszczelna 15A.",
+      "id": "649e2a960694fb7a4623f328bb94d7f8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Winna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4267011,
+      "lon": 16.9287238,
+      "start_time": "2026-04-03T08:30:00",
+      "end_time": "2026-04-03T11:30:00",
+      "original_description": "Poznań: ul. Wyżyny od 2 do 18 parzyste, ul. Zagonowa 24A, ul. Winna, ul. Winogrady 51, 53, Warzywna, ul. Pszczelna 15A.",
+      "id": "a1a099b42a07161d04fe1b1c974fea10"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Winogrady, Poznań, województwo wielkopolskie, 61-636, Polska",
+      "lat": 52.4348647,
+      "lon": 16.9383531,
+      "start_time": "2026-04-03T08:30:00",
+      "end_time": "2026-04-03T11:30:00",
+      "original_description": "Poznań: ul. Wyżyny od 2 do 18 parzyste, ul. Zagonowa 24A, ul. Winna, ul. Winogrady 51, 53, Warzywna, ul. Pszczelna 15A.",
+      "id": "215dde50380e235453042e51184caf5c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wyżyny, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4280253,
+      "lon": 16.9304533,
+      "start_time": "2026-04-03T08:30:00",
+      "end_time": "2026-04-03T11:30:00",
+      "original_description": "Poznań: ul. Wyżyny od 2 do 18 parzyste, ul. Zagonowa 24A, ul. Winna, ul. Winogrady 51, 53, Warzywna, ul. Pszczelna 15A.",
+      "id": "85a6d5a7a616239f6eae8b0821e3209b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zagonowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4267118,
+      "lon": 16.9273048,
+      "start_time": "2026-04-03T08:30:00",
+      "end_time": "2026-04-03T11:30:00",
+      "original_description": "Poznań: ul. Wyżyny od 2 do 18 parzyste, ul. Zagonowa 24A, ul. Winna, ul. Winogrady 51, 53, Warzywna, ul. Pszczelna 15A.",
+      "id": "799221c4879d0efe4682fb24a853104a"
     },
     {
       "type": "planned",
