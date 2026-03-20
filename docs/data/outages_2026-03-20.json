@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-20T11:03:26.158196+00:00",
+  "last_update": "2026-03-20T11:42:18.135334+00:00",
   "outages": [
     {
       "type": "planned",
@@ -940,6 +940,16 @@
       "end_time": "2026-03-28T14:00:00",
       "original_description": "Poznań: ul. Raczyńskiego od 1 do 23 nieparzyste, 23A-C, od 2 do 32 parzyste, ul. Tułodzieckiej 24, 38, ul. Konatkowskiej od 1 do 31 nieparzyste, 39, 41, 41A, 43, 45, 47A, od 2 do 46 parzyste, ul. Omańkowskiej od 1 do 7 nieparzyste, od 31 do 77 nieparzyste bez 69, od 2 do 100 parzyste, ul. Moraczewskiej, ul. Wojkowskich, ul. Rugego, ul. Drwęskiego 2A.",
       "id": "f7780cc67b5aad3d901d2a65dd49beae"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-03-28T08:00:00",
+      "end_time": "2026-03-28T18:00:00",
+      "original_description": "SF19380 Gmina Rokietnica miejscowość Kiekrz ul. Letnia cała, ul. Poznańska 9A, działki nr  795/45, 795/67, 951, 954, 957, 958, 959",
+      "id": "458a000e6e20c78c4935bdb3daf06421"
     },
     {
       "type": "planned",
