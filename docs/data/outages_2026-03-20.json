@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-20T10:22:38.191303+00:00",
+  "last_update": "2026-03-20T11:03:26.158196+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1500,6 +1500,16 @@
       "end_time": "2026-03-20T13:00:00",
       "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
       "id": "f2b12631a7873def0c6e5264b18f4325"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jasielska, Podolany, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4442509,
+      "lon": 16.8952851,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T14:00:00",
+      "original_description": "Poznań ul. Jasielska.",
+      "id": "6b747affe53a39aac065f032c43a623a"
     }
   ]
 }
