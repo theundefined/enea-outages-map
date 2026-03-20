@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-20T09:42:19.775941+00:00",
+  "last_update": "2026-03-20T10:22:38.191303+00:00",
   "outages": [
     {
       "type": "planned",
@@ -813,6 +813,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Jana Brzechwy, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4114708,
+      "lon": 16.8327805,
+      "start_time": "2026-03-26T08:30:00",
+      "end_time": "2026-03-26T15:30:00",
+      "original_description": "Poznań: ul. Jana Brzechwy 56.",
+      "id": "d9a2ea94940911b554ad5ebfa91c4ac8"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Mirabelkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
       "lat": 52.3652411,
       "lon": 17.039991,
@@ -980,6 +990,166 @@
       "end_time": "2026-03-31T11:30:00",
       "original_description": "Poznań: ul. Radowita, ul. Ziemowita od 27 do 33 nieparzyste, ul. Leszka od 55 do 63 nieparzyste, 63A, od 72 do 92 parzyste.",
       "id": "60527e5c10c4a71553350fc52f936b7c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wituchowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-427, Polska",
+      "lat": 52.4301105,
+      "lon": 16.8318698,
+      "start_time": "2026-04-01T08:00:00",
+      "end_time": "2026-04-01T12:00:00",
+      "original_description": "Poznań: ul. Wituchowska 7.",
+      "id": "bd49a170805c98b5b1022c6253abe231"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Alojzego Nowaka, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3575848,
+      "lon": 16.8922266,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Korfantego, ul. Styczyńskiego, ul. Rymera, ul. Ludygi-Laskowskiego, ul. Nowaka, ul. Tyca, ul. Kozaka od 2 do 32 parzyste, 29, ul. Opolska od 103 do 149 nieparzyste, od 114 do 148 parzyste.",
+      "id": "cbacb1dc6e0b92578d5e438fa36b70da"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Będzińska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3609419,
+      "lon": 16.8901341,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Leszczyńska 187, 189, ul. Będzińska 2, 4, ul. Czeladzka, ul. Korczaka, ul. Lelewela od 1 do 23 nieparzyste, od 2 do 16 parzyste, ul. Kołłątaja od 1 do 15 nieparzyste, do 6 do 40 parzyste, ul. Okrzei 2.",
+      "id": "d80b7f85bdf39ec82d8e017a07c54e14"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czeladzka, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.359765,
+      "lon": 16.888823,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Leszczyńska 187, 189, ul. Będzińska 2, 4, ul. Czeladzka, ul. Korczaka, ul. Lelewela od 1 do 23 nieparzyste, od 2 do 16 parzyste, ul. Kołłątaja od 1 do 15 nieparzyste, do 6 do 40 parzyste, ul. Okrzei 2.",
+      "id": "4dd990f9ba685e8c3a94069146375689"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hugona Kołłątaja, Świerczewo, Poznań, województwo wielkopolskie, 61-413, Polska",
+      "lat": 52.3649609,
+      "lon": 16.8838234,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Leszczyńska 187, 189, ul. Będzińska 2, 4, ul. Czeladzka, ul. Korczaka, ul. Lelewela od 1 do 23 nieparzyste, od 2 do 16 parzyste, ul. Kołłątaja od 1 do 15 nieparzyste, do 6 do 40 parzyste, ul. Okrzei 2.",
+      "id": "7e6d2df6e496584a420def02d26260c6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jana Ludygi-Laskowskiego, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3577289,
+      "lon": 16.8911544,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Korfantego, ul. Styczyńskiego, ul. Rymera, ul. Ludygi-Laskowskiego, ul. Nowaka, ul. Tyca, ul. Kozaka od 2 do 32 parzyste, 29, ul. Opolska od 103 do 149 nieparzyste, od 114 do 148 parzyste.",
+      "id": "b5d2c94df47a444226283c6bfdc11e81"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Janusza Korczaka, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3590819,
+      "lon": 16.8840061,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Leszczyńska 187, 189, ul. Będzińska 2, 4, ul. Czeladzka, ul. Korczaka, ul. Lelewela od 1 do 23 nieparzyste, od 2 do 16 parzyste, ul. Kołłątaja od 1 do 15 nieparzyste, do 6 do 40 parzyste, ul. Okrzei 2.",
+      "id": "4f94b601afa15b0d862cd49c9fd30d69"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Joachima Lelewela, Świerczewo, Poznań, województwo wielkopolskie, 61-409, Polska",
+      "lat": 52.3623992,
+      "lon": 16.8816517,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Leszczyńska 187, 189, ul. Będzińska 2, 4, ul. Czeladzka, ul. Korczaka, ul. Lelewela od 1 do 23 nieparzyste, od 2 do 16 parzyste, ul. Kołłątaja od 1 do 15 nieparzyste, do 6 do 40 parzyste, ul. Okrzei 2.",
+      "id": "5d3deeb3e958763591bd772050e83952"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Józefa Rymera, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.357641,
+      "lon": 16.8897021,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Korfantego, ul. Styczyńskiego, ul. Rymera, ul. Ludygi-Laskowskiego, ul. Nowaka, ul. Tyca, ul. Kozaka od 2 do 32 parzyste, 29, ul. Opolska od 103 do 149 nieparzyste, od 114 do 148 parzyste.",
+      "id": "3a3cb674e45c0059bda0c8e70ca32a98"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Korfantego, Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-406, Polska",
+      "lat": 52.3595748,
+      "lon": 16.8874249,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Korfantego, ul. Styczyńskiego, ul. Rymera, ul. Ludygi-Laskowskiego, ul. Nowaka, ul. Tyca, ul. Kozaka od 2 do 32 parzyste, 29, ul. Opolska od 103 do 149 nieparzyste, od 114 do 148 parzyste.",
+      "id": "96d3b658991793b1bec291b70f4238bd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leszczyńska, Świerczewo, Poznań, województwo wielkopolskie, 61-411, Polska",
+      "lat": 52.3595932,
+      "lon": 16.8811028,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Leszczyńska 187, 189, ul. Będzińska 2, 4, ul. Czeladzka, ul. Korczaka, ul. Lelewela od 1 do 23 nieparzyste, od 2 do 16 parzyste, ul. Kołłątaja od 1 do 15 nieparzyste, do 6 do 40 parzyste, ul. Okrzei 2.",
+      "id": "f3541106cb093f7c99e1a6c55b3f7f50"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Korfantego, ul. Styczyńskiego, ul. Rymera, ul. Ludygi-Laskowskiego, ul. Nowaka, ul. Tyca, ul. Kozaka od 2 do 32 parzyste, 29, ul. Opolska od 103 do 149 nieparzyste, od 114 do 148 parzyste.",
+      "id": "914b53bdb85ecf93113267e0e9385ae1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Romana Kozaka, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3582508,
+      "lon": 16.8842605,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Korfantego, ul. Styczyńskiego, ul. Rymera, ul. Ludygi-Laskowskiego, ul. Nowaka, ul. Tyca, ul. Kozaka od 2 do 32 parzyste, 29, ul. Opolska od 103 do 149 nieparzyste, od 114 do 148 parzyste.",
+      "id": "581ae0847fb9c618f67fd9168919b296"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stefana Okrzei, Świerczewo, Poznań, województwo wielkopolskie, 61-406, Polska",
+      "lat": 52.3623921,
+      "lon": 16.8876681,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Leszczyńska 187, 189, ul. Będzińska 2, 4, ul. Czeladzka, ul. Korczaka, ul. Lelewela od 1 do 23 nieparzyste, od 2 do 16 parzyste, ul. Kołłątaja od 1 do 15 nieparzyste, do 6 do 40 parzyste, ul. Okrzei 2.",
+      "id": "a1e2b14c36325e1a08397a5f2675f6e9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Teodora Tyca, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3571507,
+      "lon": 16.8922377,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Korfantego, ul. Styczyńskiego, ul. Rymera, ul. Ludygi-Laskowskiego, ul. Nowaka, ul. Tyca, ul. Kozaka od 2 do 32 parzyste, 29, ul. Opolska od 103 do 149 nieparzyste, od 114 do 148 parzyste.",
+      "id": "91ba21c5a287320e71da681b00f00431"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wincentego Styczyńskiego, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3581982,
+      "lon": 16.8885546,
+      "start_time": "2026-04-01T08:30:00",
+      "end_time": "2026-04-01T10:00:00",
+      "original_description": "Poznań: ul. Korfantego, ul. Styczyńskiego, ul. Rymera, ul. Ludygi-Laskowskiego, ul. Nowaka, ul. Tyca, ul. Kozaka od 2 do 32 parzyste, 29, ul. Opolska od 103 do 149 nieparzyste, od 114 do 148 parzyste.",
+      "id": "23dbcf172df9fe169ff6d63bc0082bc4"
     },
     {
       "type": "planned",
@@ -1250,6 +1420,86 @@
       "end_time": "2026-04-13T17:00:00",
       "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
       "id": "b3824320f447ce9c36dc8345a780ee2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bramowa, Mrowino, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 62-090, Polska",
+      "lat": 52.5146006,
+      "lon": 16.7057616,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T13:00:00",
+      "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
+      "id": "dc2a03452334faf26eb5a410195c7fd0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T13:00:00",
+      "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
+      "id": "2ef3931f6060662575baa055fa46db47"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwald Południe, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3937277,
+      "lon": 16.8708549,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T13:00:00",
+      "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
+      "id": "4ca0a70a79434494d9ac7d5e5523f8b4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T13:00:00",
+      "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
+      "id": "111bd2173092e023e70790b0e37bfca4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T13:00:00",
+      "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
+      "id": "395260999b02a5aef6a900d1dc6fe3cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pałacowa, Gułtowy, gmina Kostrzyn, powiat poznański, województwo wielkopolskie, 62-024, Polska",
+      "lat": 52.3515607,
+      "lon": 17.3310805,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T13:00:00",
+      "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
+      "id": "7d65cc8a4396bcec578dfdebcdeabf5b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T13:00:00",
+      "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
+      "id": "2cc659ff0d601135a106588c6432c117"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-20T13:00:00",
+      "original_description": "Mrowino ul. Bramowa, ul. Dworcowa, ul. Kopernika, ul. Kwiatowa, ul. Ogrodowa, ul. Pałacowa, ul. Poznańska, ul. Szkolna.",
+      "id": "f2b12631a7873def0c6e5264b18f4325"
     }
   ]
 }
