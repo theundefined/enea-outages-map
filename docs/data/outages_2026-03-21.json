@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-21T05:14:28.878083+00:00",
+  "last_update": "2026-03-21T05:56:46.801576+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1350,6 +1350,16 @@
       "end_time": "2026-03-21T05:00:00",
       "original_description": "Poznań ul. Jasielska.",
       "id": "e68bb05a249e8bbdbb236a9acdb4c374"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jasielska, Podolany, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4442509,
+      "lon": 16.8952851,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-21T08:00:00",
+      "original_description": "Poznań ul. Jasielska.",
+      "id": "3b02bc541f4b805020e67607b9acbaf8"
     }
   ]
 }
