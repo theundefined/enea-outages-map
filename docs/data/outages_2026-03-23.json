@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-23T14:43:37.141632+00:00",
+  "last_update": "2026-03-23T15:44:09.334995+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1450,6 +1450,76 @@
       "end_time": "2026-04-13T17:00:00",
       "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
       "id": "b3824320f447ce9c36dc8345a780ee2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błażeja Winklera, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3903278,
+      "lon": 16.8871132,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T18:30:00",
+      "original_description": "Poznań ul. Błażeja Winklera, ul. Głogowska, ul. Hetmańska, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Władysława Nehringa, ul. Wojciecha Cybulskiego.",
+      "id": "1655b963c12f0ecce16facd5afa3a1b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T18:30:00",
+      "original_description": "Poznań ul. Błażeja Winklera, ul. Głogowska, ul. Hetmańska, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Władysława Nehringa, ul. Wojciecha Cybulskiego.",
+      "id": "a9df74c32a3509be97088c7bae7574e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hetmańska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3830471,
+      "lon": 16.9258024,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T18:30:00",
+      "original_description": "Poznań ul. Błażeja Winklera, ul. Głogowska, ul. Hetmańska, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Władysława Nehringa, ul. Wojciecha Cybulskiego.",
+      "id": "96814e37552653ceda30fa77262fe0fa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Jarochowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961127,
+      "lon": 16.894134,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T18:30:00",
+      "original_description": "Poznań ul. Błażeja Winklera, ul. Głogowska, ul. Hetmańska, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Władysława Nehringa, ul. Wojciecha Cybulskiego.",
+      "id": "03eebd53831d1dbd4796b1d922ba6292"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marcina Kasprzaka, Łazarz, Poznań, województwo wielkopolskie, 60-245, Polska",
+      "lat": 52.3883781,
+      "lon": 16.8905487,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T18:30:00",
+      "original_description": "Poznań ul. Błażeja Winklera, ul. Głogowska, ul. Hetmańska, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Władysława Nehringa, ul. Wojciecha Cybulskiego.",
+      "id": "f3fb0d3637f9dcf830bd9c2bca189314"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojciecha Cybulskiego, Łazarz, Poznań, województwo wielkopolskie, 60-247, Polska",
+      "lat": 52.3910561,
+      "lon": 16.8882656,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T18:30:00",
+      "original_description": "Poznań ul. Błażeja Winklera, ul. Głogowska, ul. Hetmańska, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Władysława Nehringa, ul. Wojciecha Cybulskiego.",
+      "id": "bd79dee8705a5f238294a7567162a3b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Nehringa, Łazarz, Poznań, województwo wielkopolskie, 60-252, Polska",
+      "lat": 52.3902362,
+      "lon": 16.8908667,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T18:30:00",
+      "original_description": "Poznań ul. Błażeja Winklera, ul. Głogowska, ul. Hetmańska, ul. Kazimierza Jarochowskiego, ul. Marcina Kasprzaka, ul. Władysława Nehringa, ul. Wojciecha Cybulskiego.",
+      "id": "c85b8ca70052121028df330a8143f954"
     }
   ]
 }
