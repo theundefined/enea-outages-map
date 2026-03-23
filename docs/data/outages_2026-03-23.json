@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-23T20:03:14.705730+00:00",
+  "last_update": "2026-03-23T20:51:34.893174+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1700,6 +1700,76 @@
       "end_time": "2026-03-23T22:30:00",
       "original_description": "Poznań ul. Dziekańska, ul. Jana Lubrańskiego, ul. ks. Ignacego Posadzego, ul. Ostrów Tumski, ul. Panny, ul. Panny Marii.",
       "id": "0ec394f15e1f153a085d76e7b2b94fa2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "28 Czerwca 1956 roku, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3532487,
+      "lon": 16.9017169,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T23:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Czwartaków, ul. Hetmańska, ul. Partyzancka, ul. Rolna, ul. Romualda Traugutta, ul. Saperska.",
+      "id": "b1f2f06ca3f1d419a9d32c6b6d2f44fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czwartaków, Wilda, Poznań, województwo wielkopolskie, 61-495, Polska",
+      "lat": 52.3817842,
+      "lon": 16.9177767,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T23:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Czwartaków, ul. Hetmańska, ul. Partyzancka, ul. Rolna, ul. Romualda Traugutta, ul. Saperska.",
+      "id": "457d778da13988cfe6ffca6976821c02"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hetmańska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3830471,
+      "lon": 16.9258024,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T23:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Czwartaków, ul. Hetmańska, ul. Partyzancka, ul. Rolna, ul. Romualda Traugutta, ul. Saperska.",
+      "id": "461bb051077d825be56a3cb656639058"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Partyzancka, Wilda, Poznań, województwo wielkopolskie, 61-495, Polska",
+      "lat": 52.3825568,
+      "lon": 16.918357,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T23:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Czwartaków, ul. Hetmańska, ul. Partyzancka, ul. Rolna, ul. Romualda Traugutta, ul. Saperska.",
+      "id": "0afc7bc9ce597c3fc7131270f378b7a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T23:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Czwartaków, ul. Hetmańska, ul. Partyzancka, ul. Rolna, ul. Romualda Traugutta, ul. Saperska.",
+      "id": "8eb9014aad5a4a69d1413d1f98b5164d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romualda Traugutta, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-515, Polska",
+      "lat": 52.3853995,
+      "lon": 16.916062,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T23:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Czwartaków, ul. Hetmańska, ul. Partyzancka, ul. Rolna, ul. Romualda Traugutta, ul. Saperska.",
+      "id": "506c18ff8a30457daad4eead2c170ec6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Saperska, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-494, Polska",
+      "lat": 52.3825272,
+      "lon": 16.919704,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-23T23:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r., ul. Czwartaków, ul. Hetmańska, ul. Partyzancka, ul. Rolna, ul. Romualda Traugutta, ul. Saperska.",
+      "id": "98ab277f8c122cc650e13d78d1a3782e"
     }
   ]
 }
