@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-23T06:17:52.423403+00:00",
+  "last_update": "2026-03-23T07:41:34.508720+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1160,6 +1160,16 @@
       "end_time": "2026-04-01T16:00:00",
       "original_description": "Poznań: ul. Ćmielowska 4, 6, 8, 10.",
       "id": "3da9620c37f4328046313a0fdbe26feb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-012, Polska",
+      "lat": 52.4244767,
+      "lon": 16.9714946,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T13:00:00",
+      "original_description": "Poznań: ul. Nadolnik 9, dz. 1/11, dz. 11/17.",
+      "id": "29701a7f98d63f2f258e043da4c99a88"
     },
     {
       "type": "planned",
