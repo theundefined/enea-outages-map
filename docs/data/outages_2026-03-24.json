@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-24T09:29:03.324594+00:00",
+  "last_update": "2026-03-24T10:27:14.531033+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1443,6 +1443,56 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bohdana Winiarskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3598981,
+      "lon": 16.8838528,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T12:30:00",
+      "original_description": "Poznań: ul. Okulickiego od 1 do 41 nieparzyste, od 2 do 48 parzyste, ul. Krasickiego od 1 do 17 nieparzyste, od 2 do 34 parzyste, ul. Leszczyńska 171, ul. Lelewela od 33 do 39 nieparzyste, ul. Winiarskiego 35.",
+      "id": "1d01ca6b0521c2e5fba455e5a852fa15"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ignacego Krasickiego, Świerczewo, Poznań, województwo wielkopolskie, 61-412, Polska",
+      "lat": 52.3645236,
+      "lon": 16.8818087,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T12:30:00",
+      "original_description": "Poznań: ul. Okulickiego od 1 do 41 nieparzyste, od 2 do 48 parzyste, ul. Krasickiego od 1 do 17 nieparzyste, od 2 do 34 parzyste, ul. Leszczyńska 171, ul. Lelewela od 33 do 39 nieparzyste, ul. Winiarskiego 35.",
+      "id": "31d81a3494042c283aeb3a889a1ca4ce"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Joachima Lelewela, Świerczewo, Poznań, województwo wielkopolskie, 61-409, Polska",
+      "lat": 52.3623992,
+      "lon": 16.8816517,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T12:30:00",
+      "original_description": "Poznań: ul. Okulickiego od 1 do 41 nieparzyste, od 2 do 48 parzyste, ul. Krasickiego od 1 do 17 nieparzyste, od 2 do 34 parzyste, ul. Leszczyńska 171, ul. Lelewela od 33 do 39 nieparzyste, ul. Winiarskiego 35.",
+      "id": "22f9be7d71e0dbb1a318cd0d97b14926"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leopolda Okulickiego, Świerczewo, Poznań, województwo wielkopolskie, 61-413, Polska",
+      "lat": 52.3623806,
+      "lon": 16.8837785,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T12:30:00",
+      "original_description": "Poznań: ul. Okulickiego od 1 do 41 nieparzyste, od 2 do 48 parzyste, ul. Krasickiego od 1 do 17 nieparzyste, od 2 do 34 parzyste, ul. Leszczyńska 171, ul. Lelewela od 33 do 39 nieparzyste, ul. Winiarskiego 35.",
+      "id": "910be7de5eaaad2a533c895f53636072"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leszczyńska, Świerczewo, Poznań, województwo wielkopolskie, 61-411, Polska",
+      "lat": 52.3595932,
+      "lon": 16.8811028,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T12:30:00",
+      "original_description": "Poznań: ul. Okulickiego od 1 do 41 nieparzyste, od 2 do 48 parzyste, ul. Krasickiego od 1 do 17 nieparzyste, od 2 do 34 parzyste, ul. Leszczyńska 171, ul. Lelewela od 33 do 39 nieparzyste, ul. Winiarskiego 35.",
+      "id": "ad4ca327ee8d8ac40bfb875d8bb7eba2"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
       "lat": 52.4063647,
       "lon": 16.9116898,
@@ -1550,6 +1600,16 @@
       "end_time": "2026-03-24T11:30:00",
       "original_description": "Poznań ul. Huby Moraskie, ul. Morasko, ul. Przedwiośnia, ul. Szumiących Traw.",
       "id": "bf8955b17f6536bef5347f0caea95f10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4892306,
+      "lon": 16.9095915,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-24T13:00:00",
+      "original_description": "Poznań ul. Morasko.",
+      "id": "77f9a52c96a9c1bb6a0d28ddbff2e3c0"
     }
   ]
 }
