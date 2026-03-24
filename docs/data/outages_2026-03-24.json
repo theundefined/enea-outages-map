@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-24T07:31:33.855419+00:00",
+  "last_update": "2026-03-24T08:27:08.753540+00:00",
   "outages": [
     {
       "type": "planned",
@@ -783,6 +783,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Działyńskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-727, Polska",
+      "lat": 52.4112461,
+      "lon": 16.9239948,
+      "start_time": "2026-03-30T08:30:00",
+      "end_time": "2026-03-30T14:30:00",
+      "original_description": "Poznań: ul. Działyńskich 8, 9.",
+      "id": "f9b1baf9ee87dfaa9be412f82c4d69a0"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poznańska Ogólnokształcąca Szkoła Muzyczna I st. nr 2 im. Tadeusza Szeligowskiego, Bydgoska, Śródka, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
       "lat": 52.4117665,
       "lon": 16.9556609,
@@ -1213,6 +1223,76 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Działkowa, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-131, Polska",
+      "lat": 52.3890032,
+      "lon": 16.8799714,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
+      "id": "7f68e75f15f86e30de6ef1e0ebee590c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
+      "id": "61212e0deaaaf71c1fb5f0eb19d29d96"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podleśna, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4180824,
+      "lon": 17.0426216,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
+      "id": "d1e7fa81485770ad9f29e05634b9e03f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
+      "id": "e2b702024977653a8e4d790b95d790de"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
+      "id": "b9394a2f8737285607d920b8f42553dd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wyższa Szkoła Bankowa w Poznaniu, 1, Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4036146,
+      "lon": 16.923645,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
+      "id": "c20f80779b51acf576b747689b3d6c59"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "2026-04-02T08:00:00",
+      "end_time": "2026-04-02T12:30:00",
+      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
+      "id": "750b130d400667e512a8ffb49d43e8d8"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-012, Polska",
       "lat": 52.4244767,
       "lon": 16.9714946,
@@ -1380,6 +1460,66 @@
       "end_time": "2026-04-13T17:00:00",
       "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
       "id": "b3824320f447ce9c36dc8345a780ee2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego.",
+      "id": "f74a49e413a9bddf24b82fa37c56b10d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4795026,
+      "lon": 16.9188663,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań ul. Huby Moraskie, ul. Morasko, ul. Przedwiośnia, ul. Szumiących Traw.",
+      "id": "455ad6f51d5a89e109a2bef442b02065"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4892306,
+      "lon": 16.9095915,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań ul. Morasko.",
+      "id": "be14c786a608f42e58cd1cf6b03453c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4892306,
+      "lon": 16.9095915,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań ul. Huby Moraskie, ul. Morasko, ul. Przedwiośnia, ul. Szumiących Traw.",
+      "id": "366122017fba7e4915b18a81bb5ad22a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przedwiośnia, Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4784521,
+      "lon": 16.9114355,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań ul. Huby Moraskie, ul. Morasko, ul. Przedwiośnia, ul. Szumiących Traw.",
+      "id": "2d1abc86e9ba0e3f17348298f6b9beb6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szumiących Traw, Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4800945,
+      "lon": 16.9119148,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-24T11:30:00",
+      "original_description": "Poznań ul. Huby Moraskie, ul. Morasko, ul. Przedwiośnia, ul. Szumiących Traw.",
+      "id": "bf8955b17f6536bef5347f0caea95f10"
     }
   ]
 }
