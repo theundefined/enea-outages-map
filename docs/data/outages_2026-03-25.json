@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T10:05:20.718242+00:00",
+  "last_update": "2026-03-25T11:02:55.149351+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1077,6 +1077,16 @@
       "lat": 52.4133513,
       "lon": 16.9048857,
       "start_time": "2026-04-08T08:00:00",
+      "end_time": "2026-04-08T13:00:00",
+      "original_description": "Mielno: ul. Poznańska 30, 32, od 29 do 43 nieparzyste.",
+      "id": "f787c5593bc59050120e0566b2e3a3a1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-08T08:00:00",
       "end_time": "2026-04-08T16:00:00",
       "original_description": "Gmina Pniewy miejscowość Jakubowo od 7 do 15, 18, działki nr 126, \nmiasto Pniewy ul. Poznańska 92, 96, 98, restauracja McDonalds, stacja paliw BP,",
       "id": "a795f3311be9341ea7dc1016dffefdd8"
@@ -1490,6 +1500,466 @@
       "end_time": "2026-03-25T13:00:00",
       "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
       "id": "bc5503d67bef48896401831a7f81d02e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4892306,
+      "lon": 16.9095915,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:30:00",
+      "original_description": "Poznań ul. Morasko.",
+      "id": "736d0008cc5f9048bec66ad1738de2c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Arnikowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4918179,
+      "lon": 16.9382263,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "ae6d3a0e5b7ef05bf117ef60df063f7f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3756714,
+      "lon": 16.8649743,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Niekursko ul. Boczna, ul. Poznańska.",
+      "id": "08d60dde06215e90304cf193ffbc893c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Borówkowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4850642,
+      "lon": 16.9443999,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "d233db459d851c63add24cfecc871581"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Celichowskich, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4874876,
+      "lon": 16.9174721,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "1223b94170e82b57e92594e4a865891b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Drogocin, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4890906,
+      "lon": 16.9105727,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "9354c1c3bbcab5b955b9d003491c4e09"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Jaśkowiaka, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.48894,
+      "lon": 16.9257946,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "a1194fa3df2a0ec47abef728662af453"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Glinienko, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4890324,
+      "lon": 16.9111808,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "4db2408329eb19c12292c6e131624dfe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Glinno, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4902831,
+      "lon": 16.9105691,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "241046a2c4d420ef811e22cc144466c9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gołębia, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4067111,
+      "lon": 16.9325619,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "0733e9691be2eabaf9fd8202bd15c744"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Halszki, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4948411,
+      "lon": 16.9528248,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "7e57ab1bf32e49e9ed436b9d354dcc9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Imbirowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4999024,
+      "lon": 16.9388842,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "c028d70a247e9591a300687056754bc2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Janowo, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4892111,
+      "lon": 16.9127161,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "69f23aca6fb6d859ddb559e87e197126"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jemiołowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4856989,
+      "lon": 16.9449625,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "1316898a465bb0efccf43cdca75988d2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kminkowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4977255,
+      "lon": 16.9472661,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "f8bdf63a8024f8df2b0341bf95ee648d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Knyszyn, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.489805,
+      "lon": 16.9105443,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "4a7ca694b5de2f471cc108f8fb0d4479"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kocankowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.485862,
+      "lon": 16.9444434,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "131bbbb4d55bc9dc917002ec818b9f20"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krwawnikowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4888732,
+      "lon": 16.939503,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "2740dc7f358734c458b2fbad8057975a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lebiodowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4871429,
+      "lon": 16.942011,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "9a589a854d1ffbdc26fc11752fbd3347"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubczykowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4869795,
+      "lon": 16.945007,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "ab7c01fc11a50103fd7223d8a3e0b471"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Melisowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4863402,
+      "lon": 16.9567246,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "7645de598c0c42751544526de77a813e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mirtowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4883541,
+      "lon": 16.940839,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "0b91faf723dbe5e6f33ac728b27a4aed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miętowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4740266,
+      "lon": 16.9519556,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "198aa2c201ea9ea7428814c35ddfd174"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nadwarciańska, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4678103,
+      "lon": 16.9664956,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "b53d63dd24c17eda92ee0d833f2fab96"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "41773a04989e7dfe0802a8f8b4971f5e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nostrzykowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4888021,
+      "lon": 16.9490814,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "d608d65cb2a9ba6745f993aa91b18a29"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okolewo, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4920756,
+      "lon": 16.9085241,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "428f6b0d3e0d7dfece9e68f3d86336cb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piołunowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 62-009, Polska",
+      "lat": 52.5014064,
+      "lon": 16.9534915,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "0f4455c6e918ba35d82c3ae20d4458bf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podbiałowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4983301,
+      "lon": 16.9477619,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "b59d2dd577618c4a7e482b936a6c967c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poligonowa, Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4968078,
+      "lon": 16.9205693,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "0afca29c50e9f412e7edd0b64031ea64"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "8281a490149aa422c2617c0dffb6dca4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Poznańska.",
+      "id": "b0c55cb9ba1c374ee66d7c597af1d627"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Niekursko ul. Boczna, ul. Poznańska.",
+      "id": "5ab7373895bf7827a74c9649788d08d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.49832,
+      "lon": 16.946504,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "ca013494967a3ee4ad382acca2fca7c2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rdestowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4893187,
+      "lon": 16.9401429,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "be1abe52890f651b0906bb725ac341f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzewieniowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4870384,
+      "lon": 16.9436159,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "6fc67df6d288ed0cfe01b25aad5b8180"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skrzypowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4772659,
+      "lon": 16.9623501,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "7b0e43d1308a55a0e9cfaba209248899"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szafranowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4869773,
+      "lon": 16.9497819,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "09460648300691ac8dedb8231b5dfcf8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szałwiowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.478153,
+      "lon": 16.9589492,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "4b4749d2d99b884952e115d15f46712f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tatarakowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4853555,
+      "lon": 16.944299,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "ea01c45c6ab25fcbfe4a209f5e2c5b61"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tymiankowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4792212,
+      "lon": 16.9626332,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "869b33b85862004128168a4556bfbb0b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiesiołkowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4873331,
+      "lon": 16.9403672,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "f25b3fbc034f0c36179ba501009adfdf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Złocieniowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4879406,
+      "lon": 16.951162,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "283f0ab7b35576025e90c8ab8708dd87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łopianowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4870359,
+      "lon": 16.9387455,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "8d27470bb031996627f54f1d67c22214"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łysy Młyn, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4899357,
+      "lon": 16.9127447,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "1591131632f0aa6b97790511f18e50ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świetlikowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4892829,
+      "lon": 16.9513774,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T14:00:00",
+      "original_description": "Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Arnikowa, ul. Borówkowa, ul. Celichowskich, ul. Drogocin, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Halszki, ul. Imbirowa, ul. Janowo, ul. Jemiołowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Krwawnikowa, ul. Lebiodowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Melisowa, ul. Miętowa, ul. Mirtowa, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Radojewo, ul. Rdestowa, ul. Rzewieniowa, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Świetlikowa, ul. Tatarakowa, ul. Tymiankowa, ul. Wiesiołkowa, ul. Złocieniowa.",
+      "id": "a1fbdb884576f367fa60e71669dbc371"
     }
   ]
 }
