@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T16:47:11.335025+00:00",
+  "last_update": "2026-03-25T17:44:29.696054+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2200,6 +2200,66 @@
       "end_time": "2026-03-25T18:30:00",
       "original_description": "Poznań ul. Lubczykowa, ul. Miętowa, ul. Nadwarciańska, ul. Skrzypowa, ul. Szałwiowa, ul. Tymiankowa.",
       "id": "d70588aad149d5ea3a002bbd3cbd5208"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubczykowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4869795,
+      "lon": 16.945007,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T22:00:00",
+      "original_description": "Poznań ul. Lubczykowa, ul. Miętowa, ul. Nadwarciańska, ul. Skrzypowa, ul. Szałwiowa, ul. Tymiankowa.",
+      "id": "aef102ec7bb9c27db36d62c371973ede"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miętowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4740266,
+      "lon": 16.9519556,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T22:00:00",
+      "original_description": "Poznań ul. Lubczykowa, ul. Miętowa, ul. Nadwarciańska, ul. Skrzypowa, ul. Szałwiowa, ul. Tymiankowa.",
+      "id": "12bde7a0c15aa4b576e8d18f2f4ac501"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nadwarciańska, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4678103,
+      "lon": 16.9664956,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T22:00:00",
+      "original_description": "Poznań ul. Lubczykowa, ul. Miętowa, ul. Nadwarciańska, ul. Skrzypowa, ul. Szałwiowa, ul. Tymiankowa.",
+      "id": "5d48c2699ad74d9a651874f935aeb283"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skrzypowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4772659,
+      "lon": 16.9623501,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T22:00:00",
+      "original_description": "Poznań ul. Lubczykowa, ul. Miętowa, ul. Nadwarciańska, ul. Skrzypowa, ul. Szałwiowa, ul. Tymiankowa.",
+      "id": "10a8f47766286394e87ba51459afaeaa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szałwiowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.478153,
+      "lon": 16.9589492,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T22:00:00",
+      "original_description": "Poznań ul. Lubczykowa, ul. Miętowa, ul. Nadwarciańska, ul. Skrzypowa, ul. Szałwiowa, ul. Tymiankowa.",
+      "id": "34ca93196933a543ec636fea2158fab6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tymiankowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4792212,
+      "lon": 16.9626332,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T22:00:00",
+      "original_description": "Poznań ul. Lubczykowa, ul. Miętowa, ul. Nadwarciańska, ul. Skrzypowa, ul. Szałwiowa, ul. Tymiankowa.",
+      "id": "df71024e9b325da39f37a4f2a676080b"
     }
   ]
 }
