@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T09:05:09.342748+00:00",
+  "last_update": "2026-03-25T10:05:20.718242+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1043,6 +1043,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "2026-04-08T08:00:00",
+      "end_time": "2026-04-08T12:00:00",
+      "original_description": "Poznań: ul. Czeremchowa 2, 3-5, 4, 6, 7, 9, 10, 11, 16, 17, 18, 19, 24, 26, 27, stacja ładowania, ul. Czechosłowacka 96, 98.",
+      "id": "8eccd60ca675b08133400c1e34df47ce"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czeremchowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3731637,
+      "lon": 16.8960019,
+      "start_time": "2026-04-08T08:00:00",
+      "end_time": "2026-04-08T12:00:00",
+      "original_description": "Poznań: ul. Czeremchowa 2, 3-5, 4, 6, 7, 9, 10, 11, 16, 17, 18, 19, 24, 26, 27, stacja ładowania, ul. Czechosłowacka 96, 98.",
+      "id": "fafc05cde16985cff0c110d5c09d9a3e"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Hawelańska (etap III), Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.4388081,
       "lon": 16.9504351,
@@ -1060,6 +1080,66 @@
       "end_time": "2026-04-08T16:00:00",
       "original_description": "Gmina Pniewy miejscowość Jakubowo od 7 do 15, 18, działki nr 126, \nmiasto Pniewy ul. Poznańska 92, 96, 98, restauracja McDonalds, stacja paliw BP,",
       "id": "a795f3311be9341ea7dc1016dffefdd8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Henryka Sucharskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3686577,
+      "lon": 16.8889604,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T11:30:00",
+      "original_description": "Poznań: ul. Kołłątaja od 92 do 158 parzyste, ul. Cymsa, ul. Różyckiego, ul. Sucharskiego od 20 do 34 parzyste, ul. Kiedacza, ul. Worcella.",
+      "id": "88e5ca7b511e0dd35f195e9394150302"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hugona Kołłątaja, Świerczewo, Poznań, województwo wielkopolskie, 61-413, Polska",
+      "lat": 52.3649609,
+      "lon": 16.8838234,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T11:30:00",
+      "original_description": "Poznań: ul. Kołłątaja od 92 do 158 parzyste, ul. Cymsa, ul. Różyckiego, ul. Sucharskiego od 20 do 34 parzyste, ul. Kiedacza, ul. Worcella.",
+      "id": "325890a70b193285b70c481cdd616446"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jerzego Różyckiego, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3688017,
+      "lon": 16.885609,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T11:30:00",
+      "original_description": "Poznań: ul. Kołłątaja od 92 do 158 parzyste, ul. Cymsa, ul. Różyckiego, ul. Sucharskiego od 20 do 34 parzyste, ul. Kiedacza, ul. Worcella.",
+      "id": "68ea2a93ee4a5972bce836598a15c8ec"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pawła Cymsa, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3684743,
+      "lon": 16.8854323,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T11:30:00",
+      "original_description": "Poznań: ul. Kołłątaja od 92 do 158 parzyste, ul. Cymsa, ul. Różyckiego, ul. Sucharskiego od 20 do 34 parzyste, ul. Kiedacza, ul. Worcella.",
+      "id": "bd834b542150570b3670a9dcf75cf83a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stanisława Worcella, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.369921,
+      "lon": 16.8859819,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T11:30:00",
+      "original_description": "Poznań: ul. Kołłątaja od 92 do 158 parzyste, ul. Cymsa, ul. Różyckiego, ul. Sucharskiego od 20 do 34 parzyste, ul. Kiedacza, ul. Worcella.",
+      "id": "a1c7b3f128fe27e55c4c73c0091634f8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zbigniewa Kiedacza, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3695052,
+      "lon": 16.8859378,
+      "start_time": "2026-04-08T08:30:00",
+      "end_time": "2026-04-08T11:30:00",
+      "original_description": "Poznań: ul. Kołłątaja od 92 do 158 parzyste, ul. Cymsa, ul. Różyckiego, ul. Sucharskiego od 20 do 34 parzyste, ul. Kiedacza, ul. Worcella.",
+      "id": "43d3e06af5c6d1e9ce7af0abc196a558"
     },
     {
       "type": "planned",
@@ -1110,6 +1190,26 @@
       "end_time": "2026-04-08T12:30:00",
       "original_description": "Poznań: ul. Okulickiego od 1 do 41 nieparzyste, od 2 do 48 parzyste, ul. Krasickiego od 1 do 17 nieparzyste, od 2 do 34 parzyste, ul. Leszczyńska 171, ul. Lelewela od 33 do 39 nieparzyste, ul. Winiarskiego 35.",
       "id": "ad4ca327ee8d8ac40bfb875d8bb7eba2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krapkowicka, Junikowo, Poznań, województwo wielkopolskie, 60-166, Polska",
+      "lat": 52.3852955,
+      "lon": 16.844481,
+      "start_time": "2026-04-09T08:30:00",
+      "end_time": "2026-04-09T12:30:00",
+      "original_description": "Poznań: ul. Ziębicka 1A, od 3 do 25 nieparzyste, 29, 33, od 2 do 12 parzyste, 16A, plac budowy, ul. Krapkowicka 8, 10.",
+      "id": "f7e8ffd132f3fcf2025331a2e1ad4e48"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ziębicka, Junikowo, Poznań, województwo wielkopolskie, 60-164, Polska",
+      "lat": 52.3835035,
+      "lon": 16.8450278,
+      "start_time": "2026-04-09T08:30:00",
+      "end_time": "2026-04-09T12:30:00",
+      "original_description": "Poznań: ul. Ziębicka 1A, od 3 do 25 nieparzyste, 29, 33, od 2 do 12 parzyste, 16A, plac budowy, ul. Krapkowicka 8, 10.",
+      "id": "2d7401e20fc0d1d1f1633d40e6ce6797"
     },
     {
       "type": "planned",
@@ -1250,6 +1350,146 @@
       "end_time": "2026-03-25T11:00:00",
       "original_description": "Poznań ul. Michałowska, ul. Nad Potokiem, ul. Szydłowska, ul. Wiece, ul. Winiarska.",
       "id": "dedaea61825d5c4595ed23cfe34b3e5f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "08c0155bfa40b8d0216784b54ac7a47b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gorzowska, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4121407,
+      "lon": 16.8181504,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "c5370fb7117e6120047c5ef325d15ff3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Dusina, Gostyń ul. Dusińska, ul. Jesionowa, ul. Poznańska, ul. Siewna, ul. Tarninowa.",
+      "id": "b2a8ed700ef508657df96147d38b5214"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubniewicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4087271,
+      "lon": 16.8186808,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "e610b00764278c06c041d1d0fc547144"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marii Szmytówny, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4124453,
+      "lon": 16.816261,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "dc6a7da03717e503361b3274a164abfb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Moryńska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4115619,
+      "lon": 16.8219975,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "cd4149caba541695542a4fc7d4e101f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Odrzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4120769,
+      "lon": 16.8209787,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "78ade1043340200d8fd863ff567af1b0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "c64ec6cc90a4b4581a134030b38a2892"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Dusina, Gostyń ul. Dusińska, ul. Jesionowa, ul. Poznańska, ul. Siewna, ul. Tarninowa.",
+      "id": "75f0745e06259c3f2f03901a3778f736"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Siewna, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4418259,
+      "lon": 16.9151016,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Dusina, Gostyń ul. Dusińska, ul. Jesionowa, ul. Poznańska, ul. Siewna, ul. Tarninowa.",
+      "id": "1ce061f6b2f4b943a279f9f22d8844e1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sławińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4096059,
+      "lon": 16.8215316,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "d9fc6cd67558b96b354e8895e25de16c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tarninowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3745578,
+      "lon": 16.8971272,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Dusina, Gostyń ul. Dusińska, ul. Jesionowa, ul. Poznańska, ul. Siewna, ul. Tarninowa.",
+      "id": "d5340801aeecd2cca3cda9dc516d2bb0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Templińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4097315,
+      "lon": 16.8277511,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "c991b34962c02738af9f04fc67d0bc8e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ławica, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4112414,
+      "lon": 16.8253002,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T13:00:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Sławińska, ul. Templińska.",
+      "id": "bc5503d67bef48896401831a7f81d02e"
     }
   ]
 }
