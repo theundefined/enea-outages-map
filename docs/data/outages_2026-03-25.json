@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T04:51:24.721220+00:00",
+  "last_update": "2026-03-25T05:59:04.580113+00:00",
   "outages": [
     {
       "type": "planned",
@@ -530,6 +530,36 @@
       "end_time": "2026-03-31T11:30:00",
       "original_description": "Poznań: ul. Radowita, ul. Ziemowita od 27 do 33 nieparzyste, ul. Leszka od 55 do 63 nieparzyste, 63A, od 72 do 92 parzyste.",
       "id": "60527e5c10c4a71553350fc52f936b7c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Legnicka, Junikowo, Poznań, województwo wielkopolskie, 60-164, Polska",
+      "lat": 52.3780542,
+      "lon": 16.8474572,
+      "start_time": "2026-03-31T09:00:00",
+      "end_time": "2026-03-31T15:00:00",
+      "original_description": "Poznań: ul. Wołowska 39, 39A-B, 41, od 43 do 53 nieparzyste, od 40 do 48 parzyste, 64, ul. Legnicka, ul. Rybnicka 4.",
+      "id": "d3eafc962e41c84e9c120b8cc59f863d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rybnicka, Junikowo, Poznań, województwo wielkopolskie, 60-167, Polska",
+      "lat": 52.3758849,
+      "lon": 16.8422105,
+      "start_time": "2026-03-31T09:00:00",
+      "end_time": "2026-03-31T15:00:00",
+      "original_description": "Poznań: ul. Wołowska 39, 39A-B, 41, od 43 do 53 nieparzyste, od 40 do 48 parzyste, 64, ul. Legnicka, ul. Rybnicka 4.",
+      "id": "3d03fcb503124761492e683fee5d34d7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wołowska, Rudnicze, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-168, Polska",
+      "lat": 52.3728724,
+      "lon": 16.8428878,
+      "start_time": "2026-03-31T09:00:00",
+      "end_time": "2026-03-31T15:00:00",
+      "original_description": "Poznań: ul. Wołowska 39, 39A-B, 41, od 43 do 53 nieparzyste, od 40 do 48 parzyste, 64, ul. Legnicka, ul. Rybnicka 4.",
+      "id": "1ecc736b522548a5ab5aaa39c979863d"
     },
     {
       "type": "planned",
