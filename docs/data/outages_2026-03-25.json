@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T07:12:07.222359+00:00",
+  "last_update": "2026-03-25T08:02:23.921022+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1160,6 +1160,66 @@
       "end_time": "2026-04-13T17:00:00",
       "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
       "id": "b3824320f447ce9c36dc8345a780ee2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michałowska, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-651, Polska",
+      "lat": 52.4262726,
+      "lon": 16.914286,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T11:00:00",
+      "original_description": "Poznań ul. Michałowska, ul. Nad Potokiem, ul. Szydłowska, ul. Wiece, ul. Winiarska.",
+      "id": "3cd93729e72071b66d50a37ff4ea3354"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Potokiem, Sołacz, Poznań, województwo wielkopolskie, 60-639, Polska",
+      "lat": 52.4268122,
+      "lon": 16.9093878,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T11:00:00",
+      "original_description": "Poznań ul. Michałowska, ul. Nad Potokiem, ul. Szydłowska, ul. Wiece, ul. Winiarska.",
+      "id": "dabc1e82f4f6d3603b378741e67ffba7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Półwiejska, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-885, Polska",
+      "lat": 52.4038631,
+      "lon": 16.9304338,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T11:00:00",
+      "original_description": "Poznań ul. Półwiejska.",
+      "id": "3781b476823fb3258debfb8e1aa038d1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szydłowska, Osiedle Przyjaźni, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4270743,
+      "lon": 16.9134932,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T11:00:00",
+      "original_description": "Poznań ul. Michałowska, ul. Nad Potokiem, ul. Szydłowska, ul. Wiece, ul. Winiarska.",
+      "id": "08ee056e3ca52b6c012a56649fdbd443"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiece, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-638, Polska",
+      "lat": 52.4267828,
+      "lon": 16.9084096,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T11:00:00",
+      "original_description": "Poznań ul. Michałowska, ul. Nad Potokiem, ul. Szydłowska, ul. Wiece, ul. Winiarska.",
+      "id": "f7ebd568175784a968d5073428262116"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Winiarska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4286072,
+      "lon": 16.9088052,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-25T11:00:00",
+      "original_description": "Poznań ul. Michałowska, ul. Nad Potokiem, ul. Szydłowska, ul. Wiece, ul. Winiarska.",
+      "id": "dedaea61825d5c4595ed23cfe34b3e5f"
     }
   ]
 }
