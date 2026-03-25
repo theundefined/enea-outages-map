@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T14:21:16.594693+00:00",
+  "last_update": "2026-03-25T15:43:48.523719+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1340,6 +1340,46 @@
       "end_time": "2026-04-09T15:00:00",
       "original_description": "Poznań: ul. Wołowska 39, 39A-B, 41, od 43 do 53 nieparzyste, od 40 do 48 parzyste, 64, ul. Legnicka, ul. Rybnicka 4.",
       "id": "df6340d6ee5e19820b84fffa487957f0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "2026-04-10T11:00:00",
+      "end_time": "2026-04-10T16:00:00",
+      "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
+      "id": "6b3a11be1defe9cc78e61a77cbe0d0e7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-10T11:00:00",
+      "end_time": "2026-04-10T16:00:00",
+      "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
+      "id": "a23c81751e5a29bfed40c40c361855e2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
+      "lat": 52.410741,
+      "lon": 16.983344,
+      "start_time": "2026-04-10T11:00:00",
+      "end_time": "2026-04-10T16:00:00",
+      "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
+      "id": "98fbb2a4bb2f19525deefffe0f95088c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słonecznikowa, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4774997,
+      "lon": 16.9390768,
+      "start_time": "2026-04-10T11:00:00",
+      "end_time": "2026-04-10T16:00:00",
+      "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
+      "id": "e1370de772010bf3a961d687b1f8292b"
     },
     {
       "type": "planned",
