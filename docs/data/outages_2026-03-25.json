@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-25T05:59:04.580113+00:00",
+  "last_update": "2026-03-25T07:12:07.222359+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1040,6 +1040,16 @@
       "end_time": "2026-04-07T10:30:00",
       "original_description": "Poznań: ul. Świątniczki 22A, od 22 do 26 parzyste, od 23 do 29 nieparzyste, ul. Nad Krzesinką.",
       "id": "57bd64fe496f84018dbd30bbb66b68e6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hawelańska (etap III), Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4388081,
+      "lon": 16.9504351,
+      "start_time": "2026-04-08T08:00:00",
+      "end_time": "2026-04-08T13:00:00",
+      "original_description": "Poznań: ul. Hawelańska 4.",
+      "id": "31cb57c62bd693274bd117aaacd5a7bf"
     },
     {
       "type": "planned",
