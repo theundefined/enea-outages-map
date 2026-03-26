@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-26T09:40:39.504553+00:00",
+  "last_update": "2026-03-26T10:37:21.645666+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1390,6 +1390,26 @@
       "end_time": "2026-04-13T17:00:00",
       "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
       "id": "b3824320f447ce9c36dc8345a780ee2c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gerberowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.385267,
+      "lon": 16.8251734,
+      "start_time": "2026-04-13T08:30:00",
+      "end_time": "2026-04-13T12:30:00",
+      "original_description": "Poznań: ul. Gerberowa od 7 do 79 nieparzyste, od 6 do 68A parzyste bez 10, ul. Różyczkowa od 6 do 36 parzyste, od 3 do 15 nieparzyste.",
+      "id": "c2edb01b404e31d5444804dc55e9c48e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Różyczkowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3817353,
+      "lon": 16.8203842,
+      "start_time": "2026-04-13T08:30:00",
+      "end_time": "2026-04-13T12:30:00",
+      "original_description": "Poznań: ul. Gerberowa od 7 do 79 nieparzyste, od 6 do 68A parzyste bez 10, ul. Różyczkowa od 6 do 36 parzyste, od 3 do 15 nieparzyste.",
+      "id": "86a801f4b9ac81e3b46a8883a15c9c91"
     },
     {
       "type": "planned",
