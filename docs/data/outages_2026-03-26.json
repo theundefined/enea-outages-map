@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-26T11:33:35.888489+00:00",
+  "last_update": "2026-03-26T12:37:05.757002+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1040,6 +1040,16 @@
       "end_time": "2026-04-08T13:00:00",
       "original_description": "Mielno: ul. Poznańska 30, 32, od 29 do 43 nieparzyste.",
       "id": "f787c5593bc59050120e0566b2e3a3a1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Masztalarska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-767, Polska",
+      "lat": 52.4101758,
+      "lon": 16.9331274,
+      "start_time": "2026-04-08T08:00:00",
+      "end_time": "2026-04-08T15:00:00",
+      "original_description": "Poznań: ul. Masztalarska 7, 7A, 8, 8A.",
+      "id": "d3f9c96e45249a5d626701e21f208a5a"
     },
     {
       "type": "planned",
