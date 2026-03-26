@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-26T15:38:29.203659+00:00",
+  "last_update": "2026-03-26T16:43:37.375204+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1530,6 +1530,66 @@
       "end_time": "2026-03-26T16:30:00",
       "original_description": "Poznań ul. Dwatory, ul. Górecka.",
       "id": "9d22bf74769e2ef2b30c1cb79a48becc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziekańska, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-109, Polska",
+      "lat": 52.4122278,
+      "lon": 16.9496669,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-26T20:00:00",
+      "original_description": "Poznań ul. Dziekańska, ul. Jana Lubrańskiego, ul. ks. Ignacego Posadzego, ul. Ostrów Tumski, ul. Panny, ul. Panny Marii.",
+      "id": "0020a9fabe3d64827031b3198733f8dd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Lubrańskiego, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-109, Polska",
+      "lat": 52.412305,
+      "lon": 16.9473701,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-26T20:00:00",
+      "original_description": "Poznań ul. Dziekańska, ul. Jana Lubrańskiego, ul. ks. Ignacego Posadzego, ul. Ostrów Tumski, ul. Panny, ul. Panny Marii.",
+      "id": "dccfcaa2730ff71fbdfbd30ccd6ba3a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Ignacego Posadzego, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-109, Polska",
+      "lat": 52.4125811,
+      "lon": 16.9485188,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-26T20:00:00",
+      "original_description": "Poznań ul. Dziekańska, ul. Jana Lubrańskiego, ul. ks. Ignacego Posadzego, ul. Ostrów Tumski, ul. Panny, ul. Panny Marii.",
+      "id": "302340c1ea93a4555bc16fdfc88ccd41"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4113371,
+      "lon": 16.9476211,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-26T20:00:00",
+      "original_description": "Poznań ul. Dziekańska, ul. Jana Lubrańskiego, ul. ks. Ignacego Posadzego, ul. Ostrów Tumski, ul. Panny, ul. Panny Marii.",
+      "id": "3f5d12b1b6adce6740f1c97305890ebc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Panny Marii, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-108, Polska",
+      "lat": 52.4141146,
+      "lon": 16.9445532,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-26T20:00:00",
+      "original_description": "Poznań ul. Dziekańska, ul. Jana Lubrańskiego, ul. ks. Ignacego Posadzego, ul. Ostrów Tumski, ul. Panny, ul. Panny Marii.",
+      "id": "6be3ff8719585f3a1f914577f4228de2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Panny, Osiedle Zodiak, Chartowo, Poznań, województwo wielkopolskie, 61-244, Polska",
+      "lat": 52.3917962,
+      "lon": 16.9904384,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-26T20:00:00",
+      "original_description": "Poznań ul. Dziekańska, ul. Jana Lubrańskiego, ul. ks. Ignacego Posadzego, ul. Ostrów Tumski, ul. Panny, ul. Panny Marii.",
+      "id": "30254170f5766964a1dd91164737fc4e"
     }
   ]
 }
