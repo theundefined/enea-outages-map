@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-27T08:34:03.682584+00:00",
+  "last_update": "2026-03-27T09:34:03.702182+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1320,6 +1320,16 @@
       "end_time": "2026-04-15T13:00:00",
       "original_description": "Kicin: ul. Swarzędzka od 1 do 9 nieparzyste, ul. Wodna od 1 do 7 nieparzyste, ul. Wiejska od 2 do 10 parzyste, od 1 do 5 nieparzyste, dz. 311/3, ul. Gwarna 2, 4, ,ul. Poznańska 43, 45, 47, od 42 do 46 parzyste.",
       "id": "5d8b9688f6bf392b4ce454486edd953e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Saperska, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-494, Polska",
+      "lat": 52.3825272,
+      "lon": 16.919704,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-27T12:30:00",
+      "original_description": "Poznań ul. Saperska.",
+      "id": "cc7919535cf8e3302031f9ac82db8dd4"
     }
   ]
 }
