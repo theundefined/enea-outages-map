@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-28T07:32:12.722915+00:00",
+  "last_update": "2026-03-28T08:04:27.791670+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1340,6 +1340,66 @@
       "end_time": "2026-03-28T10:30:00",
       "original_description": "Poznań os. Armii Krajowej, os. Bohaterów II Wojny Światowej.",
       "id": "99d66b2771707828e37bf7e0698c8160"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orla, Rataje, Poznań, województwo wielkopolskie, 61-383, Polska",
+      "lat": 52.3828309,
+      "lon": 16.9474233,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-28T11:00:00",
+      "original_description": "Poznań os. Armii Krajowej, os. Bohaterów II Wojny Światowej, os. Rzeczypospolitej, ul. Orla, ul. Pawia, ul. Rataje.",
+      "id": "2babb3c99dc0128d734f7324df2a6122"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3795223,
+      "lon": 16.9514537,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-28T11:00:00",
+      "original_description": "Poznań os. Armii Krajowej, os. Bohaterów II Wojny Światowej, os. Rzeczypospolitej, ul. Orla, ul. Pawia, ul. Rataje.",
+      "id": "c0636fb8f699244c6abe1a77102417d1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Bohaterów II Wojny Światowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3829007,
+      "lon": 16.9499342,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-28T11:00:00",
+      "original_description": "Poznań os. Armii Krajowej, os. Bohaterów II Wojny Światowej, os. Rzeczypospolitej, ul. Orla, ul. Pawia, ul. Rataje.",
+      "id": "28db3a9d0ca30d6178443beef012654f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Rzeczypospolitej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3873086,
+      "lon": 16.9494045,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-28T11:00:00",
+      "original_description": "Poznań os. Armii Krajowej, os. Bohaterów II Wojny Światowej, os. Rzeczypospolitej, ul. Orla, ul. Pawia, ul. Rataje.",
+      "id": "a8a34971f5bd33ee4b86ffc1300c9b44"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pawia, Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, 61-379, Polska",
+      "lat": 52.3819937,
+      "lon": 16.954227,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-28T11:00:00",
+      "original_description": "Poznań os. Armii Krajowej, os. Bohaterów II Wojny Światowej, os. Rzeczypospolitej, ul. Orla, ul. Pawia, ul. Rataje.",
+      "id": "80462ef79420cf5b4dbd2992ef1f011c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3901295,
+      "lon": 16.9535909,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-28T11:00:00",
+      "original_description": "Poznań os. Armii Krajowej, os. Bohaterów II Wojny Światowej, os. Rzeczypospolitej, ul. Orla, ul. Pawia, ul. Rataje.",
+      "id": "02f22550174bd25bc17e112bf270e3ae"
     },
     {
       "type": "unplanned",
