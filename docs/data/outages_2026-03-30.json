@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-30T08:02:42.938427+00:00",
+  "last_update": "2026-03-30T09:44:42.147030+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1303,6 +1303,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Na Szańcach, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4238998,
+      "lon": 16.9430338,
+      "start_time": "2026-04-13T08:30:00",
+      "end_time": "2026-04-13T15:30:00",
+      "original_description": "Poznań: ul. Na Szańcach od 2 do 12 parzyste.",
+      "id": "aaacf95442f3d19e801977f37e5ba28b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
       "lon": 16.9048857,
@@ -1403,6 +1413,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Żorska, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-344, Polska",
+      "lat": 52.3536729,
+      "lon": 16.9287771,
+      "start_time": "2026-04-17T08:30:00",
+      "end_time": "2026-04-17T10:30:00",
+      "original_description": "Poznań: ul. Żorska od 1 do 15 nieparzyste bez 1B, od 2 do 16A parzyste.",
+      "id": "506245ac2fb129ce3efa931445dd6dab"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Czesława Gerwela, Junikowo, Poznań, województwo wielkopolskie, 60-177, Polska",
       "lat": 52.3919408,
       "lon": 16.8347344,
@@ -1490,6 +1510,36 @@
       "end_time": "2026-03-30T11:00:00",
       "original_description": "Poznań ul. 23 Lutego, ul. Działyńskich, ul. Feliksa Nowowiejskiego, ul. Młyńska, ul. Solna, ul. Stanisława Hejmowskiego.",
       "id": "90c041f549d4ef1cacac097749321ab8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chrzanowska, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3500338,
+      "lon": 17.0221996,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-30T12:30:00",
+      "original_description": "Poznań ul. Chrzanowska, ul. Ostrowska, ul. Tarnowska.",
+      "id": "57ce557391e58fea55dcb74409939367"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3662503,
+      "lon": 16.9949315,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-30T12:30:00",
+      "original_description": "Poznań ul. Chrzanowska, ul. Ostrowska, ul. Tarnowska.",
+      "id": "9fd55694d5ae7a256cfce629f241593b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tarnowska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3398714,
+      "lon": 17.0032928,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-30T12:30:00",
+      "original_description": "Poznań ul. Chrzanowska, ul. Ostrowska, ul. Tarnowska.",
+      "id": "04efda50f9566e574801fc37361eba5d"
     }
   ]
 }
