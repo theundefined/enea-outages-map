@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-30T11:43:09.431028+00:00",
+  "last_update": "2026-03-30T12:42:35.998604+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1540,6 +1540,36 @@
       "end_time": "2026-03-30T12:30:00",
       "original_description": "Poznań ul. Chrzanowska, ul. Ostrowska, ul. Tarnowska.",
       "id": "04efda50f9566e574801fc37361eba5d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chrzanowska, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3500338,
+      "lon": 17.0221996,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-30T17:00:00",
+      "original_description": "Poznań ul. Chrzanowska, ul. Ostrowska, ul. Tarnowska.",
+      "id": "1cbf2ee9aff8621349b36030f454d62d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3662503,
+      "lon": 16.9949315,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-30T17:00:00",
+      "original_description": "Poznań ul. Chrzanowska, ul. Ostrowska, ul. Tarnowska.",
+      "id": "8825f2102f48831ec593106078f9d279"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tarnowska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3398714,
+      "lon": 17.0032928,
+      "start_time": "Brak danych",
+      "end_time": "2026-03-30T17:00:00",
+      "original_description": "Poznań ul. Chrzanowska, ul. Ostrowska, ul. Tarnowska.",
+      "id": "699a733faee3b8714906b5bcc86b571c"
     }
   ]
 }
