@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-03-31T05:50:52.034653+00:00",
+  "last_update": "2026-03-31T07:08:56.404849+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1140,6 +1140,26 @@
       "end_time": "2026-04-09T15:00:00",
       "original_description": "Poznań: ul. Wołowska 39, 39A-B, 41, od 43 do 53 nieparzyste, od 40 do 48 parzyste, 64, ul. Legnicka, ul. Rybnicka 4.",
       "id": "df6340d6ee5e19820b84fffa487957f0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Okólna, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3659983,
+      "lon": 16.9895588,
+      "start_time": "2026-04-10T08:00:00",
+      "end_time": "2026-04-10T11:00:00",
+      "original_description": "Poznań: ul. Przeskok 10, ul. Okólna 38.",
+      "id": "0b9a5ce38924c56995abb0859a5a4637"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przeskok, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3648714,
+      "lon": 16.9902253,
+      "start_time": "2026-04-10T08:00:00",
+      "end_time": "2026-04-10T11:00:00",
+      "original_description": "Poznań: ul. Przeskok 10, ul. Okólna 38.",
+      "id": "ac961881bc1cdac7c8f3d9fb4a8dbb43"
     },
     {
       "type": "planned",
