@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-01T16:30:21.027531+00:00",
+  "last_update": "2026-04-01T17:30:22.043066+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2750,6 +2750,56 @@
       "end_time": "2026-04-01T19:00:00",
       "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
       "id": "acf2a7bf17675619496e35cefc741ee1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T21:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "8be59075be742e2e36b28940a4ed3943"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.39658,
+      "lon": 16.8986607,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T21:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "ac0e1fe9344a09afa13d0f56f7a7fca8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Park Thomasa Woodrowa Wilsona, Łazarz, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3999894,
+      "lon": 16.9015079,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T21:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "02506081628a77f4c03df37b3d5c7cea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T21:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "0cf4ea5472ba9d9c4ee860a839d272fa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śniadeckich, Łazarz, Poznań, województwo wielkopolskie, 60-773, Polska",
+      "lat": 52.4006366,
+      "lon": 16.9040077,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T21:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "452153897d2bbbe4b488ef0e7214d2dc"
     }
   ]
 }
