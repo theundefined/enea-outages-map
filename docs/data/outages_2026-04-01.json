@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-01T12:02:53.502068+00:00",
+  "last_update": "2026-04-01T14:01:10.679577+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2503,6 +2503,66 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3897927,
+      "lon": 16.9243288,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T16:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "7e51b384c0705e477e804b374af2e840"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pionierska, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3775545,
+      "lon": 16.9182897,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T16:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "45f3cb9b397199722388d55fa4ed7818"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T16:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "a16e1a4e715caff397cc0b2bcc2b5adc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Saperska, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-494, Polska",
+      "lat": 52.3825272,
+      "lon": 16.919704,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T16:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "c6bae31227cf133e4cb14ec76b121222"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tokarska, Wilda, Poznań, województwo wielkopolskie, 61-486, Polska",
+      "lat": 52.3784071,
+      "lon": 16.911899,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T16:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "9fb411ffcd1cab7456a91589fe758101"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T16:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "20e11caa82374217422a21f6aa751af0"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
       "lat": 52.3883109,
       "lon": 16.8923596,
@@ -2550,6 +2610,36 @@
       "end_time": "2026-04-01T16:30:00",
       "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
       "id": "e6a720c42dc1ad21b996961f5bd32377"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gnieźnieńska, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4237511,
+      "lon": 16.9882301,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T17:30:00",
+      "original_description": "Poznań ul. Główna, ul. Gnieźnieńska, ul. Sucha.",
+      "id": "4641b4fa620736f151bbfed75f27a6e7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Główna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4247632,
+      "lon": 16.9729702,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T17:30:00",
+      "original_description": "Poznań ul. Główna, ul. Gnieźnieńska, ul. Sucha.",
+      "id": "d4b777af5e48923b68fe24ce6d21b9e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sucha, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4258613,
+      "lon": 16.9822289,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T17:30:00",
+      "original_description": "Poznań ul. Główna, ul. Gnieźnieńska, ul. Sucha.",
+      "id": "ced0f8b97fcba362addfc0de5a7f592f"
     }
   ]
 }
