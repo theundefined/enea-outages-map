@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-01T15:23:33.687375+00:00",
+  "last_update": "2026-04-01T16:30:21.027531+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2640,6 +2640,116 @@
       "end_time": "2026-04-01T17:30:00",
       "original_description": "Poznań ul. Główna, ul. Gnieźnieńska, ul. Sucha.",
       "id": "ced0f8b97fcba362addfc0de5a7f592f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T18:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "d92beec0120494262bb227671204df57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.39658,
+      "lon": 16.8986607,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T18:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "a8185339515dc2ee2ca8b8291d3d332c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Park Thomasa Woodrowa Wilsona, Łazarz, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3999894,
+      "lon": 16.9015079,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T18:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "aa840976fb6a612aa2903abdc28114b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T18:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "31dca7415fea2db7bccec4dcbf4fe15d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śniadeckich, Łazarz, Poznań, województwo wielkopolskie, 60-773, Polska",
+      "lat": 52.4006366,
+      "lon": 16.9040077,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T18:00:00",
+      "original_description": "Poznań park Thomasa Woodrowa Wilsona, ul. Głogowska, ul. Jana Matejki, ul. Parkowa, ul. Śniadeckich.",
+      "id": "e46bf8053f0afa79167e1bfa8e30c147"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3897927,
+      "lon": 16.9243288,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "c4e5e3c97e7f5c34756149cef884a420"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pionierska, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3775545,
+      "lon": 16.9182897,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "1a494dab46c10eb73b1c18b302535581"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "db8084d25fc8b7191fb07863f3cff0d3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Saperska, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-494, Polska",
+      "lat": 52.3825272,
+      "lon": 16.919704,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "80ff3daca72b6dc823e012c34612ed42"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tokarska, Wilda, Poznań, województwo wielkopolskie, 61-486, Polska",
+      "lat": 52.3784071,
+      "lon": 16.911899,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "c0d9a2d0e2396806008929b2bd7efcd1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-01T19:00:00",
+      "original_description": "Poznań ul. Dolna Wilda, ul. Pionierska, ul. Rolna, ul. Saperska, ul. Tokarska, ul. Wspólna.",
+      "id": "acf2a7bf17675619496e35cefc741ee1"
     }
   ]
 }
