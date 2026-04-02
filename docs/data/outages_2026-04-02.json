@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-02T11:28:37.537469+00:00",
+  "last_update": "2026-04-02T12:08:10.471964+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1560,6 +1560,46 @@
       "end_time": "2026-04-02T12:30:00",
       "original_description": "Poznań ul. Aroniowa, ul. Bobrownicka, ul. Dereniowa, ul. Nektarynkowa.",
       "id": "4394b62ba6b3aec93662027ea2045a6b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aroniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3601398,
+      "lon": 17.0374466,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-02T15:30:00",
+      "original_description": "Poznań ul. Aroniowa, ul. Bobrownicka, ul. Dereniowa, ul. Nektarynkowa.",
+      "id": "f3334086dcbb14e4fb6ede97c1f15156"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bobrownicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3640907,
+      "lon": 17.0356103,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-02T15:30:00",
+      "original_description": "Poznań ul. Aroniowa, ul. Bobrownicka, ul. Dereniowa, ul. Nektarynkowa.",
+      "id": "1bcaa487406886c5eae686800b6e5085"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dereniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3605579,
+      "lon": 17.0285227,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-02T15:30:00",
+      "original_description": "Poznań ul. Aroniowa, ul. Bobrownicka, ul. Dereniowa, ul. Nektarynkowa.",
+      "id": "f7d59b0406d71eb6116036e57e57d828"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nektarynkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3595198,
+      "lon": 17.0368013,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-02T15:30:00",
+      "original_description": "Poznań ul. Aroniowa, ul. Bobrownicka, ul. Dereniowa, ul. Nektarynkowa.",
+      "id": "0d299d8dfca121cdcbbe85d7322ba661"
     },
     {
       "type": "unplanned",
