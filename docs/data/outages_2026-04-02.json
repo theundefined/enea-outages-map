@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-02T13:54:40.020032+00:00",
+  "last_update": "2026-04-02T14:52:51.028447+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1620,6 +1620,16 @@
       "end_time": "2026-04-02T17:00:00",
       "original_description": "Poznań ul. Aroniowa 2A, 2, 4, 8, 9A, 9, 10, 11, 12, 13A, 13, 14, 16, 17A, 17, 20, 22, 23A, 23, 24, 26, 37 B, 37 A, 40, 42B, 46 B, 46 A",
       "id": "77df3600b52e9e7cc9457d9e7aebddd1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rubież, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4492865,
+      "lon": 16.9505211,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-02T18:30:00",
+      "original_description": "Poznań ul. Rubież.",
+      "id": "26f9b8c6c92ad21448c7b9c11fc0f3ad"
     }
   ]
 }
