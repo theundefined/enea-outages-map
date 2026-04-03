@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-03T03:52:50.578507+00:00",
+  "last_update": "2026-04-03T05:40:38.313908+00:00",
   "outages": [
     {
       "type": "planned",
@@ -790,6 +790,36 @@
       "end_time": "2026-04-10T16:00:00",
       "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
       "id": "e1370de772010bf3a961d687b1f8292b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Miętowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4740266,
+      "lon": 16.9519556,
+      "start_time": "2026-04-13T08:00:00",
+      "end_time": "2026-04-13T15:00:00",
+      "original_description": "Poznań: ul. Miętowa 50, 52, 54, 56, ul. Nadwarciańska od 8 do 40 parzyste, od 9 do 31 nieparzyste, 31A-C, ul. Tymiankowa.",
+      "id": "8703db943f9415e5328d11fb27b6a392"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nadwarciańska, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4678103,
+      "lon": 16.9664956,
+      "start_time": "2026-04-13T08:00:00",
+      "end_time": "2026-04-13T15:00:00",
+      "original_description": "Poznań: ul. Miętowa 50, 52, 54, 56, ul. Nadwarciańska od 8 do 40 parzyste, od 9 do 31 nieparzyste, 31A-C, ul. Tymiankowa.",
+      "id": "d7427552ee1f5784dfd22cfabc247771"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tymiankowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4792212,
+      "lon": 16.9626332,
+      "start_time": "2026-04-13T08:00:00",
+      "end_time": "2026-04-13T15:00:00",
+      "original_description": "Poznań: ul. Miętowa 50, 52, 54, 56, ul. Nadwarciańska od 8 do 40 parzyste, od 9 do 31 nieparzyste, 31A-C, ul. Tymiankowa.",
+      "id": "6eb2429417def1f98b19c52b6b561635"
     },
     {
       "type": "planned",
