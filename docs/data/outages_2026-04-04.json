@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-04T09:24:04.470489+00:00",
+  "last_update": "2026-04-04T10:00:29.158451+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,176 @@
       "end_time": "2026-04-28T13:00:00",
       "original_description": "Komorniki: ul. Komornicka od 1 do 9 nieparzyste, ul. Poznańska od 46 do 72 parzyste, 72A, ul. Nizinna 10.",
       "id": "5d08fbc8b3f33b56a812d1018225f981"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "497a24eecd1da93ade75e04567bf5b5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "59f1029735bde1f59d3455558e5ec760"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "94c68bb13de09886b9a2e4bd117571c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "51d3adfa8407dec98ec2c7284a845397"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "73df46ce67d7d76b95be7f8dbd39736b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.248571,
+      "lon": 17.0886353,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "d656760fcca69c19a15541f71c3fee72"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "c6e852911ab882e0af88119e78b36102"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "2d7ca208aeab745ea7b0556039f3f205"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "70a07ee8b197c8b5cf917c9941604357"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "9503f7c1786efce518043fb13763d4b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "df03aba4eaa2b273a581aa5e50a0faa6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "06c187f7e3f5d5732013b379cb0adf63"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna Dolina, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4366614,
+      "lon": 17.0887545,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "c03738fcaf6dbbe100587dc647cf6931"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Usługowa, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4599384,
+      "lon": 17.1959395,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "0de185e5490f635a7a71d35a1795820d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "a9c8b16abf62f3a25c2f5326d677e0e3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wąska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-859, Polska",
+      "lat": 52.4140584,
+      "lon": 16.9056711,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "8dbe14348ce0c22d1cd8450b9b9bf0c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielone Wzgórze, Szczytniki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.3071557,
+      "lon": 17.0040679,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-04T14:00:00",
+      "original_description": "Augustowo, Chorzewo, Karolewice, Daleszynek, Lubosz ul. Dworcowa, ul. Krótka, ul. Leśna, ul. Ogrodowa, ul. Parkowa, ul. Pocztowa, ul. Polna, ul. Powstańców Wielkopolskich, ul. Poznańska, ul. Rolna, ul. Słoneczna Dolina, ul. Spokojna, ul. Sportowa, ul. Usługowa, ul. Wąska, ul. Wiśniowa, ul. Zielone Wzgórze, Pólko, Lubocześnica, Rudka, Pniewy ul. Wiśniowa.",
+      "id": "4e9a0fd3ebc6583cf2027cf533efdc44"
     }
   ]
 }
