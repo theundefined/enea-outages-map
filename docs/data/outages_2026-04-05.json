@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-05T19:55:08.516102+00:00",
+  "last_update": "2026-04-05T20:29:31.594241+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2400,6 +2400,26 @@
       "end_time": "2026-04-05T22:30:00",
       "original_description": "Poznań ul. Miętowa, ul. Perłowa.",
       "id": "a72b17a4211dc25b9fa00bf9bfa52e65"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miętowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4740266,
+      "lon": 16.9519556,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-06T00:00:00",
+      "original_description": "Poznań ul. Miętowa, ul. Perłowa.",
+      "id": "29c56cf4daca6dc50e849ec7e8eb8cfb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perłowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4736632,
+      "lon": 16.9503702,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-06T00:00:00",
+      "original_description": "Poznań ul. Miętowa, ul. Perłowa.",
+      "id": "08c4bfd484f93fe4adaf81b5e26fb986"
     }
   ]
 }
