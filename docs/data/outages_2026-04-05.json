@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-05T14:50:56.166060+00:00",
+  "last_update": "2026-04-05T15:29:09.692324+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1440,6 +1440,36 @@
       "end_time": "2026-04-05T18:30:00",
       "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Młynkowska, ul. Na Wzgórzu, ul. Osiedle Spółdzielców, Bytyń ul. Pniewska, Komorowo ul. Jeziorna, ul. Pogodna, ul. Słoneczna, ul. Spacerowa, ul. Tęczowa, ul. Widokowa, ul. Wypoczynkowa, Piersko ul. Jarzębinowa, ul. Przelotowa, ul. Rolna, ul. Wodna, Wierzchaczewo, Pólko ul. Akacjowa, ul. Bytyńska, ul. Dojazdowa, ul. Dworcowa, ul. Jesionowa, ul. Klonowa, ul. Komorowska, ul. Kręta, ul. Kwiatowa, ul. Ogrodowa, ul. Okrężna, ul. Szamotulska, ul. Topolowa, ul. Zielona.",
       "id": "8e07cc24649f20dc6d1cf9ec4236a96b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Na Wzgórzu, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4775612,
+      "lon": 17.1931719,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-05T19:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Na Wzgórzu, Bytyń ul. Pniewska.",
+      "id": "bbd6c850f3f0e8f915fc31d963378412"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pniewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4287754,
+      "lon": 16.8235245,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-05T19:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Na Wzgórzu, Bytyń ul. Pniewska.",
+      "id": "d5fcaf09364cbb924c705d009022efb2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-05T19:30:00",
+      "original_description": "Młynkowo, Sękowo ul. Poznańska, Ludowo, Wilczyna ul. Na Wzgórzu, Bytyń ul. Pniewska.",
+      "id": "d1f74166371d2bc9eb0f77843f6d9b84"
     }
   ]
 }
