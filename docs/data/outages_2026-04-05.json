@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-05T17:52:42.130129+00:00",
+  "last_update": "2026-04-05T18:39:57.201794+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2380,6 +2380,26 @@
       "end_time": "2026-04-05T22:00:00",
       "original_description": "Nowa Wieś, Biedrusko ul. Gołębia, ul. Poznańska, Poznań ul. Agatowa, ul. Ametystowa, ul. Arnikowa, ul. Babiego Lata, ul. Berylowa, ul. Borówkowa, ul. Brylantowa, ul. Burzowa, ul. Bylicowa, ul. Celichowskich, ul. Cynamonowa, ul. Cytrynowa, ul. Daktylowa, ul. Dolna, ul. Drogocin, ul. Figowa, ul. Franciszka Jaśkowiaka, ul. Glinienko, ul. Glinno, ul. Granatowa, ul. Halszki, ul. Hodowlana, ul. Huby Moraskie, ul. Imbirowa, ul. Inspektowa, ul. Janowo, ul. Jarowa, ul. Jasne Błonie, ul. Jaspisowa, ul. Jemiołowa, ul. Karmelowa, ul. Kminkowa, ul. Knyszyn, ul. Kocankowa, ul. Kopcowa, ul. Krwawnikowa, ul. Kryształowa, ul. Laurowa, ul. Lebiodowa, ul. Limonkowa, ul. Lubczykowa, ul. Łopianowa, ul. Łysy Młyn, ul. Malachitowa, ul. Melisowa, ul. Meteorytowa, ul. Miętowa, ul. Migdałowa, ul. Mirtowa, ul. Mleczowa, ul. Morasko, ul. Nadwarciańska, ul. Naramowicka, ul. Nostrzykowa, ul. Okolewo, ul. Opalowa, ul. Oranżeryjna, ul. Perłowa, ul. Piołunowa, ul. Podbiałowa, ul. Poligonowa, ul. Pomarańczowa, ul. Porannej Rosy, ul. Poręba, ul. Przedwiośnia, ul. Radłowa, ul. Radojewo, ul. Rdestowa, ul. Rubinowa, ul. Rumiankowa, ul. Rzewieniowa, ul. Sióstr Misjonarek, ul. Skrzypowa, ul. Szafranowa, ul. Szałwiowa, ul. Szklarniowa, ul. Szmaragdowa, ul. Szumiących Traw, ul. Świetlikowa, ul. Tatarakowa, ul. Topazowa, ul. Tymiankowa, ul. Urocza, ul. Widłakowa, ul. Wiesiołkowa, ul. Zagajnikowa, ul. Złocieniowa.",
       "id": "c838f45720559aa27d1a0f6100132492"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miętowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4740266,
+      "lon": 16.9519556,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-05T22:30:00",
+      "original_description": "Poznań ul. Miętowa, ul. Perłowa.",
+      "id": "6430bee91205781a62e82ff88e794cf6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perłowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4736632,
+      "lon": 16.9503702,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-05T22:30:00",
+      "original_description": "Poznań ul. Miętowa, ul. Perłowa.",
+      "id": "a72b17a4211dc25b9fa00bf9bfa52e65"
     }
   ]
 }
