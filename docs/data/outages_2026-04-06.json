@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-06T07:00:44.679442+00:00",
+  "last_update": "2026-04-06T08:43:52.387745+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1320,6 +1320,26 @@
       "end_time": "2026-04-06T09:00:00",
       "original_description": "Poznań ul. Bohaterów Westerplatte, ul. Drawska, ul. Głuchowska, ul. Gołuchowska, ul. Gostyńska, ul. Henryka Zygalskiego, ul. Jaraczewska, ul. Kępińska, ul. Kotlińska, ul. Koźmińska, ul. Krzywińska, ul. Leszczyńska, ul. Mariana Rejewskiego, ul. Mikołowska, ul. Na Uboczu, ul. Obrzańska, ul. Ostatnia, ul. Pszczyńska, ul. Rawicka, ul. Szamocińska, ul. Szubińska, ul. Śmiełowska, ul. Wielichowska, ul. Włoszakowicka, ul. Żerkowska.",
       "id": "2e2e341b3a11acd3d5232c9719b9245a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-06T12:30:00",
+      "original_description": "Biedrusko ul. Poznańska.",
+      "id": "5df10b5ad0a2200a6b8c1ba53343a4d1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-06T13:00:00",
+      "original_description": "Biedrusko ul. Poznańska.",
+      "id": "00c300fef52ffd4f44f32ac66d628eb3"
     }
   ]
 }
