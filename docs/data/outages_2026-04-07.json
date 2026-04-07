@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-07T14:13:38.761382+00:00",
+  "last_update": "2026-04-07T15:47:38.242244+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1110,6 +1110,466 @@
       "end_time": "2026-04-28T13:00:00",
       "original_description": "Komorniki: ul. Komornicka od 1 do 9 nieparzyste, ul. Poznańska od 46 do 72 parzyste, 72A, ul. Nizinna 10.",
       "id": "5d08fbc8b3f33b56a812d1018225f981"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "1c434d9456491d969979b2ac5a95d969"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aroniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3601398,
+      "lon": 17.0374466,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "625a4cbeeacf16d1ddc6b378f68e693e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Azaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-443, Polska",
+      "lat": 52.3638663,
+      "lon": 16.9062508,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "d4e7e5c93902ad712fef19c7809ce598"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3756714,
+      "lon": 16.8649743,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "03d9f99c09debed8b632f626a5dc03ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Borówkowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4850642,
+      "lon": 16.9443999,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "d90454f75270ee1ecda2c836e9a1d69a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "224b9f46b9a403ccedd1983db0d57e9a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3680885,
+      "lon": 16.9128704,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "c7ec55cfc93e891aa1eb307d184bab28"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "e65e5cacf9792c15b1e166e43da5adb2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fabryczna, Wilda, Poznań, województwo wielkopolskie, 61-512, Polska",
+      "lat": 52.386369,
+      "lon": 16.909754,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "3777f418220a277327e15ca84ad680f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fiołkowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3747467,
+      "lon": 16.9076006,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "7c70705026c18edb35e34f1078079d6b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fuksjowa, Pobiedziska, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-010, Polska",
+      "lat": 52.4742797,
+      "lon": 17.2580764,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "87f1b1a05099d757e407971d7d8c9bef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "329ebb96e59a1cf95b7a637e45ca408f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3685248,
+      "lon": 16.8930113,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "fcf153014d4e68dacafcf638c3951d1d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Halina, Letnisko Leśne, Pobiedziska, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-010, Polska",
+      "lat": 52.4711266,
+      "lon": 17.2354737,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "e2ac6d6b6ba2979e10f1457fe389e249"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "67ff2feb6201d97ea1bb338e584df0a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jerzykowska, Borowo-Młyn, Jerzyn, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4769447,
+      "lon": 17.2070168,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "bbf4ee7aae9e4091579bf616c4993390"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeżynowa, Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3693677,
+      "lon": 17.0351542,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "575f365a10cb5b437a8b0a2c0fdaf024"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jęczmienna, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4260048,
+      "lon": 16.9237618,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "2009f373b20b38568bc03b674008bcab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kaczyńska, Kaczyna, Wójtostwo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-010, Polska",
+      "lat": 52.4675515,
+      "lon": 17.2599987,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "406371e561398a9fc9d0f01fba2fa8fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "d12c5e3ae846690cab775e1b5b8d1f39"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "d7baa50bf229bfce67395e9554ea1259"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konwaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705079,
+      "lon": 16.9136939,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "bbb695ed1b502369e18d8b4b4ae9fdcd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "5ded55ccac3d5b639c63d1cc325a1caa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "c03237f8a1ae291ffaf654352c13aa8b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "e7a381ce243774dc38a7a034a778aa7d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705387,
+      "lon": 16.9104483,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "9d179cc81ec4ae5e9d6eddda5b0ddd9e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Modrzewiowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3701225,
+      "lon": 16.8958809,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "aa95621b9cd800bbc347519cd5ed269b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morwowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3706417,
+      "lon": 17.0000963,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "9f73473b316c6590795ecb2b4a1e452c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Stawem, Borowo-Młyn, Jerzyn, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4815895,
+      "lon": 17.2074714,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "beee14f20f4996b8f583b337eeabf709"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrężna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4701548,
+      "lon": 17.1775244,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "df1e1b223b2409417a7dbb87171d30bb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owsiana, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4237885,
+      "lon": 16.9237489,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "b44d6adae0511635617310ce1aa2e5a8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "9f3379de0dd84ba1f30ead06d75ceeb4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poprzeczna, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-315, Polska",
+      "lat": 52.3639558,
+      "lon": 16.9895337,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "0512ac2fb2749ebf9c2c347ecd9372b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poziomkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3650812,
+      "lon": 17.037059,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "7a3c24814a98ddc2f74f73d8afd36c31"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "18048953c464688d87a4642c4db7c82d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pszenna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4245706,
+      "lon": 16.9248939,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "6efae6c8cb94cf3ecde50eff402b5509"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "2c94329a5019c47f3be6369941322524"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "e9272d98a963b072ef65ce82940fe588"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starych Wierzb, Gorzkie Pole, Jerzyn, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4823506,
+      "lon": 17.2090032,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "9225d3b57910690455f1ce43111ba677"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "7ad7186269301139bf086149f0aa3464"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Truskawkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3651654,
+      "lon": 17.0335888,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "86bf2ae852bc29ec707702d57eedcd6d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "e71366529811f07dc34270a4b3a4ef4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrzosowa, Wilda, Poznań, województwo wielkopolskie, 61-477, Polska",
+      "lat": 52.3733013,
+      "lon": 16.9105834,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "4c804252dc51c5787aeedb862b42c638"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "476c8cd14ca3cbf15c4e3323984fff70"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świerkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.3715758,
+      "lon": 16.8996578,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "0d5564841aeae876ac1bd4538a907a47"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żytnia, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4361604,
+      "lon": 16.9432043,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-07T19:30:00",
+      "original_description": "Jerzyn, Borowo-Młyn ul. Aroniowa, ul. Jerzykowska, ul. Nad Stawem, ul. Starych Wierzb, ul. Truskawkowa, Gorzkie Pole ul. Akacjowa, ul. Borówkowa, ul. Brzozowa, ul. Dębowa, ul. Głogowa, ul. Jeżynowa, ul. Klonowa, ul. Leśna, ul. Modrzewiowa, ul. Morwowa, ul. Sosnowa, ul. Starych Wierzb, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, Kuracz, Promno-Stacja, Wójtostwo, Kaczyna, Pobiedziska ul. Akacjowa, ul. Azaliowa, ul. Boczna, ul. Brzozowa, ul. Długa, ul. Fabryczna, ul. Fiołkowa, ul. Fuksjowa, ul. Gajowa, ul. Halina, ul. Jagodowa, ul. Jęczmienna, ul. Kaczyńska, ul. Kolejowa, ul. Konwaliowa, ul. Kręta, ul. Lawendowa, ul. Leśna, ul. Malinowa, ul. Okrężna, ul. Owsiana, ul. Polna, ul. Poprzeczna, ul. Poziomkowa, ul. Poznańska, ul. Pszenna, ul. Rolna, ul. Sosnowa, ul. Świerkowa, ul. Topolowa, ul. Wierzbowa, ul. Wrzosowa, ul. Zbożowa, ul. Żytnia.",
+      "id": "8a8d40433405ff6d94e5d4c862ef68c0"
     }
   ]
 }
