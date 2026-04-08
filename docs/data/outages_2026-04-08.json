@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-08T14:20:14.377943+00:00",
+  "last_update": "2026-04-08T15:50:38.399811+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1730,6 +1730,66 @@
       "end_time": "2026-04-08T14:00:00",
       "original_description": "Baranowo ul. Wypoczynkowa, Poznań ul. Gniewska, ul. Kościerzyńska, ul. Mrzeżyńska, ul. Oliwska, ul. Ornecka, ul. Pasłęcka, ul. Polanowska, ul. Świecka.",
       "id": "f93956d57e3dd27356ec8300d0676ea2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T19:00:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "05432ed7fa6f740cd1ab529c94272ca9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cieszyńska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3642626,
+      "lon": 16.8964151,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T19:00:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "1e0d77af078dc5a371d2740517d5ca4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Goleszowska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3655895,
+      "lon": 16.89652,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T19:00:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "f165ac7b9043fa7f55d5cc4438150f10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jarzębowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-432, Polska",
+      "lat": 52.3668001,
+      "lon": 16.8933102,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T19:00:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "3ee8f97f9cbb4e6bed013b2fbb5f1abe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T19:00:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "30913669fc379410b4820e8dc989d199"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stobrawska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3658969,
+      "lon": 16.8958355,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T19:00:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "569e44df59060d2d6938afb7b61ccdb7"
     }
   ]
 }
