@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-08T16:57:46.085048+00:00",
+  "last_update": "2026-04-08T18:08:01.437839+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1800,6 +1800,56 @@
       "end_time": "2026-04-08T20:30:00",
       "original_description": "Poznań ul. Półwiejska.",
       "id": "7115f7694f4dc91dd2d4944d15addb1e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gwiaździsta, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-151, Polska",
+      "lat": 52.3932229,
+      "lon": 16.8716423,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T21:30:00",
+      "original_description": "Poznań ul. Gwiaździsta, ul. Heweliusza, ul. Macieja Palacza, ul. Piotra Ściegiennego, ul. Świetlana.",
+      "id": "fa2b3fe6260861794b93d54567b6dda7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Macieja Palacza, Pogodno, Grunwald Południe, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3964455,
+      "lon": 16.8677181,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T21:30:00",
+      "original_description": "Poznań ul. Gwiaździsta, ul. Heweliusza, ul. Macieja Palacza, ul. Piotra Ściegiennego, ul. Świetlana.",
+      "id": "1714d61bc037cb822e0a7588872c0a68"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Park Astronomiczny Jana Heweliusza, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-281, Polska",
+      "lat": 52.3961318,
+      "lon": 16.8738307,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T21:30:00",
+      "original_description": "Poznań ul. Gwiaździsta, ul. Heweliusza, ul. Macieja Palacza, ul. Piotra Ściegiennego, ul. Świetlana.",
+      "id": "067047c51b95316f5b6e53e3c5dabd89"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Ściegiennego, Górczyn, Poznań, województwo wielkopolskie, 60-131, Polska",
+      "lat": 52.3865808,
+      "lon": 16.8796294,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T21:30:00",
+      "original_description": "Poznań ul. Gwiaździsta, ul. Heweliusza, ul. Macieja Palacza, ul. Piotra Ściegiennego, ul. Świetlana.",
+      "id": "7b53bd626c70dd8f6436ee7f2d9deb49"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świetlana, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-151, Polska",
+      "lat": 52.3928102,
+      "lon": 16.8689156,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-08T21:30:00",
+      "original_description": "Poznań ul. Gwiaździsta, ul. Heweliusza, ul. Macieja Palacza, ul. Piotra Ściegiennego, ul. Świetlana.",
+      "id": "96fe1355a0727e4d104f79ff39a017fc"
     }
   ]
 }
