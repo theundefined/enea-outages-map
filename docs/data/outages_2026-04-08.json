@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-08T19:38:43.394456+00:00",
+  "last_update": "2026-04-08T20:22:16.730162+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1850,6 +1850,106 @@
       "end_time": "2026-04-08T21:30:00",
       "original_description": "Poznań ul. Gwiaździsta, ul. Heweliusza, ul. Macieja Palacza, ul. Piotra Ściegiennego, ul. Świetlana.",
       "id": "96fe1355a0727e4d104f79ff39a017fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chlebowa, Zawady, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-002, Polska",
+      "lat": 52.4154598,
+      "lon": 16.9602228,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "f5ddca0e5c96c5441d1fe94a9f865eba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czapla, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-623, Polska",
+      "lat": 52.4272367,
+      "lon": 16.9524622,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "a5b07d5e32228edddc60204f81837607"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Wierzbakiem, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-863, Polska",
+      "lat": 52.4190922,
+      "lon": 16.9080402,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "112da5f9a1a4ab32ed17a00bbb0f8012"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nadbrzeże, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4264891,
+      "lon": 16.9536288,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "03f5268b4361252c413a7fc530ba69a1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "0c63044645795818bd3b3bdc058c389c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przełajowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4260367,
+      "lon": 16.945752,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "64723eb0fd8c8b45102baa4687a9b623"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Serbska, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-623, Polska",
+      "lat": 52.4302408,
+      "lon": 16.9577556,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "bfe346c1814cd6d1f90cfa2a4e05cd2d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szelągowska, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-628, Polska",
+      "lat": 52.4276497,
+      "lon": 16.9474749,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "283fcca4729626c3a79fd802da55f3d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ugory, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275322,
+      "lon": 16.9504399,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "2b3d487f776f3539b3a6ace79f37e565"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wilczak, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4311506,
+      "lon": 16.9520728,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T00:30:00",
+      "original_description": "Poznań ul. Chlebowa, ul. Czapla, ul. Nad Wierzbakiem, ul. Nadbrzeże, ul. Naramowicka, ul. Przełajowa, ul. Serbska, ul. Szelągowska, ul. Ugory, ul. Wilczak.",
+      "id": "208649a79c7279dced7140e99c76c437"
     }
   ]
 }
