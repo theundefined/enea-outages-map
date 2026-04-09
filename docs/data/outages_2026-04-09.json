@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-09T06:48:54.559558+00:00",
+  "last_update": "2026-04-09T08:07:13.010365+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1520,6 +1520,86 @@
       "end_time": "2026-04-09T10:30:00",
       "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
       "id": "7aad4276d34910ee17eaea97d04fa6fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gdyńska, Główna, Poznań, województwo wielkopolskie, 61-017, Polska",
+      "lat": 52.4267011,
+      "lon": 16.9782627,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T11:30:00",
+      "original_description": "Czerwonak ul. Gdyńska, Koziegłowy ul. Gdyńska, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Poznańska.",
+      "id": "08f4edd23f580c779c1e3848fa98be87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T11:30:00",
+      "original_description": "Czerwonak ul. Gdyńska, Koziegłowy ul. Gdyńska, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Poznańska.",
+      "id": "6d88dd971f8dccbd7c2fae754a465dba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T11:30:00",
+      "original_description": "Czerwonak ul. Gdyńska, Koziegłowy ul. Gdyńska, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Poznańska.",
+      "id": "e0887918903a6883a28e2a578bce8fac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T11:30:00",
+      "original_description": "Czerwonak ul. Gdyńska, Koziegłowy ul. Gdyńska, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Poznańska.",
+      "id": "a5bec55283acebdbb975f13d162c78cc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T11:30:00",
+      "original_description": "Czerwonak ul. Gdyńska, Koziegłowy ul. Gdyńska, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Poznańska.",
+      "id": "269aa936efa75822888e8765e3e650be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Firlika, Piątkowo, Poznań, województwo wielkopolskie, 60-691, Polska",
+      "lat": 52.4527842,
+      "lon": 16.9006157,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T12:00:00",
+      "original_description": "Poznań ul. Franciszka Firlika, ul. Hulewiczów, ul. Obornicka.",
+      "id": "00dbc117ab2dc28aa25fd650534ab40f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hulewiczów, Piątkowo, Poznań, województwo wielkopolskie, 60-685, Polska",
+      "lat": 52.4568166,
+      "lon": 16.9004458,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T12:00:00",
+      "original_description": "Poznań ul. Franciszka Firlika, ul. Hulewiczów, ul. Obornicka.",
+      "id": "20ea7b07d92af364137ed86b3f74b3d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T12:00:00",
+      "original_description": "Poznań ul. Franciszka Firlika, ul. Hulewiczów, ul. Obornicka.",
+      "id": "e712f2e187ac9be70454e46a245c4e37"
     }
   ]
 }
