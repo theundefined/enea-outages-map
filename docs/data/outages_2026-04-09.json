@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-09T05:06:53.753767+00:00",
+  "last_update": "2026-04-09T06:48:54.559558+00:00",
   "outages": [
     {
       "type": "planned",
@@ -563,6 +563,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Głuchowska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.3700871,
+      "lon": 16.8711313,
+      "start_time": "2026-04-14T08:30:00",
+      "end_time": "2026-04-14T16:30:00",
+      "original_description": "Poznań: ul. Komornicka od 2 do 62 parzyste, od 5 do 31 nieparzyste, ul. Głuchowska 36, ul. Zamysłowska 15.",
+      "id": "bc933d5cb8826361c32d09a358858ebd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Komornicka, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.3694124,
+      "lon": 16.867113,
+      "start_time": "2026-04-14T08:30:00",
+      "end_time": "2026-04-14T16:30:00",
+      "original_description": "Poznań: ul. Komornicka od 2 do 62 parzyste, od 5 do 31 nieparzyste, ul. Głuchowska 36, ul. Zamysłowska 15.",
+      "id": "cd112bc86a9b1bfc7f3dbb850d1d61e9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zamysłowska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3712681,
+      "lon": 16.8654827,
+      "start_time": "2026-04-14T08:30:00",
+      "end_time": "2026-04-14T16:30:00",
+      "original_description": "Poznań: ul. Komornicka od 2 do 62 parzyste, od 5 do 31 nieparzyste, ul. Głuchowska 36, ul. Zamysłowska 15.",
+      "id": "bc4450931ad161dcde467bb91e5e2aeb"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
       "lon": 16.9048857,
@@ -973,6 +1003,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-04-20T08:00:00",
+      "end_time": "2026-04-20T14:00:00",
+      "original_description": "Poznań os. Przyjaźni 141 A, PAW.141",
+      "id": "0f68c69894a2cb0566ed250ef3e39d95"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Biecka, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-471, Polska",
       "lat": 52.4521157,
       "lon": 16.8790503,
@@ -1250,6 +1290,236 @@
       "end_time": "2026-04-28T13:00:00",
       "original_description": "Komorniki: ul. Komornicka od 1 do 9 nieparzyste, ul. Poznańska od 46 do 72 parzyste, 72A, ul. Nizinna 10.",
       "id": "5d08fbc8b3f33b56a812d1018225f981"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Białogardzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4344573,
+      "lon": 16.8405845,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "c82fa652a174465e2ed1145e48eb247a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Chodzieska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335619,
+      "lon": 16.8415936,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "204446afdb0769c47af87068b5b1cdca"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kołobrzeska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335282,
+      "lon": 16.8401597,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "839433b9b54f706b57945ca3b29f9eef"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lęborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436224,
+      "lon": 16.8359188,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Lęborska od 20 do 44 parzyste, od 19 do 45 nieparzyste, ul. Maszewska od 1 do 13 nieparzyste bez 5, ul. Trzebiatowska 21, 22, 23.",
+      "id": "4542ccd346c03076ee9560706046b634"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lęborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436224,
+      "lon": 16.8359188,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Trzebiatowska od 1 do 21 nieparzyste, 25, od 6 do 26 parzyste, ul. Lęborska od 1 do 17 nieparzyste, 17A-B, od 2 do 18 parzyste, 18A, ul. Maszewska 5, ul. Sianowska 1, od 2 do 14 parzyste, ul. Trzcianecka od 2 do 14 parzyste, od 3 do 9 nieparzyste.",
+      "id": "ba7ed1e3ba254c78092630b034ae2427"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.4371112,
+      "lon": 16.8363817,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Lęborska od 20 do 44 parzyste, od 19 do 45 nieparzyste, ul. Maszewska od 1 do 13 nieparzyste bez 5, ul. Trzebiatowska 21, 22, 23.",
+      "id": "b9db8193fe193bea65af276c900b406a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.4371112,
+      "lon": 16.8363817,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Trzebiatowska od 1 do 21 nieparzyste, 25, od 6 do 26 parzyste, ul. Lęborska od 1 do 17 nieparzyste, 17A-B, od 2 do 18 parzyste, 18A, ul. Maszewska 5, ul. Sianowska 1, od 2 do 14 parzyste, ul. Trzcianecka od 2 do 14 parzyste, od 3 do 9 nieparzyste.",
+      "id": "7e4d1512c08014034e066f78def3db8b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.4371112,
+      "lon": 16.8363817,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "ea2609e7895227ee689bdc10415b406b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Olsztyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4337359,
+      "lon": 16.838177,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "8315ea21b36fdd5fdc0db4f98d623f43"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podgajska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4339951,
+      "lon": 16.8394814,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "9f39055e54132e18e6833148c8c57e21"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Santocka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4381887,
+      "lon": 16.8305414,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "271f25981299cf88108ce18026ef0f92"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Trzebiatowska od 1 do 21 nieparzyste, 25, od 6 do 26 parzyste, ul. Lęborska od 1 do 17 nieparzyste, 17A-B, od 2 do 18 parzyste, 18A, ul. Maszewska 5, ul. Sianowska 1, od 2 do 14 parzyste, ul. Trzcianecka od 2 do 14 parzyste, od 3 do 9 nieparzyste.",
+      "id": "1b1affd217aea19d4a250c9b1c4ad7fe"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "234d3c93f7e8e0fb26ab0e5d6469186c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Suliszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4345667,
+      "lon": 16.8320905,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Sianowska 9, od 16 do 54 parzyste, 54A, od 47 do 55 nieparzyste, ul. Maszewska 2A, ul. Santocka 15, 20, 22, 24, ul. Suliszewska od 3 do 15 nieparzyste, ul. Białogardzka, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska 2, 4, 6, od 5 do 7 nieparzyste, ul. Olsztyńska 26.",
+      "id": "c7fce203bf9db878bccf76068a475178"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trzcianecka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-434, Polska",
+      "lat": 52.4372523,
+      "lon": 16.8402262,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Trzebiatowska od 1 do 21 nieparzyste, 25, od 6 do 26 parzyste, ul. Lęborska od 1 do 17 nieparzyste, 17A-B, od 2 do 18 parzyste, 18A, ul. Maszewska 5, ul. Sianowska 1, od 2 do 14 parzyste, ul. Trzcianecka od 2 do 14 parzyste, od 3 do 9 nieparzyste.",
+      "id": "602d3f6712134b1575c8dcc10867c8b8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trzebiatowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436923,
+      "lon": 16.8355248,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Lęborska od 20 do 44 parzyste, od 19 do 45 nieparzyste, ul. Maszewska od 1 do 13 nieparzyste bez 5, ul. Trzebiatowska 21, 22, 23.",
+      "id": "bc59756f1ffaa7123279e1e7a771245d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trzebiatowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436923,
+      "lon": 16.8355248,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T14:30:00",
+      "original_description": "Poznań: ul. Trzebiatowska od 1 do 21 nieparzyste, 25, od 6 do 26 parzyste, ul. Lęborska od 1 do 17 nieparzyste, 17A-B, od 2 do 18 parzyste, 18A, ul. Maszewska 5, ul. Sianowska 1, od 2 do 14 parzyste, ul. Trzcianecka od 2 do 14 parzyste, od 3 do 9 nieparzyste.",
+      "id": "3197c7894d5f6cda8fea4d5f4b94d1f1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T10:30:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "99fab2748a571605a00116c2c452d5f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cieszyńska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3642626,
+      "lon": 16.8964151,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T10:30:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "6820c99be216a9312de13853bcb15c98"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Goleszowska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3655895,
+      "lon": 16.89652,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T10:30:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "5aed054443c0001d962a438d3315d22b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jarzębowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-432, Polska",
+      "lat": 52.3668001,
+      "lon": 16.8933102,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T10:30:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "85f2d4768af83193e2da6f07d4e4082a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T10:30:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "4f303b02a75161294d9254c0272dde3a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stobrawska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3658969,
+      "lon": 16.8958355,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-09T10:30:00",
+      "original_description": "Poznań ul. Brzozowa, ul. Cieszyńska, ul. Goleszowska, ul. Jarzębowa, ul. Opolska, ul. Stobrawska.",
+      "id": "7aad4276d34910ee17eaea97d04fa6fd"
     }
   ]
 }
