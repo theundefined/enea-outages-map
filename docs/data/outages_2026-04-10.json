@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-10T14:37:56.152747+00:00",
+  "last_update": "2026-04-10T15:31:19.689770+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1490,6 +1490,86 @@
       "end_time": "2026-04-10T10:30:00",
       "original_description": "Poznań ul. Grunwaldzka, ul. Jana Matejki, ul. Kawaleryjska, ul. Lawendowa, ul. Skryta.",
       "id": "41de8a96475614c4cb948b1cf76b4a0a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cypriana Norwida, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-867, Polska",
+      "lat": 52.4163907,
+      "lon": 16.9117318,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-10T19:00:00",
+      "original_description": "Poznań ul. Cypriana Norwida, ul. Jeżycka, ul. Kościelna, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. Stanisława Barańczaka.",
+      "id": "390345f1fe23e9f4b01cd10534e582e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeżycka, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-865, Polska",
+      "lat": 52.414293,
+      "lon": 16.9119406,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-10T19:00:00",
+      "original_description": "Poznań ul. Cypriana Norwida, ul. Jeżycka, ul. Kościelna, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. Stanisława Barańczaka.",
+      "id": "cc813ea23fd0edb8facad397e8b4b8e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-10T19:00:00",
+      "original_description": "Poznań ul. Cypriana Norwida, ul. Jeżycka, ul. Kościelna, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. Stanisława Barańczaka.",
+      "id": "3641ab4f907ba36bce53c7c99d20503b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mylna, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-856, Polska",
+      "lat": 52.4152434,
+      "lon": 16.9083453,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-10T19:00:00",
+      "original_description": "Poznań ul. Cypriana Norwida, ul. Jeżycka, ul. Kościelna, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. Stanisława Barańczaka.",
+      "id": "7a16c98bd3c2df28dca610a6db7039c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mączna, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-861, Polska",
+      "lat": 52.4164818,
+      "lon": 16.9079297,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-10T19:00:00",
+      "original_description": "Poznań ul. Cypriana Norwida, ul. Jeżycka, ul. Kościelna, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. Stanisława Barańczaka.",
+      "id": "b4dadf7b74c3d8c26f972df56cf6d28b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Bogdanką, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-862, Polska",
+      "lat": 52.416569,
+      "lon": 16.909539,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-10T19:00:00",
+      "original_description": "Poznań ul. Cypriana Norwida, ul. Jeżycka, ul. Kościelna, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. Stanisława Barańczaka.",
+      "id": "399402b02fe14cc957877490e6a8d5b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Wierzbakiem, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-863, Polska",
+      "lat": 52.4190922,
+      "lon": 16.9080402,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-10T19:00:00",
+      "original_description": "Poznań ul. Cypriana Norwida, ul. Jeżycka, ul. Kościelna, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. Stanisława Barańczaka.",
+      "id": "8fddb558fcea704355955765ecd735be"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Barańczaka, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-537, Polska",
+      "lat": 52.4157481,
+      "lon": 16.9030885,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-10T19:00:00",
+      "original_description": "Poznań ul. Cypriana Norwida, ul. Jeżycka, ul. Kościelna, ul. Mączna, ul. Mylna, ul. Nad Bogdanką, ul. Nad Wierzbakiem, ul. Stanisława Barańczaka.",
+      "id": "eb778496481c7d3078ba8f01621ea0f9"
     }
   ]
 }
