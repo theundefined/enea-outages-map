@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-13T19:40:42.117911+00:00",
+  "last_update": "2026-04-13T20:38:30.193116+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2160,6 +2160,76 @@
       "end_time": "2026-04-13T23:00:00",
       "original_description": "Poznań ul. Bielicowa, ul. Czarnucha, ul. Dworska, ul. Juranda, ul. Karpia, ul. Naramowicka, ul. Rubież, ul. Sielawy.",
       "id": "d1d5bb069759911b2fe85173a8f42bb5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleksandry Karpińskiej, Podolany, Poznań, województwo wielkopolskie, 60-462, Polska",
+      "lat": 52.4592771,
+      "lon": 16.8800515,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T00:00:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "acd4b58eeed590e560c6fc8ee29f821a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augusta Cieszkowskiego, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4605868,
+      "lon": 16.8750417,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T00:00:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "8e5040f33227c65a180856250fd44c43"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Edwarda Raczyńskiego, Podolany, Poznań, województwo wielkopolskie, 60-465, Polska",
+      "lat": 52.4547765,
+      "lon": 16.8869514,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T00:00:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "db6962ac23e0ec8165f5c760c660c6aa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościół pw. Matki Boskiej Nieustającej Pomocy i św. Marii Magdaleny, 1a, Gołębia, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-834, Polska",
+      "lat": 52.4062459,
+      "lon": 16.9340506,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T00:00:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "0b5d2fa7b8d226401190b091c6625316"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T00:00:00",
+      "original_description": "Poznań ul. Strzeszyńska.",
+      "id": "e1410de4054492976f926a0a2ca75306"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T00:00:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "c5ace1a74738a48f0b5efc4be69d130a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szarych Szeregów, Podolany, Poznań, województwo wielkopolskie, 60-462, Polska",
+      "lat": 52.4589143,
+      "lon": 16.879586,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T00:00:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "2ea65626e2c6e48bf3840679fac46c12"
     }
   ]
 }
