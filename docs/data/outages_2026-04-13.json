@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-13T06:06:23.474985+00:00",
+  "last_update": "2026-04-13T08:20:06.525603+00:00",
   "outages": [
     {
       "type": "planned",
@@ -663,6 +663,76 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Krzepicka, Junikowo, Poznań, województwo wielkopolskie, 60-167, Polska",
+      "lat": 52.3768631,
+      "lon": 16.8417223,
+      "start_time": "2026-04-21T08:30:00",
+      "end_time": "2026-04-21T13:00:00",
+      "original_description": "Poznań: ul. Legnicka, ul. Rybnicka, ul. Woźnicka, ul. Oleśnicka, ul. Krzepicka, ul. Oławska 6, ul. Wołowska od 39 do 55 nieparzyste, od 40 do 88 parzyste.",
+      "id": "480af5acedb360f88d3fc954d6008dbf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Legnicka, Junikowo, Poznań, województwo wielkopolskie, 60-164, Polska",
+      "lat": 52.3780542,
+      "lon": 16.8474572,
+      "start_time": "2026-04-21T08:30:00",
+      "end_time": "2026-04-21T13:00:00",
+      "original_description": "Poznań: ul. Legnicka, ul. Rybnicka, ul. Woźnicka, ul. Oleśnicka, ul. Krzepicka, ul. Oławska 6, ul. Wołowska od 39 do 55 nieparzyste, od 40 do 88 parzyste.",
+      "id": "5bcd469d91e595c1326fd8bc9403d7bd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Oleśnicka, Junikowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-167, Polska",
+      "lat": 52.376796,
+      "lon": 16.8433666,
+      "start_time": "2026-04-21T08:30:00",
+      "end_time": "2026-04-21T13:00:00",
+      "original_description": "Poznań: ul. Legnicka, ul. Rybnicka, ul. Woźnicka, ul. Oleśnicka, ul. Krzepicka, ul. Oławska 6, ul. Wołowska od 39 do 55 nieparzyste, od 40 do 88 parzyste.",
+      "id": "1ea9ae9fc2f7f58a7efaef4716b70313"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Oławska, Rudnicze, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3777383,
+      "lon": 16.8353014,
+      "start_time": "2026-04-21T08:30:00",
+      "end_time": "2026-04-21T13:00:00",
+      "original_description": "Poznań: ul. Legnicka, ul. Rybnicka, ul. Woźnicka, ul. Oleśnicka, ul. Krzepicka, ul. Oławska 6, ul. Wołowska od 39 do 55 nieparzyste, od 40 do 88 parzyste.",
+      "id": "21357e06a1962ed51cd082577534c8bd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rybnicka, Junikowo, Poznań, województwo wielkopolskie, 60-167, Polska",
+      "lat": 52.3758849,
+      "lon": 16.8422105,
+      "start_time": "2026-04-21T08:30:00",
+      "end_time": "2026-04-21T13:00:00",
+      "original_description": "Poznań: ul. Legnicka, ul. Rybnicka, ul. Woźnicka, ul. Oleśnicka, ul. Krzepicka, ul. Oławska 6, ul. Wołowska od 39 do 55 nieparzyste, od 40 do 88 parzyste.",
+      "id": "dfa444ea6288dd13c98528b5162849f0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wołowska, Rudnicze, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-168, Polska",
+      "lat": 52.3728724,
+      "lon": 16.8428878,
+      "start_time": "2026-04-21T08:30:00",
+      "end_time": "2026-04-21T13:00:00",
+      "original_description": "Poznań: ul. Legnicka, ul. Rybnicka, ul. Woźnicka, ul. Oleśnicka, ul. Krzepicka, ul. Oławska 6, ul. Wołowska od 39 do 55 nieparzyste, od 40 do 88 parzyste.",
+      "id": "c467aec92fe5fac325f53901e856c61e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Woźnicka, Junikowo, Poznań, województwo wielkopolskie, 60-168, Polska",
+      "lat": 52.3778287,
+      "lon": 16.8400592,
+      "start_time": "2026-04-21T08:30:00",
+      "end_time": "2026-04-21T13:00:00",
+      "original_description": "Poznań: ul. Legnicka, ul. Rybnicka, ul. Woźnicka, ul. Oleśnicka, ul. Krzepicka, ul. Oławska 6, ul. Wołowska od 39 do 55 nieparzyste, od 40 do 88 parzyste.",
+      "id": "185b0706ad3aa711c9f3a164caa30fd3"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Białogardzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
       "lat": 52.4344573,
       "lon": 16.8405845,
@@ -860,6 +930,26 @@
       "end_time": "2026-04-21T14:30:00",
       "original_description": "Poznań: ul. Dąbrowskiego 361, ul. Kołobrzeska od 1 do 31 nieparzyste, od 2 do 38 parzyste, ul. Wolińska, ul. Chodzieska 11, 15, 17, ul. Olsztyńska 14, ul. Podgajska 8, 10, 11, 13, 15, 16, 18, 20.",
       "id": "26d14056ba0b9d5791a0f8cc6d035cbb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "2026-04-22T12:00:00",
+      "end_time": "2026-04-22T14:00:00",
+      "original_description": "Gmina Duszniki miejscowość Sękowo ul. Poznańska 3A, ul. Leśna 21, 31,  ul. Fabryczna cała, działki nr 63/2, 63/3, 63/4,  65/2, 65/3, 65/4, 66, 276/4, 276/7, 390/3  391/3, 391/4, 391/5, 391/6,  stacja paliw Orlen, przepompownia, bar,",
+      "id": "109c0df49e5086f8fcaed5b781d13167"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-22T12:00:00",
+      "end_time": "2026-04-22T14:00:00",
+      "original_description": "Gmina Duszniki miejscowość Sękowo ul. Poznańska 3A, ul. Leśna 21, 31,  ul. Fabryczna cała, działki nr 63/2, 63/3, 63/4,  65/2, 65/3, 65/4, 66, 276/4, 276/7, 390/3  391/3, 391/4, 391/5, 391/6,  stacja paliw Orlen, przepompownia, bar,",
+      "id": "9ba6bf072d2f110b55049128b90f05ce"
     },
     {
       "type": "planned",
