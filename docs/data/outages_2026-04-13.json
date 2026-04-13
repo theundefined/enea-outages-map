@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-13T21:30:10.327682+00:00",
+  "last_update": "2026-04-13T22:11:33.335812+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2230,6 +2230,76 @@
       "end_time": "2026-04-14T00:00:00",
       "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
       "id": "2ea65626e2c6e48bf3840679fac46c12"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleksandry Karpińskiej, Podolany, Poznań, województwo wielkopolskie, 60-462, Polska",
+      "lat": 52.4592771,
+      "lon": 16.8800515,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T01:30:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "85db4784cb89959dff18edf6798a4b9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augusta Cieszkowskiego, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4605868,
+      "lon": 16.8750417,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T01:30:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "d25d1bb654ea3cdb0ff0d293f97adb5b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Edwarda Raczyńskiego, Podolany, Poznań, województwo wielkopolskie, 60-465, Polska",
+      "lat": 52.4547765,
+      "lon": 16.8869514,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T01:30:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "d0ca7ba7ac980a70fac1218d5a93a843"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościół pw. Matki Boskiej Nieustającej Pomocy i św. Marii Magdaleny, 1a, Gołębia, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-834, Polska",
+      "lat": 52.4062459,
+      "lon": 16.9340506,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T01:30:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "5622252507fda537d3b1cb9543898374"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T01:30:00",
+      "original_description": "Poznań ul. Strzeszyńska.",
+      "id": "01d6cc57919fc4f87494e033d1a24599"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T01:30:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "3c56a742823837878112dcf7998daae5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szarych Szeregów, Podolany, Poznań, województwo wielkopolskie, 60-462, Polska",
+      "lat": 52.4589143,
+      "lon": 16.879586,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T01:30:00",
+      "original_description": "Poznań ul. Aleksandry Karpińskiej, ul. Augusta Cieszkowskiego, ul. Edwarda Raczyńskiego, ul. Marii i Celestyna Rydlewskich, ul. Strzeszyńska, ul. Szarych Szeregów.",
+      "id": "3063b7eb8d733ce35ebc33a55aa45d34"
     }
   ]
 }
