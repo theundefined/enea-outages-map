@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-14T07:02:07.859522+00:00",
+  "last_update": "2026-04-14T08:50:54.174061+00:00",
   "outages": [
     {
       "type": "planned",
@@ -853,6 +853,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Czarnkowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4333693,
+      "lon": 16.8448723,
+      "start_time": "2026-04-21T10:00:00",
+      "end_time": "2026-04-21T12:00:00",
+      "original_description": "Poznań: ul. Czarnkowska 17, 17A.",
+      "id": "458f92600acd52f177da28d0abced308"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
       "lat": 52.4159569,
       "lon": 17.0325761,
@@ -870,6 +880,76 @@
       "end_time": "2026-04-22T14:00:00",
       "original_description": "Gmina Duszniki miejscowość Sękowo ul. Poznańska 3A, ul. Leśna 21, 31,  ul. Fabryczna cała, działki nr 63/2, 63/3, 63/4,  65/2, 65/3, 65/4, 66, 276/4, 276/7, 390/3  391/3, 391/4, 391/5, 391/6,  stacja paliw Orlen, przepompownia, bar,",
       "id": "9ba6bf072d2f110b55049128b90f05ce"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Azaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-443, Polska",
+      "lat": 52.3638663,
+      "lon": 16.9062508,
+      "start_time": "2026-04-23T08:00:00",
+      "end_time": "2026-04-23T14:00:00",
+      "original_description": "Miasto Ostroróg ul. Klonowa cała, ul. Poznańska 16, 18, 20, 20A, 22, 24A, 26,   od 31 do 47 nr nieparzyste,  ul. Jaworowa 16, ul. Jeziorna cała (oprócz 2, 4), ul. Topolowa nr parzyste,  ul. Powstańców Wielkopolskich cała, ul. Bratkowa cała, ul. Malwowa cała, ul. Nowa cała, ul. Lipowa cała, ul. Klonowa cała, \nmiejscowość Piaskowo ul. Powstańców Wielkopolskich 28, 34, 40, działki nr 120, owo ul. Azaliowa od 1 do 8, ul. Malwowa cała, ul. Konwaliowa od 1 do 8, 10,",
+      "id": "a1a2f3da4365836196b1942a66b29f0c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jaworowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-456, Polska",
+      "lat": 52.3685529,
+      "lon": 16.9050344,
+      "start_time": "2026-04-23T08:00:00",
+      "end_time": "2026-04-23T14:00:00",
+      "original_description": "Miasto Ostroróg ul. Klonowa cała, ul. Poznańska 16, 18, 20, 20A, 22, 24A, 26,   od 31 do 47 nr nieparzyste,  ul. Jaworowa 16, ul. Jeziorna cała (oprócz 2, 4), ul. Topolowa nr parzyste,  ul. Powstańców Wielkopolskich cała, ul. Bratkowa cała, ul. Malwowa cała, ul. Nowa cała, ul. Lipowa cała, ul. Klonowa cała, \nmiejscowość Piaskowo ul. Powstańców Wielkopolskich 28, 34, 40, działki nr 120, owo ul. Azaliowa od 1 do 8, ul. Malwowa cała, ul. Konwaliowa od 1 do 8, 10,",
+      "id": "ad67abb6f8ebec35d511afc1a79bd837"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Konwaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705079,
+      "lon": 16.9136939,
+      "start_time": "2026-04-23T08:00:00",
+      "end_time": "2026-04-23T14:00:00",
+      "original_description": "Miasto Ostroróg ul. Klonowa cała, ul. Poznańska 16, 18, 20, 20A, 22, 24A, 26,   od 31 do 47 nr nieparzyste,  ul. Jaworowa 16, ul. Jeziorna cała (oprócz 2, 4), ul. Topolowa nr parzyste,  ul. Powstańców Wielkopolskich cała, ul. Bratkowa cała, ul. Malwowa cała, ul. Nowa cała, ul. Lipowa cała, ul. Klonowa cała, \nmiejscowość Piaskowo ul. Powstańców Wielkopolskich 28, 34, 40, działki nr 120, owo ul. Azaliowa od 1 do 8, ul. Malwowa cała, ul. Konwaliowa od 1 do 8, 10,",
+      "id": "75d1de7e600a5e574c147b9ee80a4874"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "2026-04-23T08:00:00",
+      "end_time": "2026-04-23T14:00:00",
+      "original_description": "Miasto Ostroróg ul. Robotnicza cała ul. Poznańska 49, 51, 53, 55, 57, ul. Wierzbowa cała, ul. Jaworowa nr parzyste (oprócz 16),  ul. Topolowa nr nieparzyste, ul. Nowa 33,  działki nr 298/5,  510/9, 511/3, 511/5, 511/8, 511/9,",
+      "id": "4d65791dac1fd40f18f54b8e85580655"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "2026-04-23T08:00:00",
+      "end_time": "2026-04-23T14:00:00",
+      "original_description": "Miasto Ostroróg ul. Klonowa cała, ul. Poznańska 16, 18, 20, 20A, 22, 24A, 26,   od 31 do 47 nr nieparzyste,  ul. Jaworowa 16, ul. Jeziorna cała (oprócz 2, 4), ul. Topolowa nr parzyste,  ul. Powstańców Wielkopolskich cała, ul. Bratkowa cała, ul. Malwowa cała, ul. Nowa cała, ul. Lipowa cała, ul. Klonowa cała, \nmiejscowość Piaskowo ul. Powstańców Wielkopolskich 28, 34, 40, działki nr 120, owo ul. Azaliowa od 1 do 8, ul. Malwowa cała, ul. Konwaliowa od 1 do 8, 10,",
+      "id": "4c82349f10723a2822b3072bfdd31240"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-23T08:00:00",
+      "end_time": "2026-04-23T14:00:00",
+      "original_description": "Miasto Ostroróg ul. Klonowa cała, ul. Poznańska 16, 18, 20, 20A, 22, 24A, 26,   od 31 do 47 nr nieparzyste,  ul. Jaworowa 16, ul. Jeziorna cała (oprócz 2, 4), ul. Topolowa nr parzyste,  ul. Powstańców Wielkopolskich cała, ul. Bratkowa cała, ul. Malwowa cała, ul. Nowa cała, ul. Lipowa cała, ul. Klonowa cała, \nmiejscowość Piaskowo ul. Powstańców Wielkopolskich 28, 34, 40, działki nr 120, owo ul. Azaliowa od 1 do 8, ul. Malwowa cała, ul. Konwaliowa od 1 do 8, 10,",
+      "id": "fb240b00edb689887dfc1f514e463f2b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "2026-04-23T08:00:00",
+      "end_time": "2026-04-23T15:00:00",
+      "original_description": "Poznań ul. Promienista 18, 20, 22, 22A, 24, 24A, 25, 25A, 26, 26A, 27, 27A, 28, 28A, 30, 30 lok. 2, 30A, 30A/1.",
+      "id": "870df4d1b9f11fe245bdab4826979c26"
     },
     {
       "type": "planned",
@@ -1223,6 +1303,96 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-28T10:00:00",
+      "end_time": "2026-04-28T12:00:00",
+      "original_description": "Gmina Duszniki miejscowość Wilkowo ul. Poznańska 10, 19, 21, 23, 27,",
+      "id": "c861770e11fd4b4a7067e60bd075694b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "2026-04-28T12:00:00",
+      "end_time": "2026-04-28T15:00:00",
+      "original_description": "Gmina Duszniki miejscowość Grzebienisko ul. Lawendowa cała, ul. Polna cała, ul. Wierzbowa 2, 4, ul. Lipowa 23L, 23M, 23N, 25, 60,  ul. Poznańska 10, działki nr 258/21, 258/24, 258/25, 258/26, 314/1, 504, 505, miejscowość Ceradz Dolny działki nr 3/2,",
+      "id": "86754127a0a6d10c4b5c0aa0ec19bd9a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-28T12:00:00",
+      "end_time": "2026-04-28T15:00:00",
+      "original_description": "Gmina Duszniki miejscowość Grzebienisko ul. Lawendowa cała, ul. Polna cała, ul. Wierzbowa 2, 4, ul. Lipowa 23L, 23M, 23N, 25, 60,  ul. Poznańska 10, działki nr 258/21, 258/24, 258/25, 258/26, 314/1, 504, 505, miejscowość Ceradz Dolny działki nr 3/2,",
+      "id": "558ac068f359537202296998ad8aa0d2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "2026-04-28T12:00:00",
+      "end_time": "2026-04-28T15:00:00",
+      "original_description": "Gmina Duszniki miejscowość Grzebienisko ul. Lawendowa cała, ul. Polna cała, ul. Wierzbowa 2, 4, ul. Lipowa 23L, 23M, 23N, 25, 60,  ul. Poznańska 10, działki nr 258/21, 258/24, 258/25, 258/26, 314/1, 504, 505, miejscowość Ceradz Dolny działki nr 3/2,",
+      "id": "cd953ef82b1f6fbe7beeb1a50b67183b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Biskupińska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4622495,
+      "lon": 16.867017,
+      "start_time": "2026-04-29T08:30:00",
+      "end_time": "2026-04-29T12:30:00",
+      "original_description": "Poznań ul. Biskupińska 27, 48, 52, 54, od 28 do 34 parzyste, od 41 do 55 nieparzyste, Park&Ride, ul. Rzeszowska 2.",
+      "id": "927c38c0788c7a17174848af42698761"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rzeszowska, Strzeszyn, Poznań, województwo wielkopolskie, 60-468, Polska",
+      "lat": 52.4540034,
+      "lon": 16.8494287,
+      "start_time": "2026-04-29T08:30:00",
+      "end_time": "2026-04-29T12:30:00",
+      "original_description": "Poznań ul. Biskupińska 27, 48, 52, 54, od 28 do 34 parzyste, od 41 do 55 nieparzyste, Park&Ride, ul. Rzeszowska 2.",
+      "id": "3b53d3d39ad8276c4f0ce22a3008fcd2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bartnicza, Główna, Poznań, województwo wielkopolskie, 61-017, Polska",
+      "lat": 52.4240833,
+      "lon": 16.979115,
+      "start_time": "2026-04-30T08:30:00",
+      "end_time": "2026-04-30T10:30:00",
+      "original_description": "Poznań: ul. Gnieźnieńska 1, 2, 13, 70, 70A, 73, 74, 75, 76, 77, 78, 78A, ul. Bartnicza 1, 2, 5, 10, ul. Sucha 2, 2A, 3, 3A, 4, 4A, 5, 29, 31, 31A.",
+      "id": "22939ff53d4311c75258aaf4bb4ba8b0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gnieźnieńska, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4237511,
+      "lon": 16.9882301,
+      "start_time": "2026-04-30T08:30:00",
+      "end_time": "2026-04-30T10:30:00",
+      "original_description": "Poznań: ul. Gnieźnieńska 1, 2, 13, 70, 70A, 73, 74, 75, 76, 77, 78, 78A, ul. Bartnicza 1, 2, 5, 10, ul. Sucha 2, 2A, 3, 3A, 4, 4A, 5, 29, 31, 31A.",
+      "id": "405cd01bf99f7257115e85e05c628964"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sucha, Główna, Poznań, województwo wielkopolskie, 60-960, Polska",
+      "lat": 52.4258613,
+      "lon": 16.9822289,
+      "start_time": "2026-04-30T08:30:00",
+      "end_time": "2026-04-30T10:30:00",
+      "original_description": "Poznań: ul. Gnieźnieńska 1, 2, 13, 70, 70A, 73, 74, 75, 76, 77, 78, 78A, ul. Bartnicza 1, 2, 5, 10, ul. Sucha 2, 2A, 3, 3A, 4, 4A, 5, 29, 31, 31A.",
+      "id": "307d86bc99f39c685f7e266fa33b135f"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Cerekwicka, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
       "lat": 52.475051,
       "lon": 16.8145001,
@@ -1350,6 +1520,16 @@
       "end_time": "2026-04-14T09:00:00",
       "original_description": "Poznań ul. Szarych Szeregów 17",
       "id": "7c5f0e36017ed36d8a82299be4970d7b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szarych Szeregów, Podolany, Poznań, województwo wielkopolskie, 60-462, Polska",
+      "lat": 52.4589143,
+      "lon": 16.879586,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-14T12:30:00",
+      "original_description": "Poznań ul. Szarych Szeregów.",
+      "id": "d8dbf821d2182228af76870d7c3a66a5"
     }
   ]
 }
