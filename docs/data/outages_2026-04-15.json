@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-15T12:08:17.470301+00:00",
+  "last_update": "2026-04-15T14:03:07.015241+00:00",
   "outages": [
     {
       "type": "planned",
@@ -150,6 +150,116 @@
       "end_time": "2026-04-15T14:00:00",
       "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
       "id": "f1a672ce5d4cc7e386507b4eef551f50"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gwarna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-703, Polska",
+      "lat": 52.407635,
+      "lon": 16.9212577,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "c252cf6e9eb5a57e0b1da83a96a16aed"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste.",
+      "id": "c888acdcfde4f668d573797efb9a7b1f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "1dca018db133ed2760e985cd1a26da68"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
+      "id": "c2ac6d062bf4d6c192d036be8f05eb63"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
+      "id": "c7bd26adf752ded51ba6496f4a277a96"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
+      "lat": 52.410741,
+      "lon": 16.983344,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "e24bdcea5bfe80bdfb059b1a8c7a2ec2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wiejska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4211828,
+      "lon": 16.9756718,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "6539ed702111e9101f7799c1223812d3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "e0fdeaec553a51c4c6d6876706080fe2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
+      "id": "8900edc1c762fd468700df09e0d1eafb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łanowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3814024,
+      "lon": 16.9138488,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste.",
+      "id": "2bfa0a8fccb30df2726edc678da984f1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żniwna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4236767,
+      "lon": 16.9278324,
+      "start_time": "2026-04-15T08:00:00",
+      "end_time": "2026-04-15T20:30:00",
+      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
+      "id": "6ebda6916d80a9c7fb3a722db99b01be"
     },
     {
       "type": "planned",
