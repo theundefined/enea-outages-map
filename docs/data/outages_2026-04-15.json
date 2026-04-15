@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-15T08:56:21.905000+00:00",
+  "last_update": "2026-04-15T10:16:10.883943+00:00",
   "outages": [
     {
       "type": "planned",
@@ -623,6 +623,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "2026-04-21T08:30:00",
+      "end_time": "2026-04-21T14:30:00",
+      "original_description": "Poznań: ul. Michałowo 23, 23A-K, 27, 31, 31A-B, dz. 3/42, dz. 3/56, dz. 3/57, dz. 3/59.",
+      "id": "7529a98feed80a5f8689eb53f5d24f03"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Olsztyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
       "lat": 52.4337359,
       "lon": 16.838177,
@@ -873,6 +883,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Sokoła, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "2026-04-23T08:30:00",
+      "end_time": "2026-04-23T13:30:00",
+      "original_description": "Poznań ul. Sokoła 47, 49, 51, 53, 53 GARAZ, 53/3 GARAŻ, 55, 57, 59",
+      "id": "b9aa8c5c1420f4a5567749349644eef1"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
       "lat": 52.4038105,
       "lon": 16.929477,
@@ -880,6 +900,16 @@
       "end_time": "2026-04-23T13:00:00",
       "original_description": "G6751 Gmina Tarnowo Podgórne miejscowość Lusowo ul. Lipowa cała (oprócz 2, 4, 6, 8, 10), ul. Poznańska 2, 4, 5, 6, 8, 10, 10A,  ul. Słoneczna 9, 12, 16, 18, 20, 22, 24, ul. Polna od 1 do 28, 30, 32, 34, 40, 42, 44, ul. Ogrodowa od 1 do 13 nr nieparzyste, ul. Wierzbowa 21C,  działki nr 52, 56, 62/5, 62/9, 241/1, 345, 781,  Przedszkole Chatka Misia Uszatka, Kościół, plebania, zakład fryzjerski, sklep ABC, kiosk, świetlica, muzeum, OSP, plaża, restauracja,",
       "id": "e4879aad06b4cc4e1e9eb6daf423dcdd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "2026-04-23T10:00:00",
+      "end_time": "2026-04-23T13:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Lipowa cała (oprócz 2, 4, 6, 8, 10), ul. Poznańska 2, 4, 5, 6, 8, 10, 10A,  ul. Słoneczna 9, 12, 16, 18, 20, 22, 24, ul. Polna od 1 do 28, 30, 32, 34, 40, 42, 44, ul. Ogrodowa od 1 do 13 nr nieparzyste, ul. Wierzbowa 21C,  działki nr 52, 56, 62/5, 62/9, 241/1, 345, 781,  Przedszkole Chatka Misia Uszatka, Kościół, plebania, zakład fryzjerski, sklep ABC, kiosk, świetlica, muzeum, OSP, plaża, restauracja,",
+      "id": "a45b6f88b8b44f1d504595b257a99874"
     },
     {
       "type": "planned",
@@ -893,6 +923,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "2026-04-23T10:00:00",
+      "end_time": "2026-04-23T13:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Lipowa cała (oprócz 2, 4, 6, 8, 10), ul. Poznańska 2, 4, 5, 6, 8, 10, 10A,  ul. Słoneczna 9, 12, 16, 18, 20, 22, 24, ul. Polna od 1 do 28, 30, 32, 34, 40, 42, 44, ul. Ogrodowa od 1 do 13 nr nieparzyste, ul. Wierzbowa 21C,  działki nr 52, 56, 62/5, 62/9, 241/1, 345, 781,  Przedszkole Chatka Misia Uszatka, Kościół, plebania, zakład fryzjerski, sklep ABC, kiosk, świetlica, muzeum, OSP, plaża, restauracja,",
+      "id": "70115a84883e3e560f551c6801253f73"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
       "lon": 16.9048857,
@@ -900,6 +940,16 @@
       "end_time": "2026-04-23T13:00:00",
       "original_description": "G6751 Gmina Tarnowo Podgórne miejscowość Lusowo ul. Lipowa cała (oprócz 2, 4, 6, 8, 10), ul. Poznańska 2, 4, 5, 6, 8, 10, 10A,  ul. Słoneczna 9, 12, 16, 18, 20, 22, 24, ul. Polna od 1 do 28, 30, 32, 34, 40, 42, 44, ul. Ogrodowa od 1 do 13 nr nieparzyste, ul. Wierzbowa 21C,  działki nr 52, 56, 62/5, 62/9, 241/1, 345, 781,  Przedszkole Chatka Misia Uszatka, Kościół, plebania, zakład fryzjerski, sklep ABC, kiosk, świetlica, muzeum, OSP, plaża, restauracja,",
       "id": "280e64d0d1126af1a418bcd1dd156212"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-23T10:00:00",
+      "end_time": "2026-04-23T13:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Lipowa cała (oprócz 2, 4, 6, 8, 10), ul. Poznańska 2, 4, 5, 6, 8, 10, 10A,  ul. Słoneczna 9, 12, 16, 18, 20, 22, 24, ul. Polna od 1 do 28, 30, 32, 34, 40, 42, 44, ul. Ogrodowa od 1 do 13 nr nieparzyste, ul. Wierzbowa 21C,  działki nr 52, 56, 62/5, 62/9, 241/1, 345, 781,  Przedszkole Chatka Misia Uszatka, Kościół, plebania, zakład fryzjerski, sklep ABC, kiosk, świetlica, muzeum, OSP, plaża, restauracja,",
+      "id": "33a02ef000c104e05eaac5ecf47fec6e"
     },
     {
       "type": "planned",
@@ -913,6 +963,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "2026-04-23T10:00:00",
+      "end_time": "2026-04-23T13:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Lipowa cała (oprócz 2, 4, 6, 8, 10), ul. Poznańska 2, 4, 5, 6, 8, 10, 10A,  ul. Słoneczna 9, 12, 16, 18, 20, 22, 24, ul. Polna od 1 do 28, 30, 32, 34, 40, 42, 44, ul. Ogrodowa od 1 do 13 nr nieparzyste, ul. Wierzbowa 21C,  działki nr 52, 56, 62/5, 62/9, 241/1, 345, 781,  Przedszkole Chatka Misia Uszatka, Kościół, plebania, zakład fryzjerski, sklep ABC, kiosk, świetlica, muzeum, OSP, plaża, restauracja,",
+      "id": "a9608636798552d4538d7ae474f019da"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
       "lat": 52.4044486,
       "lon": 16.9411863,
@@ -920,6 +980,16 @@
       "end_time": "2026-04-23T13:00:00",
       "original_description": "G6751 Gmina Tarnowo Podgórne miejscowość Lusowo ul. Lipowa cała (oprócz 2, 4, 6, 8, 10), ul. Poznańska 2, 4, 5, 6, 8, 10, 10A,  ul. Słoneczna 9, 12, 16, 18, 20, 22, 24, ul. Polna od 1 do 28, 30, 32, 34, 40, 42, 44, ul. Ogrodowa od 1 do 13 nr nieparzyste, ul. Wierzbowa 21C,  działki nr 52, 56, 62/5, 62/9, 241/1, 345, 781,  Przedszkole Chatka Misia Uszatka, Kościół, plebania, zakład fryzjerski, sklep ABC, kiosk, świetlica, muzeum, OSP, plaża, restauracja,",
       "id": "793cec702f797be6416139e391810ba9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "2026-04-23T10:00:00",
+      "end_time": "2026-04-23T13:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Lipowa cała (oprócz 2, 4, 6, 8, 10), ul. Poznańska 2, 4, 5, 6, 8, 10, 10A,  ul. Słoneczna 9, 12, 16, 18, 20, 22, 24, ul. Polna od 1 do 28, 30, 32, 34, 40, 42, 44, ul. Ogrodowa od 1 do 13 nr nieparzyste, ul. Wierzbowa 21C,  działki nr 52, 56, 62/5, 62/9, 241/1, 345, 781,  Przedszkole Chatka Misia Uszatka, Kościół, plebania, zakład fryzjerski, sklep ABC, kiosk, świetlica, muzeum, OSP, plaża, restauracja,",
+      "id": "a1c9dabc59f3e147cb83817eeba2c319"
     },
     {
       "type": "planned",
