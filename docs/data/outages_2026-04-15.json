@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-15T18:51:33.252851+00:00",
+  "last_update": "2026-04-15T20:01:29.926702+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1700,6 +1700,16 @@
       "end_time": "2026-04-15T12:00:00",
       "original_description": "Poznań ul. Saperska 36 B, 36 B kl. A, 36A, 36B, 38 B.",
       "id": "f2d79a91832c0763e24a71d54a321a10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T00:00:00",
+      "original_description": "Brody, Jakubowo, Pniewy ul. Poznańska 96, 98.",
+      "id": "231bdcf39ede8cf2bc460ec46cfe2345"
     }
   ]
 }
