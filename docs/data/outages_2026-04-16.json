@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-16T04:25:18.151876+00:00",
+  "last_update": "2026-04-16T06:18:34.333641+00:00",
   "outages": [
     {
       "type": "planned",
@@ -980,6 +980,36 @@
       "end_time": "2026-04-28T13:00:00",
       "original_description": "Komorniki: ul. Komornicka od 1 do 9 nieparzyste, ul. Poznańska od 46 do 72 parzyste, 72A, ul. Nizinna 10.",
       "id": "5d08fbc8b3f33b56a812d1018225f981"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bronisza, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
+      "lat": 52.4545581,
+      "lon": 16.9506409,
+      "start_time": "2026-04-28T08:00:00",
+      "end_time": "2026-04-28T14:00:00",
+      "original_description": "Poznań: ul. Bronisza, ul. Rubież 45A, 49, 51A, ul. Naramowicka od 184 do 192 parzyste, od 221 do 229 nieparzyste, 231A.",
+      "id": "083ac68654468a5515a92f3d3785e914"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-04-28T08:00:00",
+      "end_time": "2026-04-28T14:00:00",
+      "original_description": "Poznań: ul. Bronisza, ul. Rubież 45A, 49, 51A, ul. Naramowicka od 184 do 192 parzyste, od 221 do 229 nieparzyste, 231A.",
+      "id": "c0614529b982dfbfd444f836974e5b84"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rubież, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4492865,
+      "lon": 16.9505211,
+      "start_time": "2026-04-28T08:00:00",
+      "end_time": "2026-04-28T14:00:00",
+      "original_description": "Poznań: ul. Bronisza, ul. Rubież 45A, 49, 51A, ul. Naramowicka od 184 do 192 parzyste, od 221 do 229 nieparzyste, 231A.",
+      "id": "3a4fa108a39df5a2e70ed2d6f969d007"
     },
     {
       "type": "planned",
