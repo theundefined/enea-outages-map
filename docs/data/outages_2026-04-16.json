@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-16T09:46:09.146738+00:00",
+  "last_update": "2026-04-16T10:50:20.112442+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1480,6 +1480,46 @@
       "end_time": "2026-04-16T12:00:00",
       "original_description": "Poznań ul. Romana Maya 80.",
       "id": "01326cb5f0d2d78ce61532e9072620fb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Inflancka, Osiedle Stare Żegrze, Żegrze, Poznań, województwo wielkopolskie, 61-144, Polska",
+      "lat": 52.3845345,
+      "lon": 16.9630895,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T14:30:00",
+      "original_description": "Poznań ul. Inflancka 10, ul. Prużańska 1, ul. Słonimska 1, 10, 11, 12, 13, 14, 2, 3, 4, 5, 6, 7, 9, ul. Wołkowyska 31, 33, 35, 37, 39, 41, 43.",
+      "id": "0ead804468663d809f176de90ad1d631"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Prużańska, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-132, Polska",
+      "lat": 52.3978576,
+      "lon": 16.971318,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T14:30:00",
+      "original_description": "Poznań ul. Inflancka 10, ul. Prużańska 1, ul. Słonimska 1, 10, 11, 12, 13, 14, 2, 3, 4, 5, 6, 7, 9, ul. Wołkowyska 31, 33, 35, 37, 39, 41, 43.",
+      "id": "62b3f8fb5bb7e9dc3ad386e070563ae4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słonimska, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-132, Polska",
+      "lat": 52.397598,
+      "lon": 16.9727377,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T14:30:00",
+      "original_description": "Poznań ul. Inflancka 10, ul. Prużańska 1, ul. Słonimska 1, 10, 11, 12, 13, 14, 2, 3, 4, 5, 6, 7, 9, ul. Wołkowyska 31, 33, 35, 37, 39, 41, 43.",
+      "id": "bb8daa9f9625efb5b1fa54880118d249"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wołkowyska, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-132, Polska",
+      "lat": 52.3975755,
+      "lon": 16.9702105,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T14:30:00",
+      "original_description": "Poznań ul. Inflancka 10, ul. Prużańska 1, ul. Słonimska 1, 10, 11, 12, 13, 14, 2, 3, 4, 5, 6, 7, 9, ul. Wołkowyska 31, 33, 35, 37, 39, 41, 43.",
+      "id": "8b232e4a4c711363226fa685ae009563"
     }
   ]
 }
