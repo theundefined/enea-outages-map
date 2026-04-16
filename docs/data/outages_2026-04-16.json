@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-16T11:45:56.725777+00:00",
+  "last_update": "2026-04-16T12:54:07.516919+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1530,6 +1530,46 @@
       "end_time": "2026-04-16T14:30:00",
       "original_description": "Poznań ul. Inflancka 10, ul. Prużańska 1, ul. Słonimska 1, 10, 11, 12, 13, 14, 2, 3, 4, 5, 6, 7, 9, ul. Wołkowyska 31, 33, 35, 37, 39, 41, 43.",
       "id": "8b232e4a4c711363226fa685ae009563"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T17:00:00",
+      "original_description": "Sława ul. Franciszka Niewidziajły, Huta ul. Komorzewska 10, 14, 16, 2, 2B, 2D, 4, 5, 6, 7, 8 B, 8a, ul. Leśna 10, 11, 13, 13A, 14, 15, 16, 22, 3, 4, 5, 6, 7, 8, 9, DZ. 395, ul. Pilska 10, 11, 14, 15, 16, 17, 18, 20, 20A, 21, 22, 25, ul. Polna 3, 7, 8, ul. Poznańska 10, 12, 14, 15, 2, 2A, 4, 6, 7, 7B, 8, 9, dz. 86/5, DZ. 91/14, DZ.81,82, ul. Radomska 10, 13, 15, 3, 5.",
+      "id": "8c728928899000626514fb611e8637e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pilska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-044, Polska",
+      "lat": 52.4132807,
+      "lon": 16.9891444,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T17:00:00",
+      "original_description": "Sława ul. Franciszka Niewidziajły, Huta ul. Komorzewska 10, 14, 16, 2, 2B, 2D, 4, 5, 6, 7, 8 B, 8a, ul. Leśna 10, 11, 13, 13A, 14, 15, 16, 22, 3, 4, 5, 6, 7, 8, 9, DZ. 395, ul. Pilska 10, 11, 14, 15, 16, 17, 18, 20, 20A, 21, 22, 25, ul. Polna 3, 7, 8, ul. Poznańska 10, 12, 14, 15, 2, 2A, 4, 6, 7, 7B, 8, 9, dz. 86/5, DZ. 91/14, DZ.81,82, ul. Radomska 10, 13, 15, 3, 5.",
+      "id": "722b4f2b1b64340c58a766d4384969b5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T17:00:00",
+      "original_description": "Sława ul. Franciszka Niewidziajły, Huta ul. Komorzewska 10, 14, 16, 2, 2B, 2D, 4, 5, 6, 7, 8 B, 8a, ul. Leśna 10, 11, 13, 13A, 14, 15, 16, 22, 3, 4, 5, 6, 7, 8, 9, DZ. 395, ul. Pilska 10, 11, 14, 15, 16, 17, 18, 20, 20A, 21, 22, 25, ul. Polna 3, 7, 8, ul. Poznańska 10, 12, 14, 15, 2, 2A, 4, 6, 7, 7B, 8, 9, dz. 86/5, DZ. 91/14, DZ.81,82, ul. Radomska 10, 13, 15, 3, 5.",
+      "id": "b9fe3b06153b99f4dc2f59bfcfd9f397"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-16T17:00:00",
+      "original_description": "Sława ul. Franciszka Niewidziajły, Huta ul. Komorzewska 10, 14, 16, 2, 2B, 2D, 4, 5, 6, 7, 8 B, 8a, ul. Leśna 10, 11, 13, 13A, 14, 15, 16, 22, 3, 4, 5, 6, 7, 8, 9, DZ. 395, ul. Pilska 10, 11, 14, 15, 16, 17, 18, 20, 20A, 21, 22, 25, ul. Polna 3, 7, 8, ul. Poznańska 10, 12, 14, 15, 2, 2A, 4, 6, 7, 7B, 8, 9, dz. 86/5, DZ. 91/14, DZ.81,82, ul. Radomska 10, 13, 15, 3, 5.",
+      "id": "86c97e868e5d1910d9a3eac7ce70e9ce"
     }
   ]
 }
