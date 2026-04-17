@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-17T07:06:01.143079+00:00",
+  "last_update": "2026-04-17T08:51:46.486679+00:00",
   "outages": [
     {
       "type": "planned",
@@ -540,6 +540,26 @@
       "end_time": "2026-04-23T13:30:00",
       "original_description": "Poznań ul. Sokoła 47, 49, 51, 53, 53 GARAZ, 53/3 GARAŻ, 55, 57, 59",
       "id": "b9aa8c5c1420f4a5567749349644eef1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-04-23T08:30:00",
+      "end_time": "2026-04-23T15:30:00",
+      "original_description": "Poznań ul. Poznańska 21, 21 lok.3, 21/3, ul. Żurawia 19/21, 19/21.",
+      "id": "9b0fda6cc633e0668fd8cfc690f7a69d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żurawia, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-860, Polska",
+      "lat": 52.4129219,
+      "lon": 16.9055421,
+      "start_time": "2026-04-23T08:30:00",
+      "end_time": "2026-04-23T15:30:00",
+      "original_description": "Poznań ul. Poznańska 21, 21 lok.3, 21/3, ul. Żurawia 19/21, 19/21.",
+      "id": "b09511f5ccaa722894efac0ce0769b0f"
     },
     {
       "type": "planned",
