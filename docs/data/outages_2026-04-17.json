@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-17T18:56:13.723566+00:00",
+  "last_update": "2026-04-17T19:57:35.067438+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1640,6 +1640,56 @@
       "end_time": "2026-04-17T20:00:00",
       "original_description": "Granowo ul. 1 Maja 1, 1/B, 1A, 1c, 2/c, 2a, 2d, 2E, 3, ul. Dworcowa 4, ul. Kolejowa 1, 1/A, 10, 11, 12, 13, 14, 15, 15/A, 16, 16 A, 16/A, 17, 18, 19, 1A, 2, 2/a, 20, 21, 22, 23, 24, 25, 26, 27, 3, 30, 32, 4, 5, 6, 7, 8, 9, DZ 333/2, ul. Poznańska 30, 30A, 34/c, 36, 38, 40, ul. Torowa 1, 11, 13, 3, 5, 7, 9.",
       "id": "4d6a242beafeef179f6bc6216928295e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "1 Maja, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3335419,
+      "lon": 16.8849169,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-17T23:00:00",
+      "original_description": "Granowo ul. 1 Maja 1, 1/B, 1A, 1c, 2/c, 2a, 2d, 2E, 3, ul. Dworcowa 4, ul. Kolejowa 1, 1/A, 10, 11, 12, 13, 14, 15, 15/A, 16, 16 A, 16/A, 17, 18, 19, 1A, 2, 2/a, 20, 21, 22, 23, 24, 25, 26, 27, 3, 30, 32, 4, 5, 6, 7, 8, 9, DZ 333/2, ul. Poznańska 30, 30A, 34/c, 36, 38, 40, ul. Torowa 1, 11, 13, 3, 5, 7, 9.",
+      "id": "d69f9ea0a5a02ed3719d17529495f446"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-17T23:00:00",
+      "original_description": "Granowo ul. 1 Maja 1, 1/B, 1A, 1c, 2/c, 2a, 2d, 2E, 3, ul. Dworcowa 4, ul. Kolejowa 1, 1/A, 10, 11, 12, 13, 14, 15, 15/A, 16, 16 A, 16/A, 17, 18, 19, 1A, 2, 2/a, 20, 21, 22, 23, 24, 25, 26, 27, 3, 30, 32, 4, 5, 6, 7, 8, 9, DZ 333/2, ul. Poznańska 30, 30A, 34/c, 36, 38, 40, ul. Torowa 1, 11, 13, 3, 5, 7, 9.",
+      "id": "74bbefb7ac1881d45cea18d64b685b43"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-17T23:00:00",
+      "original_description": "Granowo ul. 1 Maja 1, 1/B, 1A, 1c, 2/c, 2a, 2d, 2E, 3, ul. Dworcowa 4, ul. Kolejowa 1, 1/A, 10, 11, 12, 13, 14, 15, 15/A, 16, 16 A, 16/A, 17, 18, 19, 1A, 2, 2/a, 20, 21, 22, 23, 24, 25, 26, 27, 3, 30, 32, 4, 5, 6, 7, 8, 9, DZ 333/2, ul. Poznańska 30, 30A, 34/c, 36, 38, 40, ul. Torowa 1, 11, 13, 3, 5, 7, 9.",
+      "id": "4e916a1fdeaecf0f9fa861e3c091a42d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-17T23:00:00",
+      "original_description": "Granowo ul. 1 Maja 1, 1/B, 1A, 1c, 2/c, 2a, 2d, 2E, 3, ul. Dworcowa 4, ul. Kolejowa 1, 1/A, 10, 11, 12, 13, 14, 15, 15/A, 16, 16 A, 16/A, 17, 18, 19, 1A, 2, 2/a, 20, 21, 22, 23, 24, 25, 26, 27, 3, 30, 32, 4, 5, 6, 7, 8, 9, DZ 333/2, ul. Poznańska 30, 30A, 34/c, 36, 38, 40, ul. Torowa 1, 11, 13, 3, 5, 7, 9.",
+      "id": "3972733104e59f1b822bcdf098c6a618"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Torowa, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3677062,
+      "lon": 16.9856806,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-17T23:00:00",
+      "original_description": "Granowo ul. 1 Maja 1, 1/B, 1A, 1c, 2/c, 2a, 2d, 2E, 3, ul. Dworcowa 4, ul. Kolejowa 1, 1/A, 10, 11, 12, 13, 14, 15, 15/A, 16, 16 A, 16/A, 17, 18, 19, 1A, 2, 2/a, 20, 21, 22, 23, 24, 25, 26, 27, 3, 30, 32, 4, 5, 6, 7, 8, 9, DZ 333/2, ul. Poznańska 30, 30A, 34/c, 36, 38, 40, ul. Torowa 1, 11, 13, 3, 5, 7, 9.",
+      "id": "dd506f2a1f41e9ccaf228552441f31e4"
     }
   ]
 }
