@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-19T21:06:04.476801+00:00",
+  "last_update": "2026-04-19T21:49:42.070371+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1280,6 +1280,106 @@
       "end_time": "2026-05-05T18:00:00",
       "original_description": "Poznań: ul. Gołęczewska, ul. Złotnicka 10, 12, ul. Koszalińska 40, 42, ul. Cerekwicka.",
       "id": "5b033405f8512ef9db5ed308825e3e11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cicha, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-710, Polska",
+      "lat": 52.4162002,
+      "lon": 16.9228386,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "3d39203105aefc072bdcfa6c1974a8ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "0d0e163156d81a5e9e843f2e0e8af670"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "f284aab7ff69390369f263ff51777528"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "c8d668e7b8a3be0f0127f58dbf59eaba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "133485b525c72b3efa2024d09d4b1252"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Radosna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4136213,
+      "lon": 16.8732563,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "4a31c753f308980612bb2bd615d3c175"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spacerowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.465908,
+      "lon": 16.7941901,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "090533f3339dbd961b741ad8b049e21c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "44bd79145f4f12be385a044206d644d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzelecka, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-871, Polska",
+      "lat": 52.3997091,
+      "lon": 16.9354244,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "d76518c4d8dfa3ae48e9f5349ba0359a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T02:00:00",
+      "original_description": "Pniewy ul. Cicha 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Lipowa 1, ul. Pogodna 1, 10, 11, 12, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 20, 22, 24/A, 25a, 26, 28, 30, 32, 34, 36, 38, 40, 42, 44, 46, 48, 48a, 48A, 50, ul. Promienista 1, ul. Radosna 1, 10, 11, 12, 13, 15, 17, 19, 2, 21, 23/A, 3, 4, 4/B, 5, 5A, 6, 7, 8, 9, ul. Słoneczna 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 4, 5, 6, 7, 8, 9, ul. Spacerowa 1, 11, 3, 5, 7, 9, ul. Spokojna 11, 12, 13, 14, 15, 16, 17, 19, 22, ul. Strzelecka 35.",
+      "id": "d169df526ec4d165ae7faa5fbeefa455"
     }
   ]
 }
