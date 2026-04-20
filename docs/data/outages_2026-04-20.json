@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-20T01:12:32.244438+00:00",
+  "last_update": "2026-04-20T04:31:26.950944+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1280,6 +1280,136 @@
       "end_time": "2026-05-05T18:00:00",
       "original_description": "Poznań: ul. Gołęczewska, ul. Złotnicka 10, 12, ul. Koszalińska 40, 42, ul. Cerekwicka.",
       "id": "5b033405f8512ef9db5ed308825e3e11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cyprysowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3662097,
+      "lon": 16.905338,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "2543163893e5ceec6db7431529bb3a2e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana III Sobieskiego, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3244972,
+      "lon": 16.87943,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "4332bd25c11e4cbdbdf276cad2e2232e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jałowcowa, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-472, Polska",
+      "lat": 52.3761932,
+      "lon": 16.9027945,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "d4860134b52db1d45b716b7cf8f56c48"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Wielkiego, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-860, Polska",
+      "lat": 52.4024458,
+      "lon": 16.9408893,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "cb8f2c480ece0c0e5ba4e27a2060bcff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "aa7c439f3f89bcd212310f4411cb8fb8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4537561,
+      "lon": 16.913691,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "4314330cfd3b80798d3aed14673fa4dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Leśne, Koziegłowy, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-028, Polska",
+      "lat": 52.4494557,
+      "lon": 16.9936491,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "c9f5b9681c00c742774f5e3ea3d1260c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Marysieńki, Piątkowo, Piątkowo Północ, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4622492,
+      "lon": 16.9023212,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "2e61049d73f0ae784e383dc5d7f1df5b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "985767871718f7c66c99d2fd2fb0f340"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "e067a88bfd791f6521a6a62fa0a8f5c9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "93a4efce39023838c077d5f1057b6aaa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wichrowa, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-449, Polska",
+      "lat": 52.4292928,
+      "lon": 16.8077263,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "2752efded8e346418c9960281f8c5f18"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętego Wojciecha, Gwiazdowo, gmina Kostrzyn, powiat poznański, województwo wielkopolskie, 62-025, Polska",
+      "lat": 52.4076704,
+      "lon": 17.2129737,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-20T08:30:00",
+      "original_description": "Czerwonak ul. Bolesława Chrobrego 17, 19, 21, 23, dz.20/13, ul. Jana III Sobieskiego 10, 12, 2, 6, 8, ul. Kazimierza Wielkiego 10, 12, 2, 4, 6, ul. Marysieńki 1, 10, 11, 12, 13, 14, 15, 16, 18, 2, 20, 3, 4, 5, 6, 7, 8, 9, dz.20/14, ul. Polna, ul. św. Wojciecha Dz. 30, Kicin ul. Cyprysowa 15, 21, 23, 25, 27, 29, 33, 35, 41, 43, 49, 51, ul. Jałowcowa 12, 18, 4, ul. Lawendowa 28, 29, 30, 34, 36, 38, 40, 42, ul. Szkolna 34, 38, 41, 43, 45, 47, 49, 51, 55, dz. 209/7, ul. Wichrowa 1, 10, 12, 16, 18, 2, 3, 5, 6, 7, dz.210/8, przy nr 12, Koziegłowy os. Osiedle Leśne 12 \"B\", 12 A, 12 B, 12 C, 12A, 12B, 12C, 14, 14 A, 14 C, 14 D, 14 E, 14A, 14C, 14D, 14E, 15 A, 15A, 18A, 4 F, 4 G, 4 H, 4G, 4H, ul. Poznańska 43.",
+      "id": "417db45d72d115edc3df30da0678db7c"
     }
   ]
 }
