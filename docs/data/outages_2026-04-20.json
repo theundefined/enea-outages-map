@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-20T23:01:06.631080+00:00",
+  "last_update": "2026-04-20T23:55:44.134271+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1740,6 +1740,96 @@
       "end_time": "2026-04-21T00:00:00",
       "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
       "id": "4074a67ad2e93d64dd3842d1f8fa7821"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleja drzew w Mielnie, Poznańska, Mielno, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.48907,
+      "lon": 17.07275,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "f49663fbd2caa79ded9ce6a5dfbad898"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bociania, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-621, Polska",
+      "lat": 52.4205149,
+      "lon": 16.8993876,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "0b123f49e94eb8da37c06d81aae1c402"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gęsia, Junikowo, Poznań, województwo wielkopolskie, 60-106, Polska",
+      "lat": 52.3823,
+      "lon": 16.8590922,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "999a58a7ac97504d7ae1e97f0e209178"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jastrzębia, Rataje, Poznań, województwo wielkopolskie, 61-397, Polska",
+      "lat": 52.3879735,
+      "lon": 16.9485954,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "48a8c7bee5b1f48115204d417718458b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orla, Rataje, Poznań, województwo wielkopolskie, 61-383, Polska",
+      "lat": 52.3828309,
+      "lon": 16.9474233,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "95eb6086270f550a9a13b30dfe75020e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sokoła, Osiedle Winiary, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "d1cffdfe0b8f200e9f61e1608903ea25"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sowia, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-139, Polska",
+      "lat": 52.3989433,
+      "lon": 16.9567029,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "739ff489edaf7531b23c72c39d4705f0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "studio.K Kalina Kowalewska, Bukowska, Ławica, Poznań, województwo wielkopolskie, 60-187, Polska",
+      "lat": 52.4130733,
+      "lon": 16.8278768,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "1343608e60fa84c06d673da1bb68b79f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łabędzia, Rataje, Poznań, województwo wielkopolskie, 61-393, Polska",
+      "lat": 52.3865105,
+      "lon": 16.9491718,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T03:30:00",
+      "original_description": "Piła ul. aleja Poznańska 198, 200, ul. Bociania 17, 19, 4, 6E, 7, 8, 9, ul. Gęsia 11, 17, 20, 4, 7, 9, ul. Jastrzębia 19A, 19AB, 19B, 1B, 26, 28C, 28D, 30, 36, 40, 44, 6, ul. Kalina 10, 10A, 10B, 10C, 10D, 11A, 11B, 11C, 11D, 12, 15, 16, 7A, 7B, 7C, 7D, 9, 9A, 9B, ul. Kolibrowa 1, 10, 3, 5, 6, 7, 8, 9, ul. Łabędzia 1, 13, 15, 17, 19, 23, 3, DZ. 381/9, ul. Orla 1, 10, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 20, 21, 22, 24, 25, 26, 27, 28, 3, 30, 31, 32, 33, 34, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 47B, 48, 49, 51, 53, 54, 56, 57, 58, 59, 6, 60, 61, 62, 63, 64, 64A, 65, 67, 68, 7, 70, 8, DROGA, KOŚCIÓŁ, ul. Sokola 10, 6, 8, ul. Sowia 2.",
+      "id": "945465ae61ec94a823a4e5d5069f331d"
     }
   ]
 }
