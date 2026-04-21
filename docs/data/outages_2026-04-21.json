@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-21T11:37:17.180579+00:00",
+  "last_update": "2026-04-21T12:44:32.656773+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1690,6 +1690,136 @@
       "end_time": "2026-05-14T14:00:00",
       "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
       "id": "91b5ea5526f1b7e0203017bc0be32a48"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "3bcc3bd31ff8a438103c9b35ba6ef133"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliana Niemcewicza, Ogrody, Poznań, województwo wielkopolskie, 60-573, Polska",
+      "lat": 52.4168202,
+      "lon": 16.8888038,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "ecef2013311ae8854fe13047fba37c39"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kościelskiego, Ogrody, Poznań, województwo wielkopolskie, 60-573, Polska",
+      "lat": 52.4175175,
+      "lon": 16.8891526,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "eb8c79bf7614511979547deaa94ae6ff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klemensa Janickiego, Jeżyce, Poznań, województwo wielkopolskie, 60-541, Polska",
+      "lat": 52.4188309,
+      "lon": 16.8964404,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "a6582caf803099b974b33fe5d69a73ef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marii Rodziewiczówny, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-545, Polska",
+      "lat": 52.4189802,
+      "lon": 16.8951202,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "d8ee64ff83e837dbccd0e3c5c65e9da1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Seganką, Jeżyce, Poznań, województwo wielkopolskie, 60-545, Polska",
+      "lat": 52.4183459,
+      "lon": 16.8944242,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "6c1875eedbc1eb2c21216fb4b0be8281"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Samuela Lindego, Ogrody, Poznań, województwo wielkopolskie, 60-573, Polska",
+      "lat": 52.4182674,
+      "lon": 16.889596,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "7c5dc83383add5329263112df427f909"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Żeromskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-545, Polska",
+      "lat": 52.4192108,
+      "lon": 16.8936243,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "c97aa51a6594829e7f8f33ba97c3760b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "1e4a2814beff3677e260a66f719fa5b0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wawrzyńca Engeströma, Ogrody, Poznań, województwo wielkopolskie, 60-577, Polska",
+      "lat": 52.415175,
+      "lon": 16.8879623,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "ab91d052a2971847dabd3322c0d87259"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wilkońskich, Ogrody, Poznań, województwo wielkopolskie, 60-543, Polska",
+      "lat": 52.4164386,
+      "lon": 16.8908257,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "d20317d2e5dd6fdddcc80b58f2fd6040"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zofii Nałkowskiej, Ogrody, Poznań, województwo wielkopolskie, 60-573, Polska",
+      "lat": 52.4178728,
+      "lon": 16.8882874,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "f216748409b397c82f0a8d5b4c660bf5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Św. Wawrzyńca, Świętego Wawrzyńca, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4186963,
+      "lon": 16.9029366,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-21T17:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 132, 134, 136, 137, 138, 139, 140, 140/142, 141, 143, 147, ul. Józefa Kościelskiego 11, 12, 13, 14, 16A, 8, 9, ul. Juliana Niemcewicza 10, 10/4, 12A, 14A, 16, 8, ul. Klemensa Janickiego 1, 12, 13, 14, 15, 16, 17, 18, 19, 19 M 1-2, 2, 20, 20 B, 20B, 21, 22, 22A, 23A, 23B, 23C, 23D, 23E, 23F, 24, 24 A, 24/28, 26, 28, 3, 3 kl.schod, 4, 6, 7, 8, 9, 9/11, ul. Marii Rodziewiczówny 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 26, 27-29, 27/29, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7, 8, 9, ul. Nad Seganką 1, 12, 14, 3, 4, 4A, 5, 6, 6A, 8, 9, ul. Samuela Lindego 11, 13, 17, 19A, 6, 9, 9 A, ul. Stefana Żeromskiego 13/15, 20, 20/3, 24, 26, 26A, 28, 3, 30, 30A, 32, ul. Szamotulska 100, ul. św. Wawrzyńca 15, 17, 19, 19 KL.SCH., 21, 22, 23, 25, 26, 26A, 26B, 28 B, 29, 29/1A, 3 A, 30, 32, 33, 34, 35, 36, 37, ul. Wawrzyńca Engeströma 16, 18, 20, 22, 24, 4, ul. Wilkońskich 1, 10, 3A, 6, 7, 8, ul. Zofii Nałkowskiej 11, 11A, 13, 17, 23, 25, 27, 29, 31, 33, 37, 41, 43, 45, 47, 49, 5, 51, 53, 7, 7A, 8, 9A.",
+      "id": "5556be970839169788ada490926d3c19"
     }
   ]
 }
