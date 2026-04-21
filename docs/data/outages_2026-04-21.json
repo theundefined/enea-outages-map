@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-21T08:59:26.560550+00:00",
+  "last_update": "2026-04-21T10:23:14.930684+00:00",
   "outages": [
     {
       "type": "planned",
@@ -770,6 +770,16 @@
       "end_time": "2026-04-28T14:00:00",
       "original_description": "Poznań: ul. Bronisza, ul. Rubież 45A, 49, 51A, ul. Naramowicka od 184 do 192 parzyste, od 221 do 229 nieparzyste, 231A.",
       "id": "3a4fa108a39df5a2e70ed2d6f969d007"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wagrowska, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-373, Polska",
+      "lat": 52.3786813,
+      "lon": 16.9446854,
+      "start_time": "2026-04-28T08:30:00",
+      "end_time": "2026-04-28T10:30:00",
+      "original_description": "Poznań: ul. Wagrowska 12B (garaż).",
+      "id": "0506e530830254d73a5f0326abeee2f9"
     },
     {
       "type": "planned",
