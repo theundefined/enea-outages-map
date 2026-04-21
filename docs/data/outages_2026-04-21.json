@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-21T07:07:16.411836+00:00",
+  "last_update": "2026-04-21T08:59:26.560550+00:00",
   "outages": [
     {
       "type": "planned",
@@ -723,6 +723,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Rzepińska, Junikowo, Poznań, województwo wielkopolskie, 60-176, Polska",
+      "lat": 52.387055,
+      "lon": 16.8388105,
+      "start_time": "2026-04-28T08:00:00",
+      "end_time": "2026-04-28T13:00:00",
+      "original_description": "Poznań: ul. Ścinawska od 2 do 38 parzyste, od 3 do 33 nieparzyste, ul. Rzepińska 4.",
+      "id": "7e7985c73680614be519c2449e871a9e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ścinawska, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3890366,
+      "lon": 16.8423071,
+      "start_time": "2026-04-28T08:00:00",
+      "end_time": "2026-04-28T13:00:00",
+      "original_description": "Poznań: ul. Ścinawska od 2 do 38 parzyste, od 3 do 33 nieparzyste, ul. Rzepińska 4.",
+      "id": "0c76106674f4559d99b1cab3f365d7fa"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bronisza, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
       "lat": 52.4545581,
       "lon": 16.9506409,
@@ -970,6 +990,36 @@
       "end_time": "2026-04-28T15:00:00",
       "original_description": "Gmina Duszniki miejscowość Grzebienisko ul. Lawendowa cała, ul. Polna cała, ul. Wierzbowa 2, 4, ul. Lipowa 23L, 23M, 23N, 25, 60,  ul. Poznańska 10, działki nr 258/21, 258/24, 258/25, 258/26, 314/1, 504, 505, miejscowość Ceradz Dolny działki nr 3/2,",
       "id": "cd953ef82b1f6fbe7beeb1a50b67183b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kresowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4674908,
+      "lon": 16.9524778,
+      "start_time": "2026-04-29T08:00:00",
+      "end_time": "2026-04-29T13:00:00",
+      "original_description": "Poznań: ul. Kresowa 8, ul. Urocza 23, ul. Naramowicka 266B-C.",
+      "id": "61e3b0aa98d6311ec63a34bd1c3c8d0c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-04-29T08:00:00",
+      "end_time": "2026-04-29T13:00:00",
+      "original_description": "Poznań: ul. Kresowa 8, ul. Urocza 23, ul. Naramowicka 266B-C.",
+      "id": "89e304ec6a25baa44332271ec5fa4840"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Urocza, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4663611,
+      "lon": 16.949835,
+      "start_time": "2026-04-29T08:00:00",
+      "end_time": "2026-04-29T13:00:00",
+      "original_description": "Poznań: ul. Kresowa 8, ul. Urocza 23, ul. Naramowicka 266B-C.",
+      "id": "a830d7a3aa9e95f203cebdcceaa58041"
     },
     {
       "type": "planned",
@@ -1393,6 +1443,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bohaterów Westerplatte, Świerczewo, Poznań, województwo wielkopolskie, 61-418, Polska",
+      "lat": 52.3707377,
+      "lon": 16.8809862,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Westerplatte od 1 do 19 nieparzyste, ul. Pszczyńska od 2 do 18 parzyste, od 3 do 17 nieparzyste, 37, 37A-I, ul. Leszczyńska 36, 36A, 38, 38A, 40, 52, 56, 56A, od 17 do 73 nieparzyste bez 69, ul. Obrzańska 4, 6, 8, ul. Krzywińska 15.",
+      "id": "526684371385d8e36c1ebfae440f2ace"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Grudzieniec, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
       "lat": 52.4194773,
       "lon": 16.9010792,
@@ -1403,6 +1463,66 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Głuchowska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.3700871,
+      "lon": 16.8711313,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Ostatnia od 31 do 51 nieparzyste, ul. Mikołowska 14, 14A, 16, ul. Głuchowska 3A, 5A, 5B, 7A, 9 A, 11A, 13A, 15A, 15B, 17A, 19A.",
+      "id": "7a2d41aa1cf1528e5a4a7c121d802daa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krzywińska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-112, Polska",
+      "lat": 52.3755744,
+      "lon": 16.8771863,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Westerplatte od 1 do 19 nieparzyste, ul. Pszczyńska od 2 do 18 parzyste, od 3 do 17 nieparzyste, 37, 37A-I, ul. Leszczyńska 36, 36A, 38, 38A, 40, 52, 56, 56A, od 17 do 73 nieparzyste bez 69, ul. Obrzańska 4, 6, 8, ul. Krzywińska 15.",
+      "id": "2a59a3fb64b94e2a0737bf5b7dc267e0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leszczyńska, Świerczewo, Poznań, województwo wielkopolskie, 61-411, Polska",
+      "lat": 52.3595932,
+      "lon": 16.8811028,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Westerplatte od 1 do 19 nieparzyste, ul. Pszczyńska od 2 do 18 parzyste, od 3 do 17 nieparzyste, 37, 37A-I, ul. Leszczyńska 36, 36A, 38, 38A, 40, 52, 56, 56A, od 17 do 73 nieparzyste bez 69, ul. Obrzańska 4, 6, 8, ul. Krzywińska 15.",
+      "id": "349219617d55da905c8db35242b686bb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mikołowska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.3707599,
+      "lon": 16.8730868,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Ostatnia od 31 do 51 nieparzyste, ul. Mikołowska 14, 14A, 16, ul. Głuchowska 3A, 5A, 5B, 7A, 9 A, 11A, 13A, 15A, 15B, 17A, 19A.",
+      "id": "7ddde688ee8e54c1e7005f00f409ef59"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Obrzańska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-112, Polska",
+      "lat": 52.3750697,
+      "lon": 16.8767333,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Westerplatte od 1 do 19 nieparzyste, ul. Pszczyńska od 2 do 18 parzyste, od 3 do 17 nieparzyste, 37, 37A-I, ul. Leszczyńska 36, 36A, 38, 38A, 40, 52, 56, 56A, od 17 do 73 nieparzyste bez 69, ul. Obrzańska 4, 6, 8, ul. Krzywińska 15.",
+      "id": "73c8314f87f73ab5816909082663ba1c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ostatnia, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3730918,
+      "lon": 16.8653648,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Ostatnia od 31 do 51 nieparzyste, ul. Mikołowska 14, 14A, 16, ul. Głuchowska 3A, 5A, 5B, 7A, 9 A, 11A, 13A, 15A, 15B, 17A, 19A.",
+      "id": "6ccd7c7c44911636f88726da06418b95"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poleska, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
       "lat": 52.4204726,
       "lon": 16.9009623,
@@ -1410,6 +1530,16 @@
       "end_time": "2026-05-05T11:30:00",
       "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
       "id": "e88dc91d0742af0a2fbdce5374f83f34"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pszczyńska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.3682468,
+      "lon": 16.8728447,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Westerplatte od 1 do 19 nieparzyste, ul. Pszczyńska od 2 do 18 parzyste, od 3 do 17 nieparzyste, 37, 37A-I, ul. Leszczyńska 36, 36A, 38, 38A, 40, 52, 56, 56A, od 17 do 73 nieparzyste bez 69, ul. Obrzańska 4, 6, 8, ul. Krzywińska 15.",
+      "id": "52228e21ba45f8679acb1865c48cf439"
     },
     {
       "type": "planned",
