@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-21T05:13:53.335997+00:00",
+  "last_update": "2026-04-21T07:07:16.411836+00:00",
   "outages": [
     {
       "type": "planned",
@@ -993,6 +993,66 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Jana Brzechwy, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4114708,
+      "lon": 16.8327805,
+      "start_time": "2026-04-29T08:30:00",
+      "end_time": "2026-04-29T15:30:00",
+      "original_description": "Poznań: ul. Witalisa od 26 do 36 parzyste, 43, 45, ul. Złotej Kaczki, ul. Maklakiewicza od 1 do 20, ul. Brzechwy dz. 41/18, ul. Grimma od 30 do 48 parzyste, ul. Złotowska 1.",
+      "id": "b138ac3520ba6ac2c65772f9ff9cdb8a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jana Maklakiewicza, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4117455,
+      "lon": 16.8341911,
+      "start_time": "2026-04-29T08:30:00",
+      "end_time": "2026-04-29T15:30:00",
+      "original_description": "Poznań: ul. Witalisa od 26 do 36 parzyste, 43, 45, ul. Złotej Kaczki, ul. Maklakiewicza od 1 do 20, ul. Brzechwy dz. 41/18, ul. Grimma od 30 do 48 parzyste, ul. Złotowska 1.",
+      "id": "d4efb1fc9893f33eecf28b5eb2b08b2b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lisa Witalisa, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4102458,
+      "lon": 16.8368644,
+      "start_time": "2026-04-29T08:30:00",
+      "end_time": "2026-04-29T15:30:00",
+      "original_description": "Poznań: ul. Witalisa od 26 do 36 parzyste, 43, 45, ul. Złotej Kaczki, ul. Maklakiewicza od 1 do 20, ul. Brzechwy dz. 41/18, ul. Grimma od 30 do 48 parzyste, ul. Złotowska 1.",
+      "id": "f89dfbf12bcd78f8ed6bed24708ad8b2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wilhelma Grimma, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4122618,
+      "lon": 16.8362386,
+      "start_time": "2026-04-29T08:30:00",
+      "end_time": "2026-04-29T15:30:00",
+      "original_description": "Poznań: ul. Witalisa od 26 do 36 parzyste, 43, 45, ul. Złotej Kaczki, ul. Maklakiewicza od 1 do 20, ul. Brzechwy dz. 41/18, ul. Grimma od 30 do 48 parzyste, ul. Złotowska 1.",
+      "id": "15c4550c1873f872016193947fb8d228"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Złotej Kaczki, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4109495,
+      "lon": 16.8348755,
+      "start_time": "2026-04-29T08:30:00",
+      "end_time": "2026-04-29T15:30:00",
+      "original_description": "Poznań: ul. Witalisa od 26 do 36 parzyste, 43, 45, ul. Złotej Kaczki, ul. Maklakiewicza od 1 do 20, ul. Brzechwy dz. 41/18, ul. Grimma od 30 do 48 parzyste, ul. Złotowska 1.",
+      "id": "3e0f6a7b1f3f8852ec509210619fada1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Złotowska, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4124762,
+      "lon": 16.8324672,
+      "start_time": "2026-04-29T08:30:00",
+      "end_time": "2026-04-29T15:30:00",
+      "original_description": "Poznań: ul. Witalisa od 26 do 36 parzyste, 43, 45, ul. Złotej Kaczki, ul. Maklakiewicza od 1 do 20, ul. Brzechwy dz. 41/18, ul. Grimma od 30 do 48 parzyste, ul. Złotowska 1.",
+      "id": "a7c35478895df9bf20b2577e88d827d5"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bobrownicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
       "lat": 52.3640907,
       "lon": 17.0356103,
@@ -1290,6 +1350,206 @@
       "end_time": "2026-05-05T18:00:00",
       "original_description": "Poznań: ul. Gołęczewska, ul. Złotnicka 10, 12, ul. Koszalińska 40, 42, ul. Cerekwicka.",
       "id": "5b033405f8512ef9db5ed308825e3e11"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Adama Kręglewskiego, Żegrze, Poznań, województwo wielkopolskie, 61-286, Polska",
+      "lat": 52.3772933,
+      "lon": 16.9782947,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T10:30:00",
+      "original_description": "Poznań: ul. Zwierzchowskiego 1, ul. Krzywoustego 68, ul. Kręglewskiego 1, 3, 9, 9A, dz. 1/57.",
+      "id": "c4dda8dff1b205277e234a9b7934f5be"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krzywoustego, Bolesława Krzywoustego, Żegrze, Poznań, województwo wielkopolskie, 61-292, Polska",
+      "lat": 52.3741688,
+      "lon": 16.9813419,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T10:30:00",
+      "original_description": "Poznań: ul. Zwierzchowskiego 1, ul. Krzywoustego 68, ul. Kręglewskiego 1, 3, 9, 9A, dz. 1/57.",
+      "id": "c76a019e97a447310054e84ca380d88d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stanisława Zwierzchowskiego, Żegrze, Poznań, województwo wielkopolskie, 61-248, Polska",
+      "lat": 52.3770108,
+      "lon": 16.9730163,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T10:30:00",
+      "original_description": "Poznań: ul. Zwierzchowskiego 1, ul. Krzywoustego 68, ul. Kręglewskiego 1, 3, 9, 9A, dz. 1/57.",
+      "id": "5aa714274c1e28d9d59d196472c50a81"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bociania, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-621, Polska",
+      "lat": 52.4205149,
+      "lon": 16.8993876,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "827cd3ede6ad0cb093eff6bbb97d8b59"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grudzieniec, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4194773,
+      "lon": 16.9010792,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "822b03657d6d567fd8b9e9075cd9fc95"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poleska, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4204726,
+      "lon": 16.9009623,
+      "start_time": "2026-05-05T08:30:00",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "e88dc91d0742af0a2fbdce5374f83f34"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gwarna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-703, Polska",
+      "lat": 52.407635,
+      "lon": 16.9212577,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "06b77152f31de71063f748ae6f4d62c6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kłosowa, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4367644,
+      "lon": 16.943193,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste, ul. Kłosowa, ul. Wiejska, ul. Uprawna.",
+      "id": "3879c615bff68db3b6c734a0ae860ba1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste, ul. Kłosowa, ul. Wiejska, ul. Uprawna.",
+      "id": "bc3da204144ed790f43124583cc91a32"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
+      "id": "685329db0f9c13fc7a5b73e7968a1cf4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "a99bc42ced979dd31061a939db3fe1b5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
+      "id": "8a1e8d57ca4b9722acf52ab1cd20000f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
+      "lat": 52.410741,
+      "lon": 16.983344,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "2eb7cc82a22fe8814770d0cc757468a8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Uprawna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.360224,
+      "lon": 17.0049701,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste, ul. Kłosowa, ul. Wiejska, ul. Uprawna.",
+      "id": "ebb37c6e2e795e31190a81d54e51ef75"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wiejska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4211828,
+      "lon": 16.9756718,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste, ul. Kłosowa, ul. Wiejska, ul. Uprawna.",
+      "id": "3e53bcebd44651a764830e001a475bc3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wiejska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4211828,
+      "lon": 16.9756718,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "cf5347990a2db82e1e82ece69923be63"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna od 1 do 7, ul. Wiejska od 2 do 10, dz. 311/3, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
+      "id": "66c267b1afa99fb4d77f335aeb62cf9a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
+      "id": "ab05d09a00ff26c4f2b7c2f09977732f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łanowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3814024,
+      "lon": 16.9138488,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste, ul. Kłosowa, ul. Wiejska, ul. Uprawna.",
+      "id": "8cde71236b93f6ad0056e8de53b9b180"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żniwna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4236767,
+      "lon": 16.9278324,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T14:00:00",
+      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
+      "id": "91b5ea5526f1b7e0203017bc0be32a48"
     }
   ]
 }
