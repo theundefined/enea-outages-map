@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-22T21:48:16.755299+00:00",
+  "last_update": "2026-04-22T22:34:23.291575+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2360,6 +2360,26 @@
       "end_time": "2026-04-22T16:00:00",
       "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
       "id": "a6b96354f8c26448d77d303f9fdff3b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Stróżyńskiego, Osiedle Stefana Batorego, Piątkowo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4648807,
+      "lon": 16.9182282,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-23T03:00:00",
+      "original_description": "Poznań os. Jana III Sobieskiego 102, 104, 106, 114, 115, 116, 117, 12, 12 A, 12 B, 12 C, 12 D, 12 F, 12 G, 12A, 12C, 14, 16, 16 A, 16 C, 16-17, 16G, 17, 17 B, 17 E, 20, 21, 21 C, 21 D, 21 E, 21 F, 21 G, 21 H, 21C, 21D, 21H, 22, 22 A, 22 G, 23, 24, 24 B, 24 E, 24C, 25, 25 A, 25 B, 25 E, 25 G, 25-32, 26, 26 C, 27, 27 E, 27F, PAW 104, paw.104, PAW.BL26, PRZY 24, ul. Franciszka Stróżyńskiego.",
+      "id": "9003be8f020c0fff9d532003c8cbae05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana III Sobieskiego, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3244972,
+      "lon": 16.87943,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-23T03:00:00",
+      "original_description": "Poznań os. Jana III Sobieskiego 102, 104, 106, 114, 115, 116, 117, 12, 12 A, 12 B, 12 C, 12 D, 12 F, 12 G, 12A, 12C, 14, 16, 16 A, 16 C, 16-17, 16G, 17, 17 B, 17 E, 20, 21, 21 C, 21 D, 21 E, 21 F, 21 G, 21 H, 21C, 21D, 21H, 22, 22 A, 22 G, 23, 24, 24 B, 24 E, 24C, 25, 25 A, 25 B, 25 E, 25 G, 25-32, 26, 26 C, 27, 27 E, 27F, PAW 104, paw.104, PAW.BL26, PRZY 24, ul. Franciszka Stróżyńskiego.",
+      "id": "a8d8f286214936de035d46b6529e2b99"
     }
   ]
 }
