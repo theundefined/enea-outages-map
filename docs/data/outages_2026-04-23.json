@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-23T09:24:29.919059+00:00",
+  "last_update": "2026-04-23T10:51:43.214893+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1593,6 +1593,56 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Chotomińska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3666981,
+      "lon": 16.9964692,
+      "start_time": "2026-05-08T08:30:00",
+      "end_time": "2026-05-08T12:30:00",
+      "original_description": "Poznań: ul. Łopawska, ul. Chotomińska 10, ul. Ostrowska od 331 do 379 nieparzyste, 379A, od 334 do 340 parzyste, od 346 do 362 parzyste, 376, 378, 380.",
+      "id": "ccf7aac9b73da7259aceaeeb66b50b61"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Okólna, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3659983,
+      "lon": 16.9895588,
+      "start_time": "2026-05-08T08:30:00",
+      "end_time": "2026-05-08T12:30:00",
+      "original_description": "Poznań: ul. Przeskok 10, ul. Okólna 38.",
+      "id": "a226d35758c07333ef2fec85b9b0503a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3662503,
+      "lon": 16.9949315,
+      "start_time": "2026-05-08T08:30:00",
+      "end_time": "2026-05-08T12:30:00",
+      "original_description": "Poznań: ul. Łopawska, ul. Chotomińska 10, ul. Ostrowska od 331 do 379 nieparzyste, 379A, od 334 do 340 parzyste, od 346 do 362 parzyste, 376, 378, 380.",
+      "id": "89cefbe8f79c3d0da5c25de6a8970bac"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przeskok, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3648714,
+      "lon": 16.9902253,
+      "start_time": "2026-05-08T08:30:00",
+      "end_time": "2026-05-08T12:30:00",
+      "original_description": "Poznań: ul. Przeskok 10, ul. Okólna 38.",
+      "id": "019efc036a5361c43fa026e8db3c5853"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łopawska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3690103,
+      "lon": 16.9952344,
+      "start_time": "2026-05-08T08:30:00",
+      "end_time": "2026-05-08T12:30:00",
+      "original_description": "Poznań: ul. Łopawska, ul. Chotomińska 10, ul. Ostrowska od 331 do 379 nieparzyste, 379A, od 334 do 340 parzyste, od 346 do 362 parzyste, 376, 378, 380.",
+      "id": "f21a09fb8364d0ea4324e10a37f64767"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Albańska, Górczyn, Poznań, województwo wielkopolskie, 60-123, Polska",
       "lat": 52.3836666,
       "lon": 16.8790572,
@@ -1840,6 +1890,16 @@
       "end_time": "2026-04-23T12:00:00",
       "original_description": "Poznań ul. Ćmielowska 8.",
       "id": "1cb4d247f90e13055f9abc6f4fddfcd2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "1, Plac Ludwika Waryńskiego, Ogrody, Poznań, województwo wielkopolskie, 60-579, Polska",
+      "lat": 52.4164805,
+      "lon": 16.8819505,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-23T14:30:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego 1.",
+      "id": "289f0abafc83106074dd2a47f22d764d"
     }
   ]
 }
