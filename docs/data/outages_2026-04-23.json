@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-23T07:51:16.420336+00:00",
+  "last_update": "2026-04-23T09:24:29.919059+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1830,6 +1830,16 @@
       "end_time": "2026-04-23T12:00:00",
       "original_description": "Poznań os. Przyjaźni 141, 141 B, 141B, PAW.141.",
       "id": "ea5643d2f2bbe0a775f264370fab3593"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ćmielowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-334, Polska",
+      "lat": 52.3437216,
+      "lon": 16.9292255,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-23T12:00:00",
+      "original_description": "Poznań ul. Ćmielowska 8.",
+      "id": "1cb4d247f90e13055f9abc6f4fddfcd2"
     }
   ]
 }
