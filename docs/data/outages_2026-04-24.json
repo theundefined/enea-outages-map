@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-24T17:33:00.255342+00:00",
+  "last_update": "2026-04-24T18:26:09.855882+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1710,6 +1710,36 @@
       "end_time": "2026-04-24T11:00:00",
       "original_description": "Poznań ul. Macieja Palacza 43.",
       "id": "65cc3554d50d61595325af85a65696eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-24T21:15:00",
+      "original_description": "Gądki ul. Leśna 4 B, 4A, 4C, 4D, 6, ul. Poznańska 60, 68, 80, ul. Towarowa 3.",
+      "id": "002d6d194a9233c4dca37ad3a8f1edba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-24T21:15:00",
+      "original_description": "Gądki ul. Leśna 4 B, 4A, 4C, 4D, 6, ul. Poznańska 60, 68, 80, ul. Towarowa 3.",
+      "id": "7281da91fcd3ab393031880d09169551"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Matyi, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.4017068,
+      "lon": 16.9206037,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-24T21:15:00",
+      "original_description": "Gądki ul. Leśna 4 B, 4A, 4C, 4D, 6, ul. Poznańska 60, 68, 80, ul. Towarowa 3.",
+      "id": "c30c170e86eae199af4ffbef5edabc9e"
     },
     {
       "type": "unplanned",
