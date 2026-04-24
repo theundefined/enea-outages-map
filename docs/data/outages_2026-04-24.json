@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-24T09:53:27.822955+00:00",
+  "last_update": "2026-04-24T11:04:01.975470+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1393,6 +1393,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-07T09:00:00",
+      "end_time": "2026-05-07T14:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Skórzewo ul. Poznańska 98, dzialki nr 292/21, market Netto, skup złomu,",
+      "id": "05826ec127f7b96745e177c178ebea10"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-873, Polska",
       "lat": 52.3997062,
       "lon": 16.9271468,
@@ -1430,6 +1440,26 @@
       "end_time": "2026-05-08T14:00:00",
       "original_description": "Gmina Duszniki miejscowość Sękowo ul. Szamotulska cała, ul. Lipowa cała (oprócz 5, 6B, 32, 32A), ul. Spokojna cała, ul. Orzechowa cała, ul. Leśna cała, ul. Fabryczna cała, ul. Poznańska 1, 1A, 3A, działki nr 18/7, 65/2, 65/3, 65/4, 304/1, 304/2, 321/20, 326, 353/1, 374, stacja paliw Orlen, stacja paliw Total, bar,  bramownice na DK92, Eurocash, Groczek, wulkanizacja, \nmiejscowość Wilczyna ul. Szamotulska od 9 do 16, ul ul. Osiedle Spółdzielców 10, działki  nr 18/2,  18/7, 18/9, 27/12, 27/14, 27/34,353/1,",
       "id": "a336a6293f1e54d8178b4d2b249a927d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "2026-05-08T08:30:00",
+      "end_time": "2026-05-08T11:30:00",
+      "original_description": "Gmina Stęszew miejscowość Strykowo ul. Kolejowa 3, 4, 5, 6, 8,  ul. Poznańska 47B, działki nr 141/28, 449/5, 449/8, dworzec kolejowy",
+      "id": "d3c3c808460ae22bc33de967c851a7af"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-08T08:30:00",
+      "end_time": "2026-05-08T11:30:00",
+      "original_description": "Gmina Stęszew miejscowość Strykowo ul. Kolejowa 3, 4, 5, 6, 8,  ul. Poznańska 47B, działki nr 141/28, 449/5, 449/8, dworzec kolejowy",
+      "id": "f4806f4f474eeb8405036b6b48557b30"
     },
     {
       "type": "planned",
