@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-24T05:56:24.499034+00:00",
+  "last_update": "2026-04-24T08:03:25.876946+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1293,6 +1293,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Jana III Sobieskiego, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3244972,
+      "lon": 16.87943,
+      "start_time": "2026-05-07T08:00:00",
+      "end_time": "2026-05-07T14:00:00",
+      "original_description": "Poznań os. Jana III Sobieskiego 109",
+      "id": "e727843fe6423ce981148f52879cea86"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Garaszewo, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-316, Polska",
       "lat": 52.3500473,
       "lon": 16.9661059,
@@ -1493,6 +1503,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Krzywoustego, Bolesława Krzywoustego, Żegrze, Poznań, województwo wielkopolskie, 61-292, Polska",
+      "lat": 52.3741688,
+      "lon": 16.9813419,
+      "start_time": "2026-05-11T08:30:00",
+      "end_time": "2026-05-11T11:30:00",
+      "original_description": "Poznań: ul. Przeskok bez 10, ul. Krzywoustego 30, 32, 34, ul. Okólna 22, 26, 28.",
+      "id": "20ad8d723ab3909f2362158f55750324"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Okólna, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3659983,
+      "lon": 16.9895588,
+      "start_time": "2026-05-11T08:30:00",
+      "end_time": "2026-05-11T11:30:00",
+      "original_description": "Poznań: ul. Przeskok bez 10, ul. Krzywoustego 30, 32, 34, ul. Okólna 22, 26, 28.",
+      "id": "6da6af48a6cfba78bb5783718f21fef8"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Żorska, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-344, Polska",
       "lat": 52.3536729,
       "lon": 16.9287771,
@@ -1640,6 +1670,16 @@
       "end_time": "2026-05-14T14:00:00",
       "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
       "id": "91b5ea5526f1b7e0203017bc0be32a48"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Macieja Palacza, Pogodno, Grunwald Południe, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3964455,
+      "lon": 16.8677181,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-24T11:00:00",
+      "original_description": "Poznań ul. Macieja Palacza 43.",
+      "id": "65cc3554d50d61595325af85a65696eb"
     }
   ]
 }
