@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-26T22:02:07.084942+00:00",
+  "last_update": "2026-04-26T22:55:33.905742+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1550,6 +1550,246 @@
       "end_time": "2026-04-27T00:30:00",
       "original_description": "Poznań ul. Haliny 10, 12, 14, 16, 16A, 3, 4, 5, 6, 6 A, 8, 8 A, 9, 9/1, 9A, ul. Ludmiły 35, 41, 43, 43A, 46, 47, 49, 51, 52, 53, 53A, 54, 56, 61, 62, 63, 64, 66, 67, 69, 72, 75, 76, 77, 79, 81, 83, ul. Wandy /Ludmiły, 9, ul. Zdzisławy 11.",
       "id": "b3a78403fe35be327928cd90f89656b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Baśniowa, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4109693,
+      "lon": 16.8412602,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "3e1a49e15f5ee241f484433865aacaa4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cysterek, Owińska, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-009, Polska",
+      "lat": 52.5114496,
+      "lon": 16.9719241,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "f7ac12358b8049edab32f65c9048fae3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "a25b5c86cf56149570a62ab621b69df2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dojazd, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-631, Polska",
+      "lat": 52.433952,
+      "lon": 16.8977348,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "5cf56be9827e86d88bbe20ad540da479"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dożynkowa, Osiedle Na Murawie, Stare Winogrady, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4251556,
+      "lon": 16.9239063,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "e93fdfb5722be20eaabe6814e5d4d5fb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hiacyntowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3790921,
+      "lon": 16.8059977,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "e29be2f99cf6d7d1683349160185b27c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Słowackiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-829, Polska",
+      "lat": 52.4095553,
+      "lon": 16.9127548,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "76f5a2ad451078fa298640be0ee29670"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "77f2e09bf756bff4c56f4cb754214d1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krokusowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3815547,
+      "lon": 16.8283168,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "b27ffec9f046a3cc698807d81eee7465"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "a5ab894cfc76dcb0f6cd1e86a645455f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Majowa, Przeźmierowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-081, Polska",
+      "lat": 52.4225159,
+      "lon": 16.78966,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "940ca9b5860c2690794d7402ff4735ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "c596438939d6880e8049976481ded9d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orzechowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-447, Polska",
+      "lat": 52.362929,
+      "lon": 16.9083908,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "53892d6ef64387723e752ce3e25b9b8c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "94a1079469bd8aec412a55e2f42444d2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sasankowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3872832,
+      "lon": 16.8123568,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "614b4beb1cebb611e141df57adc5bd4d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spichrzowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-581, Polska",
+      "lat": 52.4008563,
+      "lon": 16.9174724,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "0544661c81459f5f3b3e90856ee546bb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stawowa, Szczytniki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.2999892,
+      "lon": 17.0100781,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "f6ecdcb7cce9171d53b09e538c2df88e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stokrotkowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3827642,
+      "lon": 16.8263654,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "a2931ded19b86222e79ec9c1999b073d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szarotkowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3839374,
+      "lon": 16.8128112,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "2dcd8e379668207bdc38a2237978c065"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szuwarowa, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3665895,
+      "lon": 16.8559604,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "41d08642cea339a862e8f146089c8c1d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tatarakowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4853555,
+      "lon": 16.944299,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "92936b84e8960973157733a6f5d28c8d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zacisze, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "lat": 52.4129557,
+      "lon": 16.913383,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "8d29b263371b3fdbd289012ba70be4ec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zawilcowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3813356,
+      "lon": 16.815192,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "aa68e017e14c5dd00f88b2f390fb1cbd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T02:30:00",
+      "original_description": "Miękowo ul. Baśniowa, ul. Czereśniowa, ul. Dojazd, ul. Hiacyntowa, ul. Juliusza Słowackiego, ul. Kolejowa, ul. Krokusowa, ul. Leśna, ul. Łąkowa, ul. Majowa, ul. Ogrodowa, ul. Orzechowa, ul. Poznańska, ul. Sasankowa, ul. Stokrotkowa, ul. Szarotkowa, ul. Zacisze, ul. Zawilcowa, Annowo ul. Dożynkowa, ul. Spichrzowa, Owińska pl. Plac Przemysława, ul. Cysterek, ul. Kolejowa, ul. Poznańska, ul. Stawowa, ul. Szuwarowa, ul. Tatarakowa.",
+      "id": "23c30ac6522cdfc9c6df88bf5094d013"
     }
   ]
 }
