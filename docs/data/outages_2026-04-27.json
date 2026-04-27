@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-27T13:00:51.336727+00:00",
+  "last_update": "2026-04-27T15:16:15.805078+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1520,6 +1520,86 @@
       "end_time": "2026-05-14T14:00:00",
       "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
       "id": "91b5ea5526f1b7e0203017bc0be32a48"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Biesiadna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3489893,
+      "lon": 17.0208977,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T19:00:00",
+      "original_description": "Poznań ul. Biesiadna 10, 14, ul. Bocheńska 1, 10, 11, 12, 14, 15, 16, 18, 2, 2 D, 2 i, 22, 2A, 2B, 3, 4, 4 A, 4A, 4B, 4C, 4D, 6, 6 B, 6A, 6B, 6c, 6C, 6D, 8, 8 B, 8A, 8b, 9, ul. Brneńska 4C, ul. Chrzanowska 13, 13A, 15A, 15B, 15C, 15D, 15E, 15F, ul. Dobrepole 1, 10-12, 11, 12A, 12B, 12C, 13, 13 B, 13 D, 13 E, 13 G, 13A, 13C, 13F, 13J, 17, 2, 20, 22, 24, 24B, 24C, 24D, 24E, 4, 4A, 5, 5a, 6, 9, dz.4/99, ul. Przemyska 51 A, 53A, 54A, 55A, 56 C, dz. nr 2/3, dz. nr 2/8, ul. Sokalska 12, 22A, 24, 26, 26b, 26C, 28, 28 B, 28a, 35, 37, 39, 41, 43, 47, 51, 55, 57, dz.4/180, ul. Spławie 2c.",
+      "id": "dc32a59a5929775da1c6410421b12881"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bocheńska, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3484336,
+      "lon": 17.0187885,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T19:00:00",
+      "original_description": "Poznań ul. Biesiadna 10, 14, ul. Bocheńska 1, 10, 11, 12, 14, 15, 16, 18, 2, 2 D, 2 i, 22, 2A, 2B, 3, 4, 4 A, 4A, 4B, 4C, 4D, 6, 6 B, 6A, 6B, 6c, 6C, 6D, 8, 8 B, 8A, 8b, 9, ul. Brneńska 4C, ul. Chrzanowska 13, 13A, 15A, 15B, 15C, 15D, 15E, 15F, ul. Dobrepole 1, 10-12, 11, 12A, 12B, 12C, 13, 13 B, 13 D, 13 E, 13 G, 13A, 13C, 13F, 13J, 17, 2, 20, 22, 24, 24B, 24C, 24D, 24E, 4, 4A, 5, 5a, 6, 9, dz.4/99, ul. Przemyska 51 A, 53A, 54A, 55A, 56 C, dz. nr 2/3, dz. nr 2/8, ul. Sokalska 12, 22A, 24, 26, 26b, 26C, 28, 28 B, 28a, 35, 37, 39, 41, 43, 47, 51, 55, 57, dz.4/180, ul. Spławie 2c.",
+      "id": "30f3e52419812a8e519bd764bce053d9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brneńska, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-208, Polska",
+      "lat": 52.3935693,
+      "lon": 16.9605861,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T19:00:00",
+      "original_description": "Poznań ul. Biesiadna 10, 14, ul. Bocheńska 1, 10, 11, 12, 14, 15, 16, 18, 2, 2 D, 2 i, 22, 2A, 2B, 3, 4, 4 A, 4A, 4B, 4C, 4D, 6, 6 B, 6A, 6B, 6c, 6C, 6D, 8, 8 B, 8A, 8b, 9, ul. Brneńska 4C, ul. Chrzanowska 13, 13A, 15A, 15B, 15C, 15D, 15E, 15F, ul. Dobrepole 1, 10-12, 11, 12A, 12B, 12C, 13, 13 B, 13 D, 13 E, 13 G, 13A, 13C, 13F, 13J, 17, 2, 20, 22, 24, 24B, 24C, 24D, 24E, 4, 4A, 5, 5a, 6, 9, dz.4/99, ul. Przemyska 51 A, 53A, 54A, 55A, 56 C, dz. nr 2/3, dz. nr 2/8, ul. Sokalska 12, 22A, 24, 26, 26b, 26C, 28, 28 B, 28a, 35, 37, 39, 41, 43, 47, 51, 55, 57, dz.4/180, ul. Spławie 2c.",
+      "id": "f075fed1a4d47ba89e16634364c8939e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chrzanowska, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3500338,
+      "lon": 17.0221996,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T19:00:00",
+      "original_description": "Poznań ul. Biesiadna 10, 14, ul. Bocheńska 1, 10, 11, 12, 14, 15, 16, 18, 2, 2 D, 2 i, 22, 2A, 2B, 3, 4, 4 A, 4A, 4B, 4C, 4D, 6, 6 B, 6A, 6B, 6c, 6C, 6D, 8, 8 B, 8A, 8b, 9, ul. Brneńska 4C, ul. Chrzanowska 13, 13A, 15A, 15B, 15C, 15D, 15E, 15F, ul. Dobrepole 1, 10-12, 11, 12A, 12B, 12C, 13, 13 B, 13 D, 13 E, 13 G, 13A, 13C, 13F, 13J, 17, 2, 20, 22, 24, 24B, 24C, 24D, 24E, 4, 4A, 5, 5a, 6, 9, dz.4/99, ul. Przemyska 51 A, 53A, 54A, 55A, 56 C, dz. nr 2/3, dz. nr 2/8, ul. Sokalska 12, 22A, 24, 26, 26b, 26C, 28, 28 B, 28a, 35, 37, 39, 41, 43, 47, 51, 55, 57, dz.4/180, ul. Spławie 2c.",
+      "id": "7a1427192dc3d1af2d17e566a7cd266f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dobrepole, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.345898,
+      "lon": 17.0243916,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T19:00:00",
+      "original_description": "Poznań ul. Biesiadna 10, 14, ul. Bocheńska 1, 10, 11, 12, 14, 15, 16, 18, 2, 2 D, 2 i, 22, 2A, 2B, 3, 4, 4 A, 4A, 4B, 4C, 4D, 6, 6 B, 6A, 6B, 6c, 6C, 6D, 8, 8 B, 8A, 8b, 9, ul. Brneńska 4C, ul. Chrzanowska 13, 13A, 15A, 15B, 15C, 15D, 15E, 15F, ul. Dobrepole 1, 10-12, 11, 12A, 12B, 12C, 13, 13 B, 13 D, 13 E, 13 G, 13A, 13C, 13F, 13J, 17, 2, 20, 22, 24, 24B, 24C, 24D, 24E, 4, 4A, 5, 5a, 6, 9, dz.4/99, ul. Przemyska 51 A, 53A, 54A, 55A, 56 C, dz. nr 2/3, dz. nr 2/8, ul. Sokalska 12, 22A, 24, 26, 26b, 26C, 28, 28 B, 28a, 35, 37, 39, 41, 43, 47, 51, 55, 57, dz.4/180, ul. Spławie 2c.",
+      "id": "ce5a0424898a054f00a925bd837c3295"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przemyska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.341384,
+      "lon": 17.0147362,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T19:00:00",
+      "original_description": "Poznań ul. Biesiadna 10, 14, ul. Bocheńska 1, 10, 11, 12, 14, 15, 16, 18, 2, 2 D, 2 i, 22, 2A, 2B, 3, 4, 4 A, 4A, 4B, 4C, 4D, 6, 6 B, 6A, 6B, 6c, 6C, 6D, 8, 8 B, 8A, 8b, 9, ul. Brneńska 4C, ul. Chrzanowska 13, 13A, 15A, 15B, 15C, 15D, 15E, 15F, ul. Dobrepole 1, 10-12, 11, 12A, 12B, 12C, 13, 13 B, 13 D, 13 E, 13 G, 13A, 13C, 13F, 13J, 17, 2, 20, 22, 24, 24B, 24C, 24D, 24E, 4, 4A, 5, 5a, 6, 9, dz.4/99, ul. Przemyska 51 A, 53A, 54A, 55A, 56 C, dz. nr 2/3, dz. nr 2/8, ul. Sokalska 12, 22A, 24, 26, 26b, 26C, 28, 28 B, 28a, 35, 37, 39, 41, 43, 47, 51, 55, 57, dz.4/180, ul. Spławie 2c.",
+      "id": "ca9cfb12a644e14d4fa0c2cf48d2fe6d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sokalska, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3459274,
+      "lon": 17.0181975,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T19:00:00",
+      "original_description": "Poznań ul. Biesiadna 10, 14, ul. Bocheńska 1, 10, 11, 12, 14, 15, 16, 18, 2, 2 D, 2 i, 22, 2A, 2B, 3, 4, 4 A, 4A, 4B, 4C, 4D, 6, 6 B, 6A, 6B, 6c, 6C, 6D, 8, 8 B, 8A, 8b, 9, ul. Brneńska 4C, ul. Chrzanowska 13, 13A, 15A, 15B, 15C, 15D, 15E, 15F, ul. Dobrepole 1, 10-12, 11, 12A, 12B, 12C, 13, 13 B, 13 D, 13 E, 13 G, 13A, 13C, 13F, 13J, 17, 2, 20, 22, 24, 24B, 24C, 24D, 24E, 4, 4A, 5, 5a, 6, 9, dz.4/99, ul. Przemyska 51 A, 53A, 54A, 55A, 56 C, dz. nr 2/3, dz. nr 2/8, ul. Sokalska 12, 22A, 24, 26, 26b, 26C, 28, 28 B, 28a, 35, 37, 39, 41, 43, 47, 51, 55, 57, dz.4/180, ul. Spławie 2c.",
+      "id": "d76803d4dbc5a4bce98870a988cb86d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3511524,
+      "lon": 17.0242204,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-27T19:00:00",
+      "original_description": "Poznań ul. Biesiadna 10, 14, ul. Bocheńska 1, 10, 11, 12, 14, 15, 16, 18, 2, 2 D, 2 i, 22, 2A, 2B, 3, 4, 4 A, 4A, 4B, 4C, 4D, 6, 6 B, 6A, 6B, 6c, 6C, 6D, 8, 8 B, 8A, 8b, 9, ul. Brneńska 4C, ul. Chrzanowska 13, 13A, 15A, 15B, 15C, 15D, 15E, 15F, ul. Dobrepole 1, 10-12, 11, 12A, 12B, 12C, 13, 13 B, 13 D, 13 E, 13 G, 13A, 13C, 13F, 13J, 17, 2, 20, 22, 24, 24B, 24C, 24D, 24E, 4, 4A, 5, 5a, 6, 9, dz.4/99, ul. Przemyska 51 A, 53A, 54A, 55A, 56 C, dz. nr 2/3, dz. nr 2/8, ul. Sokalska 12, 22A, 24, 26, 26b, 26C, 28, 28 B, 28a, 35, 37, 39, 41, 43, 47, 51, 55, 57, dz.4/180, ul. Spławie 2c.",
+      "id": "f2267886479151c672164baa5d37b747"
     }
   ]
 }
