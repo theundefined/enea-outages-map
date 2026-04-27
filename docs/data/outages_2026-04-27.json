@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-27T04:42:10.239502+00:00",
+  "last_update": "2026-04-27T07:26:26.509346+00:00",
   "outages": [
     {
       "type": "planned",
@@ -800,6 +800,16 @@
       "end_time": "2026-05-04T12:30:00",
       "original_description": "Poznań: ul. Warszawska od 145 do 175 nieparzyste, ul. Mogileńska 22, 37.",
       "id": "c07c0a8b629178581279e88d1ab20f8c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Prusimska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-427, Polska",
+      "lat": 52.4299177,
+      "lon": 16.8341407,
+      "start_time": "2026-05-04T13:00:00",
+      "end_time": "2026-05-04T16:00:00",
+      "original_description": "Poznań: ul. Prusimska dz. 4/8 (stacja bazowa Orange).",
+      "id": "74c5a1ab22b4a6b662dab7c044d066f1"
     },
     {
       "type": "planned",
