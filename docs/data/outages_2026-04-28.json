@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-28T01:19:16.467925+00:00",
+  "last_update": "2026-04-28T04:46:52.382030+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1570,6 +1570,66 @@
       "end_time": "2026-04-28T04:30:00",
       "original_description": "Poznań ul. Bielicowa 2D, 2N, 4D, ul. Bolka 1, 8, 8A, 8B, 8B adm, 9, ul. Bronisza 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 20, 21, 22, 24, 27, 28, 28A, 5, 7, 9, ul. Jasna Rola 2, 30, 30 a, 4, 6, 6 A, 8, ul. Naramowicka /Boranta, 164, 164A, 166, 168, 168A, 168B, 170, 172, 176 A, 176 B, 176 C, 176 D, 176 D/20, 176 E, 176 Elok.3, 176A, 176C, 176D, 176D-LOK.3, 176E, 176E lok.7, 180 D, 182, 184 C, 184 E, 184B, 184D, 186, 186-LOK.1, 186-LOK.2, 186-LOK.3, 186-LOK.UŻ, 186A, 188  D, 188 A, 188 B, 188 C, 190, 197, 199, 201, 215, 215A, 221, 221A, 223, 225, 225A, 227, ul. Rubież 1, 11, 11A, 13, 15A, 17, 18, 2, 20, 23, 25, 25A, 27, 27 C, 27a, 27B, 29, 29 A, 29 B, 29B, 2A, 3, 31, 39, 39 A, 39 B, 39A, 41, 49, 51A, 9, 9A, 9B.",
       "id": "a204f251e38d16ec1e5a1b1354afdc35"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bielicowa, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
+      "lat": 52.4497441,
+      "lon": 16.9552754,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T09:00:00",
+      "original_description": "Poznań ul. Bielicowa 2D, 2N, 4D, ul. Bolka 1, 8, 8A, 8B, 8B adm, 9, ul. Bronisza 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 20, 21, 22, 24, 27, 28, 28A, 5, 7, 9, ul. Jasna Rola 2, 30, 30 a, 4, 6, 6 A, 8, ul. Naramowicka /Boranta, 164, 164A, 166, 168, 168A, 168B, 170, 172, 176 A, 176 B, 176 C, 176 D, 176 D/20, 176 E, 176 Elok.3, 176A, 176C, 176D, 176D-LOK.3, 176E, 176E lok.7, 180 D, 182, 184 C, 184 E, 184B, 184D, 186, 186-LOK.1, 186-LOK.2, 186-LOK.3, 186-LOK.UŻ, 186A, 188  D, 188 A, 188 B, 188 C, 190, 197, 199, 201, 215, 215A, 221, 221A, 223, 225, 225A, 227, ul. Rubież 1, 11, 11A, 13, 15A, 17, 18, 2, 20, 23, 25, 25A, 27, 27 C, 27a, 27B, 29, 29 A, 29 B, 29B, 2A, 3, 31, 39, 39 A, 39 B, 39A, 41, 49, 51A, 9, 9A, 9B.",
+      "id": "2bc327aa8e257e6d36b25d1b3ff1eba3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolka, Naramowice, Poznań, województwo wielkopolskie, 61-611, Polska",
+      "lat": 52.4529704,
+      "lon": 16.9469932,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T09:00:00",
+      "original_description": "Poznań ul. Bielicowa 2D, 2N, 4D, ul. Bolka 1, 8, 8A, 8B, 8B adm, 9, ul. Bronisza 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 20, 21, 22, 24, 27, 28, 28A, 5, 7, 9, ul. Jasna Rola 2, 30, 30 a, 4, 6, 6 A, 8, ul. Naramowicka /Boranta, 164, 164A, 166, 168, 168A, 168B, 170, 172, 176 A, 176 B, 176 C, 176 D, 176 D/20, 176 E, 176 Elok.3, 176A, 176C, 176D, 176D-LOK.3, 176E, 176E lok.7, 180 D, 182, 184 C, 184 E, 184B, 184D, 186, 186-LOK.1, 186-LOK.2, 186-LOK.3, 186-LOK.UŻ, 186A, 188  D, 188 A, 188 B, 188 C, 190, 197, 199, 201, 215, 215A, 221, 221A, 223, 225, 225A, 227, ul. Rubież 1, 11, 11A, 13, 15A, 17, 18, 2, 20, 23, 25, 25A, 27, 27 C, 27a, 27B, 29, 29 A, 29 B, 29B, 2A, 3, 31, 39, 39 A, 39 B, 39A, 41, 49, 51A, 9, 9A, 9B.",
+      "id": "4e776213865613ea52b960d66423f5cb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bronisza, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
+      "lat": 52.4545581,
+      "lon": 16.9506409,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T09:00:00",
+      "original_description": "Poznań ul. Bielicowa 2D, 2N, 4D, ul. Bolka 1, 8, 8A, 8B, 8B adm, 9, ul. Bronisza 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 20, 21, 22, 24, 27, 28, 28A, 5, 7, 9, ul. Jasna Rola 2, 30, 30 a, 4, 6, 6 A, 8, ul. Naramowicka /Boranta, 164, 164A, 166, 168, 168A, 168B, 170, 172, 176 A, 176 B, 176 C, 176 D, 176 D/20, 176 E, 176 Elok.3, 176A, 176C, 176D, 176D-LOK.3, 176E, 176E lok.7, 180 D, 182, 184 C, 184 E, 184B, 184D, 186, 186-LOK.1, 186-LOK.2, 186-LOK.3, 186-LOK.UŻ, 186A, 188  D, 188 A, 188 B, 188 C, 190, 197, 199, 201, 215, 215A, 221, 221A, 223, 225, 225A, 227, ul. Rubież 1, 11, 11A, 13, 15A, 17, 18, 2, 20, 23, 25, 25A, 27, 27 C, 27a, 27B, 29, 29 A, 29 B, 29B, 2A, 3, 31, 39, 39 A, 39 B, 39A, 41, 49, 51A, 9, 9A, 9B.",
+      "id": "533f27f1e44339f3623d86b07b1d542f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jasna Rola, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4542749,
+      "lon": 16.941773,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T09:00:00",
+      "original_description": "Poznań ul. Bielicowa 2D, 2N, 4D, ul. Bolka 1, 8, 8A, 8B, 8B adm, 9, ul. Bronisza 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 20, 21, 22, 24, 27, 28, 28A, 5, 7, 9, ul. Jasna Rola 2, 30, 30 a, 4, 6, 6 A, 8, ul. Naramowicka /Boranta, 164, 164A, 166, 168, 168A, 168B, 170, 172, 176 A, 176 B, 176 C, 176 D, 176 D/20, 176 E, 176 Elok.3, 176A, 176C, 176D, 176D-LOK.3, 176E, 176E lok.7, 180 D, 182, 184 C, 184 E, 184B, 184D, 186, 186-LOK.1, 186-LOK.2, 186-LOK.3, 186-LOK.UŻ, 186A, 188  D, 188 A, 188 B, 188 C, 190, 197, 199, 201, 215, 215A, 221, 221A, 223, 225, 225A, 227, ul. Rubież 1, 11, 11A, 13, 15A, 17, 18, 2, 20, 23, 25, 25A, 27, 27 C, 27a, 27B, 29, 29 A, 29 B, 29B, 2A, 3, 31, 39, 39 A, 39 B, 39A, 41, 49, 51A, 9, 9A, 9B.",
+      "id": "2d1db7a5de801e1ac9bc89a64a71383c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T09:00:00",
+      "original_description": "Poznań ul. Bielicowa 2D, 2N, 4D, ul. Bolka 1, 8, 8A, 8B, 8B adm, 9, ul. Bronisza 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 20, 21, 22, 24, 27, 28, 28A, 5, 7, 9, ul. Jasna Rola 2, 30, 30 a, 4, 6, 6 A, 8, ul. Naramowicka /Boranta, 164, 164A, 166, 168, 168A, 168B, 170, 172, 176 A, 176 B, 176 C, 176 D, 176 D/20, 176 E, 176 Elok.3, 176A, 176C, 176D, 176D-LOK.3, 176E, 176E lok.7, 180 D, 182, 184 C, 184 E, 184B, 184D, 186, 186-LOK.1, 186-LOK.2, 186-LOK.3, 186-LOK.UŻ, 186A, 188  D, 188 A, 188 B, 188 C, 190, 197, 199, 201, 215, 215A, 221, 221A, 223, 225, 225A, 227, ul. Rubież 1, 11, 11A, 13, 15A, 17, 18, 2, 20, 23, 25, 25A, 27, 27 C, 27a, 27B, 29, 29 A, 29 B, 29B, 2A, 3, 31, 39, 39 A, 39 B, 39A, 41, 49, 51A, 9, 9A, 9B.",
+      "id": "90e02f2fd8ca72a22c9f951e779be284"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rubież, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4492865,
+      "lon": 16.9505211,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T09:00:00",
+      "original_description": "Poznań ul. Bielicowa 2D, 2N, 4D, ul. Bolka 1, 8, 8A, 8B, 8B adm, 9, ul. Bronisza 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 20, 21, 22, 24, 27, 28, 28A, 5, 7, 9, ul. Jasna Rola 2, 30, 30 a, 4, 6, 6 A, 8, ul. Naramowicka /Boranta, 164, 164A, 166, 168, 168A, 168B, 170, 172, 176 A, 176 B, 176 C, 176 D, 176 D/20, 176 E, 176 Elok.3, 176A, 176C, 176D, 176D-LOK.3, 176E, 176E lok.7, 180 D, 182, 184 C, 184 E, 184B, 184D, 186, 186-LOK.1, 186-LOK.2, 186-LOK.3, 186-LOK.UŻ, 186A, 188  D, 188 A, 188 B, 188 C, 190, 197, 199, 201, 215, 215A, 221, 221A, 223, 225, 225A, 227, ul. Rubież 1, 11, 11A, 13, 15A, 17, 18, 2, 20, 23, 25, 25A, 27, 27 C, 27a, 27B, 29, 29 A, 29 B, 29B, 2A, 3, 31, 39, 39 A, 39 B, 39A, 41, 49, 51A, 9, 9A, 9B.",
+      "id": "fb048abba90ae92976c83eecfee37a53"
     }
   ]
 }
