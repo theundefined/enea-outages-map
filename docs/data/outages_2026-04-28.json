@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-28T07:20:13.350324+00:00",
+  "last_update": "2026-04-28T09:36:57.455039+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1570,6 +1570,56 @@
       "end_time": "2026-05-14T14:00:00",
       "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
       "id": "91b5ea5526f1b7e0203017bc0be32a48"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Biecka, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-471, Polska",
+      "lat": 52.4521157,
+      "lon": 16.8790503,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T12:30:00",
+      "original_description": "Poznań: ul. Kartuska od 1 do 33 nieparzyste, 47, 49, od 4 do 30 parzyste, ul. Zakopiańska 115, 117, ul. Biecka, ul. Polanicka, ul. Szczawnicka od 60 do 70 parzyste.",
+      "id": "fa28bcbc0724fe37b9d1026e95dfec2b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kartuska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-471, Polska",
+      "lat": 52.4504973,
+      "lon": 16.8790798,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T12:30:00",
+      "original_description": "Poznań: ul. Kartuska od 1 do 33 nieparzyste, 47, 49, od 4 do 30 parzyste, ul. Zakopiańska 115, 117, ul. Biecka, ul. Polanicka, ul. Szczawnicka od 60 do 70 parzyste.",
+      "id": "317a6363d567f880eb06b93e1e371d34"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Polanicka, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-471, Polska",
+      "lat": 52.4504154,
+      "lon": 16.8784228,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T12:30:00",
+      "original_description": "Poznań: ul. Kartuska od 1 do 33 nieparzyste, 47, 49, od 4 do 30 parzyste, ul. Zakopiańska 115, 117, ul. Biecka, ul. Polanicka, ul. Szczawnicka od 60 do 70 parzyste.",
+      "id": "e7fbecf5c451c1bf80d592615f427b54"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T12:30:00",
+      "original_description": "Poznań: ul. Kartuska od 1 do 33 nieparzyste, 47, 49, od 4 do 30 parzyste, ul. Zakopiańska 115, 117, ul. Biecka, ul. Polanicka, ul. Szczawnicka od 60 do 70 parzyste.",
+      "id": "fd9ea7b7e183780534466a8ea22d8ff9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zakopiańska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-479, Polska",
+      "lat": 52.4477978,
+      "lon": 16.8867114,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T12:30:00",
+      "original_description": "Poznań: ul. Kartuska od 1 do 33 nieparzyste, 47, 49, od 4 do 30 parzyste, ul. Zakopiańska 115, 117, ul. Biecka, ul. Polanicka, ul. Szczawnicka od 60 do 70 parzyste.",
+      "id": "1fa64c6cc1240ead5a943c9d7169c13c"
     },
     {
       "type": "unplanned",
