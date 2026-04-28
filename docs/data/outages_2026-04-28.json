@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-28T04:46:52.382030+00:00",
+  "last_update": "2026-04-28T07:20:13.350324+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1043,6 +1043,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Lubelska, Baraki, Krzesiny, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 60-604, Polska",
+      "lat": 52.3389159,
+      "lon": 16.9861553,
+      "start_time": "2026-05-06T08:30:00",
+      "end_time": "2026-05-06T10:00:00",
+      "original_description": "Poznań: ul. Krzesiny od 35 do 67 nieparzyste, od 46 do 62 parzyste, ul. Silniki 3, 5, dz. 40, ul. Lubelska od 9 do 17 nieparzyste, od 20 do 26 parzyste.",
+      "id": "f69f20b345d21d4e40c5c7877c4c79a0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznań Krzesiny, Skrzydlata, Baraki, Krzesiny, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-317, Polska",
+      "lat": 52.3416969,
+      "lon": 16.9755354,
+      "start_time": "2026-05-06T08:30:00",
+      "end_time": "2026-05-06T10:00:00",
+      "original_description": "Poznań: ul. Krzesiny od 35 do 67 nieparzyste, od 46 do 62 parzyste, ul. Silniki 3, 5, dz. 40, ul. Lubelska od 9 do 17 nieparzyste, od 20 do 26 parzyste.",
+      "id": "a5c4113b052838cef4fe664bc363c1dc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Silniki, Piotrowo, Głuszyna, Poznań, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.3117745,
+      "lon": 16.9767889,
+      "start_time": "2026-05-06T08:30:00",
+      "end_time": "2026-05-06T10:00:00",
+      "original_description": "Poznań: ul. Krzesiny od 35 do 67 nieparzyste, od 46 do 62 parzyste, ul. Silniki 3, 5, dz. 40, ul. Lubelska od 9 do 17 nieparzyste, od 20 do 26 parzyste.",
+      "id": "035c8127a24b14aa2c4d5530495d59af"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Cokół po pomniku Adama Mickiewicza, Święty Marcin, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-810, Polska",
       "lat": 52.4057491,
       "lon": 16.928792,
@@ -1373,6 +1403,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Górnicza, Górczyn, Poznań, województwo wielkopolskie, 60-107, Polska",
+      "lat": 52.3841136,
+      "lon": 16.8731753,
+      "start_time": "2026-05-12T08:30:00",
+      "end_time": "2026-05-12T14:30:00",
+      "original_description": "Poznań: ul. Górnicza od 2/63 do 2/65, od 2/79 do 2/99, 2/101, od 2/109 do /124, od 2/140 do 2/143, 2/163, 2/164, od 2/187 do 2/190, plac manewrowy, ul. Węglowa 22.",
+      "id": "f78e9593899426f173434576f03a8e53"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Węglowa, Górczyn, Poznań, województwo wielkopolskie, 60-121, Polska",
+      "lat": 52.3817633,
+      "lon": 16.87541,
+      "start_time": "2026-05-12T08:30:00",
+      "end_time": "2026-05-12T14:30:00",
+      "original_description": "Poznań: ul. Górnicza od 2/63 do 2/65, od 2/79 do 2/99, 2/101, od 2/109 do /124, od 2/140 do 2/143, 2/163, 2/164, od 2/187 do 2/190, plac manewrowy, ul. Węglowa 22.",
+      "id": "634817931e52d96da960f4cb09358ec9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Milczańska, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-350, Polska",
+      "lat": 52.3903549,
+      "lon": 16.9668053,
+      "start_time": "2026-05-12T09:00:00",
+      "end_time": "2026-05-12T12:00:00",
+      "original_description": "Poznań ul. Milczańska 6, 6A-C.",
+      "id": "b19963591c2d897f0220d24440133ae1"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Gwarna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-703, Polska",
       "lat": 52.407635,
       "lon": 16.9212577,
@@ -1630,6 +1690,46 @@
       "end_time": "2026-04-28T09:00:00",
       "original_description": "Poznań ul. Bielicowa 2D, 2N, 4D, ul. Bolka 1, 8, 8A, 8B, 8B adm, 9, ul. Bronisza 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 20, 21, 22, 24, 27, 28, 28A, 5, 7, 9, ul. Jasna Rola 2, 30, 30 a, 4, 6, 6 A, 8, ul. Naramowicka /Boranta, 164, 164A, 166, 168, 168A, 168B, 170, 172, 176 A, 176 B, 176 C, 176 D, 176 D/20, 176 E, 176 Elok.3, 176A, 176C, 176D, 176D-LOK.3, 176E, 176E lok.7, 180 D, 182, 184 C, 184 E, 184B, 184D, 186, 186-LOK.1, 186-LOK.2, 186-LOK.3, 186-LOK.UŻ, 186A, 188  D, 188 A, 188 B, 188 C, 190, 197, 199, 201, 215, 215A, 221, 221A, 223, 225, 225A, 227, ul. Rubież 1, 11, 11A, 13, 15A, 17, 18, 2, 20, 23, 25, 25A, 27, 27 C, 27a, 27B, 29, 29 A, 29 B, 29B, 2A, 3, 31, 39, 39 A, 39 B, 39A, 41, 49, 51A, 9, 9A, 9B.",
       "id": "fb048abba90ae92976c83eecfee37a53"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lęborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436224,
+      "lon": 16.8359188,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T11:00:00",
+      "original_description": "Poznań os. Orła Białego 39, ul. Lęborska 19, 20, 20A, 21a/23a, 22, 22A, 23, 24, 24 A, 25, 26, 26A, 27, 28, 29, 29 A, 30, 31, 31A, 31B, 32, 32A, 33, 33A, 34, 34A, 36, 37, 38, 38A, 39, 40, 41, 41 A, 41A, 42, 42 A, 43, 44, 45, 45A, ul. Maszewska 1, 11, 13, 1A, 3, 7, ul. Trzebiatowska 21, 22, 23, 25 A.",
+      "id": "adff71d9a34a0f9ffab9f9c9c4b7b36b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Maszewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.4371112,
+      "lon": 16.8363817,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T11:00:00",
+      "original_description": "Poznań os. Orła Białego 39, ul. Lęborska 19, 20, 20A, 21a/23a, 22, 22A, 23, 24, 24 A, 25, 26, 26A, 27, 28, 29, 29 A, 30, 31, 31A, 31B, 32, 32A, 33, 33A, 34, 34A, 36, 37, 38, 38A, 39, 40, 41, 41 A, 41A, 42, 42 A, 43, 44, 45, 45A, ul. Maszewska 1, 11, 13, 1A, 3, 7, ul. Trzebiatowska 21, 22, 23, 25 A.",
+      "id": "9432ea63d18f78e53ced40baac653776"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T11:00:00",
+      "original_description": "Poznań os. Orła Białego 39, ul. Lęborska 19, 20, 20A, 21a/23a, 22, 22A, 23, 24, 24 A, 25, 26, 26A, 27, 28, 29, 29 A, 30, 31, 31A, 31B, 32, 32A, 33, 33A, 34, 34A, 36, 37, 38, 38A, 39, 40, 41, 41 A, 41A, 42, 42 A, 43, 44, 45, 45A, ul. Maszewska 1, 11, 13, 1A, 3, 7, ul. Trzebiatowska 21, 22, 23, 25 A.",
+      "id": "bb04170d00910081fa0730b263879cbe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trzebiatowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
+      "lat": 52.436923,
+      "lon": 16.8355248,
+      "start_time": "Brak danych",
+      "end_time": "2026-04-28T11:00:00",
+      "original_description": "Poznań os. Orła Białego 39, ul. Lęborska 19, 20, 20A, 21a/23a, 22, 22A, 23, 24, 24 A, 25, 26, 26A, 27, 28, 29, 29 A, 30, 31, 31A, 31B, 32, 32A, 33, 33A, 34, 34A, 36, 37, 38, 38A, 39, 40, 41, 41 A, 41A, 42, 42 A, 43, 44, 45, 45A, ul. Maszewska 1, 11, 13, 1A, 3, 7, ul. Trzebiatowska 21, 22, 23, 25 A.",
+      "id": "bff84c474a7f49e3b760d2e044fd14ab"
     }
   ]
 }
