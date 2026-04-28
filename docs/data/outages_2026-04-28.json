@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-28T09:36:57.455039+00:00",
+  "last_update": "2026-04-28T11:24:23.564103+00:00",
   "outages": [
     {
       "type": "planned",
@@ -720,6 +720,26 @@
       "end_time": "2026-05-04T17:00:00",
       "original_description": "Gmina Suchy Las miejscowość Suchy Las ul. Polna  cała,  ul. Źródlana cała,  ul. Meteorytowa od 90 do 94 nr parzyste,  ul. Tarninowa 23, ul. Leśna 90, 92, 94,  ul. Mokra 3, 10B, 18, 4od 41 do 53 nr nieparzyste, ul. Ruczaj cała,  ul. Chmurna cała,  działki nr 905/10, 908/5, 1154/1, 1154/2, \n\nMiasto Poznań ul. Wietrzna 2, 3, 4, 5, 6,  ul. Chmurna cała",
       "id": "9d8efb67580ee5b8e519c3f41a14f374"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "2026-05-04T08:00:00",
+      "end_time": "2026-05-04T18:00:00",
+      "original_description": "Poznań: ul. Szamarzewskiego 58, 60, ul. Jackowskiego 47 (zasilanie rezerwowe).",
+      "id": "a60f082dc3fbf579396a00f0f1a86059"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rodzinny Ogród Działkowy im. Maksymiliana Jackowskiego, Wilda, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3759887,
+      "lon": 16.9149698,
+      "start_time": "2026-05-04T08:00:00",
+      "end_time": "2026-05-04T18:00:00",
+      "original_description": "Poznań: ul. Szamarzewskiego 58, 60, ul. Jackowskiego 47 (zasilanie rezerwowe).",
+      "id": "6b1bfc7161904ebea7b3a3a1b4289f70"
     },
     {
       "type": "planned",
