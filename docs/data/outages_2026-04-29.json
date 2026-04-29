@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-29T09:27:20.748059+00:00",
+  "last_update": "2026-04-29T11:15:21.364083+00:00",
   "outages": [
     {
       "type": "planned",
@@ -950,6 +950,16 @@
       "end_time": "2026-05-07T11:30:00",
       "original_description": "Poznań: ul. Pruszkowska, ul. Janowska, ul. Mielecka od 2 do 16 parzyste, od 1 do 17 nieparzyste,  ul. Nowotarska 1, 13, ul. Jarosławska od 2 do 10 parzyste, od 1 do 11 nieparzyste, ul. Garaszewo 35, ul. Krzesiny od 14 do 44 parzyste, 27, 29, 33, 45A, dz. 12.",
       "id": "5a41d2421d66a561a0f97252d3c7f696"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zbąszyńska, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-358, Polska",
+      "lat": 52.4058594,
+      "lon": 16.8856058,
+      "start_time": "2026-05-07T08:30:00",
+      "end_time": "2026-05-07T12:30:00",
+      "original_description": "Poznań ul. Zbąszyńska 18, 18A",
+      "id": "9c3a1a6cd7c12dd65644b005f149aa70"
     },
     {
       "type": "planned",
