@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-30T09:00:04.076580+00:00",
+  "last_update": "2026-04-30T11:00:32.354364+00:00",
   "outages": [
     {
       "type": "planned",
@@ -713,6 +713,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Osiedle Pod Lipami, Nowe Winogrady Południe, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4311717,
+      "lon": 16.9408841,
+      "start_time": "2026-05-07T08:00:00",
+      "end_time": "2026-05-07T15:00:00",
+      "original_description": "Poznań: os. Pod Lipami 9, 10, 11, 12A-C, 13A-G, 107, 108.",
+      "id": "4f97b2a5746ecc71f4c5893e80cde7d8"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Garaszewo, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-316, Polska",
       "lat": 52.3500473,
       "lon": 16.9661059,
@@ -820,6 +830,16 @@
       "end_time": "2026-05-07T14:00:00",
       "original_description": "Gmina Dopiewo miejscowość Skórzewo ul. Poznańska 98, dzialki nr 292/21, market Netto, skup złomu,",
       "id": "05826ec127f7b96745e177c178ebea10"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hop & go, Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-819, Polska",
+      "lat": 52.4057448,
+      "lon": 16.920986,
+      "start_time": "2026-05-08T08:00:00",
+      "end_time": "2026-05-08T10:00:00",
+      "original_description": "Poznań: ul. Taczaka 2, 3, 4, 5, 6, 7, 10.",
+      "id": "92c83235fe11e2bef78c7e8f98f4489c"
     },
     {
       "type": "planned",
