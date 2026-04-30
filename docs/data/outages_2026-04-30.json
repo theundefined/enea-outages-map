@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-04-30T06:34:40.523885+00:00",
+  "last_update": "2026-04-30T09:00:04.076580+00:00",
   "outages": [
     {
       "type": "planned",
@@ -50,6 +50,56 @@
       "end_time": "2026-04-30T10:00:00",
       "original_description": "Poznań: ul. Dereniowa 9, od 12 do 38 parzyste, od 37 do 43 nieparzyste, ul. Bobrownicka od 25 do 41 nieparzyste, od 34 do 44W parzyste, ul. Jeżynowa, ul. Mirabelkowa, ul. Truskawkowa.",
       "id": "2d48a19cfc9dd2dc567db9dcb75c34e8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bobrownicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3640907,
+      "lon": 17.0356103,
+      "start_time": "2026-04-30T08:00:00",
+      "end_time": "2026-04-30T12:00:00",
+      "original_description": "Poznań: ul. Dereniowa 9, od 12 do 38 parzyste, od 37 do 43 nieparzyste, ul. Bobrownicka od 25 do 41 nieparzyste, od 34 do 44W parzyste, ul. Jeżynowa, ul. Mirabelkowa, ul. Truskawkowa.",
+      "id": "76805b1c3bfd1580fd0280e54ccaafac"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dereniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3605579,
+      "lon": 17.0285227,
+      "start_time": "2026-04-30T08:00:00",
+      "end_time": "2026-04-30T12:00:00",
+      "original_description": "Poznań: ul. Dereniowa 9, od 12 do 38 parzyste, od 37 do 43 nieparzyste, ul. Bobrownicka od 25 do 41 nieparzyste, od 34 do 44W parzyste, ul. Jeżynowa, ul. Mirabelkowa, ul. Truskawkowa.",
+      "id": "04a9d1807857e0cbe80f27945ce6e885"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jeżynowa, Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3693677,
+      "lon": 17.0351542,
+      "start_time": "2026-04-30T08:00:00",
+      "end_time": "2026-04-30T12:00:00",
+      "original_description": "Poznań: ul. Dereniowa 9, od 12 do 38 parzyste, od 37 do 43 nieparzyste, ul. Bobrownicka od 25 do 41 nieparzyste, od 34 do 44W parzyste, ul. Jeżynowa, ul. Mirabelkowa, ul. Truskawkowa.",
+      "id": "d5d3c875ce09e1bf758777098b3b060c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mirabelkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3652411,
+      "lon": 17.039991,
+      "start_time": "2026-04-30T08:00:00",
+      "end_time": "2026-04-30T12:00:00",
+      "original_description": "Poznań: ul. Dereniowa 9, od 12 do 38 parzyste, od 37 do 43 nieparzyste, ul. Bobrownicka od 25 do 41 nieparzyste, od 34 do 44W parzyste, ul. Jeżynowa, ul. Mirabelkowa, ul. Truskawkowa.",
+      "id": "3f5c76d24ee8bd96a21546c86d9545bf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Truskawkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3651654,
+      "lon": 17.0335888,
+      "start_time": "2026-04-30T08:00:00",
+      "end_time": "2026-04-30T12:00:00",
+      "original_description": "Poznań: ul. Dereniowa 9, od 12 do 38 parzyste, od 37 do 43 nieparzyste, ul. Bobrownicka od 25 do 41 nieparzyste, od 34 do 44W parzyste, ul. Jeżynowa, ul. Mirabelkowa, ul. Truskawkowa.",
+      "id": "ab206bfbeffdb5d4d72884ffeeb87059"
     },
     {
       "type": "planned",
