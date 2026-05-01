@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-01T19:41:27.467099+00:00",
+  "last_update": "2026-05-01T20:35:35.808163+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1170,6 +1170,26 @@
       "end_time": "2026-05-19T11:30:00",
       "original_description": "Poznań: ul. Nałęczowska od 90 do 102 parzyste, 99/101, od 103 do 131 nieparzyste, ul. Białczańska 12, 15,  ul. Kartuska 53, 55, 64, 66, 68, 70, ul. Limanowska od 1 do 11 nieparzyste, ul. Strzeszyńska od 129 do 195 nieparzyste.",
       "id": "05e0a4a079583414f98876ef03402232"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T01:00:00",
+      "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
+      "id": "e514015ebc053030ef46167f541c9fcc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-847, Polska",
+      "lat": 52.4123168,
+      "lon": 16.9044958,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T01:00:00",
+      "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
+      "id": "3d6f5659fa03a2511f01e547784fa8bd"
     }
   ]
 }
