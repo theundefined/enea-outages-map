@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T14:15:23.386412+00:00",
+  "last_update": "2026-05-02T15:06:58.856073+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1570,6 +1570,136 @@
       "end_time": "2026-05-02T16:30:00",
       "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
       "id": "0748305541e72b1a5be0d46776fadafb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "b0bb41de51255a90924c4f1af65fc9cb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Prusa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-820, Polska",
+      "lat": 52.4120686,
+      "lon": 16.9052036,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "739fbe6f1779e3c6c5b7f0f0583c8826"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Floriana Stablewskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-213, Polska",
+      "lat": 52.3923486,
+      "lon": 16.8970404,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań os. Stare Żegrze, ul. Floriana Stablewskiego, ul. Józefa Łukaszewicza, ul. Klaudyny Potockiej, ul. Romana Dmowskiego.",
+      "id": "90066add650048a4c34839fdf4a51bb5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "a584a0a9a3ea36714b8f2aef7db1b6d1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Słowackiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-829, Polska",
+      "lat": 52.4095553,
+      "lon": 16.9127548,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "a913f671a3ff89ec5e54c0259d6123d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
+      "lat": 52.4108559,
+      "lon": 16.9030171,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "420c570dd3f4089b641789479431b9bc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Łukaszewicza, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3917149,
+      "lon": 16.9027271,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań os. Stare Żegrze, ul. Floriana Stablewskiego, ul. Józefa Łukaszewicza, ul. Klaudyny Potockiej, ul. Romana Dmowskiego.",
+      "id": "cb0469a9f1bed1cb0d42b5507d1a7d7d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klaudyny Potockiej, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-717, Polska",
+      "lat": 52.3893721,
+      "lon": 16.9032844,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań os. Stare Żegrze, ul. Floriana Stablewskiego, ul. Józefa Łukaszewicza, ul. Klaudyny Potockiej, ul. Romana Dmowskiego.",
+      "id": "867ceaa81de6d050c3f9e34603ef71b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Stare Żegrze, Żegrze, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3830688,
+      "lon": 16.9645951,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań os. Stare Żegrze, ul. Floriana Stablewskiego, ul. Józefa Łukaszewicza, ul. Klaudyny Potockiej, ul. Romana Dmowskiego.",
+      "id": "8bab482ea87caa6817b083f7ef4b07b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "85bfac5b9f4d5449f04a03240d3c5f35"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romana Dmowskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-729, Polska",
+      "lat": 52.3871157,
+      "lon": 16.896846,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań os. Stare Żegrze, ul. Floriana Stablewskiego, ul. Józefa Łukaszewicza, ul. Klaudyny Potockiej, ul. Romana Dmowskiego.",
+      "id": "aa4e201c278596cbe464cb783e50e5d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-847, Polska",
+      "lat": 52.4123168,
+      "lon": 16.9044958,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "92908dbf5577fb91d237631f47df3ee5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zwierzyniecka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-821, Polska",
+      "lat": 52.4080874,
+      "lon": 16.9117941,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T18:30:00",
+      "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
+      "id": "b667feed127c473d29f665da6ec210d1"
     }
   ]
 }
