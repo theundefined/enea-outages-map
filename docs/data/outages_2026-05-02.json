@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T20:22:48.531719+00:00",
+  "last_update": "2026-05-02T21:06:42.086186+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1890,6 +1890,36 @@
       "end_time": "2026-05-03T00:30:00",
       "original_description": "Poznań rynek Jeżycki, ul. Augustyna Szamarzewskiego, ul. Bolesława Prusa, ul. Jana Henryka Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Juliusza Słowackiego, ul. Piotra Wawrzyniaka, ul. Zwierzyniecka.",
       "id": "d63d9c24055f5312052055a2510fae8f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Floriana Stablewskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-213, Polska",
+      "lat": 52.3923486,
+      "lon": 16.8970404,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-03T01:00:00",
+      "original_description": "Poznań ul. Floriana Stablewskiego /GARAŻE.",
+      "id": "ec4ac0f8c9b13900aec8daf6f1cf1df6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-03T01:00:00",
+      "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
+      "id": "fcb894dc07ab381af622281634a9916b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-847, Polska",
+      "lat": 52.4123168,
+      "lon": 16.9044958,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-03T01:00:00",
+      "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
+      "id": "bbefce4feaaa8a0aaaf8611f23fe86ba"
     }
   ]
 }
