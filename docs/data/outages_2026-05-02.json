@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-02T10:12:47.169375+00:00",
+  "last_update": "2026-05-02T11:09:06.998074+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1400,6 +1400,16 @@
       "end_time": "2026-05-02T13:00:00",
       "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
       "id": "4a4d548be11ee30cc239f55e457692ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Floriana Stablewskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-213, Polska",
+      "lat": 52.3923486,
+      "lon": 16.8970404,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-02T14:30:00",
+      "original_description": "Poznań ul. Floriana Stablewskiego /GARAŻE.",
+      "id": "51e7e05529dbce116abfa3fe30aaa378"
     }
   ]
 }
