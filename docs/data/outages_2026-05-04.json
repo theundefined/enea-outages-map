@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-04T00:02:18.221680+00:00",
+  "last_update": "2026-05-04T04:03:57.257915+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1200,6 +1200,36 @@
       "end_time": "2026-05-04T03:00:00",
       "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
       "id": "74a4e5ef98f22bdea7959c7ae3fef996"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-04T06:00:00",
+      "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
+      "id": "30d85483d2a70236827f9f9d595ff45f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-847, Polska",
+      "lat": 52.4123168,
+      "lon": 16.9044958,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-04T06:00:00",
+      "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
+      "id": "f9e330311cd8cd6e408753cb5861937c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Floriana Stablewskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-213, Polska",
+      "lat": 52.3923486,
+      "lon": 16.8970404,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-04T07:30:00",
+      "original_description": "Poznań ul. Floriana Stablewskiego /GARAŻE.",
+      "id": "f97954dc2ccb7d4e8548a40b557f3d50"
     }
   ]
 }
