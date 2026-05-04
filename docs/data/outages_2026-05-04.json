@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-04T09:15:03.635144+00:00",
+  "last_update": "2026-05-04T11:18:53.291771+00:00",
   "outages": [
     {
       "type": "planned",
@@ -783,6 +783,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3756714,
+      "lon": 16.8649743,
+      "start_time": "2026-05-11T08:00:00",
+      "end_time": "2026-05-11T11:30:00",
+      "original_description": "miejscowość Niekursko ul. Poznańska 43, 44, ul. Boczna 5, 6, 7, 8, dz. 7094/5.",
+      "id": "6db8a2e66f53f6a7609d159b97f118bb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-11T08:00:00",
+      "end_time": "2026-05-11T11:30:00",
+      "original_description": "miejscowość Niekursko ul. Poznańska 43, 44, ul. Boczna 5, 6, 7, 8, dz. 7094/5.",
+      "id": "446422f905f772c7c42ff273c49444b5"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Krzywoustego, Bolesława Krzywoustego, Żegrze, Poznań, województwo wielkopolskie, 61-292, Polska",
       "lat": 52.3741688,
       "lon": 16.9813419,
@@ -823,6 +843,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Lubowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4386107,
+      "lon": 16.8307323,
+      "start_time": "2026-05-12T08:30:00",
+      "end_time": "2026-05-12T14:30:00",
+      "original_description": "Poznań: ul. Zagórzycka, ul. Polanowska 17, ul. Lubowska od 17 do 35 nieparzyste, od 28 do 46 parzyste, ul. Santocka od 33 do 49 nieparzyste, od 44 do 60 parzyste.",
+      "id": "2d6a506a8a43914c3901c22385e3659b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Polanowska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-454, Polska",
+      "lat": 52.4406929,
+      "lon": 16.8169403,
+      "start_time": "2026-05-12T08:30:00",
+      "end_time": "2026-05-12T14:30:00",
+      "original_description": "Poznań: ul. Zagórzycka, ul. Polanowska 17, ul. Lubowska od 17 do 35 nieparzyste, od 28 do 46 parzyste, ul. Santocka od 33 do 49 nieparzyste, od 44 do 60 parzyste.",
+      "id": "9f7b7b72bff1f4cb71083c716c93e426"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Santocka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4381887,
+      "lon": 16.8305414,
+      "start_time": "2026-05-12T08:30:00",
+      "end_time": "2026-05-12T14:30:00",
+      "original_description": "Poznań: ul. Zagórzycka, ul. Polanowska 17, ul. Lubowska od 17 do 35 nieparzyste, od 28 do 46 parzyste, ul. Santocka od 33 do 49 nieparzyste, od 44 do 60 parzyste.",
+      "id": "899785fec4acbe2378c74a4ab1399aa9"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Węglowa, Górczyn, Poznań, województwo wielkopolskie, 60-121, Polska",
       "lat": 52.3817633,
       "lon": 16.87541,
@@ -830,6 +880,16 @@
       "end_time": "2026-05-12T14:30:00",
       "original_description": "Poznań: ul. Górnicza od 2/63 do 2/65, od 2/79 do 2/99, 2/101, od 2/109 do /124, od 2/140 do 2/143, 2/163, 2/164, od 2/187 do 2/190, plac manewrowy, ul. Węglowa 22.",
       "id": "634817931e52d96da960f4cb09358ec9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zagórzycka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 61-431, Polska",
+      "lat": 52.4398563,
+      "lon": 16.8318643,
+      "start_time": "2026-05-12T08:30:00",
+      "end_time": "2026-05-12T14:30:00",
+      "original_description": "Poznań: ul. Zagórzycka, ul. Polanowska 17, ul. Lubowska od 17 do 35 nieparzyste, od 28 do 46 parzyste, ul. Santocka od 33 do 49 nieparzyste, od 44 do 60 parzyste.",
+      "id": "336bfec69e3e63cb47d354107347af57"
     },
     {
       "type": "planned",
@@ -1172,6 +1232,16 @@
       "id": "05e0a4a079583414f98876ef03402232"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Dymka, Arcybiskupa Walentego Dymka, Chartowo, Poznań, województwo wielkopolskie, 61-244, Polska",
+      "lat": 52.3940091,
+      "lon": 16.9902966,
+      "start_time": "2026-05-21T08:00:00",
+      "end_time": "2026-05-21T15:30:00",
+      "original_description": "Poznań: ul. Dymka 186, 188, 190, Pyrland Park Linowy.",
+      "id": "e5200d6670b3e6683bac24e840ed03f9"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Floriana Stablewskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-213, Polska",
       "lat": 52.3923486,
@@ -1250,6 +1320,16 @@
       "end_time": "2026-05-04T09:00:00",
       "original_description": "Poznań rynek Jeżycki 247, 3, kiosk 295, kiosk nr, KWIATY, ul. Jana Henryka Dąbrowskiego 53/55.",
       "id": "0c03c2a8b8e74f0fd2f5d45cc1c31898"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Teofila Mateckiego, Piątkowo, Piątkowo Północ, Poznań, województwo wielkopolskie, 60-689, Polska",
+      "lat": 52.4633883,
+      "lon": 16.8993438,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-04T15:30:00",
+      "original_description": "Poznań ul. Teofila Mateckiego 11, 16, 17, 19, 20, 20A, 21, 22, 22lok.122, 22lok.124, 23, 23 A, 23 B, 23 C, 23A, 23B, 23C, 24, 24 KL. 1, 24 KL. 2, 24 KL. 3, 24 KL. 4, 24 kl. A, 24KL.2, 4 A, 4 A lok.17, 4 A lok.21, 4 A lok.56, 4 B, 4 C, 4A, 4a/49, 4B, 4C.",
+      "id": "ec29b55552dfb21e07d48e9864c17bc3"
     }
   ]
 }
