@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-05T06:12:45.979402+00:00",
+  "last_update": "2026-05-05T08:29:14.691536+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1230,6 +1230,186 @@
       "end_time": "2026-05-21T15:30:00",
       "original_description": "Poznań: ul. Dymka 186, 188, 190, Pyrland Park Linowy.",
       "id": "e5200d6670b3e6683bac24e840ed03f9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "2026-05-21T08:00:00",
+      "end_time": "2026-05-21T16:30:00",
+      "original_description": "Poznań: ul. Połczyńska bez 20, ul. Darłowska od 3 do 12 parzyste, od 1 do 11 nieparzyste, od 15 do 25 nieparzyste, 25A, ul. Santocka od 3 do 11 nieparzyste, od 10 do 18 parzyste.",
+      "id": "801ab7295de0c93e9436754ce16b4c4e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Santocka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4381887,
+      "lon": 16.8305414,
+      "start_time": "2026-05-21T08:00:00",
+      "end_time": "2026-05-21T16:30:00",
+      "original_description": "Poznań: ul. Połczyńska bez 20, ul. Darłowska od 3 do 12 parzyste, od 1 do 11 nieparzyste, od 15 do 25 nieparzyste, 25A, ul. Santocka od 3 do 11 nieparzyste, od 10 do 18 parzyste.",
+      "id": "01df1b64e15e5360bf46a0fa6582731a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jarogniewa Drwęskiego, Podolany, Poznań, województwo wielkopolskie, 60-475, Polska",
+      "lat": 52.4541988,
+      "lon": 16.8970288,
+      "start_time": "2026-05-21T08:30:00",
+      "end_time": "2026-05-21T14:30:00",
+      "original_description": "Poznań: ul. Wojkowskich, ul. Rugego bez 2, ul. Drwęskiego 2A.",
+      "id": "c71e3f0c64d40256c789b5ec0ffff60f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Julii i Antoniego Wojkowskich, Podolany, Poznań, województwo wielkopolskie, 60-475, Polska",
+      "lat": 52.4547522,
+      "lon": 16.8959966,
+      "start_time": "2026-05-21T08:30:00",
+      "end_time": "2026-05-21T14:30:00",
+      "original_description": "Poznań: ul. Wojkowskich, ul. Rugego bez 2, ul. Drwęskiego 2A.",
+      "id": "7a4ad7794425143fb2df573d025c7a6e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Krzesinką, Krzesiny, Świątniczki, Krzesiny-Pokrzywno-Garaszewo, Poznań, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3341589,
+      "lon": 17.0072069,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "7fd2f00df1b9e0ad2b14f7b98f078d15"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowotarska, Baraki, Krzesiny, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-318, Polska",
+      "lat": 52.3408765,
+      "lon": 16.9803295,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "2c4630ed627b416d1174359a49d88764"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3662503,
+      "lon": 16.9949315,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "5af30fbfec50c4ad2c04c1f191003e55"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjaryszki, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3379086,
+      "lon": 17.0105463,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "198f32a6153f0cff6197dce7f1361e52"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Porzeczkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3628315,
+      "lon": 17.0293422,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "58ce20006fcfdb8c55ee0703348532d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Siewierska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.339267,
+      "lon": 17.0058274,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "abf20d40b84a02d9426c655b64987854"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tarnowska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3398714,
+      "lon": 17.0032928,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "59c7a3f9927bb792633013115102e49c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wagrowska, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-373, Polska",
+      "lat": 52.3786813,
+      "lon": 16.9446854,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "e40ef4cb304536546b93de4eb4027f4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zawiertowska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3409336,
+      "lon": 17.0108646,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "c2020a7158e46a79818cf8d218617c7d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świątniczki, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3391515,
+      "lon": 17.0094985,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:00:00",
+      "original_description": "Jaryszki, Czapury ul. Porzeczkowa 361A, Poznań ul. Nad Krzesinką 10, 11, 11A, 12, 14, 15, 16, 16 A, 17, 18, 18 A, 1A, 2, 20, 21, 23, 25, 27, 27A, 29, 3, 33, 35, 37, 3A, 4, 41, 5, 6, 6A, 7, 9, ul. Nowotarska 26, ul. Ostrowska 558, 562, 564, 565, 565B, 566, 567, 569, 570, 571, 572, 572A, 573, 575, 577, 578, 579, 580, 582, ul. Podjaryszki 1, 11, 13, 15, 15A, 15B, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 17, 17A, 17B, 17C, 17D, 17E, 17F, 17G, 17H, 17J, 17K, 17L, 2A, 3, 4, 5, 7, 7A, ul. Siewierska 10, 11, 12, 16, 17, 18, 18A, 19, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 3 C, 3A, 3b, 3B, 6, 7, ul. Świątniczki 10, 10A, 12, 14, 15, 15A, 16, 16 A, 17, 18, 18 A, 18 C, 18 D, 18a, 18b, 18B, 18C, 18E, 19, 2, 20, 22, 22A, 23, 24, 25, 26, 29-dz.18/6, 4, 5, 7, 8, 8A, 9, ul. Tarnowska 10 B, 10A, 10d, 14, 18, 20, ul. Wagrowska 12B, ul. Zawiertowska 12, 12 B, 12A-LOK.1, 2, 4 A, 4 DZ. 1/6, 7, 7A.",
+      "id": "92ece42e5e383940bc3ac40d49c0649e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Golęczewska, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4749592,
+      "lon": 16.8131041,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań ul. Golęczewska 11, 15, 17, 19, 20, 21, 25, 26, 27, 9, DZ. 5/23, ul. Koszalińska 40, 42, ul. Złotnicka 12, Poznań-Jeżyce.",
+      "id": "17e951a1c03f91fe1efdd6cfe91d3863"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeżyce, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.413479,
+      "lon": 16.9027931,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań ul. Golęczewska 11, 15, 17, 19, 20, 21, 25, 26, 27, 9, DZ. 5/23, ul. Koszalińska 40, 42, ul. Złotnicka 12, Poznań-Jeżyce.",
+      "id": "7118030778f37237c8287fd818b15c4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Koszalińska, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-626, Polska",
+      "lat": 52.4362166,
+      "lon": 16.8798349,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań ul. Golęczewska 11, 15, 17, 19, 20, 21, 25, 26, 27, 9, DZ. 5/23, ul. Koszalińska 40, 42, ul. Złotnicka 12, Poznań-Jeżyce.",
+      "id": "b89ec72e326798a5e9251a09a598b282"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Złotnicka, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4751378,
+      "lon": 16.8089872,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T11:30:00",
+      "original_description": "Poznań ul. Golęczewska 11, 15, 17, 19, 20, 21, 25, 26, 27, 9, DZ. 5/23, ul. Koszalińska 40, 42, ul. Złotnicka 12, Poznań-Jeżyce.",
+      "id": "2a99bee3ea3462994ed1d593693f4e2c"
     }
   ]
 }
