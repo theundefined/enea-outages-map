@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-05T11:43:43.889233+00:00",
+  "last_update": "2026-05-05T12:58:15.361878+00:00",
   "outages": [
     {
       "type": "planned",
@@ -853,6 +853,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Okólna, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3659983,
+      "lon": 16.9895588,
+      "start_time": "2026-05-13T08:00:00",
+      "end_time": "2026-05-13T12:30:00",
+      "original_description": "Poznań: ul. Okólna dz. 1/20 (przepompownia), ul. Pokrzywno 1, 3, 3A-F 5, 8B, ul. Pustkowska.",
+      "id": "148562ad7a1bc5eb5d9fc8a09a526490"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3639074,
+      "lon": 16.9836501,
+      "start_time": "2026-05-13T08:00:00",
+      "end_time": "2026-05-13T12:30:00",
+      "original_description": "Poznań: ul. Okólna dz. 1/20 (przepompownia), ul. Pokrzywno 1, 3, 3A-F 5, 8B, ul. Pustkowska.",
+      "id": "a50c5db4f7b2343baeb56faf609c4895"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pustkowska, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-022, Polska",
+      "lat": 52.3641473,
+      "lon": 16.9824521,
+      "start_time": "2026-05-13T08:00:00",
+      "end_time": "2026-05-13T12:30:00",
+      "original_description": "Poznań: ul. Okólna dz. 1/20 (przepompownia), ul. Pokrzywno 1, 3, 3A-F 5, 8B, ul. Pustkowska.",
+      "id": "1586d2f3209fc234be82627abaa19a52"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Gwarna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-703, Polska",
       "lat": 52.407635,
       "lon": 16.9212577,
@@ -1450,6 +1480,146 @@
       "end_time": "2026-05-05T11:30:00",
       "original_description": "Poznań ul. Golęczewska 11, 15, 17, 19, 20, 21, 25, 26, 27, 9, DZ. 5/23, ul. Koszalińska 40, 42, ul. Złotnicka 12, Poznań-Jeżyce.",
       "id": "2a99bee3ea3462994ed1d593693f4e2c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Logi, Górczyn, Poznań, województwo wielkopolskie, 60-134, Polska",
+      "lat": 52.3845197,
+      "lon": 16.8800227,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "f98e6d6cd94c3437d95f098ec39eb7ff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Albańska, Górczyn, Poznań, województwo wielkopolskie, 60-123, Polska",
+      "lat": 52.3836666,
+      "lon": 16.8790572,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "334f3bf2c4f0853cbfe0b31ffd5ebd2d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Kordeckiego, Górczyn, Poznań, województwo wielkopolskie, 60-144, Polska",
+      "lat": 52.3838429,
+      "lon": 16.8767942,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "23883055a79f36fe04406c975530dfb2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Częstochowska, Górczyn, Poznań, województwo wielkopolskie, 60-123, Polska",
+      "lat": 52.3838522,
+      "lon": 16.8805973,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "764c69a9daac67c3b8bab4471457dec4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Górnicza, Górczyn, Poznań, województwo wielkopolskie, 60-107, Polska",
+      "lat": 52.3841136,
+      "lon": 16.8731753,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "2a8d23e21a5e5a202aaba2e257f53e20"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "f8351c7f47c22ca5552016a8c19294f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Hallera, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-104, Polska",
+      "lat": 52.3782464,
+      "lon": 16.8715508,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "752f69a714d4d53bb79b991c7640dc00"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Macieja Palacza, Pogodno, Grunwald Południe, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3964455,
+      "lon": 16.8677181,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "59e5f2749b49975e850a22155262409d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrobramska, Górczyn, Poznań, województwo wielkopolskie, 60-122, Polska",
+      "lat": 52.3814983,
+      "lon": 16.8784708,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "e9ccfb128780d8a6e9cd38af11f90ee0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Ściegiennego, Górczyn, Poznań, województwo wielkopolskie, 60-131, Polska",
+      "lat": 52.3865808,
+      "lon": 16.8796294,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "e9fe1ddb6b3867097fba53cb74cf2fd0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4082663,
+      "lon": 16.9335199,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "9697dfb0b5de080bcf709b225e9946c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Raszyńska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-135, Polska",
+      "lat": 52.3877943,
+      "lon": 16.872936,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "1d204c6f4a71d4b2fe02af469ff1bf0a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rembertowska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 61-135, Polska",
+      "lat": 52.385887,
+      "lon": 16.8702147,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "21b8156fcc3ef0b6eb80c35f5d217037"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętogórska, Górczyn, Poznań, województwo wielkopolskie, 60-138, Polska",
+      "lat": 52.38469,
+      "lon": 16.8812619,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-05T17:00:00",
+      "original_description": "Poznań os. Polan 7, ul. Adama Logi 15, 17, 18, 18A, 19, 20, 20A, 21, 22, 23 A, 23A, 24, ul. Albańska /Logi, /SCIEGIE, 11, 12, 12A, 12B, 13, 14, 15, 16, 16A, 17, 18, 18 A, 18 B, 20, 20A, 22, 24, 26, 28, 30, 31, 31A, 33, 8, 9, ul. Augustyna Kordeckiego 16, 18, 20A, 21, 22, 22A, 23, 24, 24A, 25, 25a, 26, 26A, 28, 28A, 30A, 30B, 32, 34, 34A, 34B, 36, 36A, 38 A, ul. Częstochowska 1, 10, 11, 12, 13, 14A, 1A, 1B, 2, 2/A, 2A, 3A, 4, 5, 5/2, 6, 7, 7A, 8, 9, ul. Głogowska 214, 216, 218, 228/230, 232, 260, ul. Górnicza 15E, ul. Józefa Hallera 2-4, 5, ul. Macieja Palacza 91, ul. Ostrobramska 25, 25A, 25B, 27, 29, 31, 33, 34, 35, 37, 39, 41, 43, 45, 47, ul. Piotra Ściegiennego /ALBANSK, /ALBAŃSKA, 15, 17, 19, 21, 25, 27, 31, 35, CMENTARZ, KIOSK 5, KIOSK 6, ul. Raszyńska 33, 35, 37, 39, ul. Rembertowska 15 E, 15B, 15C, 15D, 15E, 19/adm.1, ul. Świętogórska 11, 11A, 5, 9.",
+      "id": "0cdf33b218c208bc6733bf1cc7030317"
     }
   ]
 }
