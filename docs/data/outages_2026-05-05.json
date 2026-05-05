@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-05T03:52:21.356344+00:00",
+  "last_update": "2026-05-05T06:12:45.979402+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1083,6 +1083,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bronisza, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
+      "lat": 52.4545581,
+      "lon": 16.9506409,
+      "start_time": "2026-05-18T08:00:00",
+      "end_time": "2026-05-18T14:00:00",
+      "original_description": "Poznań: ul. Bronisza, ul. Rubież 45A, 49, 51A, ul. Naramowicka od 184 do 192 parzyste, od 221 do 229 nieparzyste, 231A.",
+      "id": "70565fea4336f95322034f3852c2c015"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-05-18T08:00:00",
+      "end_time": "2026-05-18T14:00:00",
+      "original_description": "Poznań: ul. Bronisza, ul. Rubież 45A, 49, 51A, ul. Naramowicka od 184 do 192 parzyste, od 221 do 229 nieparzyste, 231A.",
+      "id": "740ef271d3046d72ea6ca323a2089a8a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rubież, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4492865,
+      "lon": 16.9505211,
+      "start_time": "2026-05-18T08:00:00",
+      "end_time": "2026-05-18T14:00:00",
+      "original_description": "Poznań: ul. Bronisza, ul. Rubież 45A, 49, 51A, ul. Naramowicka od 184 do 192 parzyste, od 221 do 229 nieparzyste, 231A.",
+      "id": "090e6a31a2532148189b26dd81b5465c"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Biecka, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-471, Polska",
       "lat": 52.4521157,
       "lon": 16.8790503,
@@ -1180,6 +1210,16 @@
       "end_time": "2026-05-19T11:30:00",
       "original_description": "Poznań: ul. Nałęczowska od 90 do 102 parzyste, 99/101, od 103 do 131 nieparzyste, ul. Białczańska 12, 15,  ul. Kartuska 53, 55, 64, 66, 68, 70, ul. Limanowska od 1 do 11 nieparzyste, ul. Strzeszyńska od 129 do 195 nieparzyste.",
       "id": "05e0a4a079583414f98876ef03402232"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pomnik Zwycięstwa, Taborowa, Grunwald Południe, Poznań, województwo wielkopolskie, 60-790, Polska",
+      "lat": 52.400468,
+      "lon": 16.8879088,
+      "start_time": "2026-05-19T08:30:00",
+      "end_time": "2026-05-19T14:30:00",
+      "original_description": "Poznań: os. Zwycięstwa 9, 9A-H, 14, 15, 116A.",
+      "id": "5adcf40a495d882c37eef0dbe6f604fa"
     },
     {
       "type": "planned",
