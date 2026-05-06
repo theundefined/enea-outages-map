@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-06T03:59:36.367158+00:00",
+  "last_update": "2026-05-06T06:38:28.584390+00:00",
   "outages": [
     {
       "type": "planned",
@@ -563,6 +563,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Józefa Poniatowskiego, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-031, Polska",
+      "lat": 52.3504019,
+      "lon": 16.8625207,
+      "start_time": "2026-05-13T09:00:00",
+      "end_time": "2026-05-13T12:00:00",
+      "original_description": "Mosina ul. Chodkiewicza, ul. Poniatowskiego, ul. Pożegowska, ul. Szosa Poznańska",
+      "id": "c3339a8998783c3be03b2b36c273c9cf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pożegowska, Osowa Góra, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2537511,
+      "lon": 16.8304009,
+      "start_time": "2026-05-13T09:00:00",
+      "end_time": "2026-05-13T12:00:00",
+      "original_description": "Mosina ul. Chodkiewicza, ul. Poniatowskiego, ul. Pożegowska, ul. Szosa Poznańska",
+      "id": "0f7fd73e258011b32c7a404b69c913e9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szosa Poznańska, Pożegowo, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2506863,
+      "lon": 16.8504597,
+      "start_time": "2026-05-13T09:00:00",
+      "end_time": "2026-05-13T12:00:00",
+      "original_description": "Mosina ul. Chodkiewicza, ul. Poniatowskiego, ul. Pożegowska, ul. Szosa Poznańska",
+      "id": "4ec5d30aaebbb5d304608030ff4dd0cb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wzgórze Chodkiewicza, Biedrusko, gmina Suchy Las, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.5733247,
+      "lon": 16.9007607,
+      "start_time": "2026-05-13T09:00:00",
+      "end_time": "2026-05-13T12:00:00",
+      "original_description": "Mosina ul. Chodkiewicza, ul. Poniatowskiego, ul. Pożegowska, ul. Szosa Poznańska",
+      "id": "082919b5e9fe14356af75d2f9dcd4a5a"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Gwarna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-703, Polska",
       "lat": 52.407635,
       "lon": 16.9212577,
@@ -793,6 +833,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-16T08:30:00",
+      "end_time": "2026-05-16T12:00:00",
+      "original_description": "Bagatelka,\nMiłosław ul. Poznańska 35, 36,",
+      "id": "7fda7f792a4ad0a81b7ad5cab06f0dbe"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bronisza, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
       "lat": 52.4545581,
       "lon": 16.9506409,
@@ -870,6 +920,76 @@
       "end_time": "2026-05-18T12:30:00",
       "original_description": "Poznań: ul. Kartuska od 1 do 33 nieparzyste, 47, 49, od 4 do 30 parzyste, ul. Zakopiańska 115, 117, ul. Biecka, ul. Polanicka, ul. Szczawnicka od 60 do 70 parzyste.",
       "id": "1fa64c6cc1240ead5a943c9d7169c13c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.49832,
+      "lon": 16.946504,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T14:30:00",
+      "original_description": "Poznań: ul. Radojewo dz. 31/1, dz. 31/2.",
+      "id": "b83f0773fd0649a5e48469c87fc6a004"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bożydara, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4601977,
+      "lon": 16.9546047,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T18:00:00",
+      "original_description": "Poznań: ul. Bożydara 1, ul. Naramowicka 234, 234A, 238, 240, ul. Daktylowa, ul. Szczawiowa, ul. Koprowa od 2 do 32, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste.",
+      "id": "235c970b59dfab3584d97dfde959b9ea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Daktylowa, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.46221,
+      "lon": 16.9536956,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T18:00:00",
+      "original_description": "Poznań: ul. Bożydara 1, ul. Naramowicka 234, 234A, 238, 240, ul. Daktylowa, ul. Szczawiowa, ul. Koprowa od 2 do 32, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste.",
+      "id": "643ebea0ee3ef016932b6b5f45128976"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Koprowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4638547,
+      "lon": 16.94724,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T18:00:00",
+      "original_description": "Poznań: ul. Bożydara 1, ul. Naramowicka 234, 234A, 238, 240, ul. Daktylowa, ul. Szczawiowa, ul. Koprowa od 2 do 32, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste.",
+      "id": "6edfb95fb21ee04f359c598dbc3057e6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maków Polnych, Umultowo, Poznań, województwo wielkopolskie, 61-607, Polska",
+      "lat": 52.4634005,
+      "lon": 16.9455861,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T18:00:00",
+      "original_description": "Poznań: ul. Bożydara 1, ul. Naramowicka 234, 234A, 238, 240, ul. Daktylowa, ul. Szczawiowa, ul. Koprowa od 2 do 32, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste.",
+      "id": "601c402ddd1ad048a2796dd9e01d40c1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T18:00:00",
+      "original_description": "Poznań: ul. Bożydara 1, ul. Naramowicka 234, 234A, 238, 240, ul. Daktylowa, ul. Szczawiowa, ul. Koprowa od 2 do 32, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste.",
+      "id": "3e6b04e2db4f1db71733ae03d20db51c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczawiowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4639805,
+      "lon": 16.9463452,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T18:00:00",
+      "original_description": "Poznań: ul. Bożydara 1, ul. Naramowicka 234, 234A, 238, 240, ul. Daktylowa, ul. Szczawiowa, ul. Koprowa od 2 do 32, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste.",
+      "id": "209c14d49274111823eb580644bd85aa"
     },
     {
       "type": "planned",
