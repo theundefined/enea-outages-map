@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-06T06:38:28.584390+00:00",
+  "last_update": "2026-05-06T09:06:23.342030+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1160,6 +1160,16 @@
       "end_time": "2026-05-06T07:30:00",
       "original_description": "Poznań ul. Malwowa 7A.",
       "id": "21f4018dce9621edd56d4c9cc76b7719"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-06T10:30:00",
+      "original_description": "Poznań ul. Malwowa 7A.",
+      "id": "342c3ac464a39e263bc70eb9b5927893"
     }
   ]
 }
