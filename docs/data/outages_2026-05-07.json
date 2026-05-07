@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-07T07:32:56.559385+00:00",
+  "last_update": "2026-05-07T10:04:10.815709+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,36 @@
       "end_time": "2026-05-21T14:30:00",
       "original_description": "Poznań: ul. Wojkowskich, ul. Rugego bez 2, ul. Drwęskiego 2A.",
       "id": "7a4ad7794425143fb2df573d025c7a6e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Napoleońska, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 61-671, Polska",
+      "lat": 52.4319932,
+      "lon": 16.9159784,
+      "start_time": "2026-05-25T08:30:00",
+      "end_time": "2026-05-25T12:30:00",
+      "original_description": "Poznań: ul. Napoleońska, ul. Wyłom od 2 do 18 parzyste, ul. Piątkowska 131, 133, 124, 124A.",
+      "id": "26cea49419433126cca93c9e3407239c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-05-25T08:30:00",
+      "end_time": "2026-05-25T12:30:00",
+      "original_description": "Poznań: ul. Napoleońska, ul. Wyłom od 2 do 18 parzyste, ul. Piątkowska 131, 133, 124, 124A.",
+      "id": "dd1410cdb3d24536f0e01d32d8c57194"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wyłom, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 61-656, Polska",
+      "lat": 52.4331109,
+      "lon": 16.916123,
+      "start_time": "2026-05-25T08:30:00",
+      "end_time": "2026-05-25T12:30:00",
+      "original_description": "Poznań: ul. Napoleońska, ul. Wyłom od 2 do 18 parzyste, ul. Piątkowska 131, 133, 124, 124A.",
+      "id": "3045906e472d5434dc38f8880590a5b8"
     },
     {
       "type": "planned",
