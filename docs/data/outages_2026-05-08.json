@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-08T10:21:45.916447+00:00",
+  "last_update": "2026-05-08T11:52:33.301232+00:00",
   "outages": [
     {
       "type": "planned",
@@ -700,6 +700,36 @@
       "end_time": "2026-05-16T12:00:00",
       "original_description": "Bagatelka,\nMiłosław ul. Poznańska 35, 36,",
       "id": "7fda7f792a4ad0a81b7ad5cab06f0dbe"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-05-18T08:00:00",
+      "end_time": "2026-05-18T12:00:00",
+      "original_description": "Miasto Stęszew ul. Wojska Polskiego od 3 do 33, ul. Chmielniki cała, ul. Poznańska 22A,  działki nr 850, 852/4, 1809, ul. Dąbrowskiego 11, ul. Poznańska 17, dom kultury, hala widowiskowo-sportowa, sygnalizacja świetlna DW311, Szkoła Podstawowa Specjalna, oczyszczalnia ścieków, stacja gazowa,",
+      "id": "b5fc10d390a8ce09826c5f0e50820968"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-18T08:00:00",
+      "end_time": "2026-05-18T12:00:00",
+      "original_description": "Miasto Stęszew ul. Wojska Polskiego od 3 do 33, ul. Chmielniki cała, ul. Poznańska 22A,  działki nr 850, 852/4, 1809, ul. Dąbrowskiego 11, ul. Poznańska 17, dom kultury, hala widowiskowo-sportowa, sygnalizacja świetlna DW311, Szkoła Podstawowa Specjalna, oczyszczalnia ścieków, stacja gazowa,",
+      "id": "4619e91c6f6f3b6f93be774b9fe7627e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wojska Polskiego, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-660, Polska",
+      "lat": 52.4295634,
+      "lon": 16.8937649,
+      "start_time": "2026-05-18T08:00:00",
+      "end_time": "2026-05-18T12:00:00",
+      "original_description": "Miasto Stęszew ul. Wojska Polskiego od 3 do 33, ul. Chmielniki cała, ul. Poznańska 22A,  działki nr 850, 852/4, 1809, ul. Dąbrowskiego 11, ul. Poznańska 17, dom kultury, hala widowiskowo-sportowa, sygnalizacja świetlna DW311, Szkoła Podstawowa Specjalna, oczyszczalnia ścieków, stacja gazowa,",
+      "id": "6dcbe559975ec5bd8ac00c28d195d4b9"
     },
     {
       "type": "planned",
