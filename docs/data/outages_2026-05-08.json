@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-08T08:54:48.766473+00:00",
+  "last_update": "2026-05-08T10:21:45.916447+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1260,6 +1260,16 @@
       "end_time": "2026-05-08T09:30:00",
       "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
       "id": "4d032d3af57192ac501a77f3b06bb96c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T14:30:00",
+      "original_description": "Poznań ul. Kajakowa 7.",
+      "id": "ad181c2784c9eaf0f3f8b2f9bb31654e"
     }
   ]
 }
