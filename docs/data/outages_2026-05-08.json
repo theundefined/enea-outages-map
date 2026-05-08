@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-08T13:42:25.088293+00:00",
+  "last_update": "2026-05-08T15:10:20.625146+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1300,6 +1300,266 @@
       "end_time": "2026-05-08T14:30:00",
       "original_description": "Poznań ul. Kajakowa 7.",
       "id": "ad181c2784c9eaf0f3f8b2f9bb31654e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "7ca71782130c1384209fb4050f8b643e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Daliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3899001,
+      "lon": 16.8101651,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "fe2cf04bfc2d15a851562e4ae4b31e94"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3680885,
+      "lon": 16.9128704,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "464739e93a729ead30cec9779d0d4684"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "f5221e9e85f937e57dd4e05124a57ee9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grzybowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-472, Polska",
+      "lat": 52.3738192,
+      "lon": 16.9021465,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "a22139a922037943448468e4874113a1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Irysowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3833989,
+      "lon": 16.8291071,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "f0e7871121dcc7fd8bdb3161a9ebab5f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kalinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-437, Polska",
+      "lat": 52.3675868,
+      "lon": 16.9024129,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "8b447c8e509a455fab67d2f7d4eb5115"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "3420283d49788f65122ec19567affc21"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "63a20b4ff93bf79ecc057df8db350297"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "e977a131d9021ecb30147d1fe04ee100"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Narcyzowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3877625,
+      "lon": 16.8106357,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "d80edacf68a0577f45079fa0692fed73"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "ac72caafe3ca5adccbe8ec0e1e629a1a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "ed1ae84f07108b3e26fbb81da60f10ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "c1444504c27123183134278e478e1461"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "de7b4071f0b586f132572c48f473bd27"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "e8911b84d260c73617e9d950e4216113"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tulipanowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3876508,
+      "lon": 16.8142466,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "e39e73c516aed37f99f9b708d3c4b097"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zaciszna, Czapury, gmina Mosina, powiat poznański, województwo wielkopolskie, 61-332, Polska",
+      "lat": 52.3205653,
+      "lon": 16.9246953,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:00:00",
+      "original_description": "Tulce ul. Bukowa 29, 30, ul. Daliowa 1, 10, 11, 12, 13, 14, 16, 17, 18, 19, 2, 21, 22, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 5, 6, 7, 8, 9, ul. Dębowa 1, 10, 11 B, 11 C, 11A, 11b, 12a, 14 B, 14A, 17A, 17B, 19A, 19B, 21, 23 A, 23a, 23B, 24, 25A, 25B, 26 D, 26 E, 26 F, 26A, 26B, 26F, 26G, 27A, 28 A, 28 B, 29, 3, 30a, 30b, 31A, 31B, 32B, 32D, 32H, 32J, 34A, 34B, 34C, 34D, 34E, 34F, 34G, 34H, 35 A, 35 B, 35 c, 35D, 37 A, 37 B, 37 c, 37 D, 39 A, 39 B, 39 c, 41 A, 41A, 41b, 41C, 41d, 43, 44, 45, 46, 47, 49, 51, 57, 59, 61, 63, 65, 67, 69, 7, 74/30- 34, 9, LOK. 3, ul. Gajowa 1, 12, 13B, 14, 16 A, 16 B, 17A, 17B, 18, 20, 22, 22A, 24, 25 A, 25 B, 26, 27 B, 27A, 30, 32, 36, 38, 40, 42, 42B, 43, 44, 47, 49, 52, 54, 55, 56, 59, 8, 9, DZ. 71/18, DZ. 72/28, DZ.72/18, ul. Grzybowa 13, 3, 6, 8, dz.147/1, dz.147/12, ul. Irysowa 1A, 1B, 3, 4, 5, 6, 7, 8, ul. Kalinowa 2A, 2b, ul. Klonowa, ul. Leśna 10 D, 10B, 12, 14, 14a, 14b, 14B, 14C, 14D, 15, 16, 2, 2A, 4, 6, 8, 8A, DZ. 71/20, ST 54-077, ul. Makowa 1, 2, 3, 4, 5, 6, 7, 8, 9, ul. Narcyzowa 1, 10, 12, 2, 3, 4, 5, 6, 7, 8, ul. Polna 1, 10, 2, 2A, 3, 3A, 3B, 4, 6, 7, 8, DZ.142/5, ul. Poznańska 1, 10, 12, 14, 15, 17, 19, 2, 4, 44, 50, 52, 54, 56 A, 56 B, 58, 8, dz.5/21, skrzyż. DW, ul. Różana 37, 39, 4, 41, 43A, 47 A, 47B, 51, 53, 55, 57, 63, 65, 7, DZ.10/5, DZ.17, dz.260/12, ul. Sportowa 2, ul. Strumykowa 10, 12, 2, 3B, 4, 5, 8, ul. Tulipanowa 1, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Zaciszna.",
+      "id": "79a960986fa62b47d3084289a6059883"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cypriana Kamila Norwida, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3470199,
+      "lon": 16.8734286,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:30:00",
+      "original_description": "Stęszew ul. Cypriana Kamila Norwida 10, 12, 4, 6, 8, ul. Gen.J.Henryka Dąbrowskiego 11, ul. Kardynała Stefana Wyszyńskiego 4, 6, 9, dz.842/2, ul. ks. Wawrzyńca Chybickiego 1, 10, 13, 14, 15, 18, 1833, 1842, 1846, 2, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 33, 35, 37, 4, 5, 6, 63, 7, 8, 9, ul. Księdza Ignacego Skorupki 21, 21/a, 23, 23/A, 38, 40, 42, 42A, 44, 46, 50, ul. Młodych Przemysłowców 1, 12, 16, 1852, 1862, 2, 22, 26, 3/a, 5, 6, 7, ul. Piotra Skargi 10, 12, 14, 16, 18, 18/A, 18/B, 20, 21, 22, 23, 24, 24/7, 27, 28, 28/B, 30, 30 A, 30 B, 30/A, 30/b, 30/B, 30/c, 30/C, 30B, 30c, 30C, 31, 31/A, 31E, 32, 32 garaż, 32/A, 32/B, 32C, 32D, 33 A, 33 B, 33/A, 33/b, 33/B, 33/c, 33/C, 33A, 33B, 33c, 34, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 55, 57, 7, 8, 895, dz.895/15, ul. Poznańska 25, ul. Wojska Polskiego 18.",
+      "id": "53d074139dc3f112bf2b4803b77c3622"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kardynała Stefana Wyszyńskiego, Stęszew, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "lat": 52.2857535,
+      "lon": 16.7061799,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:30:00",
+      "original_description": "Stęszew ul. Cypriana Kamila Norwida 10, 12, 4, 6, 8, ul. Gen.J.Henryka Dąbrowskiego 11, ul. Kardynała Stefana Wyszyńskiego 4, 6, 9, dz.842/2, ul. ks. Wawrzyńca Chybickiego 1, 10, 13, 14, 15, 18, 1833, 1842, 1846, 2, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 33, 35, 37, 4, 5, 6, 63, 7, 8, 9, ul. Księdza Ignacego Skorupki 21, 21/a, 23, 23/A, 38, 40, 42, 42A, 44, 46, 50, ul. Młodych Przemysłowców 1, 12, 16, 1852, 1862, 2, 22, 26, 3/a, 5, 6, 7, ul. Piotra Skargi 10, 12, 14, 16, 18, 18/A, 18/B, 20, 21, 22, 23, 24, 24/7, 27, 28, 28/B, 30, 30 A, 30 B, 30/A, 30/b, 30/B, 30/c, 30/C, 30B, 30c, 30C, 31, 31/A, 31E, 32, 32 garaż, 32/A, 32/B, 32C, 32D, 33 A, 33 B, 33/A, 33/b, 33/B, 33/c, 33/C, 33A, 33B, 33c, 34, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 55, 57, 7, 8, 895, dz.895/15, ul. Poznańska 25, ul. Wojska Polskiego 18.",
+      "id": "5c0c709d0d14e200f9ceb118313d7ae9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Ignacego Skorupki, Stęszew, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "lat": 52.2846589,
+      "lon": 16.7082651,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:30:00",
+      "original_description": "Stęszew ul. Cypriana Kamila Norwida 10, 12, 4, 6, 8, ul. Gen.J.Henryka Dąbrowskiego 11, ul. Kardynała Stefana Wyszyńskiego 4, 6, 9, dz.842/2, ul. ks. Wawrzyńca Chybickiego 1, 10, 13, 14, 15, 18, 1833, 1842, 1846, 2, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 33, 35, 37, 4, 5, 6, 63, 7, 8, 9, ul. Księdza Ignacego Skorupki 21, 21/a, 23, 23/A, 38, 40, 42, 42A, 44, 46, 50, ul. Młodych Przemysłowców 1, 12, 16, 1852, 1862, 2, 22, 26, 3/a, 5, 6, 7, ul. Piotra Skargi 10, 12, 14, 16, 18, 18/A, 18/B, 20, 21, 22, 23, 24, 24/7, 27, 28, 28/B, 30, 30 A, 30 B, 30/A, 30/b, 30/B, 30/c, 30/C, 30B, 30c, 30C, 31, 31/A, 31E, 32, 32 garaż, 32/A, 32/B, 32C, 32D, 33 A, 33 B, 33/A, 33/b, 33/B, 33/c, 33/C, 33A, 33B, 33c, 34, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 55, 57, 7, 8, 895, dz.895/15, ul. Poznańska 25, ul. Wojska Polskiego 18.",
+      "id": "c4982573bc8b4aef85618bde243690bd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Wawrzyńca Chybickiego, Stęszew, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "lat": 52.2844013,
+      "lon": 16.7034009,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:30:00",
+      "original_description": "Stęszew ul. Cypriana Kamila Norwida 10, 12, 4, 6, 8, ul. Gen.J.Henryka Dąbrowskiego 11, ul. Kardynała Stefana Wyszyńskiego 4, 6, 9, dz.842/2, ul. ks. Wawrzyńca Chybickiego 1, 10, 13, 14, 15, 18, 1833, 1842, 1846, 2, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 33, 35, 37, 4, 5, 6, 63, 7, 8, 9, ul. Księdza Ignacego Skorupki 21, 21/a, 23, 23/A, 38, 40, 42, 42A, 44, 46, 50, ul. Młodych Przemysłowców 1, 12, 16, 1852, 1862, 2, 22, 26, 3/a, 5, 6, 7, ul. Piotra Skargi 10, 12, 14, 16, 18, 18/A, 18/B, 20, 21, 22, 23, 24, 24/7, 27, 28, 28/B, 30, 30 A, 30 B, 30/A, 30/b, 30/B, 30/c, 30/C, 30B, 30c, 30C, 31, 31/A, 31E, 32, 32 garaż, 32/A, 32/B, 32C, 32D, 33 A, 33 B, 33/A, 33/b, 33/B, 33/c, 33/C, 33A, 33B, 33c, 34, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 55, 57, 7, 8, 895, dz.895/15, ul. Poznańska 25, ul. Wojska Polskiego 18.",
+      "id": "16e58877700f40b362b72bdd4820cd26"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Młodych Przemysłowców, Stęszew, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "lat": 52.2828504,
+      "lon": 16.7038228,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:30:00",
+      "original_description": "Stęszew ul. Cypriana Kamila Norwida 10, 12, 4, 6, 8, ul. Gen.J.Henryka Dąbrowskiego 11, ul. Kardynała Stefana Wyszyńskiego 4, 6, 9, dz.842/2, ul. ks. Wawrzyńca Chybickiego 1, 10, 13, 14, 15, 18, 1833, 1842, 1846, 2, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 33, 35, 37, 4, 5, 6, 63, 7, 8, 9, ul. Księdza Ignacego Skorupki 21, 21/a, 23, 23/A, 38, 40, 42, 42A, 44, 46, 50, ul. Młodych Przemysłowców 1, 12, 16, 1852, 1862, 2, 22, 26, 3/a, 5, 6, 7, ul. Piotra Skargi 10, 12, 14, 16, 18, 18/A, 18/B, 20, 21, 22, 23, 24, 24/7, 27, 28, 28/B, 30, 30 A, 30 B, 30/A, 30/b, 30/B, 30/c, 30/C, 30B, 30c, 30C, 31, 31/A, 31E, 32, 32 garaż, 32/A, 32/B, 32C, 32D, 33 A, 33 B, 33/A, 33/b, 33/B, 33/c, 33/C, 33A, 33B, 33c, 34, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 55, 57, 7, 8, 895, dz.895/15, ul. Poznańska 25, ul. Wojska Polskiego 18.",
+      "id": "7d53fd928e4f64bd2761faee0fb8e45e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Skargi, Górczyn, Poznań, województwo wielkopolskie, 60-128, Polska",
+      "lat": 52.3855621,
+      "lon": 16.8817928,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:30:00",
+      "original_description": "Stęszew ul. Cypriana Kamila Norwida 10, 12, 4, 6, 8, ul. Gen.J.Henryka Dąbrowskiego 11, ul. Kardynała Stefana Wyszyńskiego 4, 6, 9, dz.842/2, ul. ks. Wawrzyńca Chybickiego 1, 10, 13, 14, 15, 18, 1833, 1842, 1846, 2, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 33, 35, 37, 4, 5, 6, 63, 7, 8, 9, ul. Księdza Ignacego Skorupki 21, 21/a, 23, 23/A, 38, 40, 42, 42A, 44, 46, 50, ul. Młodych Przemysłowców 1, 12, 16, 1852, 1862, 2, 22, 26, 3/a, 5, 6, 7, ul. Piotra Skargi 10, 12, 14, 16, 18, 18/A, 18/B, 20, 21, 22, 23, 24, 24/7, 27, 28, 28/B, 30, 30 A, 30 B, 30/A, 30/b, 30/B, 30/c, 30/C, 30B, 30c, 30C, 31, 31/A, 31E, 32, 32 garaż, 32/A, 32/B, 32C, 32D, 33 A, 33 B, 33/A, 33/b, 33/B, 33/c, 33/C, 33A, 33B, 33c, 34, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 55, 57, 7, 8, 895, dz.895/15, ul. Poznańska 25, ul. Wojska Polskiego 18.",
+      "id": "f69684f2c9740f438298de40d1f60f86"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:30:00",
+      "original_description": "Stęszew ul. Cypriana Kamila Norwida 10, 12, 4, 6, 8, ul. Gen.J.Henryka Dąbrowskiego 11, ul. Kardynała Stefana Wyszyńskiego 4, 6, 9, dz.842/2, ul. ks. Wawrzyńca Chybickiego 1, 10, 13, 14, 15, 18, 1833, 1842, 1846, 2, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 33, 35, 37, 4, 5, 6, 63, 7, 8, 9, ul. Księdza Ignacego Skorupki 21, 21/a, 23, 23/A, 38, 40, 42, 42A, 44, 46, 50, ul. Młodych Przemysłowców 1, 12, 16, 1852, 1862, 2, 22, 26, 3/a, 5, 6, 7, ul. Piotra Skargi 10, 12, 14, 16, 18, 18/A, 18/B, 20, 21, 22, 23, 24, 24/7, 27, 28, 28/B, 30, 30 A, 30 B, 30/A, 30/b, 30/B, 30/c, 30/C, 30B, 30c, 30C, 31, 31/A, 31E, 32, 32 garaż, 32/A, 32/B, 32C, 32D, 33 A, 33 B, 33/A, 33/b, 33/B, 33/c, 33/C, 33A, 33B, 33c, 34, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 55, 57, 7, 8, 895, dz.895/15, ul. Poznańska 25, ul. Wojska Polskiego 18.",
+      "id": "b0921b600fa8fc92b2069f48e484522b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojska Polskiego, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-660, Polska",
+      "lat": 52.4295634,
+      "lon": 16.8937649,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-08T19:30:00",
+      "original_description": "Stęszew ul. Cypriana Kamila Norwida 10, 12, 4, 6, 8, ul. Gen.J.Henryka Dąbrowskiego 11, ul. Kardynała Stefana Wyszyńskiego 4, 6, 9, dz.842/2, ul. ks. Wawrzyńca Chybickiego 1, 10, 13, 14, 15, 18, 1833, 1842, 1846, 2, 20, 21, 22, 23, 25, 26, 27, 28, 29, 31, 33, 35, 37, 4, 5, 6, 63, 7, 8, 9, ul. Księdza Ignacego Skorupki 21, 21/a, 23, 23/A, 38, 40, 42, 42A, 44, 46, 50, ul. Młodych Przemysłowców 1, 12, 16, 1852, 1862, 2, 22, 26, 3/a, 5, 6, 7, ul. Piotra Skargi 10, 12, 14, 16, 18, 18/A, 18/B, 20, 21, 22, 23, 24, 24/7, 27, 28, 28/B, 30, 30 A, 30 B, 30/A, 30/b, 30/B, 30/c, 30/C, 30B, 30c, 30C, 31, 31/A, 31E, 32, 32 garaż, 32/A, 32/B, 32C, 32D, 33 A, 33 B, 33/A, 33/b, 33/B, 33/c, 33/C, 33A, 33B, 33c, 34, 36, 38, 41, 42, 43, 44, 45, 46, 47, 48, 49, 53, 55, 57, 7, 8, 895, dz.895/15, ul. Poznańska 25, ul. Wojska Polskiego 18.",
+      "id": "75a84e9587642810773b7f3e2abe0f03"
     }
   ]
 }
