@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-08T05:54:21.511627+00:00",
+  "last_update": "2026-05-08T07:25:42.867865+00:00",
   "outages": [
     {
       "type": "planned",
@@ -470,6 +470,16 @@
       "end_time": "2026-05-14T14:00:00",
       "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
       "id": "91b5ea5526f1b7e0203017bc0be32a48"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3897927,
+      "lon": 16.9243288,
+      "start_time": "2026-05-14T08:00:00",
+      "end_time": "2026-05-14T16:00:00",
+      "original_description": "Poznań: ul. Dolna Wilda 12, 14, parking.",
+      "id": "6ece70494f0e997ca617801e27a6b79d"
     },
     {
       "type": "planned",
