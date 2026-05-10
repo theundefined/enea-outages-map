@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-10T14:04:54.159410+00:00",
+  "last_update": "2026-05-10T15:08:42.522618+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1000,6 +1000,16 @@
       "end_time": "2026-05-10T17:00:00",
       "original_description": "Poznań ul. Szczawnicka.",
       "id": "46e4553f6d7f87d8b222e718b0bbb298"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-10T18:30:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "41a7f72a8bd47a0db04760f994131052"
     }
   ]
 }
