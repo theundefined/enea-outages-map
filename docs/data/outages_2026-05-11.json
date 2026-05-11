@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-11T10:24:17.903919+00:00",
+  "last_update": "2026-05-11T13:22:24.721427+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,16 @@
       "end_time": "2026-05-11T12:00:00",
       "original_description": "Poznań ul. Garbary 1, ul. Krakowska 2, 4, 4-LOK.7, 4/7PIWNICA, GARBARY2/1, ul. Strzelecka 43, 45, 45 kl.sch..",
       "id": "24225730886608b69abf2f84a359e07a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-11T15:30:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "cbdc1e331b3f5bfd3e8e53db05ba7be8"
     }
   ]
 }
