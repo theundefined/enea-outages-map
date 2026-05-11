@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-11T06:37:07.948237+00:00",
+  "last_update": "2026-05-11T10:24:17.903919+00:00",
   "outages": [
     {
       "type": "planned",
@@ -693,6 +693,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T16:00:00",
+      "original_description": "Miasto Pniewy  ul. Dworcowa 17, ul. Międzychodzka od 1 do 24 (oprócz 2B), ul. Młyńska od 1 do 3 (oprócz 1A, 1B), 5, 7, ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2, ul. Targowa od nr 1 do nr 12, \ndziałki nr 162, Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracownia Cukiernicza Naturalnie,",
+      "id": "e59411a9113eba1929f6c67f1b38fe59"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Międzychodzka, Świt, Grunwald Północ, Poznań, województwo wielkopolskie, 60-369, Polska",
+      "lat": 52.4056621,
+      "lon": 16.8777064,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T16:00:00",
+      "original_description": "Miasto Pniewy  ul. Dworcowa 17, ul. Międzychodzka od 1 do 24 (oprócz 2B), ul. Młyńska od 1 do 3 (oprócz 1A, 1B), 5, 7, ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2, ul. Targowa od nr 1 do nr 12, \ndziałki nr 162, Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracownia Cukiernicza Naturalnie,",
+      "id": "20b989f11d91f37b7ddb5e773c07bd25"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T16:00:00",
+      "original_description": "Miasto Pniewy  ul. Dworcowa 17, ul. Międzychodzka od 1 do 24 (oprócz 2B), ul. Młyńska od 1 do 3 (oprócz 1A, 1B), 5, 7, ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2, ul. Targowa od nr 1 do nr 12, \ndziałki nr 162, Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracownia Cukiernicza Naturalnie,",
+      "id": "ed24510872806418b38ec44e444016b5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Społeczna Szkoła Podstawowa nr 1 im. św. Urszuli Ledóchowskiej, Grunwaldzka, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3930468,
+      "lon": 16.8604437,
+      "start_time": "2026-05-19T08:00:00",
+      "end_time": "2026-05-19T16:00:00",
+      "original_description": "Miasto Pniewy  ul. Dworcowa 17, ul. Międzychodzka od 1 do 24 (oprócz 2B), ul. Młyńska od 1 do 3 (oprócz 1A, 1B), 5, 7, ul. Poznańska 1,  ul. Św. Urszuli Ledóchowskiej 1, 2, ul. Targowa od nr 1 do nr 12, \ndziałki nr 162, Przedszkole Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Liceum Ogólnokształcące Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, Zakon Sióstr Urszulanek Serca Jezusa Konającego w Pniewach, AUTO-POMOC Tomasz Szubczyński, Restauracja Leonardo, salon fryzjerski, Pracownia Cukiernicza Naturalnie,",
+      "id": "4c71faae9068baff85978765381bc04c"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bożydara, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
       "lat": 52.4601977,
       "lon": 16.9546047,
@@ -990,6 +1030,16 @@
       "end_time": "2026-05-11T09:30:00",
       "original_description": "Poznań ul. Szczawnicka.",
       "id": "d9976d836d7922327d37f325ef19c4c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-11T11:00:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "7ce102c0b4dcef15a9644493198f9b18"
     },
     {
       "type": "unplanned",
