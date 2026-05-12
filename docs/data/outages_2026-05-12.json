@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-12T20:53:01.197174+00:00",
+  "last_update": "2026-05-12T22:09:24.300662+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1160,6 +1160,126 @@
       "end_time": "2026-05-12T23:00:00",
       "original_description": "Poznań ul. Szczawnicka.",
       "id": "436ef2a1075682baf5808013b551b5cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T01:30:00",
+      "original_description": "Poznań ul. Szczawnicka 1, 100, 102, 110, 118, 120, 28, 28 A, 28 B, 28 C, 28 D, 28 E, 28 F, 28 G, 28A, 32A, 40, 44, 4A, 66, 68, 68 A, 70, 70A, 90, 92, 94, 98, dz.2/2, KRYNICKA.",
+      "id": "a14abb4ce64f4fb50121145e6c37c087"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "93ccb72ca0473ed447879012432a0e86"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cienista, Ogrody, Poznań, województwo wielkopolskie, 60-587, Polska",
+      "lat": 52.4170912,
+      "lon": 16.880335,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "66503e0289e4753c951b16e004b6486d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grodziska, Ogrody, Poznań, województwo wielkopolskie, 60-564, Polska",
+      "lat": 52.4122575,
+      "lon": 16.8857486,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "9418d98e104e16961d47c9d83653712d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "c3a1be049f8f3d7fcde71f5983170b03"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michała Sobeskiego, Ogrody, Poznań, województwo wielkopolskie, 60-566, Polska",
+      "lat": 52.4154704,
+      "lon": 16.8850599,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "46b8ce5a0f141dd1fb7b67139f5058ae"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowina, Ogrody, Poznań, województwo wielkopolskie, 60-587, Polska",
+      "lat": 52.4160049,
+      "lon": 16.8804289,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "b06f6b3d6dfb417f7d4645e2b6c9a23c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowy Świat, Ogrody, Poznań, województwo wielkopolskie, 60-581, Polska",
+      "lat": 52.4153926,
+      "lon": 16.8825085,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "29401a83959f3042967b9c607d6f02a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Plac Ludwika Waryńskiego, Ogrody, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4166661,
+      "lon": 16.8832256,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "c05b87f3c0b29acd787c4c4f8f099a60"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "1be219278b2e871cfc5990cb506f4cc7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szpitalna, Ogrody, Poznań, województwo wielkopolskie, 60-572, Polska",
+      "lat": 52.4125941,
+      "lon": 16.8773812,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "dc76456a383d98976370e4e0e2b2fe6b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wawrzyńca Engeströma, Ogrody, Poznań, województwo wielkopolskie, 60-577, Polska",
+      "lat": 52.415175,
+      "lon": 16.8879623,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T02:00:00",
+      "original_description": "Poznań pl. Ludwika Waryńskiego, ul. Augustyna Szamarzewskiego, ul. Cienista, ul. Grodziska, ul. Jana Henryka Dąbrowskiego, ul. Michała Sobeskiego, ul. Nowina, ul. Nowy Świat, ul. Szamotulska, ul. Szpitalna, ul. Wawrzyńca Engeströma.",
+      "id": "96650ba25b1af34d7e0f32f706a8a22c"
     }
   ]
 }
