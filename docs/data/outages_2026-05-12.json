@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-12T04:58:56.165541+00:00",
+  "last_update": "2026-05-12T07:47:32.688380+00:00",
   "outages": [
     {
       "type": "planned",
@@ -962,6 +962,96 @@
       "id": "d2efed2bf34c3d6908025c56a1f37233"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "2026-05-26T08:30:00",
+      "end_time": "2026-05-26T12:30:00",
+      "original_description": "Poznań: ul. Czereśniowa od 2 do 10 parzyste, od 3 do 31 nieparzyste, ul. Śliwkowa, ul. Górecka od 131 do 155 nieparzyste, ul. Czechosłowacka od 81 do 89 nieparzyste, 97, ul. Modrzewiowa 22.",
+      "id": "2b33445a2c4878efab7878a26385db88"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "2026-05-26T08:30:00",
+      "end_time": "2026-05-26T12:30:00",
+      "original_description": "Poznań: ul. Czereśniowa od 2 do 10 parzyste, od 3 do 31 nieparzyste, ul. Śliwkowa, ul. Górecka od 131 do 155 nieparzyste, ul. Czechosłowacka od 81 do 89 nieparzyste, 97, ul. Modrzewiowa 22.",
+      "id": "f12a5c6687ca5c21de4d280164e1294b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Górecka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3718577,
+      "lon": 16.8928666,
+      "start_time": "2026-05-26T08:30:00",
+      "end_time": "2026-05-26T12:30:00",
+      "original_description": "Poznań: ul. Czereśniowa od 2 do 10 parzyste, od 3 do 31 nieparzyste, ul. Śliwkowa, ul. Górecka od 131 do 155 nieparzyste, ul. Czechosłowacka od 81 do 89 nieparzyste, 97, ul. Modrzewiowa 22.",
+      "id": "325087ed2c259d334efb3be8117cebba"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Modrzewiowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3701225,
+      "lon": 16.8958809,
+      "start_time": "2026-05-26T08:30:00",
+      "end_time": "2026-05-26T12:30:00",
+      "original_description": "Poznań: ul. Czereśniowa od 2 do 10 parzyste, od 3 do 31 nieparzyste, ul. Śliwkowa, ul. Górecka od 131 do 155 nieparzyste, ul. Czechosłowacka od 81 do 89 nieparzyste, 97, ul. Modrzewiowa 22.",
+      "id": "4db45a8f75c96091c0005fe6621441c1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Śliwkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3718525,
+      "lon": 16.8949212,
+      "start_time": "2026-05-26T08:30:00",
+      "end_time": "2026-05-26T12:30:00",
+      "original_description": "Poznań: ul. Czereśniowa od 2 do 10 parzyste, od 3 do 31 nieparzyste, ul. Śliwkowa, ul. Górecka od 131 do 155 nieparzyste, ul. Czechosłowacka od 81 do 89 nieparzyste, 97, ul. Modrzewiowa 22.",
+      "id": "cbbda70e91e8ccb05ec51e4427022a71"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "2026-05-27T08:30:00",
+      "end_time": "2026-05-27T14:30:00",
+      "original_description": "Poznań: ul. Rynek Wschodni 1, Średnia od 1 do 3, od 5 do 8, 11, od 13 do 17, ul. Nadolnik 6, 7, 9, 9A, ul. Krótka, ul. Mariacka od 18 do 36A parzyste.",
+      "id": "82ca1ed827ca737b6f16eb03930b6463"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mariacka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-012, Polska",
+      "lat": 52.4231483,
+      "lon": 16.9707588,
+      "start_time": "2026-05-27T08:30:00",
+      "end_time": "2026-05-27T14:30:00",
+      "original_description": "Poznań: ul. Rynek Wschodni 1, Średnia od 1 do 3, od 5 do 8, 11, od 13 do 17, ul. Nadolnik 6, 7, 9, 9A, ul. Krótka, ul. Mariacka od 18 do 36A parzyste.",
+      "id": "3a9f499f71c27b6b9a99e4efbc3ceecb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-012, Polska",
+      "lat": 52.4244767,
+      "lon": 16.9714946,
+      "start_time": "2026-05-27T08:30:00",
+      "end_time": "2026-05-27T14:30:00",
+      "original_description": "Poznań: ul. Rynek Wschodni 1, Średnia od 1 do 3, od 5 do 8, 11, od 13 do 17, ul. Nadolnik 6, 7, 9, 9A, ul. Krótka, ul. Mariacka od 18 do 36A parzyste.",
+      "id": "79db80a337b9f82105a2b99d76066005"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rynek Wschodni, Główna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4210914,
+      "lon": 16.969786,
+      "start_time": "2026-05-27T08:30:00",
+      "end_time": "2026-05-27T14:30:00",
+      "original_description": "Poznań: ul. Rynek Wschodni 1, Średnia od 1 do 3, od 5 do 8, 11, od 13 do 17, ul. Nadolnik 6, 7, 9, 9A, ul. Krótka, ul. Mariacka od 18 do 36A parzyste.",
+      "id": "5e1f4321d204e82d4479f2ae9235dba9"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
       "lat": 52.4395751,
@@ -980,6 +1070,16 @@
       "end_time": "2026-05-12T06:30:00",
       "original_description": "Poznań ul. Szczawnicka.",
       "id": "51d0c8569d14346e9ae3eeb82b861337"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-12T11:00:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "23a0e633d7c9efd9bfb1b659196d3919"
     }
   ]
 }
