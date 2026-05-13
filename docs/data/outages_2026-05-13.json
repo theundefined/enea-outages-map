@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-13T07:29:23.220438+00:00",
+  "last_update": "2026-05-13T10:05:07.716425+00:00",
   "outages": [
     {
       "type": "planned",
@@ -573,6 +573,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
+      "lat": 52.4066079,
+      "lon": 16.9372258,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T18:30:00",
+      "original_description": "Poznań: ul. Łazienna 1A, 2, 2A, 4, ul. Garbary 55, 57, ul. Wodna 14.",
+      "id": "1417d2d393dd8fd04ca532010072ad47"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T18:30:00",
+      "original_description": "Poznań: ul. Łazienna 1A, 2, 2A, 4, ul. Garbary 55, 57, ul. Wodna 14.",
+      "id": "311811fa2616409e8efb73b102778611"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łazienna, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-857, Polska",
+      "lat": 52.4067049,
+      "lon": 16.9402665,
+      "start_time": "2026-05-18T08:30:00",
+      "end_time": "2026-05-18T18:30:00",
+      "original_description": "Poznań: ul. Łazienna 1A, 2, 2A, 4, ul. Garbary 55, 57, ul. Wodna 14.",
+      "id": "6f0a553019f4ae8831a6f4f352d3a4fb"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
       "lat": 52.4074553,
       "lon": 16.9131949,
@@ -740,6 +770,36 @@
       "end_time": "2026-05-19T14:30:00",
       "original_description": "Poznań: os. Zwycięstwa 9, 9A-H, 14, 15, 116A.",
       "id": "5adcf40a495d882c37eef0dbe6f604fa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-05-20T07:00:00",
+      "end_time": "2026-05-20T16:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Rumianek ul. Południowa cała, ul. Poznańska od 3 do 13B nr nieparzyste, ul. Szkolna 2, działki nr 90/44, 149/8, \nmiejscowość Jankowice ul. Wiśniowa 17, ul. Modelarska cała, działki nr 302/6, 302/10,",
+      "id": "7951ec67a12f9f5c4f8b440202222035"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "2026-05-20T07:00:00",
+      "end_time": "2026-05-20T16:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Rumianek ul. Południowa cała, ul. Poznańska od 3 do 13B nr nieparzyste, ul. Szkolna 2, działki nr 90/44, 149/8, \nmiejscowość Jankowice ul. Wiśniowa 17, ul. Modelarska cała, działki nr 302/6, 302/10,",
+      "id": "6105e8070d01099262a81718c424c287"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "2026-05-20T07:00:00",
+      "end_time": "2026-05-20T16:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Rumianek ul. Południowa cała, ul. Poznańska od 3 do 13B nr nieparzyste, ul. Szkolna 2, działki nr 90/44, 149/8, \nmiejscowość Jankowice ul. Wiśniowa 17, ul. Modelarska cała, działki nr 302/6, 302/10,",
+      "id": "20cb1ba60fba149406d0cb6e928c382f"
     },
     {
       "type": "planned",
@@ -1032,6 +1092,16 @@
       "id": "5e1f4321d204e82d4479f2ae9235dba9"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Sypniewo, Głuszyna, Poznań, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.3079277,
+      "lon": 16.9813089,
+      "start_time": "2026-05-28T08:30:00",
+      "end_time": "2026-05-28T09:30:00",
+      "original_description": "Poznań: ul. Sypniewo 71, 73, 77.",
+      "id": "b9cc724361e5773d17761628f4f92592"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
       "lat": 52.4395751,
@@ -1060,6 +1130,16 @@
       "end_time": "2026-05-13T08:30:00",
       "original_description": "Poznań ul. Szczawnicka.",
       "id": "34576cbb9ee7fda00742bd389ae66511"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T11:30:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "2a0e9dad52a4cf5f6031ba72f2668e0d"
     }
   ]
 }
