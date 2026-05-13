@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-13T10:05:07.716425+00:00",
+  "last_update": "2026-05-13T12:20:53.224992+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1102,6 +1102,36 @@
       "id": "b9cc724361e5773d17761628f4f92592"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Miechowska, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-347, Polska",
+      "lat": 52.3539743,
+      "lon": 16.9335142,
+      "start_time": "2026-05-28T09:30:00",
+      "end_time": "2026-05-28T12:30:00",
+      "original_description": "Poznań: ul. Jędrzejowska 25, ul. Wolbromska od 1 do 15 nieparzyste, 17, od 2 do 26 parzyste bez 12, ul. Oświęcimska 32, ul. Miechowska 7, ul. Olkuska 10, 12, 14, ul. Żeglarska 65, 67, 69, od 70 do 78 parzyste.",
+      "id": "1d7e6fbb122330557f2e1c7023891e4a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wolbromska, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-339, Polska",
+      "lat": 52.3548729,
+      "lon": 16.936282,
+      "start_time": "2026-05-28T09:30:00",
+      "end_time": "2026-05-28T12:30:00",
+      "original_description": "Poznań: ul. Jędrzejowska 25, ul. Wolbromska od 1 do 15 nieparzyste, 17, od 2 do 26 parzyste bez 12, ul. Oświęcimska 32, ul. Miechowska 7, ul. Olkuska 10, 12, 14, ul. Żeglarska 65, 67, 69, od 70 do 78 parzyste.",
+      "id": "4436b356332b1988a2cd0f9822395312"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żeglarska, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-347, Polska",
+      "lat": 52.3555231,
+      "lon": 16.9311461,
+      "start_time": "2026-05-28T09:30:00",
+      "end_time": "2026-05-28T12:30:00",
+      "original_description": "Poznań: ul. Jędrzejowska 25, ul. Wolbromska od 1 do 15 nieparzyste, 17, od 2 do 26 parzyste bez 12, ul. Oświęcimska 32, ul. Miechowska 7, ul. Olkuska 10, 12, 14, ul. Żeglarska 65, 67, 69, od 70 do 78 parzyste.",
+      "id": "22b961db910c389c90f3d7c94e67fce0"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
       "lat": 52.4395751,
@@ -1140,6 +1170,16 @@
       "end_time": "2026-05-13T11:30:00",
       "original_description": "Poznań ul. Szczawnicka.",
       "id": "2a0e9dad52a4cf5f6031ba72f2668e0d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T14:30:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "023add2a30ef0e9501f05819c9d14560"
     }
   ]
 }
