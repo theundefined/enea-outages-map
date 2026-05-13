@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-13T04:14:58.876845+00:00",
+  "last_update": "2026-05-13T07:29:23.220438+00:00",
   "outages": [
     {
       "type": "planned",
@@ -823,6 +823,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Krzeszowicka, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.3684057,
+      "lon": 16.8342922,
+      "start_time": "2026-05-21T08:00:00",
+      "end_time": "2026-05-21T14:00:00",
+      "original_description": "Poznań: ul. Trzebińska 10, ul. Krzeszowicka.",
+      "id": "c2f18cb8b13c43aa2439dc8d4b3b8364"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Trzebińska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.3668445,
+      "lon": 16.8352775,
+      "start_time": "2026-05-21T08:00:00",
+      "end_time": "2026-05-21T14:00:00",
+      "original_description": "Poznań: ul. Trzebińska 10, ul. Krzeszowicka.",
+      "id": "aa755a37c65fde2d4a9a27fcfea585d0"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Dymka, Arcybiskupa Walentego Dymka, Chartowo, Poznań, województwo wielkopolskie, 61-244, Polska",
       "lat": 52.3940091,
       "lon": 16.9902966,
@@ -1030,6 +1050,16 @@
       "end_time": "2026-05-13T07:00:00",
       "original_description": "Poznań ul. Szczawnicka.",
       "id": "d6a69d7549025e6b1fc85b6abfad9c4a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-13T08:30:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "34576cbb9ee7fda00742bd389ae66511"
     }
   ]
 }
