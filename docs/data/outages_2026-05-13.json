@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-13T21:06:41.761603+00:00",
+  "last_update": "2026-05-13T22:22:08.773316+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1270,6 +1270,16 @@
       "end_time": "2026-05-14T01:00:00",
       "original_description": "Poznań ul. Szczawnicka 1, 100, 102, 110, 118, 120, 28, 28 A, 28 B, 28 C, 28 D, 28 E, 28 F, 28 G, 28A, 32A, 40, 44, 4A, 66, 68, 68 A, 70, 70A, 90, 92, 94, 98, dz.2/2, KRYNICKA.",
       "id": "b771765fab19efe5438ef6bc486bdf3e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-14T02:00:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "2bc889c3873d3baebaa733a02b7219af"
     }
   ]
 }
