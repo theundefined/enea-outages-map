@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-14T12:14:09.396282+00:00",
+  "last_update": "2026-05-14T14:45:10.464389+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1350,6 +1350,66 @@
       "end_time": "2026-05-14T15:30:00",
       "original_description": "Poznań ul. Jesionowa 14.",
       "id": "47d1d674e97001a0311716e2851be633"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lotnisko Poznań-Ławica, Pilotów, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.420564,
+      "lon": 16.8317925,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-14T19:00:00",
+      "original_description": "Kostrzyn nad Odrą ul. Stanisława Moniuszki 37, Kostrzyn ul. Chopina 18, 21, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "344606f4338f0ef2b7b44ad722039994"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Park Fryderyka Chopina, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4051797,
+      "lon": 16.9347542,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-14T19:00:00",
+      "original_description": "Kostrzyn nad Odrą ul. Stanisława Moniuszki 37, Kostrzyn ul. Chopina 18, 21, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "ec1adc19146637ee916cc680a7698447"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-14T19:00:00",
+      "original_description": "Kostrzyn nad Odrą ul. Stanisława Moniuszki 37, Kostrzyn ul. Chopina 18, 21, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "8bebde6e4be8d47aa720eec2104efcc5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Moniuszki, Puszczykówko, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2706307,
+      "lon": 16.8618661,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-14T19:00:00",
+      "original_description": "Kostrzyn nad Odrą ul. Stanisława Moniuszki 37, Kostrzyn ul. Chopina 18, 21, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "480f0c9f704949f331f5174bcade0ac5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Teatr Wielki, 9, Aleksandra Fredry, Stare Miasto, Poznań, województwo wielkopolskie, 61-701, Polska",
+      "lat": 52.4102403,
+      "lon": 16.9176985,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-14T19:00:00",
+      "original_description": "Kostrzyn nad Odrą ul. Stanisława Moniuszki 37, Kostrzyn ul. Chopina 18, 21, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "bb9f068611fe10b5aa98f6c81b7c98f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warzywna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4269598,
+      "lon": 16.9298115,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-14T19:00:00",
+      "original_description": "Kostrzyn nad Odrą ul. Stanisława Moniuszki 37, Kostrzyn ul. Chopina 18, 21, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "98d19a9a8610c10fd7abe93d89cd5495"
     }
   ]
 }
