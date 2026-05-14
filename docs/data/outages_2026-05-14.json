@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-14T10:31:21.282111+00:00",
+  "last_update": "2026-05-14T12:14:09.396282+00:00",
   "outages": [
     {
       "type": "planned",
@@ -923,6 +923,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska Ogólnokształcąca Szkoła Muzyczna I st. nr 2 im. Tadeusza Szeligowskiego, Bydgoska, Śródka, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4117665,
+      "lon": 16.9556609,
+      "start_time": "2026-05-22T09:00:00",
+      "end_time": "2026-05-22T15:00:00",
+      "original_description": "Gostyń ul. Poznańska nr 1, 1A, 2 do 13A, Sklep ARMATURA, Pośrednictwo Finansowe JĘDROSZKOWIAK.",
+      "id": "800f156deb3c8541aed7aaad3aeafc63"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
       "lon": 16.9048857,
@@ -1330,6 +1340,16 @@
       "end_time": "2026-05-14T12:30:00",
       "original_description": "Poznań ul. Jesionowa 14.",
       "id": "bda62a8f820a4f48c2a0997a1127efe1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-14T15:30:00",
+      "original_description": "Poznań ul. Jesionowa 14.",
+      "id": "47d1d674e97001a0311716e2851be633"
     }
   ]
 }
