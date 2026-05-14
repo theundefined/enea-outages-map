@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-14T21:43:38.575352+00:00",
+  "last_update": "2026-05-14T22:43:09.980676+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1440,6 +1440,16 @@
       "end_time": "2026-05-14T23:00:00",
       "original_description": "Poznań ul. Jesionowa 14.",
       "id": "86534d9420a7c12eb83d1e7ed1b5cc30"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T02:00:00",
+      "original_description": "Poznań ul. Jesionowa 14.",
+      "id": "0e2bca1ef7f1b12173794d93e5776c12"
     }
   ]
 }
