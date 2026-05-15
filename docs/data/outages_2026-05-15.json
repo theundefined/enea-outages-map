@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-15T15:10:53.619169+00:00",
+  "last_update": "2026-05-15T17:01:45.504230+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2290,6 +2290,16 @@
       "end_time": "2026-05-15T18:00:00",
       "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
       "id": "5707608e37e123d3d3bd28665cf77dc1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T18:30:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "c73681a3a91a89463cd61b86a86d9ebe"
     }
   ]
 }
