@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-15T10:56:40.760854+00:00",
+  "last_update": "2026-05-15T12:53:09.672507+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1823,6 +1823,156 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "23dc201fde28454c1727edfd4a978baf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "22d25b15ab792a53a131a1a00365974e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "6ee44570d91f345a5e080f3fccf7d7bc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Goleszowska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3655895,
+      "lon": 16.89652,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "cc49b0560e2357ab17f3624ec34a987f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3685248,
+      "lon": 16.8930113,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "98c8a5d929216432785e7b6ac2e0a394"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jabłonkowska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-435, Polska",
+      "lat": 52.366366,
+      "lon": 16.8994513,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "4c8b9f2995012853a4166a2c62f71849"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "609c1c5eaaf50ce057bf3a9f730c5a43"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "a468a6f1501362f94831462376a4da5d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Modrzewiowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3701225,
+      "lon": 16.8958809,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "2a76e082120764b118049cb8a90b0759"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "02b1c4417be83b267083fae4d80ee2dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rydzyńska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-436, Polska",
+      "lat": 52.3684952,
+      "lon": 16.9009761,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "73e4891eedf7380d2a8fc6f8e2fa3a87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "36c83e37e446197c5dea9aa546c2cb86"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefanii Sempołowskiej, Świerczewo, Poznań, województwo wielkopolskie, 61-405, Polska",
+      "lat": 52.3635663,
+      "lon": 16.8899809,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "9cd5aefe85a041015b43585668224d02"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stobrawska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3658969,
+      "lon": 16.8958355,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "60945ec254b66167339709084e48a9fa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiązowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-435, Polska",
+      "lat": 52.3665352,
+      "lon": 16.8971427,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T13:30:00",
+      "original_description": "Poznań ul. Akacjowa, ul. Brzozowa, ul. Czechosłowacka, ul. Głogowa, ul. Goleszowska, ul. Jabłonkowska, ul. Jaśminowa, ul. Jesionowa, ul. Modrzewiowa, ul. Opolska, ul. Rydzyńska, ul. Sosnowa, ul. Stefanii Sempołowskiej, ul. Stobrawska, ul. Wiązowa.",
+      "id": "36023d3158bd63bfefa5f330fbe4ecdb"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Cokół po pomniku Adama Mickiewicza, Święty Marcin, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-810, Polska",
       "lat": 52.4057491,
       "lon": 16.928792,
@@ -1970,6 +2120,16 @@
       "end_time": "2026-05-15T15:00:00",
       "original_description": "Mosina ul. Chodkiewicza 1, 11, 12, 13, 14, 15, 16, 3, 3A, 4, 5, 6, 7, 8, 9, ul. Czarnokurz 3, ul. Mickiewicza 10, 11, 12, 13, 14, 14A, 15, 16, 17, 18, 19, 20, 20A, 21, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, ul. Piotra Mocka 1, 3, ul. Poniatowskiego 1, 12, 13, 14, 15, 16, 17, 18, 1A, 2, 3, 4, 5, 6, 7, 8, 9, ul. Poznańska 23, ul. Pożegowska 3, 3A, ul. Reja 9, ul. Reymonta 10, 11, 12, 13, 14, 15, 16, 17, 18, 18a, 18B, 6, 7, 7A, 8, 8A, 9, 9A, ul. Rzeczypospolitej Mosińskiej 1, 10, 11, 2, 22, 22A, 23, 24, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 4, 5, 6, 7, 8, 8A, 9, DZ.709, ul. Sienkiewicza 1, 10, 3, 4, 5, 6, 7, 8, ul. Szkolna 1, ul. Szosa Poznańska, ul. Wodna 117, ul. Zieleniec 1, 2, 2A, 3, 4, 5.",
       "id": "9863af11472fc379d91e96473df8365e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-15T15:30:00",
+      "original_description": "Poznań ul. Szczawnicka.",
+      "id": "a00de2ae827ecfda34cdee7359494dce"
     }
   ]
 }
