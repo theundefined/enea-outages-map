@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-25T12:06:05.152523+00:00",
+  "last_update": "2026-05-25T15:27:08.789180+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1180,6 +1180,46 @@
       "end_time": "2026-06-10T14:00:00",
       "original_description": "Poznań: ul. Dolna od 45 do 53 nieparzyste, od 50 do 66 parzyste.",
       "id": "8d1b174f86a78c8ec01e6b4e58a098ae"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "25-Lecia, Konarzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.3355547,
+      "lon": 16.7245046,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-25T19:30:00",
+      "original_description": "Konarzewo ul. 25-lecia 1, 2, 3, 3 A, 3/A, 3a, 4, 5, 6, 7, 8, ul. Kwiatowa 11, 15, 17, 3, 7, 9, ul. Ogrodowa 11, 17, 19, 21, 23, 25, 27, 29, 5, 9, ul. Poznańska 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 501.",
+      "id": "b536b8ed45887006fb93ecb8ec868bfc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-25T19:30:00",
+      "original_description": "Konarzewo ul. 25-lecia 1, 2, 3, 3 A, 3/A, 3a, 4, 5, 6, 7, 8, ul. Kwiatowa 11, 15, 17, 3, 7, 9, ul. Ogrodowa 11, 17, 19, 21, 23, 25, 27, 29, 5, 9, ul. Poznańska 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 501.",
+      "id": "3e5425de5b7fb4f1a97d21d2148bf6f5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-25T19:30:00",
+      "original_description": "Konarzewo ul. 25-lecia 1, 2, 3, 3 A, 3/A, 3a, 4, 5, 6, 7, 8, ul. Kwiatowa 11, 15, 17, 3, 7, 9, ul. Ogrodowa 11, 17, 19, 21, 23, 25, 27, 29, 5, 9, ul. Poznańska 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 501.",
+      "id": "14396a7ead9665599eb97ee23b86d5b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-05-25T19:30:00",
+      "original_description": "Konarzewo ul. 25-lecia 1, 2, 3, 3 A, 3/A, 3a, 4, 5, 6, 7, 8, ul. Kwiatowa 11, 15, 17, 3, 7, 9, ul. Ogrodowa 11, 17, 19, 21, 23, 25, 27, 29, 5, 9, ul. Poznańska 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 19A, 501.",
+      "id": "ba2e8098bed1ff61aa193c1534bd743d"
     }
   ]
 }
