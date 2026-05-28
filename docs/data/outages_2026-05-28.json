@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-28T08:12:24.356524+00:00",
+  "last_update": "2026-05-28T11:51:51.769870+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1010,6 +1010,46 @@
       "end_time": "2026-06-11T12:30:00",
       "original_description": "Poznań: ul. Żorska od 1 15 nieparzyste, od 2 do 16 parzyste, 16A.",
       "id": "dcde37ab8552ff48a7045b5513ba12b3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Marzanny, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-616, Polska",
+      "lat": 52.4494329,
+      "lon": 16.938177,
+      "start_time": "2026-06-12T08:30:00",
+      "end_time": "2026-06-12T11:30:00",
+      "original_description": "Poznań: ul. Stoińskiego 34, 34A, 36, 36A, ul. Łużycka od 40 do 82A parzyste, ul. Marzanny, ul. Mołdawska 55, ul. Wenedów bez 7, 9, 11.",
+      "id": "0056bc2d5adb8f4611cbbb1588071688"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mołdawska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-616, Polska",
+      "lat": 52.4493345,
+      "lon": 16.936574,
+      "start_time": "2026-06-12T08:30:00",
+      "end_time": "2026-06-12T11:30:00",
+      "original_description": "Poznań: ul. Stoińskiego 34, 34A, 36, 36A, ul. Łużycka od 40 do 82A parzyste, ul. Marzanny, ul. Mołdawska 55, ul. Wenedów bez 7, 9, 11.",
+      "id": "c81efacdad3919b111b15aecc84c9f39"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stoińskiego, Umultowska, Naramowice, Poznań, województwo wielkopolskie, 60-686, Polska",
+      "lat": 52.4517188,
+      "lon": 16.9276443,
+      "start_time": "2026-06-12T08:30:00",
+      "end_time": "2026-06-12T11:30:00",
+      "original_description": "Poznań: ul. Stoińskiego 34, 34A, 36, 36A, ul. Łużycka od 40 do 82A parzyste, ul. Marzanny, ul. Mołdawska 55, ul. Wenedów bez 7, 9, 11.",
+      "id": "55ac51d4ffbaf977ebea9eac549ad913"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łużycka, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-610, Polska",
+      "lat": 52.447283,
+      "lon": 16.9460865,
+      "start_time": "2026-06-12T08:30:00",
+      "end_time": "2026-06-12T11:30:00",
+      "original_description": "Poznań: ul. Stoińskiego 34, 34A, 36, 36A, ul. Łużycka od 40 do 82A parzyste, ul. Marzanny, ul. Mołdawska 55, ul. Wenedów bez 7, 9, 11.",
+      "id": "f8aa30f47fdae72e00562dd6f47cb7da"
     },
     {
       "type": "planned",
