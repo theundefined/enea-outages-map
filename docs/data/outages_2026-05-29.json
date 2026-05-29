@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-05-29T01:48:52.349734+00:00",
+  "last_update": "2026-05-29T05:58:47.464860+00:00",
   "outages": [
     {
       "type": "planned",
@@ -883,6 +883,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Glebowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3551889,
+      "lon": 17.0157795,
+      "start_time": "2026-06-12T08:30:00",
+      "end_time": "2026-06-12T11:30:00",
+      "original_description": "Poznań: ul. Spławie 49, 49A, od 51 do 53 nieparzyste, 53A, 50, ul. Snopowa od 1 do 39 nieparzyste, od 4 do 32 parzyste, ul. Glebowa od 57 do 63 nieparzyste, od 64 do 78 parzyste, dz. 27.",
+      "id": "07187b5b93e76e6b24193fabd88541df"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Marzanny, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-616, Polska",
       "lat": 52.4494329,
       "lon": 16.938177,
@@ -900,6 +910,26 @@
       "end_time": "2026-06-12T11:30:00",
       "original_description": "Poznań: ul. Stoińskiego 34, 34A, 36, 36A, ul. Łużycka od 40 do 82A parzyste, ul. Marzanny, ul. Mołdawska 55, ul. Wenedów bez 7, 9, 11.",
       "id": "c81efacdad3919b111b15aecc84c9f39"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Snopowa, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.353982,
+      "lon": 17.0207315,
+      "start_time": "2026-06-12T08:30:00",
+      "end_time": "2026-06-12T11:30:00",
+      "original_description": "Poznań: ul. Spławie 49, 49A, od 51 do 53 nieparzyste, 53A, 50, ul. Snopowa od 1 do 39 nieparzyste, od 4 do 32 parzyste, ul. Glebowa od 57 do 63 nieparzyste, od 64 do 78 parzyste, dz. 27.",
+      "id": "bf488be5aafdf6a7000e20ece0895f51"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3511524,
+      "lon": 17.0242204,
+      "start_time": "2026-06-12T08:30:00",
+      "end_time": "2026-06-12T11:30:00",
+      "original_description": "Poznań: ul. Spławie 49, 49A, od 51 do 53 nieparzyste, 53A, 50, ul. Snopowa od 1 do 39 nieparzyste, od 4 do 32 parzyste, ul. Glebowa od 57 do 63 nieparzyste, od 64 do 78 parzyste, dz. 27.",
+      "id": "c5701e7ee6424e74f7ff2810adca3f1d"
     },
     {
       "type": "planned",
