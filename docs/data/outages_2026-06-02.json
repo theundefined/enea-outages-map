@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-02T06:20:54.819229+00:00",
+  "last_update": "2026-06-02T11:03:42.922249+00:00",
   "outages": [
     {
       "type": "planned",
@@ -373,6 +373,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "2026-06-08T09:00:00",
+      "end_time": "2026-06-08T12:00:00",
+      "original_description": "Koziegłowy: ul. Poznańska od 7 do 13, Chata Polska, \"Adaś\", Carrefour Express, Hana Salon, ul. Żwirowa, ul. Polna od 1 do 17 nieparzyste, od 2 do 16C parzyste.",
+      "id": "d1d81fac7bbe150d6ac04ddb81222c1a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-06-08T09:00:00",
+      "end_time": "2026-06-08T12:00:00",
+      "original_description": "Koziegłowy: ul. Poznańska od 7 do 13, Chata Polska, \"Adaś\", Carrefour Express, Hana Salon, ul. Żwirowa, ul. Polna od 1 do 17 nieparzyste, od 2 do 16C parzyste.",
+      "id": "096a0b7a3dc8866d6cec1c0240896050"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żwirowa, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3743374,
+      "lon": 16.8661079,
+      "start_time": "2026-06-08T09:00:00",
+      "end_time": "2026-06-08T12:00:00",
+      "original_description": "Koziegłowy: ul. Poznańska od 7 do 13, Chata Polska, \"Adaś\", Carrefour Express, Hana Salon, ul. Żwirowa, ul. Polna od 1 do 17 nieparzyste, od 2 do 16C parzyste.",
+      "id": "f608fd3a914bf150ea7f72d59cc24b67"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Białobrzeska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-354, Polska",
       "lat": 52.3434028,
       "lon": 16.9235354,
@@ -670,6 +700,46 @@
       "end_time": "2026-06-10T12:30:00",
       "original_description": "Poznań: ul. Augustowska od 27 do 53 nieparzyste, od 20 do 32 parzyste, ul. Mińska 2A, 2B, 14, ul. Warszawska od 82/127 do 82/131, od 82/143 do 82/199, 82/202, 82/203, od 82/206 do 82/222, ul. Krańcowa od 67A do 91 nieparzyste bez 79, ul. Czekalskie od 1 do 55 nieparzyste, ul. Wiankowa 1, 1A, ul. Mogileńska 2, Dworzec kolejka Maltanka, stacja gazu, ul. Otwocka 11, ul. Łomżyńska 84, 84A.",
       "id": "2767c6759789b14ab33e3d6131b034d5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "2026-06-10T10:00:00",
+      "end_time": "2026-06-10T13:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Poznańska 6, 27, 29, 31, 33, 35, 39, ul. Starowiejska 1, 1B,  ul. Jarzębinowa 14, 16, ul. Akacjowa od 1 do 11, działki nr 144, 145/3, 203, 234/49, 704/9, przystań, toalety, sygnalizacja świetlna, parking, wieża telekomunikacyjna",
+      "id": "410cf31aca11f1ade9f5b4592ba209b2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jarzębinowa, Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4738117,
+      "lon": 16.8969717,
+      "start_time": "2026-06-10T10:00:00",
+      "end_time": "2026-06-10T13:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Poznańska 6, 27, 29, 31, 33, 35, 39, ul. Starowiejska 1, 1B,  ul. Jarzębinowa 14, 16, ul. Akacjowa od 1 do 11, działki nr 144, 145/3, 203, 234/49, 704/9, przystań, toalety, sygnalizacja świetlna, parking, wieża telekomunikacyjna",
+      "id": "d87a889b316760bb134c5d891a2a9ed0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-06-10T10:00:00",
+      "end_time": "2026-06-10T13:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Poznańska 6, 27, 29, 31, 33, 35, 39, ul. Starowiejska 1, 1B,  ul. Jarzębinowa 14, 16, ul. Akacjowa od 1 do 11, działki nr 144, 145/3, 203, 234/49, 704/9, przystań, toalety, sygnalizacja świetlna, parking, wieża telekomunikacyjna",
+      "id": "22462f543a9099294e6e5003e693a71b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Starowiejska, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4264782,
+      "lon": 16.9225046,
+      "start_time": "2026-06-10T10:00:00",
+      "end_time": "2026-06-10T13:00:00",
+      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Poznańska 6, 27, 29, 31, 33, 35, 39, ul. Starowiejska 1, 1B,  ul. Jarzębinowa 14, 16, ul. Akacjowa od 1 do 11, działki nr 144, 145/3, 203, 234/49, 704/9, przystań, toalety, sygnalizacja świetlna, parking, wieża telekomunikacyjna",
+      "id": "1ab798dd17db9a65b7e9deec1d2b83e4"
     },
     {
       "type": "planned",
@@ -1033,6 +1103,156 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3639074,
+      "lon": 16.9836501,
+      "start_time": "2026-06-16T08:00:00",
+      "end_time": "2026-06-16T19:00:00",
+      "original_description": "Poznań: ul. Pokrzywno 39C, od 31 do 37F nieparzyste, od 30 do 42B parzyste.",
+      "id": "a7b725b312bb17148e85cabf0de5e153"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3639074,
+      "lon": 16.9836501,
+      "start_time": "2026-06-16T08:00:00",
+      "end_time": "2026-06-16T19:00:00",
+      "original_description": "Poznań: ul. Pokrzywno 30, ROD Konienko.",
+      "id": "2abeb46e68af2ed5c78c9aaa25a49e28"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Siewierska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.339267,
+      "lon": 17.0058274,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T10:30:00",
+      "original_description": "Poznań: ul. Świątniczki 14, 15, 15A, 16, 16A, 18, 18A-D, 20, ul. Siewierska, ul. Tarnowska 10A, 10B, od 12 do 20 parzyste.",
+      "id": "1c02a0d3db322c57c245d2f394e2ff92"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tarnowska, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3398714,
+      "lon": 17.0032928,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T10:30:00",
+      "original_description": "Poznań: ul. Świątniczki 14, 15, 15A, 16, 16A, 18, 18A-D, 20, ul. Siewierska, ul. Tarnowska 10A, 10B, od 12 do 20 parzyste.",
+      "id": "43cd709bfd59e744fb88661789932e12"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świątniczki, Krzesinki, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3391515,
+      "lon": 17.0094985,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T10:30:00",
+      "original_description": "Poznań: ul. Świątniczki 14, 15, 15A, 16, 16A, 18, 18A-D, 20, ul. Siewierska, ul. Tarnowska 10A, 10B, od 12 do 20 parzyste.",
+      "id": "b1087332efc135867ad94c11290f231f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gołuchowska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3689042,
+      "lon": 16.8787931,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T11:30:00",
+      "original_description": "Poznań: ul. Gołuchowska od 24 do 52 parzyste, od 37 do 65 nieparzyste, ul. Żerkowska 38, ul. Kwiatkowskiego od 4 do  20 parzyste, ul. Szamocińska od 3 do 27 nieparzyste.",
+      "id": "0c00bc40e4b0b042db431b4e123d3e40"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Skwer Milana Kwiatkowskiego, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.395712,
+      "lon": 16.948745,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T11:30:00",
+      "original_description": "Poznań: ul. Gołuchowska od 24 do 52 parzyste, od 37 do 65 nieparzyste, ul. Żerkowska 38, ul. Kwiatkowskiego od 4 do  20 parzyste, ul. Szamocińska od 3 do 27 nieparzyste.",
+      "id": "3091c5be47dc67a11c93bf9762a82f71"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szamocińska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3689794,
+      "lon": 16.8773709,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T11:30:00",
+      "original_description": "Poznań: ul. Gołuchowska od 24 do 52 parzyste, od 37 do 65 nieparzyste, ul. Żerkowska 38, ul. Kwiatkowskiego od 4 do  20 parzyste, ul. Szamocińska od 3 do 27 nieparzyste.",
+      "id": "f9994620983b14fe8f6c87aff1c7dd59"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żerkowska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3688402,
+      "lon": 16.8800616,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T11:30:00",
+      "original_description": "Poznań: ul. Gołuchowska od 24 do 52 parzyste, od 37 do 65 nieparzyste, ul. Żerkowska 38, ul. Kwiatkowskiego od 4 do  20 parzyste, ul. Szamocińska od 3 do 27 nieparzyste.",
+      "id": "cb6b8a0ccdf632078008788dc99c0467"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gostyńska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
+      "lat": 52.3726079,
+      "lon": 16.8746683,
+      "start_time": "2026-06-16T11:30:00",
+      "end_time": "2026-06-16T12:30:00",
+      "original_description": "Poznań: ul. Głogowska 267, 269, 269A, 271, ul. Gostyńska od 1 do 5 nieparzyste, od 2 do 6 parzyste.",
+      "id": "539d776cdc56863f4cb1bf120fb1c907"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "2026-06-16T11:30:00",
+      "end_time": "2026-06-16T12:30:00",
+      "original_description": "Poznań: ul. Głogowska 267, 269, 269A, 271, ul. Gostyńska od 1 do 5 nieparzyste, od 2 do 6 parzyste.",
+      "id": "1235e64a32db1a8c4b0060c1c1cfd85d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Armii Poznań, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3538833,
+      "lon": 16.9020446,
+      "start_time": "2026-06-17T08:00:00",
+      "end_time": "2026-06-17T17:00:00",
+      "original_description": "Luboń: ul. Ratajczaka, ul. Wodna, ul. Starorzeczna, ul. Armii Poznań 77B, od 79 do 99 nieparzyste.",
+      "id": "b24fee96712a184ad0760f05576472d4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Biblioteka Uniwersytecka, Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-816, Polska",
+      "lat": 52.4068379,
+      "lon": 16.9252304,
+      "start_time": "2026-06-17T08:00:00",
+      "end_time": "2026-06-17T17:00:00",
+      "original_description": "Luboń: ul. Ratajczaka, ul. Wodna, ul. Starorzeczna, ul. Armii Poznań 77B, od 79 do 99 nieparzyste.",
+      "id": "b2d1d5db3f13551fd9f60820dde20991"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Starorzeczna, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3283485,
+      "lon": 16.8893388,
+      "start_time": "2026-06-17T08:00:00",
+      "end_time": "2026-06-17T17:00:00",
+      "original_description": "Luboń: ul. Ratajczaka, ul. Wodna, ul. Starorzeczna, ul. Armii Poznań 77B, od 79 do 99 nieparzyste.",
+      "id": "8d7814d534b77a60820045590e834405"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "2026-06-17T08:00:00",
+      "end_time": "2026-06-17T17:00:00",
+      "original_description": "Luboń: ul. Ratajczaka, ul. Wodna, ul. Starorzeczna, ul. Armii Poznań 77B, od 79 do 99 nieparzyste.",
+      "id": "b546ed371c7a274f39ca5f5f12ce7399"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Przyjemna, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
       "lat": 52.3529543,
       "lon": 17.0426115,
@@ -1040,6 +1260,186 @@
       "end_time": "2026-06-17T15:30:00",
       "original_description": "Poznań: ul. Przyjemna 32, od 42 do 50 parzyste, dz. 4/40.",
       "id": "98e37886907c5064b2f9b51ec7030c53"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Cyraneczki, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4251879,
+      "lon": 17.0672508,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "931773dabe149a40235b3e3a9198f74b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Darniowa, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4229933,
+      "lon": 17.0649875,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "861944f03d159613c4ce56aa66d9b35e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gabrieli Zapolskiej, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4547085,
+      "lon": 16.8663886,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "818250ff517583f018af2fd01af57e06"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Katarzyńska, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.434121,
+      "lon": 17.0799881,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "fcbff8e2d499dcf0cedc150ad0d054c8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kormorana, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4250228,
+      "lon": 17.0618345,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "567e74ab94bb2adb66c260fb0feb78f4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krzyżówki, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4247875,
+      "lon": 17.0667192,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "45f2cca1a1c708d82b71a14700f5f79a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mewy, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4258335,
+      "lon": 17.065236,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "6149d8355209a341adf10153145b28dd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Perkoza, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4242899,
+      "lon": 17.0670251,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "bc4122c9949d4ff08a66ab6c98fee297"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rybitwy, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4264454,
+      "lon": 17.0668397,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "e1a169a9db60ff37f1c69aff68c5d02c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zielińska, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4266428,
+      "lon": 17.0604709,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "8dcf92b5dc54981c2d4e974a58bd24a6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zimorodka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4258198,
+      "lon": 17.0637838,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "538c1be62f78047ae1445ab4079269d6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łyski, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
+      "lat": 52.4246312,
+      "lon": 17.0663669,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T19:00:00",
+      "original_description": "Gruszczyn: ul. Zielińska 7, 9, od 6 do 44 parzyste, ul. Katarzyńska 107, 115, 119, 121, ul. Zapolskiej dz. 43/72, dz. 43/73, Ogródki Działkowe w Gruszczynie. \nPoznań: ul. Rybitwy, ul. Mewy, ul. Kormorana, ul. Darniowa, ul. Perkoza, ul. Cyraneczki, ul. Krzyżówki, ul. Łyski, ul. Zimorodka.",
+      "id": "1474e50fdde57e78108d5f9414c2d353"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gostyńska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
+      "lat": 52.3726079,
+      "lon": 16.8746683,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T11:30:00",
+      "original_description": "Poznań: ul. Śmiełowska od 21 do 73 nieparzyste, od 22 do 62 parzyste, ul. Rawicka od 93 do 109 nieparzyste, od 106 do 126 parzyste, ul. Gostyńska 127.",
+      "id": "bdc72babf4c4a794b6b89a16a1ecafbf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rawicka, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
+      "lat": 52.3740105,
+      "lon": 16.8734113,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T11:30:00",
+      "original_description": "Poznań: ul. Śmiełowska od 21 do 73 nieparzyste, od 22 do 62 parzyste, ul. Rawicka od 93 do 109 nieparzyste, od 106 do 126 parzyste, ul. Gostyńska 127.",
+      "id": "da45271fcad7b84f8032bd74610d74fb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Śmiełowska, Świerczewo, Poznań, województwo wielkopolskie, 60-115, Polska",
+      "lat": 52.3727197,
+      "lon": 16.8820546,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T11:30:00",
+      "original_description": "Poznań: ul. Śmiełowska od 21 do 73 nieparzyste, od 22 do 62 parzyste, ul. Rawicka od 93 do 109 nieparzyste, od 106 do 126 parzyste, ul. Gostyńska 127.",
+      "id": "623c4afc7674dcf943924adfbf70c089"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Koszalińska, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-626, Polska",
+      "lat": 52.4362166,
+      "lon": 16.8798349,
+      "start_time": "2026-06-19T08:30:00",
+      "end_time": "2026-06-19T10:30:00",
+      "original_description": "Poznań ul. Koszalińska od 45 do 71 nieparzyste, od 54 do 68 parzyste, ul. Złotnicka 6, ul. Słodyńska 3A.",
+      "id": "7881846e85da3d896bea2e8bf1a0b585"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słodyńska, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764034,
+      "lon": 16.8015936,
+      "start_time": "2026-06-19T08:30:00",
+      "end_time": "2026-06-19T10:30:00",
+      "original_description": "Poznań ul. Koszalińska od 45 do 71 nieparzyste, od 54 do 68 parzyste, ul. Złotnicka 6, ul. Słodyńska 3A.",
+      "id": "db36dc918c346dda6a0e1350d878b250"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Złotnicka, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4751378,
+      "lon": 16.8089872,
+      "start_time": "2026-06-19T08:30:00",
+      "end_time": "2026-06-19T10:30:00",
+      "original_description": "Poznań ul. Koszalińska od 45 do 71 nieparzyste, od 54 do 68 parzyste, ul. Złotnicka 6, ul. Słodyńska 3A.",
+      "id": "3a3cf4a3800bd5f237e037d84d439737"
     },
     {
       "type": "planned",
@@ -1070,6 +1470,16 @@
       "end_time": "2026-06-02T09:30:00",
       "original_description": "Poznań ul. Rumiankowa 27.",
       "id": "7c4be86d073a14de8a8905eedd06c4dd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-02T14:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "8f0b84aceae80fad6975ef7fcff31324"
     }
   ]
 }
