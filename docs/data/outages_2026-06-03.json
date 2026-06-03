@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-03T02:07:06.178082+00:00",
+  "last_update": "2026-06-03T07:03:53.495976+00:00",
   "outages": [
     {
       "type": "planned",
@@ -513,6 +513,106 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Głuszyna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3166706,
+      "lon": 16.9499986,
+      "start_time": "2026-06-11T08:30:00",
+      "end_time": "2026-06-11T14:00:00",
+      "original_description": "Poznań: ul. Głuszyna 155E-F.",
+      "id": "1367ea210bc757ea8e795b46f79d5416"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bałtycka, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4294548,
+      "lon": 16.9967256,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "718186e369af687af14a5fceac518637"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gdańska, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4121948,
+      "lon": 16.9542048,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "533cb95b67d2830be979dcdd027c9e5b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "646d872a3a45ebcf21f4cce5514c9619"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "81b8809851265dba8db7749da49f0132"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "3666313418c269a1ce9933672c39823d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park-Pomnik Pamięci Narodowej, Aleja Armii Poznań, Przepadek, Stare Winogrady, Stare Miasto, Poznań, województwo wielkopolskie, 61-661, Polska",
+      "lat": 52.4210368,
+      "lon": 16.9241573,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "3159e9487cec0ea66207a638368e7b89"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "8af7558d61bf3f3228c4951d9dd799ff"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pilska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-044, Polska",
+      "lat": 52.4132807,
+      "lon": 16.9891444,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "d658f67c343504f0f77d2fda939ba812"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T10:00:00",
+      "original_description": "miejscowość Podgaje ul. Bałtycka, ul. Gdańska, ul. Kościelna, ul. Leśna, ul. Pamięci Narodowej, ul. Parkowa, ul. Poznańska, ul. Pilska, ul. Ogrodowa.",
+      "id": "8ceabb134f8002781e26b072e9e87726"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
       "lon": 16.9048857,
@@ -520,6 +620,66 @@
       "end_time": "2026-06-12T12:00:00",
       "original_description": "Miasto Grodzisk Wielkopolski ul. Poznańska 36A, market Netto",
       "id": "e27c86910959c80ab8594568831629eb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gdańska, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4121948,
+      "lon": 16.9542048,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T15:00:00",
+      "original_description": "miejscowość Podgaje ul. Parkowa, ul. Leśna 1, 2, 3, 4, 6, ul. Kościelna, ul. Pilska, ul. Poznańska 3, 5, ul. Gdańska 2, 4, 6, 8, 10, dz. nr 107, oświetlenie drogowe.",
+      "id": "cef7318506e354ab90677cd69f711994"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T15:00:00",
+      "original_description": "miejscowość Podgaje ul. Parkowa, ul. Leśna 1, 2, 3, 4, 6, ul. Kościelna, ul. Pilska, ul. Poznańska 3, 5, ul. Gdańska 2, 4, 6, 8, 10, dz. nr 107, oświetlenie drogowe.",
+      "id": "6aa64ed2ebda4857332a5f3536fa1433"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T15:00:00",
+      "original_description": "miejscowość Podgaje ul. Parkowa, ul. Leśna 1, 2, 3, 4, 6, ul. Kościelna, ul. Pilska, ul. Poznańska 3, 5, ul. Gdańska 2, 4, 6, 8, 10, dz. nr 107, oświetlenie drogowe.",
+      "id": "b771b174b4e623db4f9f80f3e213f230"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T15:00:00",
+      "original_description": "miejscowość Podgaje ul. Parkowa, ul. Leśna 1, 2, 3, 4, 6, ul. Kościelna, ul. Pilska, ul. Poznańska 3, 5, ul. Gdańska 2, 4, 6, 8, 10, dz. nr 107, oświetlenie drogowe.",
+      "id": "73e9e7fff45912762444d0b1d53ded80"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pilska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-044, Polska",
+      "lat": 52.4132807,
+      "lon": 16.9891444,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T15:00:00",
+      "original_description": "miejscowość Podgaje ul. Parkowa, ul. Leśna 1, 2, 3, 4, 6, ul. Kościelna, ul. Pilska, ul. Poznańska 3, 5, ul. Gdańska 2, 4, 6, 8, 10, dz. nr 107, oświetlenie drogowe.",
+      "id": "9d82ea27993404bc94f47468ab889af4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-06-12T08:00:00",
+      "end_time": "2026-06-12T15:00:00",
+      "original_description": "miejscowość Podgaje ul. Parkowa, ul. Leśna 1, 2, 3, 4, 6, ul. Kościelna, ul. Pilska, ul. Poznańska 3, 5, ul. Gdańska 2, 4, 6, 8, 10, dz. nr 107, oświetlenie drogowe.",
+      "id": "86b4bb699c73b8b8942b7d00edf8e20e"
     },
     {
       "type": "planned",
@@ -973,6 +1133,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Lechicka/Poznań Plaza, Księcia Mieszka I, Nowe Winogrady Północ, Osiedle Zwycięstwa, Winogrady, Poznań, województwo wielkopolskie, 61-651, Polska",
+      "lat": 52.4426553,
+      "lon": 16.9205164,
+      "start_time": "2026-06-17T08:00:00",
+      "end_time": "2026-06-17T14:00:00",
+      "original_description": "Poznań: os. Zwycięstwa 19A, 110, ul. Księcia Mieszka I 26, 28.",
+      "id": "af96446813ae6b7a0e6eb84bf2f07b3f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pomnik Zwycięstwa, Taborowa, Grunwald Południe, Poznań, województwo wielkopolskie, 60-790, Polska",
+      "lat": 52.400468,
+      "lon": 16.8879088,
+      "start_time": "2026-06-17T08:00:00",
+      "end_time": "2026-06-17T14:00:00",
+      "original_description": "Poznań: os. Zwycięstwa 19A, 110, ul. Księcia Mieszka I 26, 28.",
+      "id": "a66e9a7243e3d6ce5a5ebfc30e68382b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Armii Poznań, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
       "lat": 52.3538833,
       "lon": 16.9020446,
@@ -1220,6 +1400,16 @@
       "end_time": "2026-06-03T04:30:00",
       "original_description": "Poznań ul. Rumiankowa 27.",
       "id": "19fc4f0d666ce6c8c24355dbdf218560"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-03T10:30:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "94cc10c6d26c23d2de22b7365ddfe163"
     }
   ]
 }
