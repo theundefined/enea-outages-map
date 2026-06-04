@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-04T09:03:12.277763+00:00",
+  "last_update": "2026-06-04T12:13:31.867076+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1480,6 +1480,266 @@
       "end_time": "2026-06-04T12:30:00",
       "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
       "id": "e0d497fdb771f7bf6171090ac20f4e2e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Anyżowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4719481,
+      "lon": 16.9360377,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "1ff8823a6c07573c580e4c5f49d82400"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czekoladowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4747754,
+      "lon": 16.9311015,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "e6330f31eb5f7dc88c7c3a945a6186d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Lubeckiego, Ostroróg, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-348, Polska",
+      "lat": 52.4020491,
+      "lon": 16.8782989,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Grochowska, ul. Marcelińska, ul. Pawła Włodkowica, ul. Poranek, ul. Rycerska.",
+      "id": "a56f50b06e9033e6f4833af22c3ac364"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowska, Raszyn, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-277, Polska",
+      "lat": 52.3948481,
+      "lon": 16.8832358,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Grochowska, ul. Marcelińska, ul. Pawła Włodkowica, ul. Poranek, ul. Rycerska.",
+      "id": "6bba26b58674238a87aa3d34a0755bf1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marcelińska, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-358, Polska",
+      "lat": 52.4048596,
+      "lon": 16.8876425,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Grochowska, ul. Marcelińska, ul. Pawła Włodkowica, ul. Poranek, ul. Rycerska.",
+      "id": "68595543f26ad35a4e3ea83dd6e324b5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mariampolska, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4759664,
+      "lon": 16.940216,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "79a988e12ea81019a47b1f46ecb20b77"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mleczowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4710283,
+      "lon": 16.9302607,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "0fe6e966629152d82a66196b5af1d152"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pawła Włodkowica, Ostroróg, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-334, Polska",
+      "lat": 52.4018781,
+      "lon": 16.8770949,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Grochowska, ul. Marcelińska, ul. Pawła Włodkowica, ul. Poranek, ul. Rycerska.",
+      "id": "1a2ab7ac10dbc927fba5d632300a7bc3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poranek, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-389, Polska",
+      "lat": 52.4062095,
+      "lon": 16.8741957,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Grochowska, ul. Marcelińska, ul. Pawła Włodkowica, ul. Poranek, ul. Rycerska.",
+      "id": "7f3ef5fd2bbbbe20875d03d830983a06"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "4461d2812a1e7c35193ffd403faad66e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rycerska, Kasztelanów, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-345, Polska",
+      "lat": 52.4028951,
+      "lon": 16.8725782,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego, ul. Grochowska, ul. Marcelińska, ul. Pawła Włodkowica, ul. Poranek, ul. Rycerska.",
+      "id": "8098aad58c54fab8dddd24f7a68c3d65"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słonecznikowa, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4774997,
+      "lon": 16.9390768,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "573d51c976378bd4106f77c51e1aca2a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Umultowska, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4750115,
+      "lon": 16.9404752,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "7df1979ab5db5a2fb9fb59f7314cbef3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrotyczowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.472491,
+      "lon": 16.9374502,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "e74169b949ed57a9a422b9982196e8da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zagajnikowa, Różany Potok, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4695308,
+      "lon": 16.9418347,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "31290c86e012e9166418fd659af0f73f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ślazowa, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4719477,
+      "lon": 16.9390416,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T15:30:00",
+      "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
+      "id": "df276bb17504a4c60946b21021c96488"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gruntowa, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3651412,
+      "lon": 16.8598123,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "72a828ae6df5bdcc7e97420f97aa161e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "a162507d2e63ad8d8deb24b0e7bdf534"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3571115,
+      "lon": 16.8522718,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "b5bad310bd761e58b298f8a44ca59577"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mieleszyńska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3635248,
+      "lon": 16.861783,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "4383175112213f22f7e3a472a43da6ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Otwarta, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3648959,
+      "lon": 16.861143,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "3e19a3465c7dbbc2c4ca3a9574c4f4cb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stara Cegielnia, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3638796,
+      "lon": 16.8645236,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "b22d70191d27a20dab56929934641baa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szachty, Fabianowo, Fabianowo-Kotowo, Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.3632539,
+      "lon": 16.8700991,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "9ee3197b263af34907d0e956d1dd4585"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szuwarowa, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3665895,
+      "lon": 16.8559604,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "80897b83acda0dcd70873a5513f21471"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tyniecka, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3618887,
+      "lon": 16.8582761,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "b22aa717be08e43db37617e28b5c60ff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zamiejska, Fabianowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-008, Polska",
+      "lat": 52.3642133,
+      "lon": 16.8633129,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T16:30:00",
+      "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
+      "id": "64f4c71d25e061fccfb1e1f6360d5ab0"
     }
   ]
 }
