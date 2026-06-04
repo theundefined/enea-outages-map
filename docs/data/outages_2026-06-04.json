@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-04T12:13:31.867076+00:00",
+  "last_update": "2026-06-04T15:47:00.199058+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1740,6 +1740,26 @@
       "end_time": "2026-06-04T16:30:00",
       "original_description": "Poznań ul. Glinianki, ul. Głogowska, ul. Gruntowa, ul. Kotowo, ul. Mieleszyńska, ul. Otwarta, ul. Stara Cegielnia, ul. Szuwarowa, ul. Tyniecka, ul. Zamiejska.",
       "id": "64f4c71d25e061fccfb1e1f6360d5ab0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Lubeckiego, Ostroróg, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-348, Polska",
+      "lat": 52.4020491,
+      "lon": 16.8782989,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T18:00:00",
+      "original_description": "Poznań ul. Franciszka Lubeckiego 19A, 21, 23, 23A.",
+      "id": "b85665c718e47528e9dc611d4a500868"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-04T18:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "f511bd915f592693b7ca965ba044928c"
     }
   ]
 }
