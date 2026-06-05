@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-05T13:26:59.749373+00:00",
+  "last_update": "2026-06-05T16:12:04.219705+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1530,6 +1530,16 @@
       "end_time": "2026-06-05T17:30:00",
       "original_description": "Biedrusko ul. Poznańska 2, 2a, 3, dz.379/1.",
       "id": "2e709773172ee982c074090c2e52dd70"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-05T19:30:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "9e94f47076285b1f791824019a1542db"
     }
   ]
 }
