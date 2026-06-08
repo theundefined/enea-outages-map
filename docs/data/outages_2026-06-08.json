@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-08T12:04:11.884151+00:00",
+  "last_update": "2026-06-08T16:14:38.136460+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1520,6 +1520,26 @@
       "end_time": "2026-06-08T15:30:00",
       "original_description": "Poznań ul. Wojska Polskiego 71b.",
       "id": "731c3cf2f301ac27084e67b33ad3be8f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-08T18:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "97741fdbc856ef97614a798a6e36a11b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojska Polskiego, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-660, Polska",
+      "lat": 52.4295634,
+      "lon": 16.8937649,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-08T18:30:00",
+      "original_description": "Poznań ul. Wojska Polskiego 71b.",
+      "id": "4794ea663825f701dd67966343f7943a"
     }
   ]
 }
