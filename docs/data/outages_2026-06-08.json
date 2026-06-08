@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-08T18:37:05.701945+00:00",
+  "last_update": "2026-06-08T21:03:32.408289+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1640,6 +1640,16 @@
       "end_time": "2026-06-08T22:30:00",
       "original_description": "Poznań ul. Anyżowa 10, 11, 12, 13, 14, 15, 17, 19, 21, 21 A, 23, 23 A, 25, 5, 6, 7, 8, ul. Czekoladowa 1, 11, ul. Mariampolska 5, ul. Mleczowa 1, 12, 14, 18, 3 C, 3A, 3B, 3D, 4A, 5, 6, 7, 8, dz.373/35, DZ/373/34, ul. Rumiankowa 11, 13, 134, 13A, 13B, 14, 15, 15 A, 15 B, 15A, 17, 18, 20, 22, 23, 23A, 24, 25, 27, 29, 38 A, 38 B, 40 A, 40 B, 45, 48, 5, 58, 5A, 60, 62, 64, 66, 68, 7, 70, 80, 82, 9, DZ.295/5, ul. Słonecznikowa 10, 12, 14, 16, 20, 22, 24/26, 8, ul. Ślazowa 3, ul. Umultowska /KURPINS, /KURPINSKI, /ŁUŻYCKA, /MADZIAR, /WACHOWIAK, 100, 100 A, 100 D, 100 F, 100A, 102 A, 102 B, 102 C, 102 D, 102A, 105, 107, 109, 11, 111, 111A, 113, 115, 116, 117, 118, 118 B, 118A, 12, 120, 120 B, 120 CD, 120A, 120E, 122, 123, 123 A, 124, 126, 126 B, 126A, 127, 13, 15, 2, 23, 29, 32, 37, 37A, 37B, 37C, 39, 41, 41 A, 43, 45, 47, 49, 5, 51, 51A, 53, 54, 55, 55A, 56, 57, 58, 59, 60, 61, 62, 63, 67, 7, 7A, 8, 9, 97, 99, parking., PRZY BL.15, ZES.GAR., ul. Wrotyczowa 10, 3, 6, 7, 8, 9, ul. Zagajnikowa /Ślazowa, 10, 12, 16, 26, 26b, 28, 28(DZ.29/7, 28C, 30, 30F, 32, 33, 35, 39/41, 4, 4 A, 43/45, 47, 49, 4dz. nr 22, 55, 8, 8B, dz.29/15.",
       "id": "7112f07d61fea516835e040d8b8509b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-09T01:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "b5ada606c4f1a1b98a08ec4fc3549214"
     }
   ]
 }
