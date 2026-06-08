@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-08T02:04:55.986697+00:00",
+  "last_update": "2026-06-08T06:59:27.442714+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1193,6 +1193,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Masztalarska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-767, Polska",
+      "lat": 52.4101758,
+      "lon": 16.9331274,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T14:00:00",
+      "original_description": "Poznań: ul. Masztalarska 7A, 8, 8A.",
+      "id": "4638f6fe1ab83f235a708ef5eb31004b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Cyraneczki, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
       "lat": 52.4251879,
       "lon": 17.0672508,
@@ -1390,6 +1400,16 @@
       "end_time": "2026-06-08T04:30:00",
       "original_description": "Poznań ul. Rumiankowa 27.",
       "id": "0fef02ddaebc6fa11ae25106284fa38d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-08T10:30:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "0b1a9ca8aae04819b1c49c939bd32732"
     }
   ]
 }
