@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-08T06:59:27.442714+00:00",
+  "last_update": "2026-06-08T12:04:11.884151+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1083,6 +1083,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Pilotów, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.425293,
+      "lon": 16.8533889,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T15:30:00",
+      "original_description": "Poznań: ul. Pilotów od 5 do 19 nieparzyste, 19A, ul. Sterowa, ul. Startowa 15A, 17, 19.",
+      "id": "22af78f348968c75e6a09aabd6c520fb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Startowa, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.4261395,
+      "lon": 16.8562671,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T15:30:00",
+      "original_description": "Poznań: ul. Pilotów od 5 do 19 nieparzyste, 19A, ul. Sterowa, ul. Startowa 15A, 17, 19.",
+      "id": "24633e2ecd87bcbb348670d2d905bd78"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sterowa, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.4260959,
+      "lon": 16.8547707,
+      "start_time": "2026-06-16T08:30:00",
+      "end_time": "2026-06-16T15:30:00",
+      "original_description": "Poznań: ul. Pilotów od 5 do 19 nieparzyste, 19A, ul. Sterowa, ul. Startowa 15A, 17, 19.",
+      "id": "283575214c9257dfbe8f8a11178a85bd"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
       "lat": 52.4074553,
       "lon": 16.9131949,
@@ -1200,6 +1230,46 @@
       "end_time": "2026-06-18T14:00:00",
       "original_description": "Poznań: ul. Masztalarska 7A, 8, 8A.",
       "id": "4638f6fe1ab83f235a708ef5eb31004b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Gajowa od 13B do 41 nr nieparzyste (oprócz 19 i 21), od 54 do 66 nr parzyste,  ul. Krótka cała, ul. Poznańska od 2 do 9, 11, 13, 17, 19, ul. Przemysłowa 2, ul. Magazynowa 3, 5, działki nr 119/4, 127/8, 129/1, 216/7, żłobek Baby House,",
+      "id": "76177b59f2ccb4e55d83f084e04cfc8d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Magazynowa, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3313553,
+      "lon": 16.8908049,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Gajowa od 13B do 41 nr nieparzyste (oprócz 19 i 21), od 54 do 66 nr parzyste,  ul. Krótka cała, ul. Poznańska od 2 do 9, 11, 13, 17, 19, ul. Przemysłowa 2, ul. Magazynowa 3, 5, działki nr 119/4, 127/8, 129/1, 216/7, żłobek Baby House,",
+      "id": "97bf3b239b25378fe92b3a7147e565a5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Gajowa od 13B do 41 nr nieparzyste (oprócz 19 i 21), od 54 do 66 nr parzyste,  ul. Krótka cała, ul. Poznańska od 2 do 9, 11, 13, 17, 19, ul. Przemysłowa 2, ul. Magazynowa 3, 5, działki nr 119/4, 127/8, 129/1, 216/7, żłobek Baby House,",
+      "id": "7b0367e29ee4327f0a9a83546590db54"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przemysłowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-581, Polska",
+      "lat": 52.400503,
+      "lon": 16.9184599,
+      "start_time": "2026-06-18T08:00:00",
+      "end_time": "2026-06-18T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Gajowa od 13B do 41 nr nieparzyste (oprócz 19 i 21), od 54 do 66 nr parzyste,  ul. Krótka cała, ul. Poznańska od 2 do 9, 11, 13, 17, 19, ul. Przemysłowa 2, ul. Magazynowa 3, 5, działki nr 119/4, 127/8, 129/1, 216/7, żłobek Baby House,",
+      "id": "3a4c89c000981d77b46d2b8fef034117"
     },
     {
       "type": "planned",
@@ -1353,6 +1423,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Metalowa, Górczyn, Poznań, województwo wielkopolskie, 60-118, Polska",
+      "lat": 52.3810316,
+      "lon": 16.8861837,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T16:30:00",
+      "original_description": "Poznań: ul. Metalowa od 8 do 14 parzyste.",
+      "id": "2867e87374300d646e56c4d4871b6c07"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Koszalińska, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-626, Polska",
       "lat": 52.4362166,
       "lon": 16.8798349,
@@ -1410,6 +1490,36 @@
       "end_time": "2026-06-08T10:30:00",
       "original_description": "Poznań ul. Rumiankowa 27.",
       "id": "0b1a9ca8aae04819b1c49c939bd32732"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-08T15:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "0b8e1857d470462ceb9a794d0bf21a4d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-08T15:30:00",
+      "original_description": "Poznań ul. Admiralska 45, 47, 49, 50, 51, 52, 53, 54, 56, 57, 58, 60, 62, 64, 64A.",
+      "id": "e9ffb1090cb4311d6d9bccfe21a05d50"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojska Polskiego, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-660, Polska",
+      "lat": 52.4295634,
+      "lon": 16.8937649,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-08T15:30:00",
+      "original_description": "Poznań ul. Wojska Polskiego 71b.",
+      "id": "731c3cf2f301ac27084e67b33ad3be8f"
     }
   ]
 }
