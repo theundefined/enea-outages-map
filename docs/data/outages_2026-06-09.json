@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-09T02:49:18.685754+00:00",
+  "last_update": "2026-06-09T06:36:40.237642+00:00",
   "outages": [
     {
       "type": "planned",
@@ -943,6 +943,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-06-16T09:00:00",
+      "end_time": "2026-06-16T14:00:00",
+      "original_description": "Gmina Komorniki miejscowość Szreniawa ul. Poznańska od 2 do 18 nr parzyste, \n działki nr 7/9, 14/189, 14/190, 16/1, Przedszkole Samorządowe Słoneczko, boisko, przepompownia, znaki drogowe, znaki aktywne, sygnalizacja świetlna,",
+      "id": "49dacfb9a06a6d5a8cd72461d6463931"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
       "lat": 52.4074553,
       "lon": 16.9131949,
@@ -1310,6 +1320,36 @@
       "end_time": "2026-06-09T05:30:00",
       "original_description": "Poznań ul. Rumiankowa 27.",
       "id": "542236df2defe238239bee46af70c25c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-09T10:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "52e59b4354dd40ca88111d81656ad9ea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-09T11:00:00",
+      "original_description": "Poznań ul. Naramowicka 31, 31 A, 31 A / 16, 31 B, 31A, 31A lok104, 31A lok106, 31B, 31B lok101, 31B lok102, 31B lok103, 33, 33 A, 33 B, 33 C, 33 D, 33A, 33A lok107, 33B, 33B lok108, 33B lok109, 33C, 33Clok.110, 33D, 35, 35 A, 35 B, 35 C, 35A, 35B, 35C, 37, 39, 41, 43, 45, ul. Serbska 24.",
+      "id": "6d9db8abd10fd1f095793188533b9af2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Serbska, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-623, Polska",
+      "lat": 52.4302408,
+      "lon": 16.9577556,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-09T11:00:00",
+      "original_description": "Poznań ul. Naramowicka 31, 31 A, 31 A / 16, 31 B, 31A, 31A lok104, 31A lok106, 31B, 31B lok101, 31B lok102, 31B lok103, 33, 33 A, 33 B, 33 C, 33 D, 33A, 33A lok107, 33B, 33B lok108, 33B lok109, 33C, 33Clok.110, 33D, 35, 35 A, 35 B, 35 C, 35A, 35B, 35C, 37, 39, 41, 43, 45, ul. Serbska 24.",
+      "id": "aa5abdc397ae43bbb8850a7a11996173"
     }
   ]
 }
