@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-09T18:23:59.932263+00:00",
+  "last_update": "2026-06-09T20:25:44.562273+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1600,6 +1600,26 @@
       "end_time": "2026-06-09T21:30:00",
       "original_description": "Poznań ul. Bułgarska 150, 152A, 152B, 152C.",
       "id": "95fd3e635c6607301e570bd93cf188e8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bułgarska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-325, Polska",
+      "lat": 52.3962032,
+      "lon": 16.8622017,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-09T23:00:00",
+      "original_description": "Poznań ul. Bułgarska 150, 152A, 152B, 152C.",
+      "id": "87814186596c8413943cca0196a4d7aa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-09T23:30:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "28b4cb84ae2c4fdc2235a0ebe5c10baa"
     }
   ]
 }
