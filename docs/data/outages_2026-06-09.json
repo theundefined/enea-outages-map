@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-09T10:21:40.976709+00:00",
+  "last_update": "2026-06-09T13:22:28.114300+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1560,6 +1560,16 @@
       "end_time": "2026-06-09T12:00:00",
       "original_description": "Puszczykowo ul. Jasna 12, ul. Łąkowa 1, 3, ul. Podleśna 10, 1A, 1B, 2, 3, 4, 5, 6, 7A, 8, 9, ul. Poznańska 1, 10, 12, 2, 2/4, 4, 5, 6, 6A, 7, 7A, 8, 8A, 9, ul. Wczasowa 1, 2, 4, 8A.",
       "id": "5a09024ac208a88f1db5463e7da7435b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-09T16:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "5146c54bd28e9c771101c3aa9885679f"
     }
   ]
 }
