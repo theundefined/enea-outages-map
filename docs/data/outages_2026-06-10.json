@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-10T19:53:40.470777+00:00",
+  "last_update": "2026-06-10T21:58:18.280986+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1480,6 +1480,16 @@
       "end_time": "2026-06-10T22:00:00",
       "original_description": "Poznań ul. Rumiankowa 27.",
       "id": "d8b2738d5b8d99e6d2eda68acb96bb4e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-11T01:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "6fd7c99232fd3a4c98a73377b88f5c48"
     }
   ]
 }
