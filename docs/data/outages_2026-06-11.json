@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-11T02:03:29.226739+00:00",
+  "last_update": "2026-06-11T07:01:04.126439+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1172,6 +1172,16 @@
       "id": "211760e34e4e88554f897f51c567d66d"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Głuszyna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3166706,
+      "lon": 16.9499986,
+      "start_time": "2026-06-19T08:30:00",
+      "end_time": "2026-06-19T14:00:00",
+      "original_description": "Poznań: ul. Głuszyna 155E-F.",
+      "id": "b12406c736f628bbddeceabc3ae0d9d9"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
       "lat": 52.4758672,
@@ -1180,6 +1190,16 @@
       "end_time": "2026-06-11T04:00:00",
       "original_description": "Poznań ul. Rumiankowa 27.",
       "id": "9fca5514ad1eeaa429b396e1b82daf1a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-11T10:00:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "1fe05bdead196023a368406d5bbe70f7"
     }
   ]
 }
