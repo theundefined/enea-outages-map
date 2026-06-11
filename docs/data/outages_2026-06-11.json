@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-11T07:01:04.126439+00:00",
+  "last_update": "2026-06-11T11:44:34.946848+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1113,6 +1113,86 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Augustowska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-051, Polska",
+      "lat": 52.4075989,
+      "lon": 16.9879136,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T12:30:00",
+      "original_description": "Poznań: ul. Brzeska, ul. Łomżyńska od 30 do 80 parzyste, od 45 do 73 nieparzyste, ul. Augustowska 34, ul. Goplańska 32A, 34, ul. Mińska od 2 do 12 parzyste, 30, 32.",
+      "id": "b25e5953cf0a1ba2730e057463b92edf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Brzeska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-048, Polska",
+      "lat": 52.4071937,
+      "lon": 16.983973,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T12:30:00",
+      "original_description": "Poznań: ul. Brzeska, ul. Łomżyńska od 30 do 80 parzyste, od 45 do 73 nieparzyste, ul. Augustowska 34, ul. Goplańska 32A, 34, ul. Mińska od 2 do 12 parzyste, 30, 32.",
+      "id": "c28885476bfbd3d74ab068df7d5efeb9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Goplańska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-051, Polska",
+      "lat": 52.4075554,
+      "lon": 16.9891418,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T12:30:00",
+      "original_description": "Poznań: ul. Brzeska, ul. Łomżyńska od 30 do 80 parzyste, od 45 do 73 nieparzyste, ul. Augustowska 34, ul. Goplańska 32A, 34, ul. Mińska od 2 do 12 parzyste, 30, 32.",
+      "id": "6a7a00a13b8fdd4680c0e72dbcec858f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-051, Polska",
+      "lat": 52.4063811,
+      "lon": 16.9884001,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T12:30:00",
+      "original_description": "Poznań: ul. Brzeska, ul. Łomżyńska od 30 do 80 parzyste, od 45 do 73 nieparzyste, ul. Augustowska 34, ul. Goplańska 32A, 34, ul. Mińska od 2 do 12 parzyste, 30, 32.",
+      "id": "b396077d77031cf61429089d729828d0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łomżyńska, Czekalskie, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-048, Polska",
+      "lat": 52.4074515,
+      "lon": 16.9854225,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T12:30:00",
+      "original_description": "Poznań: ul. Brzeska, ul. Łomżyńska od 30 do 80 parzyste, od 45 do 73 nieparzyste, ul. Augustowska 34, ul. Goplańska 32A, 34, ul. Mińska od 2 do 12 parzyste, 30, 32.",
+      "id": "3688efc1ec0e723e7f58fdfe0f72be1c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Cerekwicka, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.475051,
+      "lon": 16.8145001,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T16:30:00",
+      "original_description": "Poznań: ul. Gołęczewska, ul. Złotnicka 10, 12, ul. Koszalińska 40, 42, ul. Cerekwicka.",
+      "id": "163bf7fee7c7163dac6b225daebeb95f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Golęczewska, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4749592,
+      "lon": 16.8131041,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T16:30:00",
+      "original_description": "Poznań: ul. Gołęczewska, ul. Złotnicka 10, 12, ul. Koszalińska 40, 42, ul. Cerekwicka.",
+      "id": "b5da2c4330ea5519bd95157455ce1a67"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Koszalińska, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-626, Polska",
+      "lat": 52.4362166,
+      "lon": 16.8798349,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T16:30:00",
+      "original_description": "Poznań: ul. Gołęczewska, ul. Złotnicka 10, 12, ul. Koszalińska 40, 42, ul. Cerekwicka.",
+      "id": "c0f06d2b203e74cb4e6683a8802fdd47"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Metalowa, Górczyn, Poznań, województwo wielkopolskie, 60-118, Polska",
       "lat": 52.3810316,
       "lon": 16.8861837,
@@ -1120,6 +1200,16 @@
       "end_time": "2026-06-18T16:30:00",
       "original_description": "Poznań: ul. Metalowa od 8 do 14 parzyste.",
       "id": "2867e87374300d646e56c4d4871b6c07"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Złotnicka, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4751378,
+      "lon": 16.8089872,
+      "start_time": "2026-06-18T08:30:00",
+      "end_time": "2026-06-18T16:30:00",
+      "original_description": "Poznań: ul. Gołęczewska, ul. Złotnicka 10, 12, ul. Koszalińska 40, 42, ul. Cerekwicka.",
+      "id": "aa770bd466f7e865db305de8d3c9b9e5"
     },
     {
       "type": "planned",
@@ -1182,6 +1272,56 @@
       "id": "b12406c736f628bbddeceabc3ae0d9d9"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Altanowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.481406,
+      "lon": 16.7771664,
+      "start_time": "2026-06-23T08:30:00",
+      "end_time": "2026-06-23T12:30:00",
+      "original_description": "Poznań: ul. Turystyczna od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Chojnicka od 100 do 108 parzyste, ul. Atlanowa od 2 do 18 parzyste.\nKiekrz: ul. Poznańska 2, 4, ul. Altanowa od 1 do 9 nieparzyste.",
+      "id": "fe434e9606beff7360955c23fd80e013"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Chojnicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751085,
+      "lon": 16.7897565,
+      "start_time": "2026-06-23T08:30:00",
+      "end_time": "2026-06-23T12:30:00",
+      "original_description": "Poznań: ul. Turystyczna od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Chojnicka od 100 do 108 parzyste, ul. Atlanowa od 2 do 18 parzyste.\nKiekrz: ul. Poznańska 2, 4, ul. Altanowa od 1 do 9 nieparzyste.",
+      "id": "57c815140ff592a77c9b3de79d083cd8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Turystyczna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4803791,
+      "lon": 16.7785209,
+      "start_time": "2026-06-23T08:30:00",
+      "end_time": "2026-06-23T12:30:00",
+      "original_description": "Poznań: ul. Turystyczna od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Chojnicka od 100 do 108 parzyste, ul. Atlanowa od 2 do 18 parzyste.\nKiekrz: ul. Poznańska 2, 4, ul. Altanowa od 1 do 9 nieparzyste.",
+      "id": "43c6915222e5ba2acd000967ee284a41"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Winiarska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4286072,
+      "lon": 16.9088052,
+      "start_time": "2026-06-24T08:30:00",
+      "end_time": "2026-06-24T10:30:00",
+      "original_description": "Poznań: ul. Winiarska od 30 do 38 parzyste, ul. Zjazd.",
+      "id": "26fbc8bcad72212e0f2c0e2fa4855840"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zjazd, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-639, Polska",
+      "lat": 52.4283697,
+      "lon": 16.9096701,
+      "start_time": "2026-06-24T08:30:00",
+      "end_time": "2026-06-24T10:30:00",
+      "original_description": "Poznań: ul. Winiarska od 30 do 38 parzyste, ul. Zjazd.",
+      "id": "8afa5b990cce2ec6769113048fcfa921"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
       "lat": 52.4758672,
@@ -1200,6 +1340,16 @@
       "end_time": "2026-06-11T10:00:00",
       "original_description": "Poznań ul. Rumiankowa 27.",
       "id": "1fe05bdead196023a368406d5bbe70f7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-11T14:30:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "8eba3c0d1b146bd9cec061d093b61ff7"
     }
   ]
 }
