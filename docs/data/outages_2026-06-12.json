@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-06-12T20:05:32.613409+00:00",
+  "last_update": "2026-06-12T21:58:59.668533+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1920,6 +1920,66 @@
       "end_time": "2026-06-12T21:30:00",
       "original_description": "Poznań ul. Huby Moraskie 1, 10, 10 B, 10a, 11, 12, 14, 14 A, 15, 16, 17, 18, 19, 21, 23, 23A, 23B, 25, 3, 30, 31, 34, 35, 35 B, 37, 38, 41 B, 41 C, 43 C, 43A, 44, 48, 4A, 5, 6 A, 6B, 6D, 6E, 6R, 7A, 8, 8A, 8B, DZ. 287, DZ.290/13, ul. Morasko 2, 21A, 23 A, 25, 25 A, 25 C, 25 E, 25 G, 25 H, 25 L, 25B, 25D, 25F, 25K, 26, 26 A, 26 B, 26C, 26D, 27D, 28, 28 E, 28 G, 28 i, 28 K, 28 L, 28 N, 28 S, 28A, 28B, 28C, 28H, 28m, 28U, 36, 37, 38, 42, 42 B, 43, 44, 44 D, 44 E, 44 K, 44 L, 44 M, 44 P, 44B, 44R, 44T, 45, 46, 46a, 47, 48 C, 48A, 48B, 48C, 48D, 48E, 49, 51, 53, 53A, 54 LOK 1, 56, 56 B, 56C, 58, 58 D, 58 E, 58A, 58B, 58C, 60, 60 D, 60 E, 60A, 60B, 60C, 64, 66, 68, 68A, 70, 72, 78, 82, 84, 86, DZ. 175/7, DZ. 227/14, DZ.227/54, Huby Moras, Nad Różany, ul. Przedwiośnia 12, 14, 14A, 15, 16, 2, 20, 22, 24, 28, 30, 34, 35, 36, 38, 4, 40, 42, 44, 5, ul. Szumiących Traw.",
       "id": "9982faa01a9ba21d27ed379f6a7b54e0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4795026,
+      "lon": 16.9188663,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-13T00:30:00",
+      "original_description": "Poznań ul. Huby Moraskie 1, 10, 10 B, 10a, 11, 12, 14, 14 A, 15, 16, 17, 18, 19, 21, 23, 23A, 23B, 25, 3, 30, 31, 34, 35, 35 B, 37, 38, 41 B, 41 C, 43 C, 43A, 44, 48, 4A, 5, 6 A, 6B, 6D, 6E, 6R, 7A, 8, 8A, 8B, DZ. 287, DZ.290/13, ul. Morasko 2, 21A, 23 A, 25, 25 A, 25 C, 25 E, 25 G, 25 H, 25 L, 25B, 25D, 25F, 25K, 26, 26 A, 26 B, 26C, 26D, 27D, 28, 28 E, 28 G, 28 i, 28 K, 28 L, 28 N, 28 S, 28A, 28B, 28C, 28H, 28m, 28U, 36, 37, 38, 42, 42 B, 43, 44, 44 D, 44 E, 44 K, 44 L, 44 M, 44 P, 44B, 44R, 44T, 45, 46, 46a, 47, 48 C, 48A, 48B, 48C, 48D, 48E, 49, 51, 53, 53A, 54 LOK 1, 56, 56 B, 56C, 58, 58 D, 58 E, 58A, 58B, 58C, 60, 60 D, 60 E, 60A, 60B, 60C, 64, 66, 68, 68A, 70, 72, 78, 82, 84, 86, DZ. 175/7, DZ. 227/14, DZ.227/54, Huby Moras, Nad Różany, ul. Przedwiośnia 12, 14, 14A, 15, 16, 2, 20, 22, 24, 28, 30, 34, 35, 36, 38, 4, 40, 42, 44, 5, ul. Szumiących Traw.",
+      "id": "36e1be20e7ea589bd4c8c83919e09a19"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4892306,
+      "lon": 16.9095915,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-13T00:30:00",
+      "original_description": "Poznań ul. Huby Moraskie 1, 10, 10 B, 10a, 11, 12, 14, 14 A, 15, 16, 17, 18, 19, 21, 23, 23A, 23B, 25, 3, 30, 31, 34, 35, 35 B, 37, 38, 41 B, 41 C, 43 C, 43A, 44, 48, 4A, 5, 6 A, 6B, 6D, 6E, 6R, 7A, 8, 8A, 8B, DZ. 287, DZ.290/13, ul. Morasko 2, 21A, 23 A, 25, 25 A, 25 C, 25 E, 25 G, 25 H, 25 L, 25B, 25D, 25F, 25K, 26, 26 A, 26 B, 26C, 26D, 27D, 28, 28 E, 28 G, 28 i, 28 K, 28 L, 28 N, 28 S, 28A, 28B, 28C, 28H, 28m, 28U, 36, 37, 38, 42, 42 B, 43, 44, 44 D, 44 E, 44 K, 44 L, 44 M, 44 P, 44B, 44R, 44T, 45, 46, 46a, 47, 48 C, 48A, 48B, 48C, 48D, 48E, 49, 51, 53, 53A, 54 LOK 1, 56, 56 B, 56C, 58, 58 D, 58 E, 58A, 58B, 58C, 60, 60 D, 60 E, 60A, 60B, 60C, 64, 66, 68, 68A, 70, 72, 78, 82, 84, 86, DZ. 175/7, DZ. 227/14, DZ.227/54, Huby Moras, Nad Różany, ul. Przedwiośnia 12, 14, 14A, 15, 16, 2, 20, 22, 24, 28, 30, 34, 35, 36, 38, 4, 40, 42, 44, 5, ul. Szumiących Traw.",
+      "id": "5d5816025c31d30b000b8bb6769be1af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4892306,
+      "lon": 16.9095915,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-13T00:30:00",
+      "original_description": "Poznań ul. Morasko 1, 11, 11 B, 11A, 11C, 12, 12/a, 13, 13/F, 14, 14/A, 15, 17, 17/A, 18, 19, 1a, 20, 4, 5, 6, 7, 8, 8/a, 8/A, 8/b, 8/B, 9, DZ. 304/25.",
+      "id": "a611f61d909888604fd1f335af8c58f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przedwiośnia, Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4784521,
+      "lon": 16.9114355,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-13T00:30:00",
+      "original_description": "Poznań ul. Huby Moraskie 1, 10, 10 B, 10a, 11, 12, 14, 14 A, 15, 16, 17, 18, 19, 21, 23, 23A, 23B, 25, 3, 30, 31, 34, 35, 35 B, 37, 38, 41 B, 41 C, 43 C, 43A, 44, 48, 4A, 5, 6 A, 6B, 6D, 6E, 6R, 7A, 8, 8A, 8B, DZ. 287, DZ.290/13, ul. Morasko 2, 21A, 23 A, 25, 25 A, 25 C, 25 E, 25 G, 25 H, 25 L, 25B, 25D, 25F, 25K, 26, 26 A, 26 B, 26C, 26D, 27D, 28, 28 E, 28 G, 28 i, 28 K, 28 L, 28 N, 28 S, 28A, 28B, 28C, 28H, 28m, 28U, 36, 37, 38, 42, 42 B, 43, 44, 44 D, 44 E, 44 K, 44 L, 44 M, 44 P, 44B, 44R, 44T, 45, 46, 46a, 47, 48 C, 48A, 48B, 48C, 48D, 48E, 49, 51, 53, 53A, 54 LOK 1, 56, 56 B, 56C, 58, 58 D, 58 E, 58A, 58B, 58C, 60, 60 D, 60 E, 60A, 60B, 60C, 64, 66, 68, 68A, 70, 72, 78, 82, 84, 86, DZ. 175/7, DZ. 227/14, DZ.227/54, Huby Moras, Nad Różany, ul. Przedwiośnia 12, 14, 14A, 15, 16, 2, 20, 22, 24, 28, 30, 34, 35, 36, 38, 4, 40, 42, 44, 5, ul. Szumiących Traw.",
+      "id": "05ce35cc573823cd06a42532cc5d62f8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szumiących Traw, Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4800945,
+      "lon": 16.9119148,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-13T00:30:00",
+      "original_description": "Poznań ul. Huby Moraskie 1, 10, 10 B, 10a, 11, 12, 14, 14 A, 15, 16, 17, 18, 19, 21, 23, 23A, 23B, 25, 3, 30, 31, 34, 35, 35 B, 37, 38, 41 B, 41 C, 43 C, 43A, 44, 48, 4A, 5, 6 A, 6B, 6D, 6E, 6R, 7A, 8, 8A, 8B, DZ. 287, DZ.290/13, ul. Morasko 2, 21A, 23 A, 25, 25 A, 25 C, 25 E, 25 G, 25 H, 25 L, 25B, 25D, 25F, 25K, 26, 26 A, 26 B, 26C, 26D, 27D, 28, 28 E, 28 G, 28 i, 28 K, 28 L, 28 N, 28 S, 28A, 28B, 28C, 28H, 28m, 28U, 36, 37, 38, 42, 42 B, 43, 44, 44 D, 44 E, 44 K, 44 L, 44 M, 44 P, 44B, 44R, 44T, 45, 46, 46a, 47, 48 C, 48A, 48B, 48C, 48D, 48E, 49, 51, 53, 53A, 54 LOK 1, 56, 56 B, 56C, 58, 58 D, 58 E, 58A, 58B, 58C, 60, 60 D, 60 E, 60A, 60B, 60C, 64, 66, 68, 68A, 70, 72, 78, 82, 84, 86, DZ. 175/7, DZ. 227/14, DZ.227/54, Huby Moras, Nad Różany, ul. Przedwiośnia 12, 14, 14A, 15, 16, 2, 20, 22, 24, 28, 30, 34, 35, 36, 38, 4, 40, 42, 44, 5, ul. Szumiących Traw.",
+      "id": "7b994a1b8ba79c3f4921ac95fe743c1e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-06-13T01:30:00",
+      "original_description": "Poznań ul. Rumiankowa 27.",
+      "id": "99c0c5aebfe7b9cc5b2dc9305d8209be"
     }
   ]
 }
