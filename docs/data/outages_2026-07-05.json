@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-05T12:51:27.080810+00:00",
+  "last_update": "2026-07-05T14:39:02.319930+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,196 @@
       "end_time": "2026-07-05T16:30:00",
       "original_description": "Grobia, Kaczlin, Lesionki, Lutom ul. Za Lasem, Tuchola ul. Brzoskwiniowa, ul. Jabłoniowa, ul. Jagodowa, ul. Poziomkowa, Sieraków ul. Bociania, ul. Buczyna, ul. Dworcowa, ul. Jaskółcza, ul. Kukułcza, ul. Łabędzia, ul. Opalińskich, ul. Orla, ul. Plażowa, ul. Poznańska, ul. Przedszkolna, ul. Słowicza, ul. Sowia, ul. Stadnina, ul. Towarowa, ul. Wroniecka, ul. Żurawia.",
       "id": "21730d873f04f20d4558fe959d0bb91e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Agrestowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3698238,
+      "lon": 17.0015862,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "552d073896ef365f1e8d550f7ee1848f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brokułowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3708353,
+      "lon": 17.005569,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "19d703aa2faee8ed04a4842d66153955"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chotomińska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3666981,
+      "lon": 16.9964692,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "9dbb2952a2bee9c4695f5b4461a9bdaf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dyniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3709709,
+      "lon": 17.0055903,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "1020a5c47a9051ca040f033a785bf9e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gardowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3674173,
+      "lon": 16.9961312,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "8ac0c0ab059f080b985f184b1843f5e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Iłowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3698497,
+      "lon": 16.9960026,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "f85eab6785dbae180ff7c99a628d1a5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "406ea3c49cafc5eca50fdbb2661b6302"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "87f2309a43c1288b9a99ce6ab91c8268"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morwowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3706417,
+      "lon": 17.0000963,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "c0bd7ec954b3a35bd25fafd4447fdc07"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Pokrzywką, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3668093,
+      "lon": 17.0002032,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "a1dda66f8c203c871ed8a364f8d1f45f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzodkiewkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3706585,
+      "lon": 17.0066846,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "a6a42e816cccf508b20153dd8b1a9cca"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Selerowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3708902,
+      "lon": 17.0126799,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "11bb41a754815e02ca72ff1df109bb14"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Siedliskowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3654301,
+      "lon": 17.0040955,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "3bebd6c889716f4333d715510001e1d3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stewnicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3737936,
+      "lon": 16.9986544,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "786194737dae980a2cfa94a0fa545a51"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "d04c42e8c50db7bd4a99f363534ec20e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szparagowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3711021,
+      "lon": 17.0045019,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "5d966b13b25084370399e809ce3c9138"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wieprawska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3662855,
+      "lon": 16.9983593,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "510619458a85af141e1aa26239765089"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łopawska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3690103,
+      "lon": 16.9952344,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "c9eae7bc7a42491c805da927ae037b56"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ługańska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-309, Polska",
+      "lat": 52.3704536,
+      "lon": 16.9919505,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-05T18:30:00",
+      "original_description": "Poznań ul. Agrestowa, ul. Brokułowa, ul. Chotomińska, ul. Dyniowa, ul. Gardowska, ul. Iłowska, ul. Jagodowa, ul. Łopawska, ul. Ługańska, ul. Michałowo, ul. Morwowa, ul. Nad Pokrzywką, ul. Rzodkiewkowa, ul. Selerowa, ul. Siedliskowa, ul. Stewnicka, ul. Szczepankowo, ul. Szparagowa, ul. Wieprawska.",
+      "id": "31835295b8ea4eb233c0beda13580458"
     }
   ]
 }
