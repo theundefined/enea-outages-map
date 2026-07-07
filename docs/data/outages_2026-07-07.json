@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-07T08:51:43.584740+00:00",
+  "last_update": "2026-07-07T11:45:55.789668+00:00",
   "outages": [
     {
       "type": "planned",
@@ -293,6 +293,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-07-14T08:00:00",
+      "end_time": "2026-07-14T12:00:00",
+      "original_description": "Kicin ul. Poznańska 31.",
+      "id": "d29e4ac7fbdabe77eb08d0f962cba48a"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
       "lat": 52.4038105,
       "lon": 16.929477,
@@ -520,6 +530,36 @@
       "end_time": "2026-07-20T12:00:00",
       "original_description": "Poznań: ul. Pokrzywno 39C, od 31 do 37F nieparzyste, od 30 do 42B parzyste.",
       "id": "0b264df13ca5186d0065cac04e0c4b62"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Józefa Łęgowskiego, Podolany, Poznań, województwo wielkopolskie, 60-465, Polska",
+      "lat": 52.4625324,
+      "lon": 16.8895538,
+      "start_time": "2026-07-20T08:30:00",
+      "end_time": "2026-07-20T11:30:00",
+      "original_description": "Poznań: ul. Obornicka 354, 356, 358, 360, ul. Szarych Szeregów 23, dz. 5/9, ul. Łęgowskiego 2, 5, dz. 16.",
+      "id": "4431a761d06309ee6e136dac2ae0f52c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4248211,
+      "lon": 16.9184756,
+      "start_time": "2026-07-20T08:30:00",
+      "end_time": "2026-07-20T11:30:00",
+      "original_description": "Poznań: ul. Obornicka 354, 356, 358, 360, ul. Szarych Szeregów 23, dz. 5/9, ul. Łęgowskiego 2, 5, dz. 16.",
+      "id": "2e744f569024d349ee6b89e7caca6faf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szarych Szeregów, Podolany, Poznań, województwo wielkopolskie, 60-462, Polska",
+      "lat": 52.4589143,
+      "lon": 16.879586,
+      "start_time": "2026-07-20T08:30:00",
+      "end_time": "2026-07-20T11:30:00",
+      "original_description": "Poznań: ul. Obornicka 354, 356, 358, 360, ul. Szarych Szeregów 23, dz. 5/9, ul. Łęgowskiego 2, 5, dz. 16.",
+      "id": "cc2110d9333f40f45a17d0aa788e6f62"
     },
     {
       "type": "planned",
