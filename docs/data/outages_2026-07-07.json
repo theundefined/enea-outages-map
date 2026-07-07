@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-07T05:33:30.681698+00:00",
+  "last_update": "2026-07-07T08:51:43.584740+00:00",
   "outages": [
     {
       "type": "planned",
@@ -413,6 +413,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Batorowska, Sobiesiernie, Batorowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-081, Polska",
+      "lat": 52.4175749,
+      "lon": 16.7596035,
+      "start_time": "2026-07-16T08:00:00",
+      "end_time": "2026-07-16T12:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Skórzewo ul. Batorowska od 1 do 25 (oprócz 18A, 18B, 18C, 18D), 27, ul. Ogrodowa 4, ul. Zacisze 2,  ul. Poznańska 53, 55, 57, 60A, 61, 62, 62A, 63, 64, 66, działki nr 507, 536/4, 543, 544/2,  Cukiernia Dobrego Smaku,",
+      "id": "21dee8afa23890511d5ba716a92c18f7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "2026-07-16T08:00:00",
+      "end_time": "2026-07-16T12:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Skórzewo ul. Batorowska od 1 do 25 (oprócz 18A, 18B, 18C, 18D), 27, ul. Ogrodowa 4, ul. Zacisze 2,  ul. Poznańska 53, 55, 57, 60A, 61, 62, 62A, 63, 64, 66, działki nr 507, 536/4, 543, 544/2,  Cukiernia Dobrego Smaku,",
+      "id": "afdf79e222197ca759e06a5313fb6af2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-07-16T08:00:00",
+      "end_time": "2026-07-16T12:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Skórzewo ul. Batorowska od 1 do 25 (oprócz 18A, 18B, 18C, 18D), 27, ul. Ogrodowa 4, ul. Zacisze 2,  ul. Poznańska 53, 55, 57, 60A, 61, 62, 62A, 63, 64, 66, działki nr 507, 536/4, 543, 544/2,  Cukiernia Dobrego Smaku,",
+      "id": "711ad235d212109598be73f177081b1f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zacisze, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "lat": 52.4129557,
+      "lon": 16.913383,
+      "start_time": "2026-07-16T08:00:00",
+      "end_time": "2026-07-16T12:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Skórzewo ul. Batorowska od 1 do 25 (oprócz 18A, 18B, 18C, 18D), 27, ul. Ogrodowa 4, ul. Zacisze 2,  ul. Poznańska 53, 55, 57, 60A, 61, 62, 62A, 63, 64, 66, działki nr 507, 536/4, 543, 544/2,  Cukiernia Dobrego Smaku,",
+      "id": "91cbbd57a329b77cb3f575e34d2f69d4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3647399,
       "lon": 17.0058453,
@@ -480,6 +520,16 @@
       "end_time": "2026-07-20T12:00:00",
       "original_description": "Poznań: ul. Pokrzywno 39C, od 31 do 37F nieparzyste, od 30 do 42B parzyste.",
       "id": "0b264df13ca5186d0065cac04e0c4b62"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dereniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3605579,
+      "lon": 17.0285227,
+      "start_time": "2026-07-28T08:00:00",
+      "end_time": "2026-07-28T14:00:00",
+      "original_description": "Poznań: ul. Dereniowa 9, 14, 16, 20, dz. 33.",
+      "id": "d241b28100baed3b9a3b848fb9d82919"
     }
   ]
 }
