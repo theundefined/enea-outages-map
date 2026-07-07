@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-07T13:54:17.189486+00:00",
+  "last_update": "2026-07-07T16:27:02.651715+00:00",
   "outages": [
     {
       "type": "planned",
@@ -750,6 +750,66 @@
       "end_time": "2026-07-07T18:00:00",
       "original_description": "Brody, Chełmno, Jakubowo, Koszanowo, Pniewy ul. Jakubowska 33, 35, ul. Jędrzeja Śniadeckiego, ul. Mikołaja Kopernika 2, ul. Poznańska 251, 57, 58, 59, 60, 61b, 62, 64, 64A, 66, 68, 70, 72, 74, 80, 96, 98.",
       "id": "6b54486fd89d37ae2632c81940a1d31c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mikołaja Kopernika, Rybaki, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4028097,
+      "lon": 16.9328287,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-07T19:00:00",
+      "original_description": "Brody, Jakubowo, Pniewy ul. Jakubowska 33, 35, ul. Jędrzeja Śniadeckiego, ul. Mikołaja Kopernika 2, ul. Poznańska 251, 57, 58, 59, 60, 61b, 62, 64, 64A, 66, 68, 70, 72, 74, 80, 96, 98.",
+      "id": "b4638cd0c7623bcdd37c7a07e188c381"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-07T19:00:00",
+      "original_description": "Brody, Jakubowo, Pniewy ul. Jakubowska 33, 35, ul. Jędrzeja Śniadeckiego, ul. Mikołaja Kopernika 2, ul. Poznańska 251, 57, 58, 59, 60, 61b, 62, 64, 64A, 66, 68, 70, 72, 74, 80, 96, 98.",
+      "id": "3540a508b5649271d0617a2fb4036b6e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Burzowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.474824,
+      "lon": 16.9133537,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-07T20:00:00",
+      "original_description": "Poznań ul. Burzowa 10, 11, 2, 3, 5, 6, 7, 8, 9, ul. Gradowa 1, 10, 12, 14, 2, 3, 4, 6, 6a, 6B, 6C, 7, 8, 9, dz 249/51, ul. Hodowlana 23, 23A, 25, 25 A, 27, 27A, 29A, 31, 38 A, 38 D, 38B, 38E, 48, dz.249/21, ul. Szklarniowa 11 / 11 A, 11 C, 11 D, 11 K, 11 L, 11 M, 11/11A, 11B/11C, 11E, 11F, 11G, 11H, 11J, 11N, 12B, 14, 14A, 15, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 15M, 16, 16A, 17, 18, 18A, 19, 19A, 21, 23A, 9B.",
+      "id": "35b060bd268caf66df88d225c4d1bd9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gradowa, Osiedle Różane Wzgórze, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4741826,
+      "lon": 16.913215,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-07T20:00:00",
+      "original_description": "Poznań ul. Burzowa 10, 11, 2, 3, 5, 6, 7, 8, 9, ul. Gradowa 1, 10, 12, 14, 2, 3, 4, 6, 6a, 6B, 6C, 7, 8, 9, dz 249/51, ul. Hodowlana 23, 23A, 25, 25 A, 27, 27A, 29A, 31, 38 A, 38 D, 38B, 38E, 48, dz.249/21, ul. Szklarniowa 11 / 11 A, 11 C, 11 D, 11 K, 11 L, 11 M, 11/11A, 11B/11C, 11E, 11F, 11G, 11H, 11J, 11N, 12B, 14, 14A, 15, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 15M, 16, 16A, 17, 18, 18A, 19, 19A, 21, 23A, 9B.",
+      "id": "7e3ae4190a96a4f0ed78fc4a02fe650c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hodowlana, Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4743747,
+      "lon": 16.9096586,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-07T20:00:00",
+      "original_description": "Poznań ul. Burzowa 10, 11, 2, 3, 5, 6, 7, 8, 9, ul. Gradowa 1, 10, 12, 14, 2, 3, 4, 6, 6a, 6B, 6C, 7, 8, 9, dz 249/51, ul. Hodowlana 23, 23A, 25, 25 A, 27, 27A, 29A, 31, 38 A, 38 D, 38B, 38E, 48, dz.249/21, ul. Szklarniowa 11 / 11 A, 11 C, 11 D, 11 K, 11 L, 11 M, 11/11A, 11B/11C, 11E, 11F, 11G, 11H, 11J, 11N, 12B, 14, 14A, 15, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 15M, 16, 16A, 17, 18, 18A, 19, 19A, 21, 23A, 9B.",
+      "id": "a84f92ba7ac7229c8e08ce77c1a6092d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szklarniowa, Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4769909,
+      "lon": 16.9125673,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-07T20:00:00",
+      "original_description": "Poznań ul. Burzowa 10, 11, 2, 3, 5, 6, 7, 8, 9, ul. Gradowa 1, 10, 12, 14, 2, 3, 4, 6, 6a, 6B, 6C, 7, 8, 9, dz 249/51, ul. Hodowlana 23, 23A, 25, 25 A, 27, 27A, 29A, 31, 38 A, 38 D, 38B, 38E, 48, dz.249/21, ul. Szklarniowa 11 / 11 A, 11 C, 11 D, 11 K, 11 L, 11 M, 11/11A, 11B/11C, 11E, 11F, 11G, 11H, 11J, 11N, 12B, 14, 14A, 15, 15C, 15D, 15E, 15F, 15G, 15H, 15J, 15K, 15L, 15M, 16, 16A, 17, 18, 18A, 19, 19A, 21, 23A, 9B.",
+      "id": "4b0bc4621e0154c724f7ba0946ac24ed"
     }
   ]
 }
