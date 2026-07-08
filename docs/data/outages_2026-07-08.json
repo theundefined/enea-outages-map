@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-08T06:15:02.058240+00:00",
+  "last_update": "2026-07-08T08:45:53.857572+00:00",
   "outages": [
     {
       "type": "planned",
@@ -570,6 +570,16 @@
       "end_time": "2026-07-28T14:00:00",
       "original_description": "Poznań: ul. Dereniowa 9, 14, 16, 20, dz. 33.",
       "id": "d241b28100baed3b9a3b848fb9d82919"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-08T11:30:00",
+      "original_description": "Białe Piątkowo, Bugaj, Bagatelka, Miłosław ul. Poznańska 35, 36.",
+      "id": "d912e37ac4be3a77bae0547a0c1f7e99"
     }
   ]
 }
