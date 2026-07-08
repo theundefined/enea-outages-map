@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-08T03:38:21.936239+00:00",
+  "last_update": "2026-07-08T06:15:02.058240+00:00",
   "outages": [
     {
       "type": "planned",
@@ -400,6 +400,26 @@
       "end_time": "2026-07-16T12:00:00",
       "original_description": "Gmina Dopiewo miejscowość Skórzewo ul. Batorowska od 1 do 25 (oprócz 18A, 18B, 18C, 18D), 27, ul. Ogrodowa 4, ul. Zacisze 2,  ul. Poznańska 53, 55, 57, 60A, 61, 62, 62A, 63, 64, 66, działki nr 507, 536/4, 543, 544/2,  Cukiernia Dobrego Smaku,",
       "id": "711ad235d212109598be73f177081b1f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sarnia, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4104249,
+      "lon": 17.043821,
+      "start_time": "2026-07-16T08:00:00",
+      "end_time": "2026-07-16T12:00:00",
+      "original_description": "Poznań: ul. Sośnicka 9, 10, 12, 12A, ul. Sarnia 2.",
+      "id": "163794cdde1574c927063a2d26ae539f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sośnicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4078205,
+      "lon": 17.0460842,
+      "start_time": "2026-07-16T08:00:00",
+      "end_time": "2026-07-16T12:00:00",
+      "original_description": "Poznań: ul. Sośnicka 9, 10, 12, 12A, ul. Sarnia 2.",
+      "id": "42c005a15ae90bd664f9d0da15a0e71b"
     },
     {
       "type": "planned",
