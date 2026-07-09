@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-09T19:13:09.049065+00:00",
+  "last_update": "2026-07-09T20:57:26.443567+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,16 @@
       "end_time": "2026-07-09T23:00:00",
       "original_description": "Poznań ul. Krzepicka 12, 12A.",
       "id": "312385c015bd7f8f5a4a86bd112f836e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krzepicka, Junikowo, Poznań, województwo wielkopolskie, 60-167, Polska",
+      "lat": 52.3768631,
+      "lon": 16.8417223,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-10T00:30:00",
+      "original_description": "Poznań ul. Krzepicka 12, 12A.",
+      "id": "47c9c0ad6bc4966baa4fccf94ced33d5"
     }
   ]
 }
