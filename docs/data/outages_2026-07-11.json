@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-11T18:10:21.016637+00:00",
+  "last_update": "2026-07-11T19:30:41.978120+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1040,6 +1040,16 @@
       "end_time": "2026-07-29T15:00:00",
       "original_description": "Poznań: ul. Garsteckiego 16.",
       "id": "2a30616261525bbfe18529959f4745db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sypniewo, Głuszyna, Poznań, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.3079277,
+      "lon": 16.9813089,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-11T23:00:00",
+      "original_description": "Poznań ul. Sypniewo 1, 14, 15, 16, 17, 18, 19, 21, 21A, 21B, 22, 22A, 23, 23 B, 23 C, 23A, 23B, 23C, 23D, 23E, 23F, 24, 26, 28, 28 B, 28A, 30, 5, 9.",
+      "id": "90d65575f0483eb21ad9f91b6c6fc911"
     }
   ]
 }
