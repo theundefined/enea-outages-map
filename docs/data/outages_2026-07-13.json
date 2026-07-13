@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-13T10:56:54.254995+00:00",
+  "last_update": "2026-07-13T13:23:54.764503+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1230,6 +1230,16 @@
       "end_time": "2026-07-13T12:00:00",
       "original_description": "Poznań ul. Mogileńska /WARSZAW, 22, 37, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
       "id": "fd8900b16767c0335673c241847aa9e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pawła Włodkowica, Ostroróg, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-334, Polska",
+      "lat": 52.4018781,
+      "lon": 16.8770949,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-13T15:00:00",
+      "original_description": "Poznań ul. Pawła Włodkowica 16.",
+      "id": "504b26d1256f28e5453bcba0d16229a9"
     }
   ]
 }
