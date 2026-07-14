@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-14T10:21:04.840633+00:00",
+  "last_update": "2026-07-14T11:52:14.654953+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1010,6 +1010,176 @@
       "end_time": "2026-07-28T14:00:00",
       "original_description": "Poznań: ul. Dereniowa 9, 14, 16, 20, dz. 33.",
       "id": "d241b28100baed3b9a3b848fb9d82919"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Floksowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3851886,
+      "lon": 16.8162566,
+      "start_time": "2026-07-28T08:30:00",
+      "end_time": "2026-07-28T12:30:00",
+      "original_description": "Poznań: ul. Lewkoniowa bez 22A, ul. Malwowa 64, ul. Floksowa 15, 18, ul. Szarotkowa 102, 104.",
+      "id": "4f9e6e622668012e59946f36cd2967e5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "2026-07-28T08:30:00",
+      "end_time": "2026-07-28T12:30:00",
+      "original_description": "Poznań: ul. Lewkoniowa bez 22A, ul. Malwowa 64, ul. Floksowa 15, 18, ul. Szarotkowa 102, 104.",
+      "id": "fe61e9ae1f93534ee7a28688ccc4c5cf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szarotkowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3839374,
+      "lon": 16.8128112,
+      "start_time": "2026-07-28T08:30:00",
+      "end_time": "2026-07-28T12:30:00",
+      "original_description": "Poznań: ul. Lewkoniowa bez 22A, ul. Malwowa 64, ul. Floksowa 15, 18, ul. Szarotkowa 102, 104.",
+      "id": "2c134682b0fadb591fc8cea84986e37d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jesienna, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-376, Polska",
+      "lat": 52.4079912,
+      "lon": 16.8752835,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "e79dbbea7776af5e1f4a7530372d842c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Letnia, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4056993,
+      "lon": 17.0349651,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "4cfeb5080e5ae67ddb273f4ddc90af38"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piękna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4146736,
+      "lon": 16.8753747,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "25775c7f56fed95022d99570fcc1b975"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "cc5d2603eb1024408320e6516096796c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "bca6d55a05be08dc9aa285621b5f6978"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "35fe12a92988298bf394836a0d878aef"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przemysłowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-581, Polska",
+      "lat": 52.400503,
+      "lon": 16.9184599,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "432df26d8b15d268da02b89a6ad7f850"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radosna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4136213,
+      "lon": 16.8732563,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "0b22b6b352994a8f5f0271923a4b147c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "64aa5da397e745c15c42e18fae520ce0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tęczowa, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3924959,
+      "lon": 16.8799077,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "89928b20cd8d19c76bfcf48bbcc1c80d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Upalna, Góra, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-079, Polska",
+      "lat": 52.4762428,
+      "lon": 16.6401037,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "d6dfc94eae1a42b6eb20fd447d6f0d9b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Urocza, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4663611,
+      "lon": 16.949835,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "ed2c989bbccbea4c8396870abe8bc4e2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wiosenna, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4145998,
+      "lon": 16.8720792,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "633a06fcdebdaefbef585b9adef2aeeb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zimowa, Ogrody, Poznań, województwo wielkopolskie, 60-595, Polska",
+      "lat": 52.4144381,
+      "lon": 16.8706329,
+      "start_time": "2026-07-29T08:00:00",
+      "end_time": "2026-07-29T11:00:00",
+      "original_description": "Brodowo ul. Piękna, ul. Słoneczna, ul. Jesienna, ul. Letnia, ul. Urocza, ul. Zimowa, ul. Polna, ul. Cegielna, ul. Radosna, ul. Upalna, ul. Pogodna, ul. Poznańska, ul. Przemysłowa, ul. Tęczowa, ul. Wiosenna, Marianowo Brodowskie",
+      "id": "f731749a840cead23842ccced305cd7e"
     },
     {
       "type": "planned",
