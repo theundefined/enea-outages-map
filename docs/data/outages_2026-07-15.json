@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-15T10:12:58.741695+00:00",
+  "last_update": "2026-07-15T11:51:06.191010+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1200,6 +1200,16 @@
       "end_time": "2026-07-29T12:30:00",
       "original_description": "Poznań: ul. Naramowicka od 318 do 342 parzyste, 327A, od 329 do 331 nieparzyste, 337, 339, ul. Agatowa od 5 do 11 nieparzyste, od 2 do 12 parzyste.",
       "id": "6022620283d9e2914a2168daf3fe6587"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-07-30T08:30:00",
+      "end_time": "2026-07-30T14:30:00",
+      "original_description": "Poznań: os. Przyjaźni 141, 141A-B.",
+      "id": "859766d16a435b37efac45738cb5979c"
     }
   ]
 }
