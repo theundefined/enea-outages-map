@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-15T03:28:18.421813+00:00",
+  "last_update": "2026-07-15T05:53:46.233771+00:00",
   "outages": [
     {
       "type": "planned",
@@ -823,6 +823,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-07-23T08:30:00",
+      "end_time": "2026-07-23T14:30:00",
+      "original_description": "Poznań: os. Przyjaźni 141, 141A-B.",
+      "id": "81ba2666d67615aeda0b4ae4f2cf7a22"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
       "lon": 16.9048857,
@@ -830,6 +840,26 @@
       "end_time": "2026-07-23T14:30:00",
       "original_description": "Daszewice ul. Poznańska 1, 1A, 1E, 2, 2A, 3, 3A, 3-B, 3C, 4, 6, 6c, 6D, 6E, 6F, dz. 522",
       "id": "a299bda15178be59f83d40deaf4d4e06"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jugosłowiańska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-301, Polska",
+      "lat": 52.3928964,
+      "lon": 16.8649578,
+      "start_time": "2026-07-23T08:30:00",
+      "end_time": "2026-07-23T16:30:00",
+      "original_description": "Poznań: ul. Jugosłowiańska 48A-B, 50A-B, 52A-B, od 39 do 79 nieparzyste, ul. Promienista 150, 152, ul. Gwieździsta 30 Biedronka.",
+      "id": "2e30b76f16283977950c90b101c9c6ce"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "2026-07-23T08:30:00",
+      "end_time": "2026-07-23T16:30:00",
+      "original_description": "Poznań: ul. Jugosłowiańska 48A-B, 50A-B, 52A-B, od 39 do 79 nieparzyste, ul. Promienista 150, 152, ul. Gwieździsta 30 Biedronka.",
+      "id": "e032f7c2e65a3ac6ab89969276d64ef0"
     },
     {
       "type": "planned",
