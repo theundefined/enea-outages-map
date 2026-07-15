@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-15T05:53:46.233771+00:00",
+  "last_update": "2026-07-15T08:02:25.537374+00:00",
   "outages": [
     {
       "type": "planned",
@@ -943,6 +943,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bełchatowska, Junikowo, Poznań, województwo wielkopolskie, 60-162, Polska",
+      "lat": 52.3859364,
+      "lon": 16.8557056,
+      "start_time": "2026-07-28T08:30:00",
+      "end_time": "2026-07-28T11:30:00",
+      "original_description": "Poznań: ul. Sobotecka od 2 do 20 parzyste, od 26 do 34 parzyste, od 3 do 47 bez 23, ul. Wągrowiecka 4, 6, ul. Bełchatowska 23.",
+      "id": "7c68da4e8394805c597027ae4e730a1c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sobotecka, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.3814727,
+      "lon": 16.8525266,
+      "start_time": "2026-07-28T08:30:00",
+      "end_time": "2026-07-28T11:30:00",
+      "original_description": "Poznań: ul. Sobotecka od 2 do 20 parzyste, od 26 do 34 parzyste, od 3 do 47 bez 23, ul. Wągrowiecka 4, 6, ul. Bełchatowska 23.",
+      "id": "59d4395968e977c797b91dd7b15b0c39"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wągrowiecka, Junikowo, Poznań, województwo wielkopolskie, 60-162, Polska",
+      "lat": 52.380693,
+      "lon": 16.854962,
+      "start_time": "2026-07-28T08:30:00",
+      "end_time": "2026-07-28T11:30:00",
+      "original_description": "Poznań: ul. Sobotecka od 2 do 20 parzyste, od 26 do 34 parzyste, od 3 do 47 bez 23, ul. Wągrowiecka 4, 6, ul. Bełchatowska 23.",
+      "id": "24d00fb5404fb74444cdd24915a6510f"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Floksowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
       "lat": 52.3851886,
       "lon": 16.8162566,
@@ -1120,6 +1150,26 @@
       "end_time": "2026-07-29T15:00:00",
       "original_description": "Poznań: ul. Garsteckiego 16.",
       "id": "2a30616261525bbfe18529959f4745db"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Agatowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4738211,
+      "lon": 16.9485504,
+      "start_time": "2026-07-29T08:30:00",
+      "end_time": "2026-07-29T12:30:00",
+      "original_description": "Poznań: ul. Naramowicka od 318 do 342 parzyste, 327A, od 329 do 331 nieparzyste, 337, 339, ul. Agatowa od 5 do 11 nieparzyste, od 2 do 12 parzyste.",
+      "id": "e23b0b41f1858ea59a91d026b5922bc5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-07-29T08:30:00",
+      "end_time": "2026-07-29T12:30:00",
+      "original_description": "Poznań: ul. Naramowicka od 318 do 342 parzyste, 327A, od 329 do 331 nieparzyste, 337, 339, ul. Agatowa od 5 do 11 nieparzyste, od 2 do 12 parzyste.",
+      "id": "6022620283d9e2914a2168daf3fe6587"
     }
   ]
 }
