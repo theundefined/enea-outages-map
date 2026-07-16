@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-16T14:48:03.968831+00:00",
+  "last_update": "2026-07-16T16:04:30.470852+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1270,6 +1270,46 @@
       "end_time": "2026-07-16T19:00:00",
       "original_description": "Pobiedziska ul. Gajowa 5, ul. Poznańska 57, 57a, 59, 61, 63, 65, 67, 69, 71, 71 A, 73, 75, dz.9/3, ul. Zbożowa 14, 18, 2, 3, 4, 5, 7, 9.",
       "id": "205d6442b9be6915e84a86a5fa7ea860"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4106709,
+      "lon": 16.9892118,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-16T20:00:00",
+      "original_description": "Poznań ul. Konińska 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 1a, 20, 21, 22, 23, 24, 25, 26, 27, 28, 3, 30, 4, 5, 6, 7, 8, 9, ul. Mogileńska /WARSZAW, 22, 37, ul. Słupecka 1, 2, 2A, 3, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
+      "id": "93cedf1f27dfdb3e877eaa6ca8a77b92"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mogileńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4101227,
+      "lon": 16.9913619,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-16T20:00:00",
+      "original_description": "Poznań ul. Konińska 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 1a, 20, 21, 22, 23, 24, 25, 26, 27, 28, 3, 30, 4, 5, 6, 7, 8, 9, ul. Mogileńska /WARSZAW, 22, 37, ul. Słupecka 1, 2, 2A, 3, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
+      "id": "b09020e819ee1081f0c90fc005efb87c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słupecka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-042, Polska",
+      "lat": 52.4110789,
+      "lon": 16.9866789,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-16T20:00:00",
+      "original_description": "Poznań ul. Konińska 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 1a, 20, 21, 22, 23, 24, 25, 26, 27, 28, 3, 30, 4, 5, 6, 7, 8, 9, ul. Mogileńska /WARSZAW, 22, 37, ul. Słupecka 1, 2, 2A, 3, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
+      "id": "a2c0dbd5388e9c15fd383b8faa8ac1fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-16T20:00:00",
+      "original_description": "Poznań ul. Konińska 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 1a, 20, 21, 22, 23, 24, 25, 26, 27, 28, 3, 30, 4, 5, 6, 7, 8, 9, ul. Mogileńska /WARSZAW, 22, 37, ul. Słupecka 1, 2, 2A, 3, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
+      "id": "5bb64aea57db7aa069f417f91e6ddfa5"
     }
   ]
 }
