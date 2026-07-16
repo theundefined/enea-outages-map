@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-16T09:04:27.867206+00:00",
+  "last_update": "2026-07-16T11:07:44.804274+00:00",
   "outages": [
     {
       "type": "planned",
@@ -373,6 +373,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "2026-07-21T08:00:00",
+      "end_time": "2026-07-21T13:00:00",
+      "original_description": "Poznań: ul. Jesionowa 14.",
+      "id": "948205d2b0fa74c75a97651b334c7738"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Szymanowskiego, Karola Szymanowskiego, Osiedle Jana III Sobieskiego, Piątkowo, Piątkowo Północ, Poznań, województwo wielkopolskie, 60-680, Polska",
       "lat": 52.460518,
       "lon": 16.9170385,
@@ -580,6 +590,26 @@
       "end_time": "2026-07-21T13:00:00",
       "original_description": "Poznań: ul. Liryczna od 3 do 13 nieparzyste, od 4 do 16 parzyste, ul. Moliera, ul. Epicka od 1 do 19 nieparzyste, 10, ul. Malewskiej od 56 do 62 parzyste, ul. Różańskiego od 1 do 11 nieparzyste, dz. 12/1, ul. Zoli, ul. Schillera.",
       "id": "d37c13936b0e52b0592d17ba117b548b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-07-22T08:00:00",
+      "end_time": "2026-07-22T08:30:00",
+      "original_description": "Owińska ul. Poznańska 2, 3A, 3B, 3C, 3D, 3K, 3I, 3H, 3G, 3E, 3F, 14, 12, dz. 196/1",
+      "id": "9647153b2a062a24a1435a57ddc4f48f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-07-22T08:00:00",
+      "end_time": "2026-07-22T15:00:00",
+      "original_description": "Owińska ul. Poznańska 3A, 3B, 3C, 3D",
+      "id": "c1fe539d1bb2bce81a42bcb04d653468"
     },
     {
       "type": "planned",
@@ -1103,6 +1133,76 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bociania, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-621, Polska",
+      "lat": 52.4205149,
+      "lon": 16.8993876,
+      "start_time": "2026-07-30T08:30:00",
+      "end_time": "2026-07-30T12:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "75bbf16a6b04d2393b4a26ee2d43647d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grudzieniec, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4194773,
+      "lon": 16.9010792,
+      "start_time": "2026-07-30T08:30:00",
+      "end_time": "2026-07-30T12:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "3e5e3eb304a31e522844349158351d6d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jaromira, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.4081793,
+      "lon": 17.0210154,
+      "start_time": "2026-07-30T08:30:00",
+      "end_time": "2026-07-30T12:30:00",
+      "original_description": "Poznań: ul. Zbyłowita od 8 do 48 parzyste, 48A, od 21 do 41 nieparzyste, ul. Jaromira od 2 do 14 parzyste, 14A, od 9 do 15 nieparzyste, ul. Mścibora 25, ul. Zbyszka 1, 3, 5.",
+      "id": "6c548ae39e667446cf91e5f127513b51"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mścibora, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-043, Polska",
+      "lat": 52.4071028,
+      "lon": 17.014949,
+      "start_time": "2026-07-30T08:30:00",
+      "end_time": "2026-07-30T12:30:00",
+      "original_description": "Poznań: ul. Zbyłowita od 8 do 48 parzyste, 48A, od 21 do 41 nieparzyste, ul. Jaromira od 2 do 14 parzyste, 14A, od 9 do 15 nieparzyste, ul. Mścibora 25, ul. Zbyszka 1, 3, 5.",
+      "id": "25bc64bff31b282ae5b944f5ea07fd1e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poleska, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4204726,
+      "lon": 16.9009623,
+      "start_time": "2026-07-30T08:30:00",
+      "end_time": "2026-07-30T12:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "740d799fab8ed42793d948dc1b784cc2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zbyszka, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.4071795,
+      "lon": 17.0191209,
+      "start_time": "2026-07-30T08:30:00",
+      "end_time": "2026-07-30T12:30:00",
+      "original_description": "Poznań: ul. Zbyłowita od 8 do 48 parzyste, 48A, od 21 do 41 nieparzyste, ul. Jaromira od 2 do 14 parzyste, 14A, od 9 do 15 nieparzyste, ul. Mścibora 25, ul. Zbyszka 1, 3, 5.",
+      "id": "fbbbc3504abc9032a6044211c52a013a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zbyłowita, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.4082421,
+      "lon": 17.0210778,
+      "start_time": "2026-07-30T08:30:00",
+      "end_time": "2026-07-30T12:30:00",
+      "original_description": "Poznań: ul. Zbyłowita od 8 do 48 parzyste, 48A, od 21 do 41 nieparzyste, ul. Jaromira od 2 do 14 parzyste, 14A, od 9 do 15 nieparzyste, ul. Mścibora 25, ul. Zbyszka 1, 3, 5.",
+      "id": "f7843b5eaa1e29cba9a0a964038d0b2d"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
       "lat": 52.4313634,
       "lon": 16.9267169,
@@ -1110,6 +1210,36 @@
       "end_time": "2026-07-30T14:30:00",
       "original_description": "Poznań: os. Przyjaźni 141, 141A-B.",
       "id": "859766d16a435b37efac45738cb5979c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "2026-08-03T08:30:00",
+      "end_time": "2026-08-03T11:30:00",
+      "original_description": "Poznań: ul. Grunwaldzka od 376 do 386 parzyste, 386A, 379A, 385, 387, ul. Strzelińska, ul. Miśnieńska od 19 do 23.",
+      "id": "2ce05b4e79ef1c80102144ac802ac706"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Miśnieńska, Junikowo, Poznań, województwo wielkopolskie, 60-169, Polska",
+      "lat": 52.3784148,
+      "lon": 16.8359518,
+      "start_time": "2026-08-03T08:30:00",
+      "end_time": "2026-08-03T11:30:00",
+      "original_description": "Poznań: ul. Grunwaldzka od 376 do 386 parzyste, 386A, 379A, 385, 387, ul. Strzelińska, ul. Miśnieńska od 19 do 23.",
+      "id": "39bb8de1ecd19623da8c5a02e753bd7b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Strzelińska, Junikowo, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3793057,
+      "lon": 16.8307831,
+      "start_time": "2026-08-03T08:30:00",
+      "end_time": "2026-08-03T11:30:00",
+      "original_description": "Poznań: ul. Grunwaldzka od 376 do 386 parzyste, 386A, 379A, 385, 387, ul. Strzelińska, ul. Miśnieńska od 19 do 23.",
+      "id": "139af218a8a91a5882e88f92c4ee07f9"
     }
   ]
 }
