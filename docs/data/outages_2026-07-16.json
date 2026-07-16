@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-16T12:46:58.124121+00:00",
+  "last_update": "2026-07-16T14:48:03.968831+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1240,6 +1240,36 @@
       "end_time": "2026-08-03T11:30:00",
       "original_description": "Poznań: ul. Grunwaldzka od 376 do 386 parzyste, 386A, 379A, 385, 387, ul. Strzelińska, ul. Miśnieńska od 19 do 23.",
       "id": "139af218a8a91a5882e88f92c4ee07f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-16T19:00:00",
+      "original_description": "Pobiedziska ul. Gajowa 5, ul. Poznańska 57, 57a, 59, 61, 63, 65, 67, 69, 71, 71 A, 73, 75, dz.9/3, ul. Zbożowa 14, 18, 2, 3, 4, 5, 7, 9.",
+      "id": "2f5b41a8d9fbaad04835e020d0d8f306"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-16T19:00:00",
+      "original_description": "Pobiedziska ul. Gajowa 5, ul. Poznańska 57, 57a, 59, 61, 63, 65, 67, 69, 71, 71 A, 73, 75, dz.9/3, ul. Zbożowa 14, 18, 2, 3, 4, 5, 7, 9.",
+      "id": "19a2fe8eb65d819c2c40437604a4acd0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-16T19:00:00",
+      "original_description": "Pobiedziska ul. Gajowa 5, ul. Poznańska 57, 57a, 59, 61, 63, 65, 67, 69, 71, 71 A, 73, 75, dz.9/3, ul. Zbożowa 14, 18, 2, 3, 4, 5, 7, 9.",
+      "id": "205d6442b9be6915e84a86a5fa7ea860"
     }
   ]
 }
