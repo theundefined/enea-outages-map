@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17T06:39:02.924634+00:00",
+  "last_update": "2026-07-17T08:55:22.444556+00:00",
   "outages": [
     {
       "type": "planned",
@@ -543,6 +543,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-07-24T08:00:00",
+      "end_time": "2026-07-24T13:00:00",
+      "original_description": "Biskupice ul. Śliwkowa 39, Jerzykowo ul. Poznańska 37 - 65 Nieparzyste, działki 272/8, 272/10, 273/9, 273/10, 255/9, 255/10, 255/11, 309/12, 309/4, 310/5, 309/5",
+      "id": "5a5ec285eea9ee2940cdbac1d972da90"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Śliwkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3718525,
+      "lon": 16.8949212,
+      "start_time": "2026-07-24T08:00:00",
+      "end_time": "2026-07-24T13:00:00",
+      "original_description": "Biskupice ul. Śliwkowa 39, Jerzykowo ul. Poznańska 37 - 65 Nieparzyste, działki 272/8, 272/10, 273/9, 273/10, 255/9, 255/10, 255/11, 309/12, 309/4, 310/5, 309/5",
+      "id": "eab1ecb8482d60ed0d47d301e40af743"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bobrownicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
       "lat": 52.3640907,
       "lon": 17.0356103,
@@ -930,6 +950,36 @@
       "end_time": "2026-07-30T14:30:00",
       "original_description": "Poznań: os. Przyjaźni 141, 141A-B.",
       "id": "859766d16a435b37efac45738cb5979c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bociania, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-621, Polska",
+      "lat": 52.4205149,
+      "lon": 16.8993876,
+      "start_time": "2026-07-31T08:30:00",
+      "end_time": "2026-07-31T12:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "3f41cd98b05063f25b0ea05ee53e91e2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grudzieniec, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4194773,
+      "lon": 16.9010792,
+      "start_time": "2026-07-31T08:30:00",
+      "end_time": "2026-07-31T12:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "b8b3f4217bda61612600c45353dad437"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poleska, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4204726,
+      "lon": 16.9009623,
+      "start_time": "2026-07-31T08:30:00",
+      "end_time": "2026-07-31T12:30:00",
+      "original_description": "Poznań: ul. Grudzieniec od 98 do 126 parzyste, od 109 do 129 nieparzyste, ul. Bociania, ul. Poleska 1.",
+      "id": "57fc14a89c938902b6e8b035e9868515"
     },
     {
       "type": "planned",
