@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-17T13:53:33.119441+00:00",
+  "last_update": "2026-07-17T15:10:22.475133+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1010,6 +1010,536 @@
       "end_time": "2026-08-03T11:30:00",
       "original_description": "Poznań: ul. Grunwaldzka od 376 do 386 parzyste, 386A, 379A, 385, 387, ul. Strzelińska, ul. Miśnieńska od 19 do 23.",
       "id": "139af218a8a91a5882e88f92c4ee07f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "5 Stycznia, Wola, Ławica, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4224148,
+      "lon": 16.8540631,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "a8ba75f3382b54456269ed12e7d0015b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Baśniowa, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4109693,
+      "lon": 16.8412602,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "801a8cb615acdd4bae98c04d78b8654a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Boczowska, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4122415,
+      "lon": 16.8279558,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "93bf5a4ee96e2c0eac11c0c65c89c24a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Leśmiana, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-197, Polska",
+      "lat": 52.4101166,
+      "lon": 16.8528921,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "3032ada5ef1651a247e0377a9ef3fcf8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "4a9f32368dd971ac13e087c68588c8ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Christiana Andersena, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4109075,
+      "lon": 16.8409341,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "f6f4aa63e7ef184c2250b879ea62e98d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konstantego Ildefonsa Gałczyńskiego, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4083649,
+      "lon": 16.8521258,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "ffe26d0294f8733b485632cf1a9ba919"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krasnoludków, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4093033,
+      "lon": 16.8401535,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "eba980e98ab21727adcef1a90cf09592"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krzysztofa Kamila Baczyńskiego, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-197, Polska",
+      "lat": 52.4095432,
+      "lon": 16.8523302,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "d7c07a18b4329e7c8e2def43c4f5767e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leopolda Staffa, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-319, Polska",
+      "lat": 52.4076239,
+      "lon": 16.8533421,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "16c610e63072644a226d176c235e22f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowej Panienki, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.41199,
+      "lon": 16.8404447,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "51d3a46585584df60dd7550636453aac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malechowska, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4124833,
+      "lon": 16.8299974,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "529991d66553ae6d161a59697852cb29"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Misia Uszatka, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4113729,
+      "lon": 16.8404253,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "d78a47b6461a4b33ca42c3c5d8fd68fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okonecka, Ławica, Poznań, województwo wielkopolskie, 60-192, Polska",
+      "lat": 52.4098275,
+      "lon": 16.8312479,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "55c609270af40313083b94d2d88f6e0c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Roztocka, Ławica, Poznań, województwo wielkopolskie, 60-190, Polska",
+      "lat": 52.4126137,
+      "lon": 16.8310104,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "69c8924c1bf63a18eada09e78e99ee0d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sierotki Marysi, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4110102,
+      "lon": 16.8398667,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "a71c2f5e56ce464a974c2bcc0f7d979d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefanii Wojtulanis-Karpińskiej, Ławica, Poznań, województwo wielkopolskie, 60-421, Polska",
+      "lat": 52.42544,
+      "lon": 16.8445079,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "796a1292fcea6fea0a0648bcdbd43d22"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wieczorynki, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4102688,
+      "lon": 16.8418188,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "ef56d88592de9734651b7f3304233466"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wyszeborska, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4123579,
+      "lon": 16.8289854,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "9e10b46e39c7506c5506cebe3199ee85"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Złotowska, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4124762,
+      "lon": 16.8324672,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T18:30:00",
+      "original_description": "Poznań ul. 5 Stycznia, ul. Baśniowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 24, 26, 27, 28, 29, 3, 30, 31, 33, 34, 36, 37, 38, 5, 6, 7, 8, 9, ul. Boczowska 10, 11, 12, 13, 14, 14A, 15, 16, 17, 19, 20, 22, 4, 5, 6, 7, 8, 9, ul. Bolesława Leśmiana 10, 11, 12, 14, 15, 16, 17, 18, 19, 2 A, 20, 21, 22, 23, 24, 25, 26, 2A, 3, 31, 4, 5, 6, 7, 8, 9, ul. Bukowska 287, 287 A, 328, 330, 332, 334, 336, 338, 340, 344 BUD, 346, 350, 350 A, 352, 352 B, 352-lok.2, 354, 356, 358, 360, 364A, ul. Christiana Andersena /Baśniowa, 1, 11, 13, 14, 15, 17, 3, 5, 7, ul. Konstantego Ildefonsa Gałczyńskiego /Baczyńsk, 23, 25, 27, 29, 50, 52, 54, 58, 60, 62, ul. Krasnoludków 1, 11, 15, 17, 19, 21, 23, 25, 27, 29, 3, 31, 33, 35, 37, 39, 5, 7, ul. Krzysztofa Kamila Baczyńskiego 10, 11, 12, 13, 14, 16, 17, 19, 21, 23, 25, 3, 5, 6, 7, 7-MAGIEL, 8, 9, ul. Leopolda Staffa 37, 39, 41, 43, 45, 47, 49, 51 BUD, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 72, ul. Makowej Panienki 1, 10, 11, 12, 13, 14, 15, 17, 19, 2, 21, 23, 3, 4, 5, 6, 7, 8, ul. Malechowska 10, 11, 12, 3, 4, 5, 6, 7, 8, 9, ul. Misia Uszatka 1, 10, 11, 12, 13, 2, 3, 4, 5, 6, 7, 8, 9, ul. Okonecka 2, 3, ul. Roztocka 4, 6, 8, ul. Sierotki Marysi 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 23, 24, 25, 26, 28, 30, 32, 34, 36, 38, 4, 40, 6, 8, 9, ul. Stefanii Wojtulanis-Karpińskiej 7, ul. Wieczorynki 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 22, 23, 23A, 25, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 4, 41, 42, 43, 44, 45, 46, 47, 48, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 6, 61, 63, 65, 67, 69, 7, 8, 9, ul. Wyszeborska 1, 10, 11, 12, 13, 14, 16, 3, 4, 7, 8, 9, ul. Złotowska 10, 11, 12, 14, 16, 19, 2, 20, 21, 24, 26, 28, 30, 32, 38, 40, 42, 48, 6-8, 9, 9A.",
+      "id": "ff7481d9a40ff183ad9f66267a558399"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "bb04decabe5861647915caaf1119a1e1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Arciszewskiego, Hetmańska, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3927652,
+      "lon": 16.886736,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "b58c616fc211980406244d1441a83205"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "296ecc28f3d72d679bb26784b5f65345"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bławatkowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-477, Polska",
+      "lat": 52.3716369,
+      "lon": 16.9123822,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "8cceccfb5e1d7d82892dea708a3b1544"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dawna Osada św. Gotarda, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4100761,
+      "lon": 16.9378721,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "cc4b5e8ce77ca6ca4edc5a13d8fdecfe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3680885,
+      "lon": 16.9128704,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "bac4ebb20438ffcd54b6eb68200b7482"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "3f3c4ef405f0b79bf7be4d1c10f7ce45"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "76a4dafaf9493a73e3e2c9419d09fc74"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kalinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-437, Polska",
+      "lat": 52.3675868,
+      "lon": 16.9024129,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "f34980f0b9da9111357b08f57094fc5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "60856f5aa6dbf4a111cf16237715392f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konwaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705079,
+      "lon": 16.9136939,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "f0d17ec3e441f8cd22f7326a1affcc88"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "f790ca95b337ceb194262510967a3123"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kórnicka, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3997552,
+      "lon": 16.9510957,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "18fea5e137d27089554214455de0ec2b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "80c6e8220b507482e0925e282e0297bb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mosińska, Rogalin, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-022, Polska",
+      "lat": 52.2335295,
+      "lon": 16.9352805,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "807653276d3c92d19d8586b863cca2f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Narcyzowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3877625,
+      "lon": 16.8106357,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "b11a33cd8299842f73484494d18ab67c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Niewielka, Kórnicka, Świątniki, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-022, Polska",
+      "lat": 52.2287039,
+      "lon": 16.9545547,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "358c551675d83ba068718fd0ff3af5f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "8d706f43f643bebaa8a51dffcdbfa09c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "f503fd2c761859fd70edc3375aa6f945"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "47180bfe3f4bdf32745060cbe431da48"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podleśna, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4180824,
+      "lon": 17.0426216,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "378a5762cbe85c70da676538b4e3d7fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "11f62d0ef4f0499acfd6ddddc6807385"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Prezydialna, Rogalin, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-022, Polska",
+      "lat": 52.2360351,
+      "lon": 16.9511987,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "00144a6e69892611883265c60eaf6ff9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różanecznikowa, Długa, Radzewice, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-022, Polska",
+      "lat": 52.222584,
+      "lon": 16.9732454,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "177fe0aaa63dca3e77e353df7b137db9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "332da1ada87d11b33f25f74b57eb76fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "3e0a730c242ed368a29a5da3580cfde5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiadukt Kosynierów Górczyńskich, Górczyn, Poznań, województwo wielkopolskie, 60-122, Polska",
+      "lat": 52.3804876,
+      "lon": 16.8798723,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "947e4cc208067eba71c7f27bee4375fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Widokowa, Bnin, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-035, Polska",
+      "lat": 52.2287341,
+      "lon": 17.0831829,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "e9629a40730b9723628b3d0bd3ab29da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "29f3d76af72f21b574d971cddeae8250"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "bfa2361d1994832a10f1016a97a0e7ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "caa3fc90560a4c3e2919fadebdabb9cc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "17762a912f4aef3a3f99305764f0dccb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śremska, Osiedle Oświecenia, Rataje, Poznań, województwo wielkopolskie, 61-208, Polska",
+      "lat": 52.3911135,
+      "lon": 16.9611583,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-17T19:30:00",
+      "original_description": "Radzewice ul. Bławatkowa, ul. Długa, ul. Jaśminowa, ul. Kalinowa, ul. Konwaliowa, ul. Kwiatowa, ul. Łąkowa, ul. Narcyzowa, ul. Ogrodowa, ul. Piaskowa, ul. Podleśna, ul. Różanecznikowa, ul. Wiśniowa, ul. Wodna, ul. Zielona, Rogalin ul. Akacjowa, ul. Arciszewskiego, ul. Bukowa, ul. Dębowa, ul. Jaśminowa, ul. Klonowa, ul. Kosynierów, ul. Leśna, ul. Mosińska, ul. Nowa, ul. Osada, ul. Podleśna, ul. Poznańska, ul. Prezydialna, ul. Spokojna, ul. Szkolna, Podlesie, Rogalinek ul. Akacjowa, Świątniki ul. Akacjowa, ul. Kórnicka, ul. Niewielka, ul. Śremska, ul. Widokowa.",
+      "id": "e5d865e9f0a5d6134fa7ae1c5f98027b"
     }
   ]
 }
