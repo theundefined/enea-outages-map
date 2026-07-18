@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T10:51:48.896092+00:00",
+  "last_update": "2026-07-18T11:50:48.230889+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1560,6 +1560,196 @@
       "end_time": "2026-07-18T15:00:00",
       "original_description": "Poznań ul. Bojerowa 11, 13, 14, 15, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 3, 31, 32, 33, 35, 36, 37, 39, 4, 41, 43, 45, 5, 51, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Karawelowa 10/12, 11, 14, 15, 19, 2, 22, 24, 26, 28, 4, 6, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Korwetowa 10, 12, 13, 14, 15, 16, 18, 2, 20, 22, 23, 24, 25, 26, 27, 28, 3, 30, 32, 34, 4, 6, 7, 8, ul. Marynarska 10, 11, 12, 3, 4, 5, 6, 7, ul. Morska 13, 2, 3, 4, 8, 9, ul. Okrętowa /Wilków, 11, 13, 7, 9, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5, ul. Szkutnicza 1, 10, 12, 13, 14, 15, 17, 19, 2, 21, 23, 25, 4, 5, 6, 7, 8, ul. Wilków Morskich /WilkówMo, 1/12, 11, 13, 14, 15, 17, 17/19, 18, 2, 2/4, 20, 22, 23/25, 26, 28, 2A, 3, 30, 31, 32, 33, 34, 38, 39, 40, 40/42, 40A, 40C, 48, 50, 50A, 52, 58, 60, 62, 64, 66, 68, 70, 72, 74, 76, 9, ul. Żaglowa 1, 2, 3, 4, 5, 6, 8, 9/11.",
       "id": "7b9b760db5e2dc347497c6296dcfccac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Armii Poznań, Abisynia, Drawsko, gmina Drawsko, powiat czarnkowsko-trzcianecki, województwo wielkopolskie, 64-733, Polska",
+      "lat": 52.8463699,
+      "lon": 16.0410935,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "1004d754b44242f68fa4749d66476c81"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dusznicka, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4565513,
+      "lon": 16.8725769,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "ffc13d2f4e69131f36225ec1b0357eb6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "138de42f177e89f3db5b8abe69de613a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Graniczna, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961602,
+      "lon": 16.9040247,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "edb01ef09cc06847a5e1eabb41ad9e58"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "9768cfbf7539d7a393edd85f0b2ed087"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "a491611fdd0c71a339be8c3674ca3eaf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "0a5fc1907651999f5a7f7e1f42502c9d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "f93fa3271747c1015aae7f773c0ac336"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "348350aa8f9eb6a499d7ed3eb92030ab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedlowa, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3485845,
+      "lon": 16.8786946,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "b56351487d210896a8e424f6aa8e71fa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "5ac40c46e15dd5ddb466f673048e2c48"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "c916307046bf212338298bae2d447aeb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "b596c77b8671051b0a8148abf8c0c0a4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spacerowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.465908,
+      "lon": 16.7941901,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "5cf3876acf1a7a45a0b1b4b3963c3892"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "aa3fa54f41e48599d557e9607b68793b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stawna, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-759, Polska",
+      "lat": 52.4107402,
+      "lon": 16.9355908,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "cd4179913745187b56a2ea85e961fd59"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wąska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-859, Polska",
+      "lat": 52.4140584,
+      "lon": 16.9056711,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "e00229feb32f60fa9d087cac5090351e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "f0825dd2b1289352a3b12a7c9b907834"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętego Floriana, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-536, Polska",
+      "lat": 52.4139056,
+      "lon": 16.9038804,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T15:30:00",
+      "original_description": "Duszniki ul. Graniczna 1, ul. Podrzewska 38, 40, 42, 47, 49, 51, 55, 57, ul. Rumiankowa, Podrzewie ul. Długa 1, 10, 11, 11A, 12, 13, 14, 15, 16, 17, 18, 18A, 19, 2, 20, 21, 22, 23, 26, 27, 29, 3, 31, 33, 35, 36, 39, 4, 40, 40 a, 41, 42, 43, 44, 45, 46, 46A, 48, 49, 5, 50, 51, 52, 53, 55, 56, 57, 58, 59, 6, 60, 61, 62, 63, 65, 66, 67, 68, 69, 7, 71, 71A, 72, 73, 74, 75, 76, 77, 78, 80, 81, 83, 84, 86, 87, 88, 89, 9, dz. 518, ul. Dusznicka 1, 10, 11, 12, 13, 16, 17, 18, 2, 20, 21, 22, 24, 26, 27, 28, 29, 30, 33, 35, 36, 39, 4, 41, 5, 53, 57, 59, 6, 7, 8, 9, dz. 248, ul. Kręta 1, 10, 11, 12, 15, 16, 17, 18, 19, 2, 20, 22, 24, 3, 5, 7, 9, ul. Krótka 1, 2, 4, 7, 8, ul. Lawendowa 1, 10, 11, 12, 13, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Łąkowa 1, 11, 15, 2, 7, ul. Makowa 12, 12A, 6, 9, MAKOWA, ul. Ogrodowa 1, 10, 2, 3, 7, 8, ul. Osiedlowa 1, 3, 5, ul. Polna 8A, ul. Poznańska 1, 12, 13, 14, 18A, 2, 3, 4, 6, 7, 9, droga kr 2, ul. Sękowska 1, 2, 20, 6, A 2, dz 659, ul. Spacerowa 1, 14, 2, 3, 4, 5, 8, dz. 478/1, ul. Sportowa 12, 14, 16, 18, 19A, 2, 20, 3, 7, dz. 58/7, ul. Stawna 1, 10, 11, 13, 14, 15, 16, 18, 20, 3, 5, 7, 8, 9, ul. św. Floriana 1, 2, 3, ul. Wąska 1, 3, 5, 7, 9, ul. Wybudowanie 10, 13, 17, 19, 21, 27, 7, 9, DZ. 383/1.",
+      "id": "a2fc1a77277bb7a005094e14825d459e"
     }
   ]
 }
