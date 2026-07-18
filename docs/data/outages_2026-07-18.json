@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T06:21:28.537024+00:00",
+  "last_update": "2026-07-18T08:17:05.235312+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1200,6 +1200,206 @@
       "end_time": "2026-07-18T10:00:00",
       "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
       "id": "6f0c98107d0aed474484b2cbd5d616ff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrętowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4738496,
+      "lon": 16.7702849,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T11:00:00",
+      "original_description": "Poznań ul. Okrętowa 9.",
+      "id": "64ad6732ac648c8fa34bdcbae54af8e1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Generała Sikorskiego, Dębno, Dębienko, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "lat": 52.2909758,
+      "lon": 16.7278888,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "0a2957b6953c9e32fb36bc7cb65752d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kostrzewskiego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "lat": 52.4471156,
+      "lon": 16.9170448,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "b4a143e301492ae2ed16131a26135a87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "5c76fcb6450c23dc9de10846695d19ab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "e3930e5a5b1b4fe75026dd8df71a0a21"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "2c336585b0de6045e997ae26ba66639e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "dbada354d3c0d2a78bf3c7ba1774eb76"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mostowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-854, Polska",
+      "lat": 52.4049657,
+      "lon": 16.9394473,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "7350b6ebdb9a502fdf0dcda7d741bd9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Niwka Stara, Puszczykowo, powiat poznański, województwo wielkopolskie, 61-050, Polska",
+      "lat": 52.2583056,
+      "lon": 16.8800053,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "2a768183478e93e70006caf166825b11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "d8748aa0e2329f9b947dc46939da0c40"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "bc9ac9515985f4a85273a56f486fc64a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "1e9dd5ba9cb411d2a02626da93091a58"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "ffa2694eea2417fb59b0dcf182c82da7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podróżników, Sasinowo, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-022, Polska",
+      "lat": 52.2627353,
+      "lon": 16.9069345,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "451a697bb5a211f6629a5ea74b3b5493"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "150c5e1497eb8530237a5051e24f5bee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "5605ab381f7152347d31f36ec78d06c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Północna, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-722, Polska",
+      "lat": 52.4148038,
+      "lon": 16.9361092,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "128aa14d5613c39f8824e7cc8fee592a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "4c670721b9c9676b10a7091d8e30b96b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiosenna, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4145998,
+      "lon": 16.8720792,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "736145545403b1f3c641b2841c3c707d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T12:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara 25, Rogalinek ul. Generała Sikorskiego 10, 100, 102, 104, 106, 12, 14, 14A, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 33A, 34, 35, 35 D, 35C, 35E, 35H, 35M, 36, 37A, 37B, 37C, 38, 39, 4, 40, 41, 42, 43, 44, 47, 47A, 48, 49, 5, 51, 53, 55, 57, 6, 60, 60 B, 62a, 62A, 64, 64A, 68, 69, 7, 70, 72, 74, 76, 78, 8, 84, 86, 9, 92, 96, 96A, 98, 98A, B, dz. 94/2, dz.94/7, ul. Kostrzewskiego 18, 20, 21, ul. Kościelna 2, ul. Kręta 1, 10, 12, 4, 6, ul. Krótka 1, 10, 12, 1A, 3, 4, 6, 7, ul. Mostowa 1, 10, 10A, 10B, 11, 13, 15, 17, 19, 1B, 2, 27, 3, 31, 37, 4, 5, 6, 7, 9, ul. Ogrodowa 17, 6, ul. Parkowa 1, 2, 4, ul. Piaskowa 2, 3, 6, 8, ul. Podgórna 1, 10, 11, 12, 14, 15, 15A, 16, 17, 18, 19, 2, 2 B, 20, 24, 26, 3, 32, 4, 5, 6, 7, 8, 9, ul. Polna 2, 3, 4, 6, 8, ul. Północna 10, 11, 12, 13, 14, 15, 16, 17, 17A, 18, 19, 2, 21, 21A, 21B, 21C, 21G, 22, 23, 24, 28, 3, 30, 32, 36, 4, 44, 46, 5, 52, 54, 56, 58, 6, 60, 60 A, 62, 64, 64A, 66, 68, 7, 70, 72, 7A, 8, 9, 96/5, A, dz. 28/1, dz. 28/2, ul. Spokojna 4, 6, ul. Wodna 1, 11, 12, 16, 17, 18, 19, 19A, 20, 21, 22, 23, 23A, 24, 26, 28, 3, 30, 32, 34, 34A, 34B, 3A, 40, 42, 42A, 44, 46, 48, 5, 7, Sasinowo ul. Leśna 1, 47, 9, ul. Podróżników 5, ul. Poznańska 11, 13, 17, 18, 19, 20, 22, 23, 25, 25A, 26, 27, 28, 29, 3, 30, 31, 32, 33, 33a, 35, 36, 37, 38, 39, 39B, 40A, 44, 46, 46A, 5, 7, 9, A, ul. Wiosenna.",
+      "id": "2c872b2a1722f9ee2b4073ec70af43de"
     }
   ]
 }
