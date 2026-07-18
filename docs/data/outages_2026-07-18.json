@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-18T01:02:36.589070+00:00",
+  "last_update": "2026-07-18T04:10:47.099823+00:00",
   "outages": [
     {
       "type": "planned",
@@ -950,6 +950,56 @@
       "end_time": "2026-07-18T03:30:00",
       "original_description": "Poznań ul. Okrętowa 9.",
       "id": "b0e5316b29d5ac8375f25a41bc2ed859"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrętowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4738496,
+      "lon": 16.7702849,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T06:30:00",
+      "original_description": "Poznań ul. Okrętowa 9.",
+      "id": "57ed92b199bcc2d28bbebb1265154321"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Pawła II, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3992514,
+      "lon": 16.9527022,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T08:00:00",
+      "original_description": "Wronki ul. Jana Pawła II 1, 6-10, LEŚNA, ul. Leśna 1, 10, 11, 12, 14, 15, 15C, 16, 17, 17A, 17B, 17C, 18, 20, 22, 26, 28, 3, 30, 32, 34, 4, 5, 7, 8A, 9, DZ.735/2, ul. Myśliwska 1, ul. Poznańska 59.",
+      "id": "5ba8759a3c98dc3e95da52b74c6cb52f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T08:00:00",
+      "original_description": "Wronki ul. Jana Pawła II 1, 6-10, LEŚNA, ul. Leśna 1, 10, 11, 12, 14, 15, 15C, 16, 17, 17A, 17B, 17C, 18, 20, 22, 26, 28, 3, 30, 32, 34, 4, 5, 7, 8A, 9, DZ.735/2, ul. Myśliwska 1, ul. Poznańska 59.",
+      "id": "a29fee6d2bd848ac4389c5f5365ecb3e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Myśliwska, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3844325,
+      "lon": 16.8883878,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T08:00:00",
+      "original_description": "Wronki ul. Jana Pawła II 1, 6-10, LEŚNA, ul. Leśna 1, 10, 11, 12, 14, 15, 15C, 16, 17, 17A, 17B, 17C, 18, 20, 22, 26, 28, 3, 30, 32, 34, 4, 5, 7, 8A, 9, DZ.735/2, ul. Myśliwska 1, ul. Poznańska 59.",
+      "id": "1f06b09aa9c72280da991d26c4d21294"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-18T08:00:00",
+      "original_description": "Wronki ul. Jana Pawła II 1, 6-10, LEŚNA, ul. Leśna 1, 10, 11, 12, 14, 15, 15C, 16, 17, 17A, 17B, 17C, 18, 20, 22, 26, 28, 3, 30, 32, 34, 4, 5, 7, 8A, 9, DZ.735/2, ul. Myśliwska 1, ul. Poznańska 59.",
+      "id": "c480cd0653ede4735ed34694e35e1745"
     }
   ]
 }
