@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-19T10:45:05.119184+00:00",
+  "last_update": "2026-07-19T11:44:15.039077+00:00",
   "outages": [
     {
       "type": "planned",
@@ -930,6 +930,46 @@
       "end_time": "2026-08-03T11:30:00",
       "original_description": "Poznań: ul. Grunwaldzka od 376 do 386 parzyste, 386A, 379A, 385, 387, ul. Strzelińska, ul. Miśnieńska od 19 do 23.",
       "id": "139af218a8a91a5882e88f92c4ee07f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleje Solidarności, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 61-656, Polska",
+      "lat": 52.435628,
+      "lon": 16.9137782,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-19T16:00:00",
+      "original_description": "Poznań al. Aleje Solidarności 55a, ul. Piątkowska 161, ul. Serbska, ul. Trójpole 21.",
+      "id": "01813dce6a7a0ada59e98bba7c4b91a3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-19T16:00:00",
+      "original_description": "Poznań al. Aleje Solidarności 55a, ul. Piątkowska 161, ul. Serbska, ul. Trójpole 21.",
+      "id": "9811290680a8b8b464d01749a69bb924"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Serbska, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-623, Polska",
+      "lat": 52.4302408,
+      "lon": 16.9577556,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-19T16:00:00",
+      "original_description": "Poznań al. Aleje Solidarności 55a, ul. Piątkowska 161, ul. Serbska, ul. Trójpole 21.",
+      "id": "86ebc431c4a8b9200ac899c5350c343a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trójpole, Osiedle Przyjaźni, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4369416,
+      "lon": 16.9170945,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-19T16:00:00",
+      "original_description": "Poznań al. Aleje Solidarności 55a, ul. Piątkowska 161, ul. Serbska, ul. Trójpole 21.",
+      "id": "409cf59ca4f591a85395201cd2ce9104"
     }
   ]
 }
