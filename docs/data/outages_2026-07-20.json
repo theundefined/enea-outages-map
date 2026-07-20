@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-20T12:36:37.794272+00:00",
+  "last_update": "2026-07-20T14:52:32.641018+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,16 @@
       "end_time": "2026-07-20T16:30:00",
       "original_description": "Poznań ul. Skibowa 36, 38, 38A, 39, 40, 41, 42, 42A, 43, 43A, 44, 45, 45A, 46, 47, 47 A, 47 C, 47 G, 47B, 48, 49, 50, 51, 51A, 51B, 53, 54, 54 A, 54 B, 54C, 55, 55 A, 55 D, 55B, 55C, 56, 57, 57A.",
       "id": "fb41fc2026a829caf1cab3226a529a5c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ropczycka, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-316, Polska",
+      "lat": 52.3537521,
+      "lon": 16.9777281,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-20T18:00:00",
+      "original_description": "Poznań ul. Ropczycka.",
+      "id": "a4a0e0de3d491ee31ae37f29183eaae5"
     }
   ]
 }
