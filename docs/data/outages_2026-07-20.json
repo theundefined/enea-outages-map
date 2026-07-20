@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-20T04:47:39.284691+00:00",
+  "last_update": "2026-07-20T07:47:01.968267+00:00",
   "outages": [
     {
       "type": "planned",
@@ -523,6 +523,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Żorska, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-344, Polska",
+      "lat": 52.3536729,
+      "lon": 16.9287771,
+      "start_time": "2026-07-27T08:00:00",
+      "end_time": "2026-07-27T12:00:00",
+      "original_description": "Poznań: ul. Żorska 12B.",
+      "id": "08acd1dd1bfd879ba4be0a7c8c4ee782"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Biskupińska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
       "lat": 52.4622495,
       "lon": 16.867017,
@@ -930,6 +940,36 @@
       "end_time": "2026-08-03T11:30:00",
       "original_description": "Poznań: ul. Grunwaldzka od 376 do 386 parzyste, 386A, 379A, 385, 387, ul. Strzelińska, ul. Miśnieńska od 19 do 23.",
       "id": "139af218a8a91a5882e88f92c4ee07f9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "2026-08-04T08:30:00",
+      "end_time": "2026-08-04T11:30:00",
+      "original_description": "Poznań: ul. Michałowo od 2 do 8 parzyste, od 3 do 19 nieparzyste, ul. Stewnicka od 15 do 31 nieparzyste, ul. Salicka 30.",
+      "id": "a59a7893cf73d24672b6bcade997e93e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Salicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3738643,
+      "lon": 16.9967713,
+      "start_time": "2026-08-04T08:30:00",
+      "end_time": "2026-08-04T11:30:00",
+      "original_description": "Poznań: ul. Michałowo od 2 do 8 parzyste, od 3 do 19 nieparzyste, ul. Stewnicka od 15 do 31 nieparzyste, ul. Salicka 30.",
+      "id": "d553bfa0f217f0f22b7c6cb636e92a51"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stewnicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3737936,
+      "lon": 16.9986544,
+      "start_time": "2026-08-04T08:30:00",
+      "end_time": "2026-08-04T11:30:00",
+      "original_description": "Poznań: ul. Michałowo od 2 do 8 parzyste, od 3 do 19 nieparzyste, ul. Stewnicka od 15 do 31 nieparzyste, ul. Salicka 30.",
+      "id": "ced86ac08e629880c46967a0fcf3c911"
     }
   ]
 }
