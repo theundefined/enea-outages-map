@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-20T14:52:32.641018+00:00",
+  "last_update": "2026-07-20T16:21:46.852117+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1080,6 +1080,16 @@
       "end_time": "2026-07-20T18:00:00",
       "original_description": "Poznań ul. Ropczycka.",
       "id": "a4a0e0de3d491ee31ae37f29183eaae5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-20T20:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 302.",
+      "id": "cb1c0aa4b76043424bd190d9aa522ff5"
     }
   ]
 }
