@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-21T04:26:11.262788+00:00",
+  "last_update": "2026-07-21T07:06:14.346215+00:00",
   "outages": [
     {
       "type": "planned",
@@ -873,6 +873,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Wojciechowskiego, Karola Kurpińskiego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "lat": 52.450594,
+      "lon": 16.9143505,
+      "start_time": "2026-07-30T08:00:00",
+      "end_time": "2026-07-30T14:00:00",
+      "original_description": "Poznań: ul. Wojciechowskiego 7/17, dz. 16/21.",
+      "id": "25bb3a717668875740c3f1ccc0e1734b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Jaromira, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
       "lat": 52.4081793,
       "lon": 17.0210154,
@@ -1010,6 +1020,56 @@
       "end_time": "2026-08-04T11:30:00",
       "original_description": "Poznań: ul. Michałowo od 2 do 8 parzyste, od 3 do 19 nieparzyste, ul. Stewnicka od 15 do 31 nieparzyste, ul. Salicka 30.",
       "id": "ced86ac08e629880c46967a0fcf3c911"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Altanowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.481406,
+      "lon": 16.7771664,
+      "start_time": "2026-08-05T08:30:00",
+      "end_time": "2026-08-05T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "05367b5544806906e0e75d313d5eceea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Chojnicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751085,
+      "lon": 16.7897565,
+      "start_time": "2026-08-05T08:30:00",
+      "end_time": "2026-08-05T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "f84828a890a5310c0db51fd52de975e2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kierska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4802789,
+      "lon": 16.7804955,
+      "start_time": "2026-08-05T08:30:00",
+      "end_time": "2026-08-05T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "743b46af12d095ee08b2c5c8e61b0f45"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sanatoryjna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4786403,
+      "lon": 16.7825542,
+      "start_time": "2026-08-05T08:30:00",
+      "end_time": "2026-08-05T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "83b98ef0dca092ddb36b3202a572301e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sztormowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4808347,
+      "lon": 16.7815241,
+      "start_time": "2026-08-05T08:30:00",
+      "end_time": "2026-08-05T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "26d1a8387bc6daab7bb4c67a77c71d56"
     }
   ]
 }
