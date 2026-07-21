@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-21T09:35:17.541595+00:00",
+  "last_update": "2026-07-21T11:26:02.429072+00:00",
   "outages": [
     {
       "type": "planned",
@@ -873,6 +873,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
+      "lat": 52.4066079,
+      "lon": 16.9372258,
+      "start_time": "2026-07-29T10:00:00",
+      "end_time": "2026-07-29T12:00:00",
+      "original_description": "Poznań: ul. Garbary 76.",
+      "id": "df9d5a895f3bf722f337fbe8c5ea5ca3"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Wojciechowskiego, Karola Kurpińskiego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
       "lat": 52.450594,
       "lon": 16.9143505,
@@ -963,6 +973,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Winogrady, Poznań, województwo wielkopolskie, 61-636, Polska",
+      "lat": 52.4348647,
+      "lon": 16.9383531,
+      "start_time": "2026-07-31T15:00:00",
+      "end_time": "2026-07-31T17:00:00",
+      "original_description": "Poznań: ul. Winogrady 54, 54A.",
+      "id": "a3f11383b21eb2599f9c8d5caa041e53"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
       "lat": 52.398272,
       "lon": 16.8735956,
@@ -990,6 +1010,16 @@
       "end_time": "2026-08-03T11:30:00",
       "original_description": "Poznań: ul. Grunwaldzka od 376 do 386 parzyste, 386A, 379A, 385, 387, ul. Strzelińska, ul. Miśnieńska od 19 do 23.",
       "id": "139af218a8a91a5882e88f92c4ee07f9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rodzinny Ogród Działkowy im. Elizy Orzeszkowej, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4213666,
+      "lon": 16.9884655,
+      "start_time": "2026-08-03T08:30:00",
+      "end_time": "2026-08-03T14:00:00",
+      "original_description": "Poznań: ul. Orzeszkowej od 1 do 13 nieparzyste.",
+      "id": "1c738c00b10b500a7b42fc5991e26287"
     },
     {
       "type": "planned",
