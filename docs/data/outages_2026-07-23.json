@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-23T11:31:10.655536+00:00",
+  "last_update": "2026-07-23T13:09:52.199142+00:00",
   "outages": [
     {
       "type": "planned",
@@ -920,6 +920,16 @@
       "end_time": "2026-07-23T15:00:00",
       "original_description": "Poznań ul. Jana Henryka Dąbrowskiego.",
       "id": "468d29017b7ce837354e8aa312aa3113"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-23T16:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego.",
+      "id": "c032f92f6b835d872a7b9fb0f0e40d58"
     }
   ]
 }
