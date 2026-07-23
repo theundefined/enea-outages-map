@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-23T09:39:25.687657+00:00",
+  "last_update": "2026-07-23T11:31:10.655536+00:00",
   "outages": [
     {
       "type": "planned",
@@ -910,6 +910,16 @@
       "end_time": "2026-08-07T12:30:00",
       "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
       "id": "d3606f1797fb676e8f1b6395a5170577"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-23T15:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego.",
+      "id": "468d29017b7ce837354e8aa312aa3113"
     }
   ]
 }
