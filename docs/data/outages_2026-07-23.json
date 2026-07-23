@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-23T04:38:36.675680+00:00",
+  "last_update": "2026-07-23T07:15:50.662591+00:00",
   "outages": [
     {
       "type": "planned",
@@ -503,6 +503,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "2026-07-29T08:30:00",
+      "end_time": "2026-07-29T15:30:00",
+      "original_description": "Poznań: ul. Ogrodowa od 11 do 14, 14A.",
+      "id": "f5f09faa3ec66291678b796e4e97451e"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
       "lat": 52.4066079,
       "lon": 16.9372258,
@@ -703,6 +713,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Głuszyna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3166706,
+      "lon": 16.9499986,
+      "start_time": "2026-08-05T08:30:00",
+      "end_time": "2026-08-05T12:30:00",
+      "original_description": "Poznań: ul. Głuszyna od 4 do 46 parzyste, 5, 7, od 13 do 37 nieparzyste, dz. 138/12, ul. Skawińska 2.",
+      "id": "0b55b53ccbd51d267ffb1110f55b6c5d"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kierska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4802789,
       "lon": 16.7804955,
@@ -723,6 +743,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Skawińska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-333, Polska",
+      "lat": 52.3406649,
+      "lon": 16.924327,
+      "start_time": "2026-08-05T08:30:00",
+      "end_time": "2026-08-05T12:30:00",
+      "original_description": "Poznań: ul. Głuszyna od 4 do 46 parzyste, 5, 7, od 13 do 37 nieparzyste, dz. 138/12, ul. Skawińska 2.",
+      "id": "396759d89cbb2049daa80702cdee4584"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Sztormowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4808347,
       "lon": 16.7815241,
@@ -730,6 +760,56 @@
       "end_time": "2026-08-05T12:30:00",
       "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
       "id": "26d1a8387bc6daab7bb4c67a77c71d56"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Altanowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.481406,
+      "lon": 16.7771664,
+      "start_time": "2026-08-07T08:30:00",
+      "end_time": "2026-08-07T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "4e8db4263a80dbfaf8df0b6cd3c03d11"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Chojnicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751085,
+      "lon": 16.7897565,
+      "start_time": "2026-08-07T08:30:00",
+      "end_time": "2026-08-07T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "6851694f3cdf2430e503a294abbdd631"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kierska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4802789,
+      "lon": 16.7804955,
+      "start_time": "2026-08-07T08:30:00",
+      "end_time": "2026-08-07T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "d82e4bf85110f2e01178550b881a75fd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sanatoryjna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4786403,
+      "lon": 16.7825542,
+      "start_time": "2026-08-07T08:30:00",
+      "end_time": "2026-08-07T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "ed1d2f4abdccd06809ad8ad469b9b111"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sztormowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4808347,
+      "lon": 16.7815241,
+      "start_time": "2026-08-07T08:30:00",
+      "end_time": "2026-08-07T12:30:00",
+      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
+      "id": "d3606f1797fb676e8f1b6395a5170577"
     }
   ]
 }
