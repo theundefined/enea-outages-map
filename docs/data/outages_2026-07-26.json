@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-26T14:02:18.513405+00:00",
+  "last_update": "2026-07-26T15:16:13.538087+00:00",
   "outages": [
     {
       "type": "planned",
@@ -780,6 +780,256 @@
       "end_time": "2026-08-07T12:30:00",
       "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
       "id": "d3606f1797fb676e8f1b6395a5170577"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3756714,
+      "lon": 16.8649743,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "240232bd9f35b3e3b5ac58cc50721fff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bohaterów Bukowskich, Buk, gmina Buk, powiat poznański, województwo wielkopolskie, 64-320, Polska",
+      "lat": 52.3580305,
+      "lon": 16.5134595,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "7213f60cbbee146a7be5c6f35412fdd6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "a6d91d843eac9cf5265915557d40aa93"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bzowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3758771,
+      "lon": 16.9087018,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "3cbf845b9d46741d6da2edabe6a687cd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "daf0d5204446fb733fec2725c756b3d2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dusznicka, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4565513,
+      "lon": 16.8725769,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "ef78063f4636cfe30cc54f2a35866c23"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "d3a2200547767c6dd256b8821c93a2b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "c6c4f114fc2cebab066f0553669e6c18"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "21e9c8e96a4421926157a7f6e375ba5b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "10c12a341477fe9f1da6f5674fc3c423"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrężna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4701548,
+      "lon": 17.1775244,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "762b089c6b67f289555514626f451989"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Olimpijska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-873, Polska",
+      "lat": 52.3980291,
+      "lon": 16.9274489,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "cb15466496d3a0fa4801974e4b716790"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piłkarska, Witobel, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "lat": 52.274584,
+      "lon": 16.7134561,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "b946c799ccd529f4ddd2d862078648d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "115a0e2c8e340e0d369ac053c5d2f136"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "a24acad7d92ef9ed75b057b33f768646"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzeczna, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-013, Polska",
+      "lat": 52.4255053,
+      "lon": 16.9755612,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "1d7c5665a843be0d3eb873b9a3660031"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "bff26923948e95ca81acd2fe30b3c047"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "fb7f49f46fcf42b87f15a248d8bfdd03"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "bb125325d47fcd5c247f8ffdc91d1e3d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "3b9dbd6852e4992a57ee96ba4cdb352e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "156fca1a0de4648727731ddb27980ebf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiosenna, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4145998,
+      "lon": 16.8720792,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "ee1e9a2b26e20fd2f965b57f5660e8cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "99cb8519082675626a87b1f7310f45a4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wspólna, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3761625,
+      "lon": 16.9184364,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "cf69e52d25c1e5bc3a2145de7dd10f05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świerkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.3715758,
+      "lon": 16.8996578,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-26T19:00:00",
+      "original_description": "Wielka Wieś ul. Bohaterów Bukowskich 160, 162, 168, 170, 170/1, 176, 178, 180, 182, 184, 186, 188, 190, 192, 194, Buk ul. Bohaterów Bukowskich 12, Sędzinko ul. Boczna 4, ul. Bzowa 10, 2, 4, 61, dz. 519/13, ul. Długa, ul. Klonowa 2, 3, 6, 8, ul. Leśna 1, 10, 12, 14, 14A, 2, 20, 22, 26, 3, 30, 4, 5, 6, 7, 7/A, 8, 8 A, 8B, ul. Okrężna 13, 15, OKRĘŻNA, ul. Olimpijska 4, 6, ul. Piłkarska 10, 4, 5, 9, PIŁKARSKA, ul. Polna 13, 161, 2, 216, 25, 2d, 4, 4A, 4B, 4C, 4D, 5, 6, dz. 126/4, DZ. 215/19, ul. Rzeczna 5, ul. Sokólskich 5, 7, 9, DZ. 566/11, DZ. 566/14, DZ. 566/9, ul. Spokojna 1, 3, 5, DZ.278/25, ul. Sportowa 1, 11, 2, 3, ul. Szkolna 1, 10, 11, 13, 14/a, 15, 16, 16/A, 16/c, 17, 18, 1A, 20, 22, 24, 26, 28, 30, 36, 3a, 40, 44, 46, 48, 5, 52, 54, 58, 6, 60, 66, 68, 7, 70, 72, 8, 9, ul. Świerkowa 1, 7, ul. Topolowa 1, 10, 12, 14, 16, 2, 20, 22, 24, 4, 5, 6, 7, 8, dz 73/2, ul. Wilkowska dz. 296/5, ul. Wiśniowa 1, 13, 15, 17, 17D, 17F, 19, 2, 40, DZ. 251/5, ul. Wspólna 2, Zalesie ul. Wiosenna 2, 4, 5, 6, Sędziny ul. Bukowska 10, 11, 12, 13, 14, 16, 17, 18, 20, 24, 3, 4, 5, 6, 6A, 7, 8, ul. Czereśniowa 12, 14, 18, 20, 24, 27, 4, Wilkowo ul. Bukowska 1, 10, 12, 14, 16, 20, 26, 3, 4, 5, 5A, 6, 7, 8, 9, 9A, ul. Dusznicka 1, ul. Lipowa 1, 2, 3, 4, 6, ul. Okrężna 1, 4, 5, 6SKR. POCZ, 8, ul. Poznańska 1, 10, 11, 13, 15, 17, 19, 2, 21, 27, 3, 33, 4, 4A, 5, 6, 9, dz 23/1, ul. Sarbska 1, 2, ul. Szamotulska 2, 28, 3, 4, 5, 6, 6A, 7, 8, dz. 156.",
+      "id": "c8f76f02366160432ad2fffec6f3bdb3"
     }
   ]
 }
