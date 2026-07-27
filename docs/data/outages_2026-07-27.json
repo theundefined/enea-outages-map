@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-27T04:56:53.411192+00:00",
+  "last_update": "2026-07-27T08:30:34.386303+00:00",
   "outages": [
     {
       "type": "planned",
@@ -713,6 +713,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Armii Poznań, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3538833,
+      "lon": 16.9020446,
+      "start_time": "2026-08-05T08:00:00",
+      "end_time": "2026-08-05T16:00:00",
+      "original_description": "Miasto Oborniki ul. Mostowa 4A, ul. Armii Poznań 27, ul. Gołaszyńska 16B, Zakład Ubezpieczeń Społecznych",
+      "id": "ebdef2b99165e9f323736d6404139b54"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
       "lat": 52.3968703,
       "lon": 16.8992814,
@@ -730,6 +740,16 @@
       "end_time": "2026-08-05T16:00:00",
       "original_description": "Poznań: ul. Limanowskiego od 16 do 22 parzyste, ul. Drużbackiej od 2 do 8 parzyste, ul. Wyspiańskiego od 15 do 23 nieparzyste.",
       "id": "fcb0c044b768b3917586f5ca24a798a6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mostowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-854, Polska",
+      "lat": 52.4049657,
+      "lon": 16.9394473,
+      "start_time": "2026-08-05T08:00:00",
+      "end_time": "2026-08-05T16:00:00",
+      "original_description": "Miasto Oborniki ul. Mostowa 4A, ul. Armii Poznań 27, ul. Gołaszyńska 16B, Zakład Ubezpieczeń Społecznych",
+      "id": "d9ffed13489224d95785d3a46e60a0da"
     },
     {
       "type": "planned",
@@ -812,6 +832,116 @@
       "id": "d3606f1797fb676e8f1b6395a5170577"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "2026-08-10T08:30:00",
+      "end_time": "2026-08-10T11:30:00",
+      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
+      "id": "49f0eefdf70708730698054cb2011214"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "2026-08-10T08:30:00",
+      "end_time": "2026-08-10T11:30:00",
+      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
+      "id": "698550bea3cedfe41fd0cfad4ee3e4c6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "2026-08-10T08:30:00",
+      "end_time": "2026-08-10T11:30:00",
+      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
+      "id": "22fc9283584795952dfc784809c90b82"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "2026-08-10T08:30:00",
+      "end_time": "2026-08-10T11:30:00",
+      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
+      "id": "f83a6bc25ebee9afa10df51725e4c1df"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "2026-08-10T08:30:00",
+      "end_time": "2026-08-10T11:30:00",
+      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
+      "id": "ffcf834227c650be1d7ab9b81b98b605"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "2026-08-10T08:30:00",
+      "end_time": "2026-08-10T11:30:00",
+      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
+      "id": "c218cca6176fbbabcaf3eb010e57e68b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wczasowa, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-060, Polska",
+      "lat": 52.3972742,
+      "lon": 17.028723,
+      "start_time": "2026-08-10T08:30:00",
+      "end_time": "2026-08-10T11:30:00",
+      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
+      "id": "3d2d7ea4118646eb562fc182959abe55"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Anny Danysz, Podolany, Poznań, województwo wielkopolskie, 60-462, Polska",
+      "lat": 52.4608578,
+      "lon": 16.8765669,
+      "start_time": "2026-08-12T08:30:00",
+      "end_time": "2026-08-12T14:00:00",
+      "original_description": "Poznań: ul. Synów Pułku, ul. Cieszkowskiego od 41 do 59 nieparzyste, od 42 do 74 parzyste, ul. Danysz od 6 do 27, ul. Strzeszyńska 230.",
+      "id": "0f2372c351e5c1725b51bf1343c8515c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Augusta Cieszkowskiego, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4628978,
+      "lon": 16.8698013,
+      "start_time": "2026-08-12T08:30:00",
+      "end_time": "2026-08-12T14:00:00",
+      "original_description": "Poznań: ul. Synów Pułku, ul. Cieszkowskiego od 41 do 59 nieparzyste, od 42 do 74 parzyste, ul. Danysz od 6 do 27, ul. Strzeszyńska 230.",
+      "id": "5c063a2880c729d1bad2fb9d30fe13e5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "2026-08-12T08:30:00",
+      "end_time": "2026-08-12T14:00:00",
+      "original_description": "Poznań: ul. Synów Pułku, ul. Cieszkowskiego od 41 do 59 nieparzyste, od 42 do 74 parzyste, ul. Danysz od 6 do 27, ul. Strzeszyńska 230.",
+      "id": "9a0a2398c250cbedafee68c2f91d8aa5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Synów Pułku, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4610418,
+      "lon": 16.8751234,
+      "start_time": "2026-08-12T08:30:00",
+      "end_time": "2026-08-12T14:00:00",
+      "original_description": "Poznań: ul. Synów Pułku, ul. Cieszkowskiego od 41 do 59 nieparzyste, od 42 do 74 parzyste, ul. Danysz od 6 do 27, ul. Strzeszyńska 230.",
+      "id": "019411cb2a3a99a1056c69725344acbf"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
@@ -820,6 +950,26 @@
       "end_time": "2026-07-27T08:00:00",
       "original_description": "Chalin, Góra, Grobia, Przemyśl, Śrem, Sieraków ul. Poznańska.",
       "id": "eada4bc16f14fabadef02e2ecc08f6c5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-27T11:00:00",
+      "original_description": "Chalin, Góra, Grobia, Przemyśl, Śrem, Sieraków ul. Poznańska.",
+      "id": "e7712d6ad2c81df3f22cde1c68ee32e7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziedzicka, Starołęka Wielka, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-345, Polska",
+      "lat": 52.3530554,
+      "lon": 16.9276401,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-27T11:30:00",
+      "original_description": "Poznań ul. Dziedzicka 12, 9a.",
+      "id": "76af16c02ce533ef032c1f3e264c1adc"
     }
   ]
 }
