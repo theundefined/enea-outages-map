@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-27T01:20:12.492696+00:00",
+  "last_update": "2026-07-27T04:56:53.411192+00:00",
   "outages": [
     {
       "type": "planned",
@@ -713,6 +713,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "2026-08-05T08:00:00",
+      "end_time": "2026-08-05T16:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 16 do 22 parzyste, ul. Drużbackiej od 2 do 8 parzyste, ul. Wyspiańskiego od 15 do 23 nieparzyste.",
+      "id": "709ab18c92d3d86b82803b7b4460175e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Elżbiety Drużbackiej, Łazarz, Poznań, województwo wielkopolskie, 60-750, Polska",
+      "lat": 52.3979843,
+      "lon": 16.8981067,
+      "start_time": "2026-08-05T08:00:00",
+      "end_time": "2026-08-05T16:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 16 do 22 parzyste, ul. Drużbackiej od 2 do 8 parzyste, ul. Wyspiańskiego od 15 do 23 nieparzyste.",
+      "id": "fcb0c044b768b3917586f5ca24a798a6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wyspiańskiego, Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3974793,
+      "lon": 16.8996108,
+      "start_time": "2026-08-05T08:00:00",
+      "end_time": "2026-08-05T16:00:00",
+      "original_description": "Poznań: ul. Limanowskiego od 16 do 22 parzyste, ul. Drużbackiej od 2 do 8 parzyste, ul. Wyspiańskiego od 15 do 23 nieparzyste.",
+      "id": "1078665a6d928cb49fa2ea5f8b8b9480"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Głuszyna, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3166706,
       "lon": 16.9499986,
@@ -780,6 +810,16 @@
       "end_time": "2026-08-07T12:30:00",
       "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
       "id": "d3606f1797fb676e8f1b6395a5170577"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-27T08:00:00",
+      "original_description": "Chalin, Góra, Grobia, Przemyśl, Śrem, Sieraków ul. Poznańska.",
+      "id": "eada4bc16f14fabadef02e2ecc08f6c5"
     }
   ]
 }
