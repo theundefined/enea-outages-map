@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-30T06:05:02.012403+00:00",
+  "last_update": "2026-07-30T08:44:52.243304+00:00",
   "outages": [
     {
       "type": "planned",
@@ -693,6 +693,66 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Białostocka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-047, Polska",
+      "lat": 52.4080333,
+      "lon": 16.9833835,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T11:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "a6631bb85db16c17b4b492b92de3c8c1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Brzeska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-048, Polska",
+      "lat": 52.4071937,
+      "lon": 16.983973,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T11:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "0de78af5329ef6479dcfcfe34d7a8c0e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T11:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "ed7c1167e3b013a6c16617d6638ee537"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-051, Polska",
+      "lat": 52.4063811,
+      "lon": 16.9884001,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T11:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "0d7d24874c6882574c4e9fa97941579e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Terespolska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-047, Polska",
+      "lat": 52.4084552,
+      "lon": 16.9840267,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T11:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "ae1b2787ba0d3403669d9166f561753f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T11:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "bce0a46e7b49febd5865c225b2f22e4a"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Przyjemna, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
       "lat": 52.3529543,
       "lon": 17.0426115,
@@ -870,6 +930,56 @@
       "end_time": "2026-07-30T08:30:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "f613799544a74d1a481b672a8eec2570"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "58742d5f64b36a9284fed3c25ae6cc8f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "a3028476083fb211460ceed301387264"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "74f7555d63893418ff111239ba0fc6ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "79c1ad4f6252687bb9f39591450e1ce4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "973c53a646db13381e150d9cb979a77e"
     }
   ]
 }
