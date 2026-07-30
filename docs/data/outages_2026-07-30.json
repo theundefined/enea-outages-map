@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-30T08:44:52.243304+00:00",
+  "last_update": "2026-07-30T10:53:00.617247+00:00",
   "outages": [
     {
       "type": "planned",
@@ -373,6 +373,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Dolna, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4697134,
+      "lon": 16.9524326,
+      "start_time": "2026-08-06T08:30:00",
+      "end_time": "2026-08-06T14:30:00",
+      "original_description": "Daszewice ul. Poznańska 3E - 16A, 18 - 44 Parzyste, ul. Sosnowa 3A, ul. Górna 2, 2B, 2c, 2D, dz.133/6, 6, ul. Dolna 2A, DZ. 425/17",
+      "id": "7c97eb9e94c520b4232491d2f43ef8dd"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Folwarczna, Osiedle Przemysława, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-064, Polska",
       "lat": 52.3895876,
       "lon": 17.0075819,
@@ -380,6 +390,16 @@
       "end_time": "2026-08-06T14:30:00",
       "original_description": "Przeźmierowo: ul. Folwarczna od 1 do 39 nieparzyste, od 2 do 44 parzyste, ul. Poznańska od 15 do 27 nieparzyste, ul. Leśna 17, 19, ul. Wiosny Ludów 22.",
       "id": "f5d70183a83eeea54c096463f1c8177b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-873, Polska",
+      "lat": 52.3997062,
+      "lon": 16.9271468,
+      "start_time": "2026-08-06T08:30:00",
+      "end_time": "2026-08-06T14:30:00",
+      "original_description": "Daszewice ul. Poznańska 3E - 16A, 18 - 44 Parzyste, ul. Sosnowa 3A, ul. Górna 2, 2B, 2c, 2D, dz.133/6, 6, ul. Dolna 2A, DZ. 425/17",
+      "id": "54f7cf3042782d92b52d8aae17bfba00"
     },
     {
       "type": "planned",
@@ -400,6 +420,26 @@
       "end_time": "2026-08-06T14:30:00",
       "original_description": "Przeźmierowo: ul. Folwarczna od 1 do 39 nieparzyste, od 2 do 44 parzyste, ul. Poznańska od 15 do 27 nieparzyste, ul. Leśna 17, 19, ul. Wiosny Ludów 22.",
       "id": "227e18f904545b5eec337445dd5f4b93"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-08-06T08:30:00",
+      "end_time": "2026-08-06T14:30:00",
+      "original_description": "Daszewice ul. Poznańska 3E - 16A, 18 - 44 Parzyste, ul. Sosnowa 3A, ul. Górna 2, 2B, 2c, 2D, dz.133/6, 6, ul. Dolna 2A, DZ. 425/17",
+      "id": "800951df3e13b7e56c3072c63d976fd3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "2026-08-06T08:30:00",
+      "end_time": "2026-08-06T14:30:00",
+      "original_description": "Daszewice ul. Poznańska 3E - 16A, 18 - 44 Parzyste, ul. Sosnowa 3A, ul. Górna 2, 2B, 2c, 2D, dz.133/6, 6, ul. Dolna 2A, DZ. 425/17",
+      "id": "ffc0e68fb411e5b09d681e88d7f1982b"
     },
     {
       "type": "planned",
@@ -980,6 +1020,56 @@
       "end_time": "2026-07-30T11:30:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "973c53a646db13381e150d9cb979a77e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T13:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "0ac9dd264c26636a6c7d85fbbeffc73c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T13:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "84776541b8a1d046a236282c06132aab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T13:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "794d6e9bbdc507dc90dd2abd9ca60ebf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T13:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "7baba8cc9f8d26473d8b0dd76bc8f303"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-30T13:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "2c267b6c9112901f457ead794d6c3cd2"
     }
   ]
 }
