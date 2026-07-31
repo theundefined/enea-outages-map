@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-07-31T04:45:36.449373+00:00",
+  "last_update": "2026-07-31T07:37:32.931993+00:00",
   "outages": [
     {
       "type": "planned",
@@ -543,6 +543,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Sokalska, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
+      "lat": 52.3459274,
+      "lon": 17.0181975,
+      "start_time": "2026-08-11T08:00:00",
+      "end_time": "2026-08-11T15:30:00",
+      "original_description": "Poznań: ul. Sokalska dz. 4/211, dz. 4/216, dz. 4/217.",
+      "id": "3d29fe233f786dcf2474d5354ad9cdc7"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Andaluzyjska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-698, Polska",
       "lat": 52.4453876,
       "lon": 16.93059,
@@ -733,6 +743,86 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Chodzieska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335619,
+      "lon": 16.8415936,
+      "start_time": "2026-08-18T08:00:00",
+      "end_time": "2026-08-18T17:00:00",
+      "original_description": "Poznań: ul. Olsztyńska bez 26, ul. Kołobrzeska bez 25 i 26, ul. Dąbrowskiego 361, ul. Wolińska, ul. Chodzieska 11, 15, ul. Podgajska od 8 do 20 parzyste, 11, 13, 15.",
+      "id": "61044ffb543cb840d4b3852ce8c52651"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-08-18T08:00:00",
+      "end_time": "2026-08-18T17:00:00",
+      "original_description": "Poznań: ul. Olsztyńska bez 26, ul. Kołobrzeska bez 25 i 26, ul. Dąbrowskiego 361, ul. Wolińska, ul. Chodzieska 11, 15, ul. Podgajska od 8 do 20 parzyste, 11, 13, 15.",
+      "id": "2c830aaf1f8377563b10260105caea42"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podgajska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4339951,
+      "lon": 16.8394814,
+      "start_time": "2026-08-18T08:00:00",
+      "end_time": "2026-08-18T17:00:00",
+      "original_description": "Poznań: ul. Olsztyńska bez 26, ul. Kołobrzeska bez 25 i 26, ul. Dąbrowskiego 361, ul. Wolińska, ul. Chodzieska 11, 15, ul. Podgajska od 8 do 20 parzyste, 11, 13, 15.",
+      "id": "7112dc24d65cbac980c88bbfe9a8aaba"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wolińska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4331661,
+      "lon": 16.8394575,
+      "start_time": "2026-08-18T08:00:00",
+      "end_time": "2026-08-18T17:00:00",
+      "original_description": "Poznań: ul. Olsztyńska bez 26, ul. Kołobrzeska bez 25 i 26, ul. Dąbrowskiego 361, ul. Wolińska, ul. Chodzieska 11, 15, ul. Podgajska od 8 do 20 parzyste, 11, 13, 15.",
+      "id": "a2ba5fb846e9a66e483c31f77782cee3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Joachima Lelewela, Świerczewo, Poznań, województwo wielkopolskie, 61-409, Polska",
+      "lat": 52.3623992,
+      "lon": 16.8816517,
+      "start_time": "2026-08-18T08:30:00",
+      "end_time": "2026-08-18T11:30:00",
+      "original_description": "Poznań: ul. Trąmpczyńskiego, ul. Vetulaniego 3, od 2 do 16 parzyste, ul. Leszczyńska 169, ul. Lelewela 81, 83, 85.",
+      "id": "ade8c44c424307d54c35d42f27bd8c18"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Leszczyńska, Świerczewo, Poznań, województwo wielkopolskie, 61-411, Polska",
+      "lat": 52.3595932,
+      "lon": 16.8811028,
+      "start_time": "2026-08-18T08:30:00",
+      "end_time": "2026-08-18T11:30:00",
+      "original_description": "Poznań: ul. Trąmpczyńskiego, ul. Vetulaniego 3, od 2 do 16 parzyste, ul. Leszczyńska 169, ul. Lelewela 81, 83, 85.",
+      "id": "2a6f48d68476ec172f89ab895ae87275"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tadeusza Vetulaniego, Świerczewo, Poznań, województwo wielkopolskie, 61-409, Polska",
+      "lat": 52.36191,
+      "lon": 16.8825448,
+      "start_time": "2026-08-18T08:30:00",
+      "end_time": "2026-08-18T11:30:00",
+      "original_description": "Poznań: ul. Trąmpczyńskiego, ul. Vetulaniego 3, od 2 do 16 parzyste, ul. Leszczyńska 169, ul. Lelewela 81, 83, 85.",
+      "id": "a4eb4ed0f57778d920bbed108a5a2e9d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wojciecha Trąmpczyńskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-412, Polska",
+      "lat": 52.3642074,
+      "lon": 16.8798211,
+      "start_time": "2026-08-18T08:30:00",
+      "end_time": "2026-08-18T11:30:00",
+      "original_description": "Poznań: ul. Trąmpczyńskiego, ul. Vetulaniego 3, od 2 do 16 parzyste, ul. Leszczyńska 169, ul. Lelewela 81, 83, 85.",
+      "id": "7a94524fed9761c3bcddd53e227640fa"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Jedlicka, Pokrzywno, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-022, Polska",
       "lat": 52.3617621,
       "lon": 16.9843028,
@@ -740,6 +830,66 @@
       "end_time": "2026-08-19T15:30:00",
       "original_description": "Poznań: ul. Jedlicka 36A, 38, 38A, 38B, od 17 do 27 nieparzyste.",
       "id": "6b32a34dc6070818d8ae1ff6db1eece0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Białogardzka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4344573,
+      "lon": 16.8405845,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T16:00:00",
+      "original_description": "Poznań: ul. Sianowska 36, 36A-B, 38, ul. Sianowska 9, ul. Białogardzka 1, od 2 do 10 parzyste, 10A, 7, 9, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska od 2 do 6, ul. Olsztyńska 26.",
+      "id": "bc05f820d84693816b45e9fb70f19fda"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Chodzieska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335619,
+      "lon": 16.8415936,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T16:00:00",
+      "original_description": "Poznań: ul. Sianowska 36, 36A-B, 38, ul. Sianowska 9, ul. Białogardzka 1, od 2 do 10 parzyste, 10A, 7, 9, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska od 2 do 6, ul. Olsztyńska 26.",
+      "id": "76c90849c7e85b2879fc19c669cca7fc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kołobrzeska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4335282,
+      "lon": 16.8401597,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T16:00:00",
+      "original_description": "Poznań: ul. Sianowska 36, 36A-B, 38, ul. Sianowska 9, ul. Białogardzka 1, od 2 do 10 parzyste, 10A, 7, 9, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska od 2 do 6, ul. Olsztyńska 26.",
+      "id": "474fee7cd523c787f43408d805b838f1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Olsztyńska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4337359,
+      "lon": 16.838177,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T16:00:00",
+      "original_description": "Poznań: ul. Sianowska 36, 36A-B, 38, ul. Sianowska 9, ul. Białogardzka 1, od 2 do 10 parzyste, 10A, 7, 9, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska od 2 do 6, ul. Olsztyńska 26.",
+      "id": "a0d31cc3fca09d7daeaec350f692477c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podgajska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-418, Polska",
+      "lat": 52.4339951,
+      "lon": 16.8394814,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T16:00:00",
+      "original_description": "Poznań: ul. Sianowska 36, 36A-B, 38, ul. Sianowska 9, ul. Białogardzka 1, od 2 do 10 parzyste, 10A, 7, 9, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska od 2 do 6, ul. Olsztyńska 26.",
+      "id": "00b6cf6336d2396928f76abcb5f92abf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sianowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4351785,
+      "lon": 16.8198449,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T16:00:00",
+      "original_description": "Poznań: ul. Sianowska 36, 36A-B, 38, ul. Sianowska 9, ul. Białogardzka 1, od 2 do 10 parzyste, 10A, 7, 9, ul. Chodzieska 25, ul. Kołobrzeska 25, 26, ul. Podgajska od 2 do 6, ul. Olsztyńska 26.",
+      "id": "469389f759855d35a29afec53f6a9d83"
     },
     {
       "type": "planned",
@@ -850,6 +1000,116 @@
       "end_time": "2026-07-31T07:00:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "09b8be066e92e1baa4802d1e11d399ce"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "473157f78eda0f7eb570c93211889420"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "1e73c0d34574dfef288a03624cc40db8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "7af3e8d9abf27f16930e613c924ad559"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "043cc792bedff947b66736a03cdb2ae9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "da7f9e5bfea51441e23afdc374082088"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lotnisko Poznań-Ławica, Pilotów, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.420564,
+      "lon": 16.8317925,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T11:30:00",
+      "original_description": "Kostrzyn ul. Stanisława Moniuszki 12, 37, Kostrzyn ul. Chopina 18, 21, 22, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "8c17accf15ef0e12908ec7b4f013ec09"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Park Fryderyka Chopina, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4051797,
+      "lon": 16.9347542,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T11:30:00",
+      "original_description": "Kostrzyn ul. Stanisława Moniuszki 12, 37, Kostrzyn ul. Chopina 18, 21, 22, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "73a8151db9a01b1b3b176963555d8958"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T11:30:00",
+      "original_description": "Kostrzyn ul. Stanisława Moniuszki 12, 37, Kostrzyn ul. Chopina 18, 21, 22, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "f4c422d17246740574133db85dc00b1a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Moniuszki, Puszczykówko, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2706307,
+      "lon": 16.8618661,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T11:30:00",
+      "original_description": "Kostrzyn ul. Stanisława Moniuszki 12, 37, Kostrzyn ul. Chopina 18, 21, 22, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "386ce869de6359a1fd3223535013a1e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Teatr Wielki, 9, Aleksandra Fredry, Stare Miasto, Poznań, województwo wielkopolskie, 61-701, Polska",
+      "lat": 52.4102403,
+      "lon": 16.9176985,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T11:30:00",
+      "original_description": "Kostrzyn ul. Stanisława Moniuszki 12, 37, Kostrzyn ul. Chopina 18, 21, 22, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "d65443ecece248be103da31a48e888bf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warzywna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4269598,
+      "lon": 16.9298115,
+      "start_time": "Brak danych",
+      "end_time": "2026-07-31T11:30:00",
+      "original_description": "Kostrzyn ul. Stanisława Moniuszki 12, 37, Kostrzyn ul. Chopina 18, 21, 22, 23, 25, 26, 27, 28, 29, 3, 32, 33, 33/a, 34, 36, 38, 40, 44, 46, 48, 5, ul. Moniuszki 22, 35, 37, 4, 7, ul. Poznańska 100, 102, 104, 106, 108, 110, 112, 114, 39, 49, 50, 52, 54, 56, 57, 58, 60, 62, 64, 66, 68, 70, 74, 76, 78, 80, 82, 84, 86, 88, 90, 91, 94, 96, 98, ul. Warzywna 16, ul. Wieniawskiego 11, 11a, 13, 15, 16, 17, 2, 4, 4B, 6.",
+      "id": "9a799a35948658db6742462f95fc47c7"
     }
   ]
 }
