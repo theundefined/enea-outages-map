@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-01T15:46:22.526564+00:00",
+  "last_update": "2026-08-01T16:39:46.482625+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1140,6 +1140,396 @@
       "end_time": "2026-08-01T19:00:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "e079358f942e4a4a2557451d8ff171e8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Mickiewicza, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-835, Polska",
+      "lat": 52.4092101,
+      "lon": 16.9103072,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "6058b24c6c0ef4784b9e8b8acf02b16b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "eb12c50e7eb0a18f4046950c3343c190"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleksandra Fredry, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-701, Polska",
+      "lat": 52.409401,
+      "lon": 16.9188679,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "5c1311afd685bb580ded81a0e3ff0196"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "34b2ea4005a2d7897ed80254832db053"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cisowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3746491,
+      "lon": 16.8956975,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "50b384c4fb975545688415c0a8bb1526"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cypriana Kamila Norwida, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3470199,
+      "lon": 16.8734286,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "61613e28b6d5998b3a62acef80eb2c22"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cyprysowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3662097,
+      "lon": 16.905338,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "81b0f77622084c88c08cdbba37bbd504"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "0d998d9c3a5c356b0f814cdbc35f41d9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fiołkowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3747467,
+      "lon": 16.9076006,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "7a92cba9fa2df68fbc65ec586f2b09b9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Frezjowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3850327,
+      "lon": 16.8274234,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "beb5b425b5e03d7a970e6dad26793ad6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Generała Władysława Sikorskiego, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-031, Polska",
+      "lat": 52.3517975,
+      "lon": 16.872164,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "e441d5d9bbd811999bcb722e48b12c29"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Kochanowskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-845, Polska",
+      "lat": 52.4109263,
+      "lon": 16.9091411,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "a5a65b10aaf40898049299797a4807b5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "921b7b32afef4583535dbe258b6c3fa9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliana Tuwima, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4073831,
+      "lon": 16.8375636,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "2fd22b4ac0cd9716660b6f3b4cba25ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Słowackiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-829, Polska",
+      "lat": 52.4095553,
+      "lon": 16.9127548,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "dba5415ea89e1e068135d6591f822341"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kalinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-437, Polska",
+      "lat": 52.3675868,
+      "lon": 16.9024129,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "29d3472cd5d74e6b3e5f07b32d59a1bd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "7f5a74e24a272fc3248387b5faef20ff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "087874bae3d1c6431cdc00c75168b489"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krzysztofa Kamila Baczyńskiego, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-197, Polska",
+      "lat": 52.4095432,
+      "lon": 16.8523302,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "603ba9138a80892fb0c5e02a64adae17"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Letnia, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4056993,
+      "lon": 17.0349651,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "80436b399ff440a38e8b37fccb1dbeba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "0771dd40162ea5e482f4406cc1dda8a1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marii Konopnickiej, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4032644,
+      "lon": 16.9015829,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "e9e96ef003be805d3a8435fe7dc6cda7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "fffb95817c0af5e2d59abfe9a83ebcd9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "792f39ec4e2dfe774d4d6228fde81cd3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "d6a84b9f622e274c328297bc306f5c4b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "3e47d8ab0b9febc518772954bcb99e9e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "78fd0c4ef2480b9db2b0e510b73a1670"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Żeromskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-545, Polska",
+      "lat": 52.4192108,
+      "lon": 16.8936243,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "2ab12312c813a40e82cc9b6f11edffd9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Storczykowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3873513,
+      "lon": 16.8147797,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "09c50e40aaf4d3aaa136f87226093309"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "f8bcfc7c711c9e8993a839edbd0a4cdb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słonecznikowa, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4774997,
+      "lon": 16.9390768,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "f1d09c22dbc39bdd584b0d1c64bf7a4a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Kościuszki, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-898, Polska",
+      "lat": 52.4022309,
+      "lon": 16.9243989,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "9ddcd69d80484df4d923982ce52fb6b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tulipanowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3876508,
+      "lon": 16.8142466,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "9b824882998c459a1e413ace0489139a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tęczowa, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3924959,
+      "lon": 16.8799077,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "5fc116632a05ba7ae846b2d2cdd5bb97"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warsztatowa, Swarzędz, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
+      "lat": 52.4028659,
+      "lon": 17.0833573,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "627e793a0707c48c30863d034dd15420"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiosenna, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4145998,
+      "lon": 16.8720792,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "34aaa866e002115bfdc935b1ba90e24f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojska Polskiego, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-660, Polska",
+      "lat": 52.4295634,
+      "lon": 16.8937649,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "6b721fe04274d4311f80cde961848b6b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrzosowa, Wilda, Poznań, województwo wielkopolskie, 61-477, Polska",
+      "lat": 52.3733013,
+      "lon": 16.9105834,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "38585d6986c5950814bdea9ff3264cde"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zachodnia, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4014513,
+      "lon": 16.9098439,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T21:00:00",
+      "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
+      "id": "de72c3245071f8b86adbe1349c0b6795"
     }
   ]
 }
