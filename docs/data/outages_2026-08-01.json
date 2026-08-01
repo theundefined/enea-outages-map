@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-01T17:41:32.526718+00:00",
+  "last_update": "2026-08-01T18:43:11.967563+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1580,6 +1580,56 @@
       "end_time": "2026-08-01T21:00:00",
       "original_description": "Kawczyn, Łokacz Mały ul. Adama Mickiewicza, ul. Aleksandra Fredry, ul. Cypriana Kamila Norwida, ul. Juliusza Słowackiego, ul. Krzysztofa Kamila Baczyńskiego, ul. Marii Konopnickiej, ul. Stanisława Wyspiańskiego, ul. Stefana Żeromskiego, Krzyż Wielkopolski os. Osiedle Leśnika, os. Osiedle Młodych, ul. Adama Mickiewicza, ul. Akacjowa, ul. Brzozowa, ul. Cisowa, ul. Cyprysowa, ul. Długa, ul. Fiołkowa, ul. Frezjowa, ul. gen. Władysława Sikorskiego, ul. Jana Kochanowskiego, ul. Jaśminowa, ul. Juliana Tuwima, ul. Kalinowa, ul. Kasztanowa, ul. Klonowa, ul. Letnia, ul. Lipowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Różana, ul. Słoneczna, ul. Słonecznikowa, ul. Storczykowa, ul. Tadeusza Kościuszki, ul. Tęczowa, ul. Tulipanowa, ul. Warsztatowa, ul. Wiosenna, ul. Wojska Polskiego, ul. Wrzosowa, ul. Zachodnia.",
       "id": "de72c3245071f8b86adbe1349c0b6795"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T22:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "48b9e6e222b1243a487eaa93373d271e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T22:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "1782d0c1efe73b921ee0ea895b3f1764"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T22:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "adb85cfc8d7ddd88b31c056838994b1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T22:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "6ce2ab1e536da8de82f0a67289a7325c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-01T22:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "ad395835edc8245544c6353d670a2f5d"
     }
   ]
 }
