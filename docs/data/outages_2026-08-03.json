@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-03T01:11:44.314066+00:00",
+  "last_update": "2026-08-03T04:49:52.413396+00:00",
   "outages": [
     {
       "type": "planned",
@@ -790,6 +790,226 @@
       "end_time": "2026-08-03T04:00:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "196dc80df144ec6a64190deeed0137f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T07:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "eaa08a7e17c8ab2b89f01389aa4e7239"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T07:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "39221d64cf6b1006e68aa565febb3da1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T07:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "f46dd9c629d61100ec57930073d18bde"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T07:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "3bdb1d2544ab589164d4778bf8a6404e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T07:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "c1700728a3aaf02cb9a9e99ed1a3b54a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czempińska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-112, Polska",
+      "lat": 52.3774608,
+      "lon": 16.8757296,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "72a2e29d0ff13c07c9c9b71b036ffc9a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "9f78ce8327e32b1bfb2d8fda3c7279cc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "fa985d9a275f7ccf0a23e73eea6d2eaf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "07a5508b24f380610eed578ef8390039"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "02347e8365ee50ee745d4d6cba62362e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "02ab38396a18d2cbb7e01fd5e44eadf2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrężna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4701548,
+      "lon": 17.1775244,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "17a6df48249c09988a6bbd92acef0296"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Nowe Ogrody, Wola, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4197723,
+      "lon": 16.8659287,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "d64857565a9be35e0e04ac2651434a05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "6a5926bd3fb70ca6eb3bd4bcc6f0dfa4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "deae1eca0050406b2a5be89ba43031db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Południowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3749646,
+      "lon": 16.9001757,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "b96190ea62992e810f7ec2ca36836327"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Solecka, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-335, Polska",
+      "lat": 52.3422785,
+      "lon": 16.9370758,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "74339d10cc88a9a81f98ca113792acb6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spółdzielcza, Borówiec, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-023, Polska",
+      "lat": 52.2743678,
+      "lon": 17.0275293,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "3cecb0a82a342b1b027dc98c259f5882"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "1db285d121284b328674ba3853a7defe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "b82de57a5a761b01f93ed7e7790e3d72"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-148, Polska",
+      "lat": 52.3924725,
+      "lon": 16.8729454,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "bf38cd4930c6a26fa252ab26536403fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warzywna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-658, Polska",
+      "lat": 52.4269598,
+      "lon": 16.9298115,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T09:00:00",
+      "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
+      "id": "7a4ffa6a47126cdd0f2bfae7d479b4cb"
     }
   ]
 }
