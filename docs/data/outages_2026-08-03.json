@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-03T04:49:52.413396+00:00",
+  "last_update": "2026-08-03T08:15:23.673037+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1010,6 +1010,66 @@
       "end_time": "2026-08-03T09:00:00",
       "original_description": "Kościan os. Osiedle Ogrody 118B, 119A, 121B, 123B, 124A, 124B, 125A, 125B, ul. Czempińska, Bonikowo ul. Krótka 8, ul. Kwiatowa 1, 2, 5, ul. Parkowa 25, 27, 29, 31, 33, 35, 37, 39, 41, 43, 45, 48, 50, 51, 52, 54, 56, 58, 60, 62, 64, 66, 68, 72, 74, ul. Słoneczna 14, 5, DZ.262/3, ul. Sołecka 11, 14, 2, 23, 24, 25, 27, 30, 4, 6, 7, 7A, 9, ul. Spółdzielcza 1, 1 A, 10, 11, 12, 14, 16, 17, 2, 20, 22, 28, 3, 4, 5, 6, 7, 7A, 7B, 8, DZ.284/3, Kawczyn, Kiełczewo ul. Poznańska 24, 35, 55, Kurowo ul. Jagodowa 5, ul. Parkowa 1, 10, 12, 13, 13A, 14, 14 B, 16, 18, 3, 3A, 4, 4A, 4D, 5, 6, 8, 9, 9A, ul. Południowa 1, 10, 11, 12, 13, 14, 15, 16, 168, 18, 1A, 2, 20, 20A, 23, 25, 27, 29, 2H, 3, 31, 35, 39, 4, 47, 5, 6, 6A, 6C, 7, 73, 8, 9, ul. Słoneczna DZ. 186/5, ul. Szkolna 1, 10, 2, 3, 3A, 4, 5, 9, Mikoszki, Nowe Oborzyska, Pianowo ul. Czempińska, ul. Kwiatowa 17, 3, 5, 6, Dz.905/2,, ul. Okrężna 10, 11, 12, 13, 14, 16, 18, 20, 21, 22, 23, 24, 28, 2A, 31, 32, 36, 39, 3A, 3B, 4, 41, 43, 45, 7, 9, ul. Warzywna DZ.3/10, Stare Oborzyska ul. Długa 1, 15, 19, 19/a, 2, 21, 23, 25, 27, 29, 3, 33, 33C, 33E, 33F, 5, 50, 7A, ul. Lawendowa 9.",
       "id": "7a4ffa6a47126cdd0f2bfae7d479b4cb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "c7b2b9139adb2f7d90da52badba2a193"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "eefe9025dbbdbf4901163efc2c3e8ebb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "bc6ae1f3857ba734911975ae1d4e3718"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "ae0e470111aab7b6bc270b15a262dc7e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T11:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "ca6d101abf83c85ab45592b5269b3655"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-03T12:00:00",
+      "original_description": "Poznań ul. Głogowska 141.",
+      "id": "3f4881135f65469bba2e000842609aca"
     }
   ]
 }
