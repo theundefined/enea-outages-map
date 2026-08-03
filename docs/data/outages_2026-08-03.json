@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-03T21:20:10.571047+00:00",
+  "last_update": "2026-08-03T22:29:44.621401+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1490,6 +1490,56 @@
       "end_time": "2026-08-03T23:30:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "cb7858a45294bbbe5ffb42c913d41a43"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T01:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "14fb479344ab1577942af1d87424b6b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T01:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "65c63ee7c95fb5c15628b8f48e0a6a34"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T01:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "d333261d225310f4506460b31f6e1070"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T01:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "6c8a4d7b7bc5a2cd2c3672e1ea907f22"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T01:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "3cd026686343ec33c6b3d07e7db36675"
     }
   ]
 }
