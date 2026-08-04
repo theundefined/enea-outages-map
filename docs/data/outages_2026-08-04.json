@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-04T14:36:42.905296+00:00",
+  "last_update": "2026-08-04T16:28:53.716083+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1350,6 +1350,226 @@
       "end_time": "2026-08-04T18:30:00",
       "original_description": "Poznań ul. Emilii Plater 1, 10, 11, 12, 13, 14, 15, 16, 3, 4, 6, 7, 8, 9, 9A, ul. Ludwika Krzywickiego 10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8, ul. Stefana Okrzei 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 4, 6, 8.",
       "id": "48ec0d8740b2237c25b6b8c0740c9f58"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T19:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "6f056d75300eda71e7577f5d679ce594"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T19:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "0488b9fe879c970e3edcb1f7d1740f17"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T19:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "61d0387bf5b83f1b718c7eb0113e5b16"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T19:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "f6e8e727b9fbf2809a7c529aca62dd9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T19:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "18a28a6481c812fe0672c76f3ee93543"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "40f5c174761604f0bec2a02ab5d2a761"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "e87061298f85b369dabc77a9c1e580a8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cicha, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-710, Polska",
+      "lat": 52.4162002,
+      "lon": 16.9228386,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "4c4f53289e7c92a39e85bd4a112ab452"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziewicza Góra, Czerwonak, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-004, Polska",
+      "lat": 52.479996,
+      "lon": 17.0111017,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "9c3efc0f8ee9165fbb1ca38b82b3b4ce"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dzięcioła, Konstantynowo, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.4141098,
+      "lon": 16.7175042,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "0711997ce3909df90976fba5fa10f582"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krucza, Rataje, Poznań, województwo wielkopolskie, 61-387, Polska",
+      "lat": 52.3844304,
+      "lon": 16.9496195,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "db40d8fe1897458511240dee86016ade"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "cba3b09464cb530d21c95e47687b21f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miła, Ogrody, Poznań, województwo wielkopolskie, 60-586, Polska",
+      "lat": 52.417859,
+      "lon": 16.8868546,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "3fbd3aab185c573ae783d5c41fd8f150"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orla, Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, 61-374, Polska",
+      "lat": 52.3804817,
+      "lon": 16.9482479,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "0debf849b4d760a4ab33ad372154727f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "27e8f7da50f8ca333ff324815f257f98"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skowronka, Rakownia, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5626544,
+      "lon": 17.0338642,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "d8675de282eb8bc99e04c0ed79e33fc4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sokoła, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "c182b67ac0779a85930c9b14a0110f3b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sowia, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-139, Polska",
+      "lat": 52.3989433,
+      "lon": 16.9567029,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "420cec31ee88ae51dc04c646f8b9775d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Trakt, Kliny, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-008, Polska",
+      "lat": 52.4788424,
+      "lon": 17.0383907,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "6d4f18b170de5d54e37c7bd99544a8ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Urocza, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4663611,
+      "lon": 16.949835,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "094df93da1a2ecd12c01a813675950ad"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Urokliwa, Kliny, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-008, Polska",
+      "lat": 52.4901518,
+      "lon": 17.0465483,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "092dbdf11f5c0e5e8c5598e5f2edc751"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zaciszna, Czapury, gmina Mosina, powiat poznański, województwo wielkopolskie, 61-332, Polska",
+      "lat": 52.3205653,
+      "lon": 16.9246953,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T23:30:00",
+      "original_description": "Czerwonak ul. Dziewicza Góra 2, 3, 3 /2, 4, ul. Leśna, Kliny ul. Brzozowa 24, 6, ul. Cicha 1, 13, 16, 5, 5 A, 5 B, 5 C, 7 D, 9, 91, DZ.104/31, DZ.144, DZ.23/1, ul. Dzięcioła 12, ul. Krucza 5, 8, dz. 90/54, ul. Miła 14, 16, 20, 22, 34, 36, 38, 48, 5, 6, 9, DZ 21/1, dz. 118, ul. Orła 90/50, dz. 90/56, dz.90/49, ul. Poznańska /Sokoła, ul. Skowronka 11, 19, 9, dz. 89/12, ul. Sokoła 10, 8, ul. Sowia 10, 12, ul. Trakt 10 E, 10 F, 10H, 10i, 12, 12 D, 12A, 12C, 14, 16 B, 16 C, 16 E, 16 G, 16F, 18A, 18D, 18E, 18F, 18G, 28, 3, 3A, 5, 53, 59, 69, 7, 71, 7A, DZ.49/20, ul. Urocza 1, 13, 3, 5, ul. Urokliwa 3, ul. Zaciszna 6, 8, Mielno ul. Akacjowa 10, 11, 2, 4 B, 4 C, 4 G, 4 i, 4 M, 4A, 4F, 4J, 4K, 5, 6, 7, 9, ul. Brzozowa 1.",
+      "id": "41eb888ebc26196865560e8eda289f71"
     }
   ]
 }
