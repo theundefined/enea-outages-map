@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-04T16:28:53.716083+00:00",
+  "last_update": "2026-08-04T18:11:44.332013+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1400,6 +1400,176 @@
       "end_time": "2026-08-04T19:00:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "18a28a6481c812fe0672c76f3ee93543"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T20:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "6a0e11b432b9fddbf4fb2f0f78755f00"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T20:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "88d04b348990fc5baad9f60eadc0915c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T20:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "70b2c3c3b2692d2b3e9a736df0be2e0b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T20:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "9fed5a2b4567941d557dbfb63aa91ed6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T20:30:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "29bb228746eca1dc12751bc5a9c8e28d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Artura Grottgera, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-757, Polska",
+      "lat": 52.401391,
+      "lon": 16.8978439,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Artura Grottgera 10, 11, 12, 13, 14, 15, 6, 6 A, 6-lok. 2, 6-lok.2N, 6/1, 6a, 6A, 6A-lok.3, 7, 7A, 8, 8A, 9, UŁAŃSKA, ul. Henryka Siemiradzkiego /Kossaka, 2, 5, 5a, 6, 7, 8, ul. Jana Matejki 56, 56 KL.SC, 56OFIC., 61, 63a, ul. Józefa Chełmońskiego 10, 11, 14, 14/1, 15, 16, 17, 17/1, 17/11, 17/13, 17/3, 17/4, 18, 20, 8, 8 A, 8/A1, 8/A3, 8/A4, 9, 9/10, ul. Juliusza Kossaka (garaż), 11, 13, 13 KL.S, 14, 15, 16, 17, 17 KL.SCH., 18, 19, 20, 20-lok.9, 21, 22, 23, ul. Stanisława Wyspiańskiego 15, ul. Ułańska 20, 22 A, 22A, 22B, 28.",
+      "id": "5587045a58870e885e220037f260cd95"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 20, ul. Henryka Siemiradzkiego 10, 10 A, 10 kl.sch., 10A, 11, 11 kotłown, 3, 3-KL.SCH, 3a, 3A, 4, 6, 9, ul. Jana Matejki 18, 52, 53, ul. Juliusza Kossaka 12, ul. Ułańska 10, 12, 14, 16, 18, 3.",
+      "id": "c17ddaf7f309be36660608c3670538cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Henryka Siemiradzkiego, Łazarz, Poznań, województwo wielkopolskie, 60-754, Polska",
+      "lat": 52.3999037,
+      "lon": 16.8981881,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 20, ul. Henryka Siemiradzkiego 10, 10 A, 10 kl.sch., 10A, 11, 11 kotłown, 3, 3-KL.SCH, 3a, 3A, 4, 6, 9, ul. Jana Matejki 18, 52, 53, ul. Juliusza Kossaka 12, ul. Ułańska 10, 12, 14, 16, 18, 3.",
+      "id": "7a566ed361fdd0fdaaf8dbcefe383b72"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Henryka Siemiradzkiego, Łazarz, Poznań, województwo wielkopolskie, 60-754, Polska",
+      "lat": 52.3999037,
+      "lon": 16.8981881,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Artura Grottgera 10, 11, 12, 13, 14, 15, 6, 6 A, 6-lok. 2, 6-lok.2N, 6/1, 6a, 6A, 6A-lok.3, 7, 7A, 8, 8A, 9, UŁAŃSKA, ul. Henryka Siemiradzkiego /Kossaka, 2, 5, 5a, 6, 7, 8, ul. Jana Matejki 56, 56 KL.SC, 56OFIC., 61, 63a, ul. Józefa Chełmońskiego 10, 11, 14, 14/1, 15, 16, 17, 17/1, 17/11, 17/13, 17/3, 17/4, 18, 20, 8, 8 A, 8/A1, 8/A3, 8/A4, 9, 9/10, ul. Juliusza Kossaka (garaż), 11, 13, 13 KL.S, 14, 15, 16, 17, 17 KL.SCH., 18, 19, 20, 20-lok.9, 21, 22, 23, ul. Stanisława Wyspiańskiego 15, ul. Ułańska 20, 22 A, 22A, 22B, 28.",
+      "id": "566d2b57e66e77f50be5ddf202f0fd85"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.39658,
+      "lon": 16.8986607,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 20, ul. Henryka Siemiradzkiego 10, 10 A, 10 kl.sch., 10A, 11, 11 kotłown, 3, 3-KL.SCH, 3a, 3A, 4, 6, 9, ul. Jana Matejki 18, 52, 53, ul. Juliusza Kossaka 12, ul. Ułańska 10, 12, 14, 16, 18, 3.",
+      "id": "e466b595b9ca2eeb3a475007d5a1c772"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.39658,
+      "lon": 16.8986607,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Artura Grottgera 10, 11, 12, 13, 14, 15, 6, 6 A, 6-lok. 2, 6-lok.2N, 6/1, 6a, 6A, 6A-lok.3, 7, 7A, 8, 8A, 9, UŁAŃSKA, ul. Henryka Siemiradzkiego /Kossaka, 2, 5, 5a, 6, 7, 8, ul. Jana Matejki 56, 56 KL.SC, 56OFIC., 61, 63a, ul. Józefa Chełmońskiego 10, 11, 14, 14/1, 15, 16, 17, 17/1, 17/11, 17/13, 17/3, 17/4, 18, 20, 8, 8 A, 8/A1, 8/A3, 8/A4, 9, 9/10, ul. Juliusza Kossaka (garaż), 11, 13, 13 KL.S, 14, 15, 16, 17, 17 KL.SCH., 18, 19, 20, 20-lok.9, 21, 22, 23, ul. Stanisława Wyspiańskiego 15, ul. Ułańska 20, 22 A, 22A, 22B, 28.",
+      "id": "aeceb2d67aaad98f46b148ac589e05b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Kossaka, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.3999606,
+      "lon": 16.8975131,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 20, ul. Henryka Siemiradzkiego 10, 10 A, 10 kl.sch., 10A, 11, 11 kotłown, 3, 3-KL.SCH, 3a, 3A, 4, 6, 9, ul. Jana Matejki 18, 52, 53, ul. Juliusza Kossaka 12, ul. Ułańska 10, 12, 14, 16, 18, 3.",
+      "id": "5c09eeab6e94bfcaf1430d1941e7f6f4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliusza Kossaka, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.3999606,
+      "lon": 16.8975131,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Artura Grottgera 10, 11, 12, 13, 14, 15, 6, 6 A, 6-lok. 2, 6-lok.2N, 6/1, 6a, 6A, 6A-lok.3, 7, 7A, 8, 8A, 9, UŁAŃSKA, ul. Henryka Siemiradzkiego /Kossaka, 2, 5, 5a, 6, 7, 8, ul. Jana Matejki 56, 56 KL.SC, 56OFIC., 61, 63a, ul. Józefa Chełmońskiego 10, 11, 14, 14/1, 15, 16, 17, 17/1, 17/11, 17/13, 17/3, 17/4, 18, 20, 8, 8 A, 8/A1, 8/A3, 8/A4, 9, 9/10, ul. Juliusza Kossaka (garaż), 11, 13, 13 KL.S, 14, 15, 16, 17, 17 KL.SCH., 18, 19, 20, 20-lok.9, 21, 22, 23, ul. Stanisława Wyspiańskiego 15, ul. Ułańska 20, 22 A, 22A, 22B, 28.",
+      "id": "303e0e3050a969c68cd3aa7994b2768a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Chełmońskiego, Łazarz, Poznań, województwo wielkopolskie, 60-753, Polska",
+      "lat": 52.3998084,
+      "lon": 16.8989831,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Artura Grottgera 10, 11, 12, 13, 14, 15, 6, 6 A, 6-lok. 2, 6-lok.2N, 6/1, 6a, 6A, 6A-lok.3, 7, 7A, 8, 8A, 9, UŁAŃSKA, ul. Henryka Siemiradzkiego /Kossaka, 2, 5, 5a, 6, 7, 8, ul. Jana Matejki 56, 56 KL.SC, 56OFIC., 61, 63a, ul. Józefa Chełmońskiego 10, 11, 14, 14/1, 15, 16, 17, 17/1, 17/11, 17/13, 17/3, 17/4, 18, 20, 8, 8 A, 8/A1, 8/A3, 8/A4, 9, 9/10, ul. Juliusza Kossaka (garaż), 11, 13, 13 KL.S, 14, 15, 16, 17, 17 KL.SCH., 18, 19, 20, 20-lok.9, 21, 22, 23, ul. Stanisława Wyspiańskiego 15, ul. Ułańska 20, 22 A, 22A, 22B, 28.",
+      "id": "d92df65513eba18982fb64b0f69bd388"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Artura Grottgera 10, 11, 12, 13, 14, 15, 6, 6 A, 6-lok. 2, 6-lok.2N, 6/1, 6a, 6A, 6A-lok.3, 7, 7A, 8, 8A, 9, UŁAŃSKA, ul. Henryka Siemiradzkiego /Kossaka, 2, 5, 5a, 6, 7, 8, ul. Jana Matejki 56, 56 KL.SC, 56OFIC., 61, 63a, ul. Józefa Chełmońskiego 10, 11, 14, 14/1, 15, 16, 17, 17/1, 17/11, 17/13, 17/3, 17/4, 18, 20, 8, 8 A, 8/A1, 8/A3, 8/A4, 9, 9/10, ul. Juliusza Kossaka (garaż), 11, 13, 13 KL.S, 14, 15, 16, 17, 17 KL.SCH., 18, 19, 20, 20-lok.9, 21, 22, 23, ul. Stanisława Wyspiańskiego 15, ul. Ułańska 20, 22 A, 22A, 22B, 28.",
+      "id": "ff059e556c9592b962dc0d02e4434ec9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ułańska, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.4000327,
+      "lon": 16.8960356,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 20, ul. Henryka Siemiradzkiego 10, 10 A, 10 kl.sch., 10A, 11, 11 kotłown, 3, 3-KL.SCH, 3a, 3A, 4, 6, 9, ul. Jana Matejki 18, 52, 53, ul. Juliusza Kossaka 12, ul. Ułańska 10, 12, 14, 16, 18, 3.",
+      "id": "d5a5bfab4c69acdc7419f6a876d6c294"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ułańska, Łazarz, Poznań, województwo wielkopolskie, 60-763, Polska",
+      "lat": 52.4000327,
+      "lon": 16.8960356,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T22:30:00",
+      "original_description": "Poznań ul. Artura Grottgera 10, 11, 12, 13, 14, 15, 6, 6 A, 6-lok. 2, 6-lok.2N, 6/1, 6a, 6A, 6A-lok.3, 7, 7A, 8, 8A, 9, UŁAŃSKA, ul. Henryka Siemiradzkiego /Kossaka, 2, 5, 5a, 6, 7, 8, ul. Jana Matejki 56, 56 KL.SC, 56OFIC., 61, 63a, ul. Józefa Chełmońskiego 10, 11, 14, 14/1, 15, 16, 17, 17/1, 17/11, 17/13, 17/3, 17/4, 18, 20, 8, 8 A, 8/A1, 8/A3, 8/A4, 9, 9/10, ul. Juliusza Kossaka (garaż), 11, 13, 13 KL.S, 14, 15, 16, 17, 17 KL.SCH., 18, 19, 20, 20-lok.9, 21, 22, 23, ul. Stanisława Wyspiańskiego 15, ul. Ułańska 20, 22 A, 22A, 22B, 28.",
+      "id": "9422811b18114f54f42fd418f5ab9ae2"
     },
     {
       "type": "unplanned",
