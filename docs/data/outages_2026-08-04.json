@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-04T04:25:43.607106+00:00",
+  "last_update": "2026-08-04T07:10:42.323614+00:00",
   "outages": [
     {
       "type": "planned",
@@ -373,6 +373,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-08-11T10:30:00",
+      "end_time": "2026-08-11T12:30:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Poznańska od 10 do 12B, 26, działki nr 3/15,  10, 11/1, 11/2, 11/13, 11/1ac5, 11/22, 48, Folwark Polityka, działki rekreacyjne, stacja bazowa T-Mobile 40283,",
+      "id": "7582f1c72ff26c1727127d251c78c7d8"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Andaluzyjska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-698, Polska",
       "lat": 52.4453876,
       "lon": 16.93059,
@@ -733,6 +743,116 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Glebowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3551889,
+      "lon": 17.0157795,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T11:30:00",
+      "original_description": "Poznań: ul. Spławie 50, 49, 49A, od 51 do 53A, ul. Snopowa, ul. Glebowa od 64 do 78 parzyste, od 57 do 65 nieparzyste.",
+      "id": "1977d6ba1ecf7715ecaad2a0e345192c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gminna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3496452,
+      "lon": 17.0276312,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T11:30:00",
+      "original_description": "Poznań: ul. Gospodarska od 1 do 3 nieparzyste, 7, od 13 do 15K nieparzyste, 14A-G, 16, ul. Gminna od 2 do 6 parzyste, ul. Przytulna, ul. Powozowa.",
+      "id": "9b51e44abafd808ee41714e8c0306368"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gospodarska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3543871,
+      "lon": 17.0276859,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T11:30:00",
+      "original_description": "Poznań: ul. Gospodarska od 1 do 3 nieparzyste, 7, od 13 do 15K nieparzyste, 14A-G, 16, ul. Gminna od 2 do 6 parzyste, ul. Przytulna, ul. Powozowa.",
+      "id": "9fcdc98447da8a3ea821daec75a23e6b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Powozowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3548924,
+      "lon": 17.026441,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T11:30:00",
+      "original_description": "Poznań: ul. Gospodarska od 1 do 3 nieparzyste, 7, od 13 do 15K nieparzyste, 14A-G, 16, ul. Gminna od 2 do 6 parzyste, ul. Przytulna, ul. Powozowa.",
+      "id": "af7969d891d78d322d8ec20ea71d0c2a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przytulna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3481482,
+      "lon": 17.025634,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T11:30:00",
+      "original_description": "Poznań: ul. Gospodarska od 1 do 3 nieparzyste, 7, od 13 do 15K nieparzyste, 14A-G, 16, ul. Gminna od 2 do 6 parzyste, ul. Przytulna, ul. Powozowa.",
+      "id": "0cf451e7bd218c728e42e20726c4d423"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Snopowa, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.353982,
+      "lon": 17.0207315,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T11:30:00",
+      "original_description": "Poznań: ul. Spławie 50, 49, 49A, od 51 do 53A, ul. Snopowa, ul. Glebowa od 64 do 78 parzyste, od 57 do 65 nieparzyste.",
+      "id": "503129f3a75c0011ebec69fa9cdf0a5a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3511524,
+      "lon": 17.0242204,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T11:30:00",
+      "original_description": "Poznań: ul. Spławie 50, 49, 49A, od 51 do 53A, ul. Snopowa, ul. Glebowa od 64 do 78 parzyste, od 57 do 65 nieparzyste.",
+      "id": "420cfd1c6ca95d233235d56730bb8369"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "2026-08-20T08:30:00",
+      "end_time": "2026-08-20T12:30:00",
+      "original_description": "Poznań: ul. Moryńska od 4 do 19 bez 12, ul. Grąbczowska bez 13 i 13B, ul. Bukowska 372, ul. Templińska 29, 34, 36, ul. Ławica od 4 do 20 parzyste, 9, 15.",
+      "id": "ce1ec005b3c6ffed98bfa7451f3e2a35"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Moryńska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4115619,
+      "lon": 16.8219975,
+      "start_time": "2026-08-20T08:30:00",
+      "end_time": "2026-08-20T12:30:00",
+      "original_description": "Poznań: ul. Moryńska od 4 do 19 bez 12, ul. Grąbczowska bez 13 i 13B, ul. Bukowska 372, ul. Templińska 29, 34, 36, ul. Ławica od 4 do 20 parzyste, 9, 15.",
+      "id": "332b6aa00ca67554f7196ae442a26d1b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Templińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4097315,
+      "lon": 16.8277511,
+      "start_time": "2026-08-20T08:30:00",
+      "end_time": "2026-08-20T12:30:00",
+      "original_description": "Poznań: ul. Moryńska od 4 do 19 bez 12, ul. Grąbczowska bez 13 i 13B, ul. Bukowska 372, ul. Templińska 29, 34, 36, ul. Ławica od 4 do 20 parzyste, 9, 15.",
+      "id": "2d3d59ebcdf0f59a9e1bca620255bc01"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ławica, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4112414,
+      "lon": 16.8253002,
+      "start_time": "2026-08-20T08:30:00",
+      "end_time": "2026-08-20T12:30:00",
+      "original_description": "Poznań: ul. Moryńska od 4 do 19 bez 12, ul. Grąbczowska bez 13 i 13B, ul. Bukowska 372, ul. Templińska 29, 34, 36, ul. Ławica od 4 do 20 parzyste, 9, 15.",
+      "id": "587e59b08c8ad0fa288cbe6bc9b8bf02"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3925747,
       "lon": 17.0208852,
@@ -840,6 +960,56 @@
       "end_time": "2026-08-04T05:30:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "a08061febebe1ed0e28f26e0b1c669aa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "dfba2cce494f84213eeea74ff378f128"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "2b9fb9f19f64872f149c4707ebfb6ccf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "0266b9a71b3dc8b0e271c2b343b1a7a8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "28d6a6a2c9523f345edad46ff340a3b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-04T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "e412e4d92e1932fb2e0db4274f2661c2"
     }
   ]
 }
