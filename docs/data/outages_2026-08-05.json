@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-05T04:23:43.836577+00:00",
+  "last_update": "2026-08-05T07:11:46.820244+00:00",
   "outages": [
     {
       "type": "planned",
@@ -550,6 +550,36 @@
       "end_time": "2026-08-13T11:30:00",
       "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
       "id": "bce0a46e7b49febd5865c225b2f22e4a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bożeny, Antoninek Dolny, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-054, Polska",
+      "lat": 52.4092871,
+      "lon": 17.0073052,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T15:30:00",
+      "original_description": "Poznań: ul. Bożeny od 2 do 28 parzyste, 28A, ul. Wiesławy 1, ul. Warszawska 200, dz. 4/28 (Zakład Kamieniarski) , dz. 37/4 (Dom Pogrzebowy Miłostowo).",
+      "id": "41843156040c0e63a6bcd7964c24b210"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T15:30:00",
+      "original_description": "Poznań: ul. Bożeny od 2 do 28 parzyste, 28A, ul. Wiesławy 1, ul. Warszawska 200, dz. 4/28 (Zakład Kamieniarski) , dz. 37/4 (Dom Pogrzebowy Miłostowo).",
+      "id": "8eeaf5183e5d0b882e6f57b8872bddf5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wiesławy, Antoninek Dolny, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-053, Polska",
+      "lat": 52.4079849,
+      "lon": 17.002287,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T15:30:00",
+      "original_description": "Poznań: ul. Bożeny od 2 do 28 parzyste, 28A, ul. Wiesławy 1, ul. Warszawska 200, dz. 4/28 (Zakład Kamieniarski) , dz. 37/4 (Dom Pogrzebowy Miłostowo).",
+      "id": "042ede3d27964a238c6a03d2271ef28d"
     },
     {
       "type": "planned",
@@ -1120,6 +1150,196 @@
       "end_time": "2026-08-05T07:00:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "a6aab45172a6c74d5d1f656a2cf9b598"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "bd203338c8414a2eeba6d20c159a0a7c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dąbrówki, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-504, Polska",
+      "lat": 52.3874913,
+      "lon": 16.9202456,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "b08ff336c520d0cfaf4398ee94a3c895"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "730dff0a9c59497e18f968ba6d203ea4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "fd6e090d1353751ff5fc7e86fdd37d24"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T10:00:00",
+      "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "0b7d5dff2f5adbb186bea524b84b43c2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Emilii Plater, Świerczewo, Poznań, województwo wielkopolskie, 61-406, Polska",
+      "lat": 52.36282,
+      "lon": 16.8868886,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:00:00",
+      "original_description": "Poznań ul. Emilii Plater 1, 10, 11, 12, 13, 14, 15, 16, 3, 4, 6, 7, 8, 9, 9A, ul. Ludwika Krzywickiego 10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8, ul. Stefana Okrzei 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 4, 6, 8.",
+      "id": "da0b601fc157d86f0bed2de6626db739"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ludwika Krzywickiego, Świerczewo, Poznań, województwo wielkopolskie, 61-406, Polska",
+      "lat": 52.3625361,
+      "lon": 16.8860031,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:00:00",
+      "original_description": "Poznań ul. Emilii Plater 1, 10, 11, 12, 13, 14, 15, 16, 3, 4, 6, 7, 8, 9, 9A, ul. Ludwika Krzywickiego 10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8, ul. Stefana Okrzei 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 4, 6, 8.",
+      "id": "cd4d50f04302cb8256e769362bd734a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stefana Okrzei, Świerczewo, Poznań, województwo wielkopolskie, 61-406, Polska",
+      "lat": 52.3623921,
+      "lon": 16.8876681,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:00:00",
+      "original_description": "Poznań ul. Emilii Plater 1, 10, 11, 12, 13, 14, 15, 16, 3, 4, 6, 7, 8, 9, 9A, ul. Ludwika Krzywickiego 10, 12, 14, 16, 18, 2, 20, 22, 4, 6, 8, ul. Stefana Okrzei 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 4, 6, 8.",
+      "id": "e7c2837c1a9647fd6f48ec0b4e042ab6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Edmundowska, Edmundowo, Jankowice, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.4369137,
+      "lon": 16.6219779,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "2a180186549f1d0829e64fff62a6bb18"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Folwark Edwardowo, Ławica, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4132527,
+      "lon": 16.8512242,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "662f839f177e8f6c9614d40b75de32e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "7fc7520704cdc65f0b1fdbb3e6af93a1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "1bffea43b6da0f263cdbabd3feea856a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "b909c8752db4f2b1a6d3d661a1f8912c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "ce8cbb6e27bbe6567afac8563a076fe5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "926c09e8c3a2d7806307c5c0f9475b9a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powidoki, Edmundowo, Jankowice, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.4371019,
+      "lon": 16.6234554,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "23cd0b01f627400188fa92ea9c816f1f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "a5396a7dab25ca6caddeb751b367eaa2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiatraczna, Osiedle Czecha, Chartowo, Poznań, województwo wielkopolskie, 61-242, Polska",
+      "lat": 52.3842819,
+      "lon": 16.974438,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "85cdcaa9c267c4e52c40400f2c5e0766"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-05T11:30:00",
+      "original_description": "Jankowice ul. Edmundowska 1, 10, 12, 14, 2, 2a, 3/A, 4A, 4B, 5, 5 B, 5A, 6, DZ.231, ul. Folwark 1, 2, 3, 3 ADM, 31, 4, 4 ADM, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 5L, 5R, 6, 6 ADM, 7, 8, 8L, 8R, ul. Leśna 1, 10, 12 dz 72/6, 13, 14, 14B, 15, 17, 18D, 18E, 18F, 19, 2, 22, 24, 26, 28, 3, 31, 4, 4A, 5, 5a, 6, 7, 8, DZ. 474/1, dz. 74/2, ul. Nowa 1, 12, 13, 14, 16, 18, 2, 2 A, 20, 20/2, 22, 2b, 3, 31, 33, 35, 4, 43, 5, 6, 9, dz 183/8, ul. Ogrodowa 1, 10, 12, 2, 5, 5A, 6, 9, dz. 230/7, ul. Parkowa 1, 10, 11, 12, 14, 16, 18, 19, 2, ul. Polna 1, 2, 4, ul. Powidoki 10, 12, 21, 23, 25, 29, 43, 7, ul. Poznańska 1/A, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 6, 8, ul. Wiatraczna 5, ul. Wiśniowa 1, 2, 2a, 3, 4, 5, 6, 8, LOK 2.",
+      "id": "4b06af3d4dbf452f253ecab798c4e66f"
     },
     {
       "type": "unplanned",
