@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-05T21:58:20.721447+00:00",
+  "last_update": "2026-08-05T23:04:16.795782+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2080,6 +2080,456 @@
       "end_time": "2026-08-06T01:00:00",
       "original_description": "Kobylnica ul. Dąbrówki 1, ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "6520239161f970a93f321a89db906f5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "11 Listopada, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 60-012, Polska",
+      "lat": 52.3436762,
+      "lon": 16.8464687,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "e2f77dc2f1f5db090466dbb34212ba87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Agrestowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-314, Polska",
+      "lat": 52.3698238,
+      "lon": 17.0015862,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "55539e5b7392ce11c012c9d049d8449b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3756714,
+      "lon": 16.8649743,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "48c9d4f0815bb2adb3e92d9142862c0a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Leśmiana, Osiedle Poetów, Edwardowo, Ławica, Poznań, województwo wielkopolskie, 60-196, Polska",
+      "lat": 52.4101166,
+      "lon": 16.8528921,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "e3a34509383770abf57f1e92aeeda734"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cmentarna, Junikowo, Poznań, województwo wielkopolskie, 60-176, Polska",
+      "lat": 52.3858085,
+      "lon": 16.8389482,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "4514b38c68ca0a5d8108221109af2b5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Galla Anonima, Jeżyce, Poznań, województwo wielkopolskie, 60-548, Polska",
+      "lat": 52.413631,
+      "lon": 16.8937291,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "fa63867cc89efb1f8ce161571925bb0f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Graniczna, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3961602,
+      "lon": 16.9040247,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "f5a750cb760455dd2052381a9735c3e6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gruszkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3742873,
+      "lon": 16.8996316,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "441be75de246c1158f0386bb9c975316"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Henryka Sienkiewicza, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-832, Polska",
+      "lat": 52.4098066,
+      "lon": 16.9052061,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "d5e84b7f3e878e481c34c4d5a53ec62b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hugona Kołłątaja, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3707531,
+      "lon": 16.8866502,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "715857d29ab1de909dfda546954bfc0e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Janusza Korczaka, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3590819,
+      "lon": 16.8840061,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "0d250cdca80e99c8841e686d24048c8f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jodłowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3706062,
+      "lon": 16.8959475,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "988e626ea11f1cb7ce32fe328054da30"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Poniatowskiego, Żabikowo, Luboń, powiat poznański, województwo wielkopolskie, 62-031, Polska",
+      "lat": 52.352372,
+      "lon": 16.8657065,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "1a88dfa7e389b095a0b5f86b322cb047"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Karola Buczka, Świerczewo, Poznań, województwo wielkopolskie, 61-413, Polska",
+      "lat": 52.3644917,
+      "lon": 16.8838635,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "dc5183a0fe7e8082d03a02afea5aeb4d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "06e6f235b943b91a84df10f7b772447a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "0ac2d3b34a05a5344ea6948f5ab90766"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ludwika Solskiego, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-194, Polska",
+      "lat": 52.404121,
+      "lon": 16.8323605,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "23edbe7298a9087ee2487118345b05e3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michała Drzymały, Sołacz, Poznań, województwo wielkopolskie, 60-646, Polska",
+      "lat": 52.4221887,
+      "lon": 16.9133499,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "2afa3221c1df065514bbe8f6553dd978"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Niezłomnych, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4023455,
+      "lon": 16.9224887,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "a4622f3e7b1e93122b6054c4d8bd2996"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowiny, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 60-012, Polska",
+      "lat": 52.3409074,
+      "lon": 16.8484135,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "2bb9d575fc7bca7342041af5a5c0bccc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "f5c2364eed831cf29cd1c1590baad4b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Opłotki, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-012, Polska",
+      "lat": 52.351831,
+      "lon": 16.8482285,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "89c0cb1f5c33efa077b963fc5248245a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przy Autostradzie, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-012, Polska",
+      "lat": 52.3507593,
+      "lon": 16.8524037,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "b38a35787f8cc30e8a67cc50a1d5444b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Północna, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-722, Polska",
+      "lat": 52.4148038,
+      "lon": 16.9361092,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "1ce580ecf68ddd1caab2c31f9210de4a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romualda Traugutta, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-515, Polska",
+      "lat": 52.3853995,
+      "lon": 16.916062,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "fcb6a2cd18c156f15ab9c06d93e9ba94"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "21deea21d952766ac702b7a9797f87e7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Samotna, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3600936,
+      "lon": 16.9015652,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "3e6399d8ee642a5a5d303708157991a4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skowronkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3531693,
+      "lon": 17.0288873,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "44acaf8880ccf55143f52dec943898ab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sowia, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-139, Polska",
+      "lat": 52.3989433,
+      "lon": 16.9567029,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "4272b0623663f0ee998fa419c9299703"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szafirowa, Ogrody, Poznań, województwo wielkopolskie, 60-595, Polska",
+      "lat": 52.4161925,
+      "lon": 16.8721405,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "bc402cb3f3b90c8e24f105ff83fa0cf4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "1f6799fd503ebbe62658a851e30e7a36"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sąsiedzka, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-012, Polska",
+      "lat": 52.3515451,
+      "lon": 16.8507163,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "499eb44e49acc705d1a7a06766f814c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Kościuszki, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-898, Polska",
+      "lat": 52.4022309,
+      "lon": 16.9243989,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "100622b2b32aeddaf3b42d02664e3d1e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tadeusza Rejtana, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4322345,
+      "lon": 16.9128272,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "0b3c262b2680bc400653ba875e15205e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Uradzka, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-012, Polska",
+      "lat": 52.349284,
+      "lon": 16.852327,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "9369b76283c876a2cb456891d60449e0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ustronna, Kotowo, Fabianowo-Kotowo, Poznań, województwo wielkopolskie, 60-004, Polska",
+      "lat": 52.3493893,
+      "lon": 16.8412987,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "b1d25e872426ec951bc5ebfb03a85955"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wczasowa, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-060, Polska",
+      "lat": 52.3972742,
+      "lon": 17.028723,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "b61ddc6ce38f8e9f1e31be318d406969"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojska Polskiego, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-660, Polska",
+      "lat": 52.4295634,
+      "lon": 16.8937649,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "184a8048157d667784b08f4496cdb568"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielona, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4043024,
+      "lon": 16.9341059,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "d44d94a07bcbcf629f6d532ef3599ff5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Złota, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4164268,
+      "lon": 16.8737707,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "bf576b5b042e7bc65ef25361a82d321e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śliwkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3718525,
+      "lon": 16.8949212,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T02:30:00",
+      "original_description": "Luboń pl. Plac Edmunda Bojanowskiego, ul. 11 Listopada, ul. Agrestowa, ul. Boczna, ul. Cmentarna, ul. Galla Anonima, ul. Graniczna, ul. Gruszkowa, ul. Henryka Sienkiewicza, ul. Hugona Kołłątaja, ul. Jodłowa, ul. Józefa Poniatowskiego, ul. Karola Buczka, ul. Klonowa, ul. Korczaka, ul. Leśmiana, ul. Lipowa, ul. Ludwika Solskiego, ul. Michała Drzymały, ul. Niezłomnych, ul. Nowiny, ul. Północna, ul. Przy Autostradzie, ul. Romualda Traugutta, ul. Różana, ul. Samotna, ul. Skowronkowa, ul. Sowia, ul. Szafirowa, ul. Szkolna, ul. Śliwkowa, ul. Tadeusza Kościuszki, ul. Tadeusza Rejtana, ul. Wczasowa, ul. Wojska Polskiego, ul. Zielona, ul. Złota, Komorniki ul. Ogrodowa, Poznań ul. Michała Drzymały, ul. Opłotki, ul. Sąsiedzka, ul. Uradzka, ul. Ustronna.",
+      "id": "526e031d51461d1d1b84c090677950f1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T03:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 262/280, ul. Przelot 10, 14, 14A, 15, 16A, 17, 18, 18A, 20, 20A, 22A, 24, 26, 30, 32, 34, 36, 39, 4, 42, 44, 46, 4A, 50, 7, 9, ul. Stanisława Skalskiego 262/280, ul. Startowa 1.",
+      "id": "df87dfc0aec9cabeb816f159ca9ce99f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Przelot, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4233728,
+      "lon": 16.8570039,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T03:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 262/280, ul. Przelot 10, 14, 14A, 15, 16A, 17, 18, 18A, 20, 20A, 22A, 24, 26, 30, 32, 34, 36, 39, 4, 42, 44, 46, 4A, 50, 7, 9, ul. Stanisława Skalskiego 262/280, ul. Startowa 1.",
+      "id": "8cba6bf71203d1acd3139eb93a1327f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Skalskiego, Wola, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4232909,
+      "lon": 16.8574817,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T03:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 262/280, ul. Przelot 10, 14, 14A, 15, 16A, 17, 18, 18A, 20, 20A, 22A, 24, 26, 30, 32, 34, 36, 39, 4, 42, 44, 46, 4A, 50, 7, 9, ul. Stanisława Skalskiego 262/280, ul. Startowa 1.",
+      "id": "2a7b5dfe21e79247a372f4ac98762430"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Startowa, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.4261395,
+      "lon": 16.8562671,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T03:00:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 262/280, ul. Przelot 10, 14, 14A, 15, 16A, 17, 18, 18A, 20, 20A, 22A, 24, 26, 30, 32, 34, 36, 39, 4, 42, 44, 46, 4A, 50, 7, 9, ul. Stanisława Skalskiego 262/280, ul. Startowa 1.",
+      "id": "3a4bd506b35206c566625b0909551461"
     }
   ]
 }
