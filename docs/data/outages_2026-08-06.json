@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-06T09:09:06.172077+00:00",
+  "last_update": "2026-08-06T11:30:54.973747+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1050,6 +1050,66 @@
       "end_time": "2026-08-27T17:00:00",
       "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
       "id": "8ca0f783cf346df4213f837109e586f6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czysta, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3696732,
+      "lon": 16.9454166,
+      "start_time": "2026-08-27T08:30:00",
+      "end_time": "2026-08-27T11:30:00",
+      "original_description": "Poznań: ul. Równa, ul. Ochota, ul. Śliska, ul. Czysta 1, 4, 7, 10, 11, 12, 13, 14, 15, 16, 17, , ul. Pochyła 19, 21, 61, 63A, ul. Falista 6.",
+      "id": "ff4f0e3ee6210361e3913006ee92095d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Falista, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3694646,
+      "lon": 16.9474276,
+      "start_time": "2026-08-27T08:30:00",
+      "end_time": "2026-08-27T11:30:00",
+      "original_description": "Poznań: ul. Równa, ul. Ochota, ul. Śliska, ul. Czysta 1, 4, 7, 10, 11, 12, 13, 14, 15, 16, 17, , ul. Pochyła 19, 21, 61, 63A, ul. Falista 6.",
+      "id": "edcf5ddce091084006609b41b8ec5900"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ochota, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3707742,
+      "lon": 16.9429482,
+      "start_time": "2026-08-27T08:30:00",
+      "end_time": "2026-08-27T11:30:00",
+      "original_description": "Poznań: ul. Równa, ul. Ochota, ul. Śliska, ul. Czysta 1, 4, 7, 10, 11, 12, 13, 14, 15, 16, 17, , ul. Pochyła 19, 21, 61, 63A, ul. Falista 6.",
+      "id": "f096cbfa203b5d2fb475447d0517d832"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pochyła, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3691464,
+      "lon": 16.9441659,
+      "start_time": "2026-08-27T08:30:00",
+      "end_time": "2026-08-27T11:30:00",
+      "original_description": "Poznań: ul. Równa, ul. Ochota, ul. Śliska, ul. Czysta 1, 4, 7, 10, 11, 12, 13, 14, 15, 16, 17, , ul. Pochyła 19, 21, 61, 63A, ul. Falista 6.",
+      "id": "b89214c4a327bc983cb53759730da9d5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Równa, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-371, Polska",
+      "lat": 52.3711208,
+      "lon": 16.941055,
+      "start_time": "2026-08-27T08:30:00",
+      "end_time": "2026-08-27T11:30:00",
+      "original_description": "Poznań: ul. Równa, ul. Ochota, ul. Śliska, ul. Czysta 1, 4, 7, 10, 11, 12, 13, 14, 15, 16, 17, , ul. Pochyła 19, 21, 61, 63A, ul. Falista 6.",
+      "id": "2bb0ba8942b066514fe63d95225b2203"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Śliska, Starołęcka Dolina, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3715786,
+      "lon": 16.9450627,
+      "start_time": "2026-08-27T08:30:00",
+      "end_time": "2026-08-27T11:30:00",
+      "original_description": "Poznań: ul. Równa, ul. Ochota, ul. Śliska, ul. Czysta 1, 4, 7, 10, 11, 12, 13, 14, 15, 16, 17, , ul. Pochyła 19, 21, 61, 63A, ul. Falista 6.",
+      "id": "07a2b912b5d7ea667948b84c68e672cd"
     },
     {
       "type": "planned",
