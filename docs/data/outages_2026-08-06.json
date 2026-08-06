@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-06T03:32:25.540116+00:00",
+  "last_update": "2026-08-06T06:13:18.127648+00:00",
   "outages": [
     {
       "type": "planned",
@@ -260,6 +260,26 @@
       "end_time": "2026-08-11T12:30:00",
       "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Poznańska od 10 do 12B, 26, działki nr 3/15,  10, 11/1, 11/2, 11/13, 11/1ac5, 11/22, 48, Folwark Polityka, działki rekreacyjne, stacja bazowa T-Mobile 40283,",
       "id": "7582f1c72ff26c1727127d251c78c7d8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "2026-08-12T08:00:00",
+      "end_time": "2026-08-12T12:00:00",
+      "original_description": "Poznań: ul. Szamotulska dz. 7/19, dz. 7/22, dz. 7/23, dz. 7/40 (garaż).",
+      "id": "587a12d1dfbe46f0709612fb1d1235c0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wolsztyńska, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-361, Polska",
+      "lat": 52.4084828,
+      "lon": 16.8854387,
+      "start_time": "2026-08-12T08:15:00",
+      "end_time": "2026-08-12T15:30:00",
+      "original_description": "Poznań: ul. Wolsztyńska od 19 do 35 nieparzyste.",
+      "id": "d630a24b58ae745a05f80bdcfe35e172"
     },
     {
       "type": "planned",
