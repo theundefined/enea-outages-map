@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-06T06:13:18.127648+00:00",
+  "last_update": "2026-08-06T09:09:06.172077+00:00",
   "outages": [
     {
       "type": "planned",
@@ -783,6 +783,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bastionowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-658, Polska",
+      "lat": 52.4248604,
+      "lon": 16.9288077,
+      "start_time": "2026-08-20T08:30:00",
+      "end_time": "2026-08-20T16:30:00",
+      "original_description": "Poznań ul. Bastionowa 15, 17, ul. Za Cytadelą 121",
+      "id": "5c81ae561241b91c11ab615ae16537ec"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Za Cytadelą, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4254647,
+      "lon": 16.9306118,
+      "start_time": "2026-08-20T08:30:00",
+      "end_time": "2026-08-20T16:30:00",
+      "original_description": "Poznań ul. Bastionowa 15, 17, ul. Za Cytadelą 121",
+      "id": "9482a1a50cfb3f28beef8732c8b7d008"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3925747,
       "lon": 17.0208852,
@@ -790,6 +810,116 @@
       "end_time": "2026-08-21T15:30:00",
       "original_description": "Poznań: ul. Kobylepole od 7 do 23 nieparzyste, od 2 do 6 parzyste.",
       "id": "18b2ce2a5b1805d5478b19be978a49b4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Cypriana Norwida, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-867, Polska",
+      "lat": 52.4163907,
+      "lon": 16.9117318,
+      "start_time": "2026-08-21T08:30:00",
+      "end_time": "2026-08-21T10:30:00",
+      "original_description": "Poznań: ul. Barzyńskiego, ul. Norwida 6, 8, 9, 10, 11, 11A, 13, ul. Poznańska 66, 68, 74.",
+      "id": "a5d8f7a1e2c61f4b92ad6882d110b924"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michała Barzyńskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-866, Polska",
+      "lat": 52.4147729,
+      "lon": 16.9129884,
+      "start_time": "2026-08-21T08:30:00",
+      "end_time": "2026-08-21T10:30:00",
+      "original_description": "Poznań: ul. Barzyńskiego, ul. Norwida 6, 8, 9, 10, 11, 11A, 13, ul. Poznańska 66, 68, 74.",
+      "id": "9451099d9fdded9d819851762ceab770"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-08-21T08:30:00",
+      "end_time": "2026-08-21T10:30:00",
+      "original_description": "Poznań: ul. Barzyńskiego, ul. Norwida 6, 8, 9, 10, 11, 11A, 13, ul. Poznańska 66, 68, 74.",
+      "id": "e726fb216eb1157da8f904e83321ffb1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kamienna, Świerczewo, Poznań, województwo wielkopolskie, 61-423, Polska",
+      "lat": 52.3729741,
+      "lon": 16.8885495,
+      "start_time": "2026-08-24T08:30:00",
+      "end_time": "2026-08-24T11:30:00",
+      "original_description": "Poznań: ul. Kamienna od 1 do 17 nieparzyste, od 2 do 16 parzyste.",
+      "id": "c6f6434c2f86ff24f1eadecfbbee0a92"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kościańska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
+      "lat": 52.3729316,
+      "lon": 16.873216,
+      "start_time": "2026-08-25T08:30:00",
+      "end_time": "2026-08-25T12:30:00",
+      "original_description": "Poznań: ul. Rawicka od 1 do 37 nieparzyste, od 16 do 42 parzyste, ul. Kościańska 55, 58.",
+      "id": "ba19fd7e77b2bc315225e71a85d7ae47"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rawicka, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
+      "lat": 52.3740105,
+      "lon": 16.8734113,
+      "start_time": "2026-08-25T08:30:00",
+      "end_time": "2026-08-25T12:30:00",
+      "original_description": "Poznań: ul. Rawicka od 1 do 37 nieparzyste, od 16 do 42 parzyste, ul. Kościańska 55, 58.",
+      "id": "622084e8691cfb2600f0f650f6e9ce64"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Międzyzdrojska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4419025,
+      "lon": 16.8056672,
+      "start_time": "2026-08-26T08:30:00",
+      "end_time": "2026-08-26T11:30:00",
+      "original_description": "Poznań: ul. Słupska od 27 do 33 nieparzyste, od 20 do 28 parzyste, ul. Międzyzdrojska od 1 do 25 nieparzyste, do 2 do 22 parzyste, ul. Łagowska od 1 do 23 nieparzyste, od 2 do 18 parzyte, ul. Łebska 40, ul. Olecka 4, 5.",
+      "id": "9e64e128ab7292348a583d50919773bd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Olecka, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-456, Polska",
+      "lat": 52.4356529,
+      "lon": 16.8113686,
+      "start_time": "2026-08-26T08:30:00",
+      "end_time": "2026-08-26T11:30:00",
+      "original_description": "Poznań: ul. Słupska od 27 do 33 nieparzyste, od 20 do 28 parzyste, ul. Międzyzdrojska od 1 do 25 nieparzyste, do 2 do 22 parzyste, ul. Łagowska od 1 do 23 nieparzyste, od 2 do 18 parzyte, ul. Łebska 40, ul. Olecka 4, 5.",
+      "id": "79f15e148632fc9bb8d2c4dffa26af74"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słupska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4510895,
+      "lon": 16.8030346,
+      "start_time": "2026-08-26T08:30:00",
+      "end_time": "2026-08-26T11:30:00",
+      "original_description": "Poznań: ul. Słupska od 27 do 33 nieparzyste, od 20 do 28 parzyste, ul. Międzyzdrojska od 1 do 25 nieparzyste, do 2 do 22 parzyste, ul. Łagowska od 1 do 23 nieparzyste, od 2 do 18 parzyte, ul. Łebska 40, ul. Olecka 4, 5.",
+      "id": "35dcd795f9070704152072ece9e6d7e5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łagowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4362411,
+      "lon": 16.8190944,
+      "start_time": "2026-08-26T08:30:00",
+      "end_time": "2026-08-26T11:30:00",
+      "original_description": "Poznań: ul. Słupska od 27 do 33 nieparzyste, od 20 do 28 parzyste, ul. Międzyzdrojska od 1 do 25 nieparzyste, do 2 do 22 parzyste, ul. Łagowska od 1 do 23 nieparzyste, od 2 do 18 parzyte, ul. Łebska 40, ul. Olecka 4, 5.",
+      "id": "2ba5f1c128e44454c33e9c71db34b659"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łebska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-456, Polska",
+      "lat": 52.4380636,
+      "lon": 16.8117294,
+      "start_time": "2026-08-26T08:30:00",
+      "end_time": "2026-08-26T11:30:00",
+      "original_description": "Poznań: ul. Słupska od 27 do 33 nieparzyste, od 20 do 28 parzyste, ul. Międzyzdrojska od 1 do 25 nieparzyste, do 2 do 22 parzyste, ul. Łagowska od 1 do 23 nieparzyste, od 2 do 18 parzyte, ul. Łebska 40, ul. Olecka 4, 5.",
+      "id": "7c6f4bcab44942ef161a871f14f5580d"
     },
     {
       "type": "planned",
@@ -930,6 +1060,76 @@
       "end_time": "2026-08-31T11:30:00",
       "original_description": "Poznań ul. Podolańska 45",
       "id": "508a73a9a363044a4316288f2fc0f06d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleja Jana Piwnika, Kazimierza Nieżychowskiego, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4477696,
+      "lon": 16.8646493,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T13:30:00",
+      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
+      "id": "e44f078101894783961c91fec421b1d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Myśliwska, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3844325,
+      "lon": 16.8883878,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T13:30:00",
+      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
+      "id": "40cb51ae4470bfc2b26f4f3e652f277f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Oleńki Billewiczówny, Junikowo, Poznań, województwo wielkopolskie, 60-177, Polska",
+      "lat": 52.3928919,
+      "lon": 16.8355687,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T13:30:00",
+      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
+      "id": "c63e4969e69a90612ef2ac8e40b3c90e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T13:30:00",
+      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
+      "id": "42a997985a18a03a3e9e8d7a137d6605"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stawowa, Szczytniki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.2999892,
+      "lon": 17.0100781,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T13:30:00",
+      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
+      "id": "4ee2db6736a545ac4333f86d60f7bc40"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Jagiełły, Stary Luboń, Luboń, powiat poznański, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3470467,
+      "lon": 16.889253,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T13:30:00",
+      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
+      "id": "d185d6d21c7d8551e75a5d4e6356db51"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łowiecka, Pokrzywnica, Więckowice, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.391175,
+      "lon": 16.6844281,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-06T13:30:00",
+      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
+      "id": "154c79a2f4d0dce1e30472b92d15dbef"
     }
   ]
 }
