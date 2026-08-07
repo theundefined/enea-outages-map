@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-07T10:00:50.619292+00:00",
+  "last_update": "2026-08-07T11:03:57.470239+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1290,6 +1290,106 @@
       "end_time": "2026-08-31T11:30:00",
       "original_description": "Poznań ul. Podolańska 45",
       "id": "508a73a9a363044a4316288f2fc0f06d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Działkowa, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-131, Polska",
+      "lat": 52.3890032,
+      "lon": 16.8799714,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "28ea1f89b899f778485a55ccd696d6b5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "0b7b67b4eadeab17cf06f8de1570dd4a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gminna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3496452,
+      "lon": 17.0276312,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "6737ea7d3be1b9cc1264409be2e2e44b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "398a512b4a799aaa3ce8d745d1782cd2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśników, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.410882,
+      "lon": 17.0473726,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "baea9990d7f27ab889daddd7e8b99989"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "0c9660f5751ff028cf61d203e9331015"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sarnia, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4104249,
+      "lon": 17.043821,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "821aec3a84d25cbaed05430162a22478"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "e60375a5e544e4d23fdeb571c5be2f06"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Villa Morena, Mielno, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-008, Polska",
+      "lat": 52.4885911,
+      "lon": 17.0786729,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "d4ecfcd9b202d27f5c211a4366047199"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiewiórcza, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-066, Polska",
+      "lat": 52.3915154,
+      "lon": 17.0240582,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-07T15:00:00",
+      "original_description": "Mielno ul. Poznańska 43, ul. Villa Morena 11, 13, 25, 30, 31, 45, 9, Kołatka, Kowalskie, Pruszewiec ul. Sarnia 10, 12, 14, 16, 2, 24, 28, 30, 34, 36, 8, ul. Wiewiórcza 1, 5, dz.20/1, dz.20/3, dz.20/4, Karłowice ul. Kasztanowa 1, 10, 12, 12A, 13, 14, 2, 3, 4, 6, 8, dz. 10/20, dz. 10/4, ul. Topolowa 1, 10, 12, 14, 14A, 2, 4, 4 lok.nr 2, 8, Wierzonka ul. Działkowa 1, 1/1, 1/2, 27, 29, 3, 37, 4/1, 4/2, 45, 47, 51, 53, 6, 6/3, 6/4, 7, 9, DZ. 13/1, ul. Gajowa 06-617, 1, 1B, 5, ul. Gminna 1, 11, 13, 13/4, 13/6, 15, 15/2, 17, 19, 19/12, 3, 3/3, 3/4, 38, 5, 5/3, 5/4, 6, 7, 9, 9/11, dz. 17/61, ul. Leśników 06-1330, 1, 11, 13, 14, 15, 18, 2, 21, 22, 23, 24, 25, 27, 3, 30-DZ17/35.",
+      "id": "eb7a288a5c030c33aba435f822fb879c"
     }
   ]
 }
