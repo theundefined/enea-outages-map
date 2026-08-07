@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-07T06:37:19.912871+00:00",
+  "last_update": "2026-08-07T07:55:57.178589+00:00",
   "outages": [
     {
       "type": "planned",
@@ -413,6 +413,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "2026-08-13T08:30:00",
+      "end_time": "2026-08-13T14:30:00",
+      "original_description": "Poznań: ul. Ogrodowa od 11 do 14, 14A.",
+      "id": "41c5393ded28b7347c0c279be52fff6d"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bożeny, Antoninek Dolny, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-054, Polska",
       "lat": 52.4092871,
       "lon": 17.0073052,
@@ -550,6 +560,46 @@
       "end_time": "2026-08-18T11:30:00",
       "original_description": "Poznań: ul. Trąmpczyńskiego, ul. Vetulaniego 3, od 2 do 16 parzyste, ul. Leszczyńska 169, ul. Lelewela 81, 83, 85.",
       "id": "7a94524fed9761c3bcddd53e227640fa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krośniewicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.411066,
+      "lon": 17.0386179,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T12:00:00",
+      "original_description": "Poznań: ul. Warszawska od 361 do 373 nieparzyste, ul. Za Cybiną, ul. Świętowidzka od 4 do 12 parzyste, 12A, ul. Krośniewicka.",
+      "id": "f50ef2727445f4146c040232c8a2bc5d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T12:00:00",
+      "original_description": "Poznań: ul. Warszawska od 361 do 373 nieparzyste, ul. Za Cybiną, ul. Świętowidzka od 4 do 12 parzyste, 12A, ul. Krośniewicka.",
+      "id": "e0598e1e3e7e1b2f54bfb23dd782fde6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Za Cybiną, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.404675,
+      "lon": 17.0443613,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T12:00:00",
+      "original_description": "Poznań: ul. Warszawska od 361 do 373 nieparzyste, ul. Za Cybiną, ul. Świętowidzka od 4 do 12 parzyste, 12A, ul. Krośniewicka.",
+      "id": "21368ac397efe37b271f55d59b86f573"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świętowidzka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4081581,
+      "lon": 17.0412139,
+      "start_time": "2026-08-19T08:00:00",
+      "end_time": "2026-08-19T12:00:00",
+      "original_description": "Poznań: ul. Warszawska od 361 do 373 nieparzyste, ul. Za Cybiną, ul. Świętowidzka od 4 do 12 parzyste, 12A, ul. Krośniewicka.",
+      "id": "7ea84968c01732505a5bd25e06eabfe9"
     },
     {
       "type": "planned",
@@ -693,6 +743,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Nad Jeziorem, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4417301,
+      "lon": 16.8041042,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T12:30:00",
+      "original_description": "Poznań: ul. Nad Jeziorem od 1 do 100, 109 (Stanica Wędkarska), 144, 144A-E, \"Domki Rekreacyjne Relaks\", ul. Chojnicka o 1 do 13 nieparzyste, od 22 do 24 parzyste, 29, dz. 14 (przepompownia ścieków).",
+      "id": "151e8acee5b01afe537e02fafd94a5ab"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
       "lat": 52.4063647,
       "lon": 16.9116898,
@@ -790,6 +850,16 @@
       "end_time": "2026-08-21T10:30:00",
       "original_description": "Poznań: ul. Barzyńskiego, ul. Norwida 6, 8, 9, 10, 11, 11A, 13, ul. Poznańska 66, 68, 74.",
       "id": "e726fb216eb1157da8f904e83321ffb1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Garaszewo, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-316, Polska",
+      "lat": 52.3500473,
+      "lon": 16.9661059,
+      "start_time": "2026-08-24T08:00:00",
+      "end_time": "2026-08-24T16:00:00",
+      "original_description": "Poznań: ul. Garaszewo 25, dz. 13/1, dz. 30/5, dz. 30/7, dz. 30/8, dz. 30/9, dz. 30/10, dz. 30/14, dz. 30/28.",
+      "id": "84b2112236d8daca680fb058b92a55f9"
     },
     {
       "type": "planned",
