@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-08T15:41:08.437912+00:00",
+  "last_update": "2026-08-08T16:11:40.287475+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1460,6 +1460,56 @@
       "end_time": "2026-08-08T18:00:00",
       "original_description": "Poznań ul. Górna Wilda 98, ul. Wierzbięcice 40, 42.",
       "id": "6a9c358df3687be23209581aed507d28"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "28 Czerwca 1956 roku, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3532487,
+      "lon": 16.9017169,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-08T20:00:00",
+      "original_description": "Poznań rynek Wildecki, ul. 28 Czerwca 1956 r., ul. Górna Wilda, ul. Jana Spychalskiego, ul. Wierzbięcice.",
+      "id": "2639855bfe0b753e2235ce4f34b89f56"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-576, Polska",
+      "lat": 52.3945113,
+      "lon": 16.922776,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-08T20:00:00",
+      "original_description": "Poznań rynek Wildecki, ul. 28 Czerwca 1956 r., ul. Górna Wilda, ul. Jana Spychalskiego, ul. Wierzbięcice.",
+      "id": "5702a296d2a706798abe80a4a9a44ffa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Spychalskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-542, Polska",
+      "lat": 52.3949671,
+      "lon": 16.9183069,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-08T20:00:00",
+      "original_description": "Poznań rynek Wildecki, ul. 28 Czerwca 1956 r., ul. Górna Wilda, ul. Jana Spychalskiego, ul. Wierzbięcice.",
+      "id": "5f47f15b4243adb5b0880f9083ae2160"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3930259,
+      "lon": 16.920163,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-08T20:00:00",
+      "original_description": "Poznań rynek Wildecki, ul. 28 Czerwca 1956 r., ul. Górna Wilda, ul. Jana Spychalskiego, ul. Wierzbięcice.",
+      "id": "c00decaf7c6077b792e729a3c0d88fa8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-579, Polska",
+      "lat": 52.3978524,
+      "lon": 16.9190897,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-08T20:00:00",
+      "original_description": "Poznań rynek Wildecki, ul. 28 Czerwca 1956 r., ul. Górna Wilda, ul. Jana Spychalskiego, ul. Wierzbięcice.",
+      "id": "1649363b37605b19070dec86ead18011"
     }
   ]
 }
