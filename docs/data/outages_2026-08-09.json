@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T14:47:54.771406+00:00",
+  "last_update": "2026-08-09T15:15:41.460211+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2440,6 +2440,666 @@
       "end_time": "2026-08-09T18:30:00",
       "original_description": "Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza.",
       "id": "38354e8ce1f8072a0bb278de848baad5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "5f49da6c3eff659edb985a207d8be7dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Arkadego Fiedlera, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.449072,
+      "lon": 16.8693475,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "820e33f5b046c72e6aebeb7cddfb0b33"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "f664cb1b5b63c8a0b7af9f60f5467bc1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-445, Polska",
+      "lat": 52.3648101,
+      "lon": 16.9046167,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "5a2d5ccd6a3c01bb0decf782691a4a37"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chabrowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3710253,
+      "lon": 16.9098027,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "47ff1dde555e1645e334049761ab40f7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cynamonowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4744169,
+      "lon": 16.9319514,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "9e323af89c6da4ca3dd6979911dd06b2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dzikiej Róży, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.358948,
+      "lon": 17.0238048,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "5d321f763ba6ba2b5220d8617a642eda"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziurawcowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.479543,
+      "lon": 16.9467042,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "fc6e39957153265be058906d42b018b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3680885,
+      "lon": 16.9128704,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "8e17d72478337e623a8210ead3e781a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Generała Sikorskiego, Dębno, Dębienko, gmina Stęszew, powiat poznański, województwo wielkopolskie, 62-060, Polska",
+      "lat": 52.2909758,
+      "lon": 16.7278888,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "b4c6c7c7409f44dd26ada0071086a5ab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jarzębinowa, Morasko, Morasko-Radojewo, Poznań, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4738117,
+      "lon": 16.8969717,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "2a20c70ef70185d88062353a7cb7bcae"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaśminowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-433, Polska",
+      "lat": 52.3679335,
+      "lon": 16.8987706,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "92532fa5295fd0f320ef0a9a8001bc11"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesienna, Osiedle ks. Jerzego Popiełuszki, Grunwald Północ, Poznań, województwo wielkopolskie, 60-376, Polska",
+      "lat": 52.4079912,
+      "lon": 16.8752835,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "1208439d278549f0657d822cb02bd5c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "2e88666dc4dabdc87830be822403819d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Józefa Kostrzewskiego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "lat": 52.4471156,
+      "lon": 16.9170448,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "16884b7743575c46d70119fe3c0636ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3656758,
+      "lon": 16.9061644,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "edc9ef2e679ad07fd044645a33cb38c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "39561462618b187aad0549a149adff79"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konwaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705079,
+      "lon": 16.9136939,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "d1748c5252ba2444ad8baa1d3b72fb10"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "d18d246d624a2652d039adb8bd3f4683"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krokusowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3815547,
+      "lon": 16.8283168,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "770f6007c1567f6c6205333a99caaa60"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "140833a5714190249c3f2411c496a3ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "d41a28ca5095edde015daffb8eec86fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "746e81b62eb108a85d788be62434f205"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśne Zacisze, Kamionki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.2736078,
+      "lon": 16.9915612,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "c6cc313d44e1ff3bcd03a52bf7e84a9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Liliowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4771877,
+      "lon": 16.7864784,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "58331ff4174a78887e558eb975d9b5ec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Limbowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3653608,
+      "lon": 16.9058062,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "e39d456a08af3689b212d3e6e7a7b5d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "4db455abea8e9ac1c6f57cd9bfd633ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Liściasta, Zagajnikowa, Różany Potok, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4711525,
+      "lon": 16.9426927,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "1eb773e686090f2dbdef0876f311bca7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubczykowa, Nowa Wieś Górna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4869795,
+      "lon": 16.945007,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "c7ddb455104f12efa19bde0faddde3f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Magnoliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3869836,
+      "lon": 16.8116487,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "e757294c3ec5f94588ea6d7b0655895b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "e76d473e99a0a931a063a60c4506304d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "c5f56ba175b00f3ece7ff6b37575fc54"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mieczewska, Kamionki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.2821474,
+      "lon": 16.9933734,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "240bb3b5d9a34979fde9a8c54e05a905"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mostowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-854, Polska",
+      "lat": 52.4049657,
+      "lon": 16.9394473,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "5000d37be1a9497b30e0a3588e9ee4e4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Niwka Stara, Puszczykowo, powiat poznański, województwo wielkopolskie, 61-050, Polska",
+      "lat": 52.2583056,
+      "lon": 16.8800053,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "a42dc02e3acf64f63a06fbb1281aeee1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "c1aadc1632042747cc541e9b0eb7e2f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Azaliowe, Robakowo - Osiedle, Robakowo, gmina Kórnik, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.2946267,
+      "lon": 17.0714954,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "892cd8624d21307d664caa8411920607"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "411fb16722f6c3d1f6761a36807d9ded"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "3b25237136bc5e538e4c7df07d3b6ec5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "26aa7094d6b8a23f144b463704690a74"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podróżników, Sasinowo, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-022, Polska",
+      "lat": 52.2627353,
+      "lon": 16.9069345,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "8231320a6d39f474b0c5a8bfb2809f31"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "d6a6f71162e3f8085e7ba2f1671685d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Porannej Rosy, Huby Moraskie, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-690, Polska",
+      "lat": 52.4805412,
+      "lon": 16.9151292,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "c2b22dcb4ecd43ce67269c8e9373d9f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powozowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3548924,
+      "lon": 17.026441,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "5c75dbb5813315b414e2cca569641e44"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "b946e04843a25217b562dc4b5f3002cb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Północna, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-722, Polska",
+      "lat": 52.4148038,
+      "lon": 16.9361092,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "eea1e692ee9f9667d06f62e2522395cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rogalińska, Mieczewo, gmina Mosina, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.2369348,
+      "lon": 17.0027033,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "bf5bdb9008f64b5409904a6cb7192148"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rozmarynowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-477, Polska",
+      "lat": 52.3719509,
+      "lon": 16.911332,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "febaef3c83a410f06a468eba6e8ede46"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rumiankowa, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4758672,
+      "lon": 16.9442574,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "a5caaf5ceebf72dc01a20f32a64f0be5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "45c95b3ef34157c05342074ae8eb8f58"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "e4a154fac9025c5ec8a96ec0d22dcf03"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stokrotkowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3827642,
+      "lon": 16.8263654,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "0e77cd95e84aba06e6d3bc26c7a2926f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "3754cbd19a55eeababa2042e7149f753"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "a87f59d00bf309c2c53860f92b58f000"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tulipanowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3876508,
+      "lon": 16.8142466,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "5348417af62d797b0bc0083cab3053ec"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tęczowa, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3924959,
+      "lon": 16.8799077,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "e013aa49ae6596109c06b8635d08e015"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Waniliowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4754993,
+      "lon": 16.93107,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "730512987178bf2924680acd6601b2c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "9db389eaa47d570b46e28efe26822ee4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiklinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-451, Polska",
+      "lat": 52.3688746,
+      "lon": 16.9121577,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "65bf4b6e79068777e84f1a2ab88eeea0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiosenna, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4145998,
+      "lon": 16.8720792,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "c1dfa3246313b08f7d1876963239f1de"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "ab271b02f45ba9d9bac146a4ffcb16db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wąska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-859, Polska",
+      "lat": 52.4140584,
+      "lon": 16.9056711,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "0d6ce24ab065363dc708cb8b55ad1e04"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zawilcowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3813356,
+      "lon": 16.815192,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "0bfc6e8d9596d8ec6e80f1e30d33d266"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielone Wzgórza, Racjonalizatorów, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-454, Polska",
+      "lat": 52.3666509,
+      "lon": 16.9054681,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "67128b5b73f11de8792b4c28dd58d177"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "eea7d9ef49bbdc4f5f9831232e119465"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świerkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.3715758,
+      "lon": 16.8996578,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T19:30:00",
+      "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
+      "id": "69753bac05bc09f6afa2323e982e3f03"
     }
   ]
 }
