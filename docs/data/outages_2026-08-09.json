@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-09T16:57:12.550869+00:00",
+  "last_update": "2026-08-09T17:32:17.878813+00:00",
   "outages": [
     {
       "type": "planned",
@@ -3100,6 +3100,26 @@
       "end_time": "2026-08-09T19:30:00",
       "original_description": "Puszczykowo ul. Niwka Stara, Kamionki ul. Chabrowa, ul. Cynamonowa, ul. Dzikiej Róży, ul. Dziurawcowa, ul. Jaśminowa, ul. Konwaliowa, ul. Krokusowa, ul. Leśne Zacisze, ul. Liliowa, ul. Lubczykowa, ul. Magnoliowa, ul. Makowa, ul. Malwowa, ul. Mieczewska, ul. Osiedle Azaliowe, ul. Porannej Rosy, ul. Poznańska, ul. Rozmarynowa, ul. Rumiankowa, ul. Stokrotkowa, ul. Tęczowa, ul. Tulipanowa, ul. Waniliowa, ul. Wiklinowa, ul. Zawilcowa, Daszewice ul. Jarzębinowa, ul. Jesionowa, ul. Kasztanowa, ul. Klonowa, ul. Limbowa, ul. Lipowa, ul. Liściasta, ul. Łąkowa, ul. Poznańska, ul. Rogalińska, ul. Słoneczna, ul. Szkolna, ul. Wierzbowa, ul. Zielone Wzgórza, Rogalinek ul. Akacjowa, ul. Brzozowa, ul. Bukowa, ul. Dębowa, ul. Fiedlera, ul. Generała Sikorskiego, ul. Kasztanowa, ul. Kostrzewskiego, ul. Kościelna, ul. Kręta, ul. Krótka, ul. Lipowa, ul. Malwowa, ul. Mostowa, ul. Ogrodowa, ul. Parkowa, ul. Piaskowa, ul. Podgórna, ul. Polna, ul. Powozowa, ul. Poznańska, ul. Północna, ul. Słoneczna, ul. Sosnowa, ul. Spokojna, ul. Świerkowa, ul. Wąska, ul. Wierzbowa, ul. Wodna, Sasinowo ul. Jesienna, ul. Leśna, ul. Podróżników, ul. Poznańska, ul. Wiosenna.",
       "id": "69753bac05bc09f6afa2323e982e3f03"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pasieka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-657, Polska",
+      "lat": 52.4272846,
+      "lon": 16.9319832,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T21:30:00",
+      "original_description": "Poznań ul. Pasieka /Wyżyny, 11, 12, 13, 13A, 14, 15, 15A, 16, 2, 3, 4, 4A, 5, 6, 7, 8, 9, ul. Wyżyny 24, 28, 28/2, 28/3.",
+      "id": "ecaa7a105fb31271a58a989470e0504d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wyżyny, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4280253,
+      "lon": 16.9304533,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-09T21:30:00",
+      "original_description": "Poznań ul. Pasieka /Wyżyny, 11, 12, 13, 13A, 14, 15, 15A, 16, 2, 3, 4, 4A, 5, 6, 7, 8, 9, ul. Wyżyny 24, 28, 28/2, 28/3.",
+      "id": "e84d5a3e24689080538e47fe4cd603d2"
     }
   ]
 }
