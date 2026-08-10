@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-10T05:46:45.188567+00:00",
+  "last_update": "2026-08-10T06:58:25.288931+00:00",
   "outages": [
     {
       "type": "planned",
@@ -440,6 +440,26 @@
       "end_time": "2026-08-18T17:00:00",
       "original_description": "Poznań: ul. Olsztyńska bez 26, ul. Kołobrzeska bez 25 i 26, ul. Dąbrowskiego 361, ul. Wolińska, ul. Chodzieska 11, 15, ul. Podgajska od 8 do 20 parzyste, 11, 13, 15.",
       "id": "a2ba5fb846e9a66e483c31f77782cee3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "2026-08-18T08:30:00",
+      "end_time": "2026-08-18T10:30:00",
+      "original_description": "Poznań: ul. Śmigielska bez 13A, 14A, ul. Ostatnia od 1 do 13 nieparzyste, ul. Głogowska 265, 265A, od 273 do 279 nieparzyste.",
+      "id": "5a63f15ae5c9e25c2f564a6bfa76348a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ostatnia, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3730918,
+      "lon": 16.8653648,
+      "start_time": "2026-08-18T08:30:00",
+      "end_time": "2026-08-18T10:30:00",
+      "original_description": "Poznań: ul. Śmigielska bez 13A, 14A, ul. Ostatnia od 1 do 13 nieparzyste, ul. Głogowska 265, 265A, od 273 do 279 nieparzyste.",
+      "id": "1acfac5e01d92340feb48e45d21347df"
     },
     {
       "type": "planned",
@@ -1210,6 +1230,566 @@
       "end_time": "2026-08-31T11:30:00",
       "original_description": "Poznań ul. Podolańska 45",
       "id": "508a73a9a363044a4316288f2fc0f06d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bartnicza, Główna, Poznań, województwo wielkopolskie, 61-017, Polska",
+      "lat": 52.4240833,
+      "lon": 16.979115,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "0b2d115fa5b355684c9d9708b6ea4f88"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Baśniowa, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-193, Polska",
+      "lat": 52.4109693,
+      "lon": 16.8412602,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "88f9ee6679ab3f0d4b91e8986b31d506"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3756714,
+      "lon": 16.8649743,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "dca1d6e1a8e5559f21beb0b3d3ac8ab7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzoskwiniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3610446,
+      "lon": 17.0186095,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "0646e9c5e44b4ac29021e1e590f68f2f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cicha, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-710, Polska",
+      "lat": 52.4162002,
+      "lon": 16.9228386,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "f0456f7df44ad5e99dc52063142da416"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "de219f7c507e4c40b7f6a094a91e811f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dożynkowa, Osiedle Na Murawie, Stare Winogrady, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4251556,
+      "lon": 16.9239063,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "85687bb1b7b63d213edf76db743b9e37"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "82d6159771578577a4050ace66985ec2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gospodarcza, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4616739,
+      "lon": 17.1909354,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "1173d88d5d3d83b286b8e83917d4ca0f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gruszkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3742873,
+      "lon": 16.8996316,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "0370b73b8bed744d4c004dc824f1ab16"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gucia, Biskupice Wielkopolskie, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4647372,
+      "lon": 17.1785439,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "36c50614d2585e8cf4ff968da11c79c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Główna, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4247632,
+      "lon": 16.9729702,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "c69d4e12a75284232980e75b61e3bfcc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Handlowa, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4612225,
+      "lon": 17.193944,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "9887431cc9416c679afe3c0595c872cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jabłkowa, Osiedle Leśne, Czapury, gmina Mosina, powiat poznański, województwo wielkopolskie, 61-106, Polska",
+      "lat": 52.32196,
+      "lon": 16.9220706,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "d37e4fe46c33c8a8885d489ac9139d82"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "c3f16a8dbc2a4243a4563e7279ae1681"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jęczmienna, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4260048,
+      "lon": 16.9237618,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "791eba3cabf526a71599705232168c3d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "c0aaf3300b6bea25ceeb68aa3694082c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księżycowa, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3972096,
+      "lon": 16.8741769,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "693ef8575c3d30bba3bd12cd47546619"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kubusia Puchatka, Szczytniki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.3077487,
+      "lon": 17.0034889,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "a29acb643e93e5a3a1760baed8d759a4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "e05cd655a05808815154c05b14790628"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705387,
+      "lon": 16.9104483,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "76ff36d41c81f166b6945a4b7f0ac910"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Miodowa, Ogrody, Poznań, województwo wielkopolskie, 60-595, Polska",
+      "lat": 52.4136973,
+      "lon": 16.8715861,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "701cc110c3fba3e563cf7ee379ecf7a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morelowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.370513,
+      "lon": 16.8987738,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "8a1279f1105bb961a5dc8684068ca8e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowowiejska, Biskupice Wielkopolskie, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4638617,
+      "lon": 17.1714805,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "fa65f3913c9f99a22cfe4bfe7f32ee09"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodnicza, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.459072,
+      "lon": 17.1952032,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "925d4f4b5151c943686f4b353ea0ed24"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "bcbd4c5d39939c87d1325c7605b705d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Orkiszowa, Biskupice Wielkopolskie, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4606962,
+      "lon": 17.1630528,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "3a3516136f4f1d2ca97a34cfe341a317"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Owsiana, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4237885,
+      "lon": 16.9237489,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "df1090577edd64a5f5a71207094796ed"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pasieka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-657, Polska",
+      "lat": 52.4272846,
+      "lon": 16.9319832,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "fae2a72f3fe835722293afbd8447a909"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "d43f2a735852db58376255e55dafe195"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "2e752843ec0b72034562da37766464e3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "9130bade0165edffef213d88d06d310a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Porzeczkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3628315,
+      "lon": 17.0293422,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "314d25efe10ff8dc2850f195f92b87c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poziomkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3650812,
+      "lon": 17.037059,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "2ced1447a800b52a0458e44c971788db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "cab744f4013fee31c5a99625b4509f12"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pszczela, Biskupice Wielkopolskie, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4641338,
+      "lon": 17.1777162,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "032fcdea901af89cb39a3d1694850282"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pszeniczna, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
+      "lat": 52.2829051,
+      "lon": 16.8397106,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "6a328415a3f150660684b281fc0ee0fc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "f398bdd521d262366d804e5ad3bb0cdc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzemieślnicza, Ławica, Przeźmierowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 60-449, Polska",
+      "lat": 52.4206061,
+      "lon": 16.7980407,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "e80bd13846ba6d6ed64c870c51efce9c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rzepakowa, Biskupice Wielkopolskie, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4658752,
+      "lon": 17.1672619,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "642158bffd0849a0d5190af540817746"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "5b877ecd3ef8d560dfd2722b5355cd9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Skrajna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-106, Polska",
+      "lat": 52.3791977,
+      "lon": 16.8597022,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "5ae3dff49af9cb70c00f06e10f0ec05e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spadziowa, Biskupice Wielkopolskie, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4659994,
+      "lon": 17.1823547,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "8b97eaa76148e90b99004e3776a62eab"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "447691d221e61a0aa0208b023cd0c105"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "828c26d39487b8142d68978ddbf3110c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Truskawkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3651654,
+      "lon": 17.0335888,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "b4a8623771dcf9ca50165bb1637d16c9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Usługowa, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4599384,
+      "lon": 17.1959395,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "e7ad5258c50bed2a36046994950158a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wincentego Witosa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4418563,
+      "lon": 16.9098562,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "4f029318754879e6addc831dbe19e28b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "1a6b6bcc9c735d5f66c939c801751046"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zacisze, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-852, Polska",
+      "lat": 52.4129557,
+      "lon": 16.913383,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "795fd969beddc385a1688257dfe123b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "0a0861b67cc22dd05025bb0622a0ff0d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ziemniaczana, Stary Luboń, Luboń, powiat poznański, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3454354,
+      "lon": 16.8958109,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "e47f6d0de979e4fcd07501067cb86260"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "14afc174fe0a469ddc5fff99e4d2847c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śliwkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3718525,
+      "lon": 16.8949212,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "b4c7c473fdcebf66b0e142587d4c029d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świt, Grunwald Północ, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4076051,
+      "lon": 16.8790249,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "ac5880f2fbc38495fe39a66b8a6b8393"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żytnia, Nowe Winogrady Wschód, Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4361604,
+      "lon": 16.9432043,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T11:00:00",
+      "original_description": "Biskupice ul. Bartnicza, ul. Baśniowa, ul. Boczna, ul. Brzoskwiniowa, ul. Cicha, ul. Czereśniowa, ul. Dożynkowa, ul. Dworcowa, ul. Główna, ul. Gospodarcza, ul. Gruszkowa, ul. Gucia, ul. Handlowa, ul. Jabłkowa, ul. Jagodowa, ul. Jęczmienna, ul. Krótka, ul. Księżycowa, ul. Kubusia Puchatka, ul. Kwiatowa, ul. Łąkowa, ul. Malinowa, ul. Miodowa, ul. Morelowa, ul. Nowowiejska, ul. Ogrodnicza, ul. Ogrodowa, ul. Orkiszowa, ul. Owsiana, ul. Pasieka, ul. Podgórna, ul. Pogodna, ul. Polna, ul. Porzeczkowa, ul. Poziomkowa, ul. Pszczela, ul. Pszeniczna, ul. Rolna, ul. Różana, ul. Rzemieślnicza, ul. Rzepakowa, ul. Skrajna, ul. Słoneczna, ul. Spadziowa, ul. Szkolna, ul. Śliwkowa, ul. Świt, ul. Truskawkowa, ul. Usługowa, ul. Wincentego Witosa, ul. Wiśniowa, ul. Zacisze, ul. Zbożowa, ul. Ziemniaczana, ul. Żytnia, Jerzykowo ul. Poznańska, Uzarzewo-Huby.",
+      "id": "25eefe1f340293e9bd7a6b4d398846b8"
     }
   ]
 }
