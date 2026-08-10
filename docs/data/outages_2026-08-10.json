@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-10T15:42:06.213927+00:00",
+  "last_update": "2026-08-10T16:35:58.638397+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1980,6 +1980,36 @@
       "end_time": "2026-08-10T18:30:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "4452f06cc43b66c27cf4f280528ce2ce"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kornela Makuszyńskiego, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4079489,
+      "lon": 16.8359207,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T19:30:00",
+      "original_description": "Poznań ul. Kornela Makuszyńskiego, ul. Pana Twardowskiego 10, 2, 3, 5, 6, 8, 9.",
+      "id": "d6b1fa6788d36352fe6c3c5c8fa635fa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pana Twardowskiego, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-194, Polska",
+      "lat": 52.4061466,
+      "lon": 16.8357257,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T19:30:00",
+      "original_description": "Poznań ul. Kornela Makuszyńskiego, ul. Pana Twardowskiego 10, 2, 3, 5, 6, 8, 9.",
+      "id": "0d5c7e61ce6c7a2550f10709fdd7634c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T20:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "09c903266533daee6a0dc4f9ea6c171b"
     }
   ]
 }
