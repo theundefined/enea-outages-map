@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-10T16:35:58.638397+00:00",
+  "last_update": "2026-08-10T17:31:47.404464+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2010,6 +2010,26 @@
       "end_time": "2026-08-10T20:00:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "09c903266533daee6a0dc4f9ea6c171b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kornela Makuszyńskiego, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4079489,
+      "lon": 16.8359207,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T21:00:00",
+      "original_description": "Poznań ul. Kornela Makuszyńskiego, ul. Pana Twardowskiego 10, 2, 3, 5, 6, 8, 9.",
+      "id": "f3c231834492c16114b8ea287cfaab21"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pana Twardowskiego, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-194, Polska",
+      "lat": 52.4061466,
+      "lon": 16.8357257,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-10T21:00:00",
+      "original_description": "Poznań ul. Kornela Makuszyńskiego, ul. Pana Twardowskiego 10, 2, 3, 5, 6, 8, 9.",
+      "id": "4c2c07d75d99278af0e5b87a6f2e0cc6"
     }
   ]
 }
