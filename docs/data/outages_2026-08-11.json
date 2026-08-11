@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-11T07:52:49.794628+00:00",
+  "last_update": "2026-08-11T08:50:00.482851+00:00",
   "outages": [
     {
       "type": "planned",
@@ -410,6 +410,16 @@
       "end_time": "2026-08-18T11:30:00",
       "original_description": "Poznań: ul. Trąmpczyńskiego, ul. Vetulaniego 3, od 2 do 16 parzyste, ul. Leszczyńska 169, ul. Lelewela 81, 83, 85.",
       "id": "7a94524fed9761c3bcddd53e227640fa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-08-18T09:00:00",
+      "end_time": "2026-08-18T12:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Poznańska od 10 do 12B, 26, 33, działki nr 3/2, 3/15, 10, od 11/1 do 11/22, 48, Folwark Polityka, działki rekreacyjne, stacja bazowa T-Mobile 40283,",
+      "id": "3e8633e4e0d64d30132ab55ca4bbd2db"
     },
     {
       "type": "planned",
