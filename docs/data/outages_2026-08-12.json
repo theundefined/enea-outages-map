@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-12T06:47:49.252000+00:00",
+  "last_update": "2026-08-12T08:05:43.316927+00:00",
   "outages": [
     {
       "type": "planned",
@@ -360,6 +360,16 @@
       "end_time": "2026-08-18T11:30:00",
       "original_description": "Poznań: ul. Trąmpczyńskiego, ul. Vetulaniego 3, od 2 do 16 parzyste, ul. Leszczyńska 169, ul. Lelewela 81, 83, 85.",
       "id": "7a94524fed9761c3bcddd53e227640fa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "2026-08-18T08:30:00",
+      "end_time": "2026-08-18T15:30:00",
+      "original_description": "Poznań: ul. Kolejowa 32, 32A, 33, 33A, 34, 34A, 37, 38, 39, 40, plac budowy.",
+      "id": "8a2af064c6a5def0a7b0044d4cc84767"
     },
     {
       "type": "planned",
