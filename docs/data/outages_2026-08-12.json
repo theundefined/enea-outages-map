@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-12T22:56:15.836530+00:00",
+  "last_update": "2026-08-12T23:39:00.009352+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1580,6 +1580,26 @@
       "end_time": "2026-08-13T02:00:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "ea8be8e9488b03c0382dcb288579eb2e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-13T03:00:00",
+      "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
+      "id": "71f5b20a382d5935738445004bc1bfef"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-13T03:00:00",
+      "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
+      "id": "5db7e33ab4af770a744307fc175dfab5"
     }
   ]
 }
