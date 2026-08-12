@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-12T05:19:18.249703+00:00",
+  "last_update": "2026-08-12T06:47:49.252000+00:00",
   "outages": [
     {
       "type": "planned",
@@ -563,6 +563,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Droga Dębińska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3758262,
+      "lon": 16.9259806,
+      "start_time": "2026-08-19T08:30:00",
+      "end_time": "2026-08-19T14:30:00",
+      "original_description": "Poznań: ul. Droga Dębińska 29, ROD \"Mazurek\", ROD \"Dębinka\".",
+      "id": "d7ade851b321473510248036eda30e8b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
       "lat": 52.4133513,
       "lon": 16.9048857,
@@ -820,6 +830,26 @@
       "end_time": "2026-08-20T16:00:00",
       "original_description": "Poznań: Os. Kosmonautów 4O-S, 5, 5A-J.",
       "id": "e00d6ca3489f7e3715974d9e4cbc107f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Górecka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3718577,
+      "lon": 16.8928666,
+      "start_time": "2026-08-20T08:30:00",
+      "end_time": "2026-08-20T11:00:00",
+      "original_description": "Poznań: ul. Górecka od 136 do 170 parzyste, ul. Podmokła 40, 42, 44.",
+      "id": "e1fd3b7f4bfa574d97f4f122818818a7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podmokła, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3720852,
+      "lon": 16.8919242,
+      "start_time": "2026-08-20T08:30:00",
+      "end_time": "2026-08-20T11:00:00",
+      "original_description": "Poznań: ul. Górecka od 136 do 170 parzyste, ul. Podmokła 40, 42, 44.",
+      "id": "1f1d1b2dfc0d214b6e129533fee63ccb"
     },
     {
       "type": "planned",
@@ -1250,6 +1280,16 @@
       "end_time": "2026-08-12T07:30:00",
       "original_description": "Poznań ul. Podjazdowa 91, 93.",
       "id": "bd1614183bfa2f5d5c946dfc85ccf504"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-12T09:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "d137dd0cc0f0613c17fc9a827bdb8910"
     }
   ]
 }
