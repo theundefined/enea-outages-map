@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13T06:49:01.273462+00:00",
+  "last_update": "2026-08-13T08:07:37.647686+00:00",
   "outages": [
     {
       "type": "planned",
@@ -170,6 +170,16 @@
       "end_time": "2026-08-18T17:00:00",
       "original_description": "Poznań: ul. Olsztyńska bez 26, ul. Kołobrzeska bez 25 i 26, ul. Dąbrowskiego 361, ul. Wolińska, ul. Chodzieska 11, 15, ul. Podgajska od 8 do 20 parzyste, 11, 13, 15.",
       "id": "a2ba5fb846e9a66e483c31f77782cee3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Raszyńska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-135, Polska",
+      "lat": 52.3877943,
+      "lon": 16.872936,
+      "start_time": "2026-08-18T08:00:00",
+      "end_time": "2026-08-18T18:00:00",
+      "original_description": "Poznań ul. Raszyńska 48",
+      "id": "fd63077220093d43f681b6be8d25f0d1"
     },
     {
       "type": "planned",
@@ -913,6 +923,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Browarna, Nowy Młyn, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-063, Polska",
+      "lat": 52.4037123,
+      "lon": 17.021074,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T19:00:00",
+      "original_description": "Poznań: ul. Browarna 39 (ROD \"Nowy Młyn\"), ul. Wczasowa 20 (Leśnictwo Kobylepole).",
+      "id": "14193ff198bb359b5b9f0bec0702dc2d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Browarna, Nowy Młyn, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-063, Polska",
+      "lat": 52.4037123,
+      "lon": 17.021074,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T19:00:00",
+      "original_description": "Poznań: ul. Browarna 41, 43, 45, 58.",
+      "id": "db6fb88fe8fe2b04de958315ab16d9dc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kaprala Wojtka, Nowy Młyn, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-063, Polska",
+      "lat": 52.4007753,
+      "lon": 17.0173628,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T19:00:00",
+      "original_description": "Poznań ul. Kaprala Wojtka.",
+      "id": "daba0e3e4c2a9b873e15496ceba3d2aa"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kościańska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
       "lat": 52.3729316,
       "lon": 16.873216,
@@ -1300,6 +1340,16 @@
       "end_time": "2026-08-13T09:30:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "58f8d41d79de4418afd907fc7ebd1385"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-13T11:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "1c96e21db2aff0b6fa1615075abccdc5"
     }
   ]
 }
