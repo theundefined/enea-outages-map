@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-13T03:16:28.790239+00:00",
+  "last_update": "2026-08-13T05:11:05.357679+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1190,6 +1190,46 @@
       "end_time": "2026-08-13T06:30:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "7775e9cfc325386c16a16af6e94f0f6b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-13T07:30:00",
+      "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
+      "id": "93fef5acebb465f9d5dee62b96971616"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-13T07:30:00",
+      "original_description": "Poznań ul. Podjazdowa 91, 93.",
+      "id": "ab7b064d9a35017276fb9e8d4e835c37"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-13T07:30:00",
+      "original_description": "Poznań ul. Krańcowa, ul. Warszawska.",
+      "id": "a196a2ad4c78e2baa592b1ba6f6bbc30"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-13T08:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "ec1fecab6e19a83e242f3a57045507ea"
     }
   ]
 }
