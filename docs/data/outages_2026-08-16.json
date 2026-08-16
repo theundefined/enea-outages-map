@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-16T16:49:40.676352+00:00",
+  "last_update": "2026-08-16T17:07:50.617479+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1640,6 +1640,346 @@
       "end_time": "2026-08-16T20:00:00",
       "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
       "id": "17b5362a18892bdd38a14b2e97d4caa2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "aa4dbe836b769e35dddec94e065b4429"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "0a123875b239aef13352b20d98cf3192"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "92fcb4623833a831f9037b0be1a90345"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "8611137b971adcc7f584de527e057696"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kapitańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.475719,
+      "lon": 16.7680779,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "dc62ee3ca0155185f5a998bcb40fa3cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Komandorska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4765137,
+      "lon": 16.7687162,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "5791e0963be844e94711b72b67f2996d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kąpielowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4735298,
+      "lon": 16.7740419,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "5e571b99461223017ea0bd37ba5720c4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nawigacyjna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.477396,
+      "lon": 16.7771387,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "bb01e25748a62e9f292fffd55d5eac36"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "132bfd77e74d4d02c9484019db0937db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Poznań ul. Podjazdowa 91, 93.",
+      "id": "13c9ad8a218ca3e6a044fdaac22462cf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Regatowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4747964,
+      "lon": 16.7684207,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "2ef76ec49761edc876828830f7e0e95d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Retmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764855,
+      "lon": 16.7697994,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "cf333151604c516ed1dca595bd5c3f1d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strumykowa, Kiekrz, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4796386,
+      "lon": 16.769963,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "9df30689bfffb1c455fff4c1627a8141"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:00:00",
+      "original_description": "Kiekrz ul. Podjazdowa 26, 26A, 36, 40, 44, 52, 56, 65, ul. Strumykowa 1 A, 11, 12, 13, 14A, 14B, 15, 17, 18, 19, 2, 22, 5, 6, 8, 9, dz.359/11, dz.359/24, Przeźmierowo ul. Słoneczna 1, 10 B, 11, 13, 2, 3, 4, 5, 6, 7, 9, Poznań ul. Admiralska 1, 10, 11, 11A, 12, 13, 14, 15, 17, 18, 19, 2, 20, 25, 26, 26A, 28, 29, 3, 30, 32, 33, 34, 34 A, 35, 36, 37, 38, 39-BUD., 41, 42, 44, 45, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 56, 57, 58, 59, 60, 62, 64, 64A, 66, 7, 8, 9, JACHTOWA, ul. Bosmańska 1, 10, 11, 12, 13, 14, 15, 17, 2, 3, 4, 5, 6, 7, 8, 9, ul. Jachtowa 1, 10, 11, 12, 13, 14A, 14B, 15, 17, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 31, 32-lok.1, 38, 3A, 3B, 4, 41, 46, 5, 5 A, 6, 7, 8, 9A, ul. Kajakowa 1, 10, 11, 12, 13, 14, 16, 17, 17A, 19, 1A, 2, 21, 22, 22A, 23, 24, 24A, 25, 26, 27, 29/33, 3, 35, 36, 37, 3A, 4, 5, 6, 7, 8, 9, ul. Kapitańska 10, 11, 12, 13, 16, 3, 4, 5, 6, 8, 9, ul. Kąpielowa 1, 10, 11, 13, 15, 17, 19, 4, 4A, 6, 7/9, ul. Komandorska 10, 11, 12, 14, 15, 16, 3, 4, 6, 7, 8, 9, ul. Nawigacyjna 7, ul. Podjazdowa 10, 10A, 13, 13A, 14, 15, 15A, 16, 17, 18, 19, 21, 22, 24, 28, 29, 31, 32, 33, 34, 35, 37, 39, 3A  [50], 4, 41, 43, 45, 47, 49, 53, 57, 59, 6, 61/BOJER, 63, 65 B, 65B, 67, 69, 71, 73 A, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 27, 28, 29, 3, 30, 31, 32, 33, 34, 35, 36, 38, 39, 4, 40, 41, 42, 44, 46, 48, 5, 50, 52, 54, 56, 58, 6, 60, 62, 7, 8, 9, ul. Retmańska 10, 11, 12, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28, 29, 3, 30, 31, 32, 34, 4, 5.",
+      "id": "d8d1be125c61805c0ba658997425a870"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ananasowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4646348,
+      "lon": 16.9493593,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "7d2173367160c37b340feddf77b2ff20"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Azaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-443, Polska",
+      "lat": 52.3638663,
+      "lon": 16.9062508,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "7fef203d1c5d9341dc238d914bfc1d73"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bratkowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3800811,
+      "lon": 16.8150299,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "cf7c27cdee6e5a58c4e6eb62fa7d1cb4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "2ab83ddbb843799d6ffe37d019012313"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaworowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-456, Polska",
+      "lat": 52.3685529,
+      "lon": 16.9050344,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "f401d5892fc572aa9442ec9dd031fe24"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeziorna, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3190516,
+      "lon": 16.8063421,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "6852ab158b8d3b32d5cf98956570a27d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Klonowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-468, Polska",
+      "lat": 52.3710208,
+      "lon": 16.9067657,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "26ffb2752b837f23b84679f506aaf8e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konwaliowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705079,
+      "lon": 16.9136939,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "1525929016d09ea2b921c5432b00427e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "52c4f85e69c0306ac42dc9fbbabd41d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "86fc4916821b930bde1a91239e0a13a7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "ddfce5a34c15f68d5a2c1288f6304587"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pofam-Poznań, 11, Karola Szymanowskiego, Kolonia Robotnicza, Ostrowiec Świętokrzyski, powiat ostrowiecki, województwo świętokrzyskie, 27-400, Polska",
+      "lat": 50.9527895,
+      "lon": 21.3611577,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "3b2bfe65afb92508f0c4b0a64b8ffb57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pomarańczowa, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4633699,
+      "lon": 16.953423,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "b21c9078cef782c96fe33024ac737e82"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "ddd43410be2352d60815b28eca0a2c7a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "5d4414ef9867fc487752e31baf93ca91"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "ce774451c4a5974bafa075906d5282d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "7ee4bd9a6eb10bd0200d9c18a13b3fe3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "1717b769c910e1c8f774cdbc9b3619ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "e2348d91513d0b83ff1e89a747e99695"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śliwkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3718525,
+      "lon": 16.8949212,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-16T21:30:00",
+      "original_description": "Kluczewo, Kluczewo-Huby, Piaskowo ul. Azaliowa 8A, dz. 125, ul. Bratkowa 24, ul. Konwaliowa 1, 14, 15, 2, 4, 7, 9, ul. Malwowa 11, 12, 15, 19, 20, 22, 24, 9, dz 120, ul. Powstańców Wielkopolskich 28, 34, 40, ul. Różana 1, 10, 12, 13, 15, 2, 4, 5, 8, dz 164, dz. 166, ul. Topolowa 1, 15, 19, 3, 5, 7, Karolewo, Rudki, Rudki-Huby, Szczepankowo, Ostroróg ul. Bratkowa 2, 28, ul. Dworcowa 6, ul. Jaworowa 10, 14, 16, 2, 20, 22, 24, 3, 4, 5, 6, 8, 9, ul. Jeziorna 1, 10, 12, 12/A, 14, 16, 16B, 18, 18/A, 1a, 1A, 20, 3, 5, 6, 8, ul. Klonowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 2, 20, 2a, 4, 4A, 5, 6, 7, 8, 9, ul. Lipowa 1, 10, 11, 12, 13, 14, 15, 2, 3, 4, 6, 7, 8, 9, ul. Malwowa 4, 6, ul. Nowa 1, 10, 11, 12, 13, 14, 15, 16, 16A, 17, 18, 19, 2, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 2A, 3, 30, 31, 33, 4, 5, 6, 7, 8, 9, ul. Powstańców Wielkopolskich 1, 10, 11, 13, 14, 17, 18, 19, 20, 21, 23, 23A, 25, 27, 3, 31, 33, 36, 4, 44, 5, 6, 7, 9, ul. Poznańska 16, 18, 20, 20A, 24, 24/A, 26, 29, 33, 35, 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 57, ul. Robotnicza 1, 10, 11, 12, 13, 15, 15A, 16, 17, 18, 19, 2, 20, 21, 23, 23/X, 24, 25, 27, 28, 29, 3, 30, 32, 33, 34, 35, 36, 36A, 36B, 37, 4, 5, 7, 8, 9, ul. Szamotulska 33, 35A, 39, dz.278/8, ul. Topolowa 11, 13, 4, 5, 6, 7, 9, DZ. 313, ul. Wierzbowa 1, 10, 11, 12, 13, 2, 2A, 3, 4, 5, 6, 6A, 7, 8, 9, Jastrowo ul. Ananasowa 1, 1/3, ul. Pomarańczowa 1, 1/6, 3, 4, 5, ul. Śliwkowa 3.",
+      "id": "5d12ca3646b8b722b77559a4c38b0743"
     }
   ]
 }
