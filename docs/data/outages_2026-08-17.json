@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-17T16:44:22.327728+00:00",
+  "last_update": "2026-08-17T17:11:09.236237+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1380,6 +1380,16 @@
       "end_time": "2026-08-17T19:00:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "6d74c759a6c94e72cdbd98a3ace04f69"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romualda Traugutta, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-515, Polska",
+      "lat": 52.3853995,
+      "lon": 16.916062,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-17T20:30:00",
+      "original_description": "Poznań ul. Romualda Traugutta 29A, 31, 31A, 31A/6.",
+      "id": "7b4a46a5ca792113c983f8106fd4dc75"
     }
   ]
 }
