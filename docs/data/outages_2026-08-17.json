@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-17T13:23:56.844336+00:00",
+  "last_update": "2026-08-17T14:00:13.359215+00:00",
   "outages": [
     {
       "type": "planned",
@@ -893,6 +893,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
+      "lat": 52.4037413,
+      "lon": 16.9352621,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T15:00:00",
+      "original_description": "Miasto Nowy Tomyśl ul. Długa 10, 12, 14, 16, 18, od 24 do 46 nr parzyste oraz od 33 do 69 nr nieparzyste (oprócz 39)  ul. Krótka 1, 2, ul. Kościuszki 5, ul. Poznańska 11D, działki nr 495, 500,",
+      "id": "a7dc9be7e6b79c219b9efa9866ad8a6c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T15:00:00",
+      "original_description": "Miasto Nowy Tomyśl ul. Długa 10, 12, 14, 16, 18, od 24 do 46 nr parzyste oraz od 33 do 69 nr nieparzyste (oprócz 39)  ul. Krótka 1, 2, ul. Kościuszki 5, ul. Poznańska 11D, działki nr 495, 500,",
+      "id": "ba139297fe6bb8b18df58da0752e631d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T15:00:00",
+      "original_description": "Miasto Nowy Tomyśl ul. Długa 10, 12, 14, 16, 18, od 24 do 46 nr parzyste oraz od 33 do 69 nr nieparzyste (oprócz 39)  ul. Krótka 1, 2, ul. Kościuszki 5, ul. Poznańska 11D, działki nr 495, 500,",
+      "id": "48f139db985f497ae1fd77f49999496c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tadeusza Kościuszki, Kiekrz, Rogierówko, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4751421,
+      "lon": 16.7555574,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T15:00:00",
+      "original_description": "Miasto Nowy Tomyśl ul. Długa 10, 12, 14, 16, 18, od 24 do 46 nr parzyste oraz od 33 do 69 nr nieparzyste (oprócz 39)  ul. Krótka 1, 2, ul. Kościuszki 5, ul. Poznańska 11D, działki nr 495, 500,",
+      "id": "d14d555f3af60539d3c9469f7aa15d4d"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Browarna, Nowy Młyn, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-063, Polska",
       "lat": 52.4037123,
       "lon": 17.021074,
@@ -1310,6 +1350,26 @@
       "end_time": "2026-08-17T14:30:00",
       "original_description": "Poznań ul. Romualda Traugutta 29A, 31, 31A, 31A/6.",
       "id": "829d36c6d0a21043e74720ca7ad83ae5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-17T17:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "f239b90a002e7e057f1932348df54cbd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romualda Traugutta, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-515, Polska",
+      "lat": 52.3853995,
+      "lon": 16.916062,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-17T17:30:00",
+      "original_description": "Poznań ul. Romualda Traugutta 29A, 31, 31A, 31A/6.",
+      "id": "183df8745d566d195cae592fe92d5aba"
     }
   ]
 }
