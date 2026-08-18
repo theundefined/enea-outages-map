@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T18:32:12.641601+00:00",
+  "last_update": "2026-08-18T19:10:10.265395+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2130,6 +2130,16 @@
       "end_time": "2026-08-18T21:00:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "8a1ef4ec2d5bdcebaebfb3ea2930d18b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T22:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "b322d2bdbacf91e3f769fa814c48d659"
     }
   ]
 }
