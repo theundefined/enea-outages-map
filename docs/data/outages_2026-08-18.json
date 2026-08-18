@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T12:03:02.773156+00:00",
+  "last_update": "2026-08-18T13:03:51.818613+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1003,6 +1003,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Nad Jeziorem, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4417301,
+      "lon": 16.8041042,
+      "start_time": "2026-08-26T08:00:00",
+      "end_time": "2026-08-26T12:00:00",
+      "original_description": "Poznań: ul. Nad Jeziorem 101, 103, 120, od 124 do 140 parzyste.",
+      "id": "d582f95a3d5fb87e160a86c490eab7c5"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Międzyzdrojska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
       "lat": 52.4419025,
       "lon": 16.8056672,
@@ -1953,6 +1963,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Poznań ul. Promienista 43.",
+      "id": "e8031625b253ead12bdb4b82696d61ba"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Rosnowska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
       "lat": 52.370003,
       "lon": 16.8682435,
@@ -2040,6 +2060,16 @@
       "end_time": "2026-08-18T16:00:00",
       "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
       "id": "6541689bde6a180d990e3837f145e825"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "4b0657fffab22b85ae43ae63d74c510c"
     }
   ]
 }
