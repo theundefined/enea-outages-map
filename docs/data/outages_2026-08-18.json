@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T17:22:15.839822+00:00",
+  "last_update": "2026-08-18T17:52:36.600976+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2120,6 +2120,16 @@
       "end_time": "2026-08-18T20:30:00",
       "original_description": "Poznań ul. Promienista 43.",
       "id": "544bc738bef2253c63a471dec27421f2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T21:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "8a1ef4ec2d5bdcebaebfb3ea2930d18b"
     }
   ]
 }
