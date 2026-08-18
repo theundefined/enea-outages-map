@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T11:10:54.025021+00:00",
+  "last_update": "2026-08-18T11:43:44.542106+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1580,6 +1580,466 @@
       "end_time": "2026-08-18T13:30:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "8838aae7fbf188b73f36e7c0fb34b2b4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T15:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "9deff4797fac5f4955fa7e0a85b54bf5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "3 Maja, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-728, Polska",
+      "lat": 52.4090081,
+      "lon": 16.9248006,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "ed9140f96a92ac6dafd45856c64167d5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Akacjowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3684127,
+      "lon": 16.8966969,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "bf76265912349912673ee9323bd1884f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Benedykta Wielocha, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3408338,
+      "lon": 16.7887347,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "b409cdf5ed2502d1ff53402ebe39841e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Boczna, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-105, Polska",
+      "lat": 52.3756714,
+      "lon": 16.8649743,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "7731fc43dd6e84730a7bc0e59717b084"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "9a16b08a110f152547b409b023d7c85b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chabrowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3710253,
+      "lon": 16.9098027,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "ef645864aab7e7aebe149013eaed863d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cmentarna, Junikowo, Poznań, województwo wielkopolskie, 60-176, Polska",
+      "lat": 52.3858085,
+      "lon": 16.8389482,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "f1a2224ff7792f9c6304d962c9d1f9c2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cyprysowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
+      "lat": 52.3662097,
+      "lon": 16.905338,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "5f25a2e8efa7398384d481217c930380"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fabianowska, Osiedle Brzozowy Gaj, Aniołowo, Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-003, Polska",
+      "lat": 52.366295,
+      "lon": 16.8312422,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "b9d6193558dc5612a068652bf339a926"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fiołkowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3747467,
+      "lon": 16.9076006,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "ecddaf899a54d9137011d42a2ae1fbe5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Horeszki, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3430762,
+      "lon": 16.7954902,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "7b2be98ba5d87e118f88e7b142601a68"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ignacego Kaczmarka, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.341915,
+      "lon": 16.7962468,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "346e25332ba469421ce3aaaa78825d6e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Brzechwy, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4114708,
+      "lon": 16.8327805,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "0f3d35988637860ae86a68df13d510b6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Janusza Korczaka, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3590819,
+      "lon": 16.8840061,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "19ff7fb8a324c7b489225dd7fe2e6521"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "7c3bacfa3c3e865e20a5ef1ffa5cf812"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliana Tuwima, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4073831,
+      "lon": 16.8375636,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "272d94dd7dea6b8dcc3e082f49519536"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Komornicka, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.3694124,
+      "lon": 16.867113,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "1e032284a21351eeffaeb65133e76491"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "188b554c9619cff778e3184635b39637"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kraszewskiego, Zwierzyniecka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-519, Polska",
+      "lat": 52.4090968,
+      "lon": 16.9026176,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "c3f684cca0aec38c8881e37784e4d771"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krokusowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3815547,
+      "lon": 16.8283168,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "a90982b5fb4fda5bfb1af8b155fc9153"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Franciszka Malinowskiego, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3385149,
+      "lon": 16.8001153,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "652f3ebcac7ca62bf0865d0feb6d1c64"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Stanisława Gładysza, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3401646,
+      "lon": 16.7991796,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "08efd09fac056a6c4c075e8c89b4ddf5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Liliowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4771877,
+      "lon": 16.7864784,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "85a85d3d920f87ccdf0a4dafe5ccfb97"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lipowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3751532,
+      "lon": 16.9085839,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "0950c8ef081b3b267c9a279b8b0dfd7a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubońska, Świerczewo, Poznań, województwo wielkopolskie, 61-407, Polska",
+      "lat": 52.3606281,
+      "lon": 16.8786302,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "b288bcc4ad2f7b01cd5e17a084438012"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Muzeum Literackie Henryka Sienkiewicza, 84, Stary Rynek, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-772, Polska",
+      "lat": 52.4088834,
+      "lon": 16.9327177,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "2bd83c8c32a0773ab243037c251ba671"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "lat": 52.410976,
+      "lon": 16.9264675,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "72e9f7407ad6c391910e606d665aca9e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Wirynką, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3346068,
+      "lon": 16.8171952,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "15a5f7ea579fef2cd9ff7a9aec1420b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
+      "lat": 52.4109536,
+      "lon": 16.9350496,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "ca59e9a54e8d0a9a4544a14a2e4ed969"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Spółdzielcze, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.3390951,
+      "lon": 16.7961924,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "5de8845d68db9f83ecd952d1807ac382"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pańska, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
+      "lat": 52.3375714,
+      "lon": 16.7946561,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "1215ab6792aae8f70eeda07d10ac1ef3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piastowska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3723364,
+      "lon": 16.9178297,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "dc3941d083b37c0d930456b294f32c8c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.248571,
+      "lon": 17.0886353,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "432a98f49f3cf73c872e89410f03b9d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "1f0ab0b7e61f5f5c623e66c53e68155e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "a91ff4999a358a21ba286c74a2580de3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "c40109096e8996987d9aa3fcfccfc5dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rosnowska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.370003,
+      "lon": 16.8682435,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "3ee9616cca01c0d7bac16419867f9a7b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "bf0c1c2010709d42fbd9ec655ea3094a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spółdzielcze Gospodarstwo Rolne w Komornikach, Komorniki, gmina Komorniki, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.3361659,
+      "lon": 16.7969522,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "0c62d1cc45385d02c1dab2519cde8170"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Staszica, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-528, Polska",
+      "lat": 52.4122544,
+      "lon": 16.8984855,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "e5848a18cef9ae78f90993d8dc986acd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-287, Polska",
+      "lat": 52.3950097,
+      "lon": 16.8768736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "b18a0653425b4e06c81cb36740033556"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topolowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
+      "lat": 52.3995153,
+      "lon": 16.9225736,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "4644810b31a3c4ae22c94cf9d825c29b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "d7fb5cff2f9e0178129b678386858f7a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "1d9048c6089a0f4496acbdf9bfbbb8d9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętego Rocha, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3988972,
+      "lon": 16.9496247,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T16:00:00",
+      "original_description": "Komorniki os. Osiedle Spółdzielcze, os. Spółdzielcze, ul. 3 Maja, ul. Akacjowa, ul. Benedykta Wielocha, ul. Boczna, ul. Brzozowa, ul. Chabrowa, ul. Cmentarna, ul. Cyprysowa, ul. Fabianowska, ul. Fiołkowa, ul. Horeszki, ul. Ignacego D. Kaczmarka, ul. Jana Brzechwy, ul. Jesionowa, ul. Juliana Tuwima, ul. Komornicka, ul. Korczaka, ul. Kościelna, ul. Kraszewskiego, ul. Krokusowa, ul. ks. Gładysza, ul. ks. Malinowskiego, ul. Liliowa, ul. Lipowa, ul. Lubońska, ul. Młyńska, ul. Nad Wirynką, ul. Nowa, ul. Pańska, ul. Piastowska, ul. Pocztowa, ul. Pogodna, ul. Polna, ul. Poznańska, ul. Rosnowska, ul. Sienkiewicza, ul. Słoneczna, ul. Spokojna, ul. Staszica, ul. Św. Rocha, ul. Topolowa, ul. Wiśniowa, ul. Zbożowa.",
+      "id": "6541689bde6a180d990e3837f145e825"
     }
   ]
 }
