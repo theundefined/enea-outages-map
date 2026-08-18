@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-18T06:17:04.964064+00:00",
+  "last_update": "2026-08-18T07:08:22.702876+00:00",
   "outages": [
     {
       "type": "planned",
@@ -893,6 +893,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Borówki, Darzybór, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-303, Polska",
+      "lat": 52.3876745,
+      "lon": 17.0469539,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T14:00:00",
+      "original_description": "Poznań: ul. Darzyborska, ul. Borówki 8, 10, 12.",
+      "id": "7e7636261118088cb1078666aa9988fd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Darzyborska, Darzybór, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-303, Polska",
+      "lat": 52.3854613,
+      "lon": 17.0349304,
+      "start_time": "2026-08-25T08:00:00",
+      "end_time": "2026-08-25T14:00:00",
+      "original_description": "Poznań: ul. Darzyborska, ul. Borówki 8, 10, 12.",
+      "id": "18bd9a8d5f51d6a27960283ebfb924a2"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
       "lat": 52.4037413,
       "lon": 16.9352621,
@@ -1070,6 +1090,56 @@
       "end_time": "2026-08-27T11:00:00",
       "original_description": "gm. Rokietnica miejscowości Kiekrz ul. Zaułek cała. ul. Poznańska od nr 96 do nr 116a parzyste, działki nr 54, 115/8. miejscowości Starzyny ul. Poznańska nr 1, 11/2, 17, 43, 114.",
       "id": "3c5876fb394b229a52da44f7ecb2b4aa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "2026-08-27T08:00:00",
+      "end_time": "2026-08-27T13:00:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 28, 28A-E, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "62772036fcc20ee6dbff08438de0282b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grabowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3731907,
+      "lon": 16.9006396,
+      "start_time": "2026-08-27T08:00:00",
+      "end_time": "2026-08-27T13:00:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 28, 28A-E, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "ae29b6b9b17e79cbefd49204b9a375a8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Morelowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.370513,
+      "lon": 16.8987738,
+      "start_time": "2026-08-27T08:00:00",
+      "end_time": "2026-08-27T13:00:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 28, 28A-E, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "b54787c0163a6658413a96939c4ba403"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "2026-08-27T08:00:00",
+      "end_time": "2026-08-27T13:00:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 28, 28A-E, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "cd6829c0f492646cd2290c16e437eb6c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świerkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.3715758,
+      "lon": 16.8996578,
+      "start_time": "2026-08-27T08:00:00",
+      "end_time": "2026-08-27T13:00:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 28, 28A-E, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "cacf206549224d8a82f60857a2a499c6"
     },
     {
       "type": "planned",
@@ -1282,6 +1352,16 @@
       "id": "508a73a9a363044a4316288f2fc0f06d"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "2026-08-31T08:30:00",
+      "end_time": "2026-08-31T15:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 55 do 61 nieparzyste.",
+      "id": "360a4052b7ab7ea72c6ed0dce0d2dd3f"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4773086,
@@ -1450,6 +1530,16 @@
       "end_time": "2026-08-18T09:00:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "07dfdadb054e0de2fdeff467df50e5bb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-18T10:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "7b4c757bcdb2ec505693757e9685d37e"
     }
   ]
 }
