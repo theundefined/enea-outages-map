@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-19T16:37:20.623939+00:00",
+  "last_update": "2026-08-19T17:00:07.352992+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1630,6 +1630,16 @@
       "end_time": "2026-08-19T20:00:00",
       "original_description": "Siekierki Wielkie ul. Wspólna 1, 2, 3, 4, 06-1344, 6, 7, 9, 10A, 10B, 12, 13, 17, 23, 24, 25, 26, 27, 33, ul. Poznańska 41, 41A, 43, 45",
       "id": "d0bee28c569b67b8e03d0775bcdbc282"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-19T21:00:00",
+      "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
+      "id": "322b06c7662a4000b78904361d7bc2d6"
     }
   ]
 }
