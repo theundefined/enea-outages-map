@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-19T05:16:02.577375+00:00",
+  "last_update": "2026-08-19T05:49:06.077830+00:00",
   "outages": [
     {
       "type": "planned",
@@ -853,6 +853,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Nad Wierzbakiem, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-863, Polska",
+      "lat": 52.4190922,
+      "lon": 16.9080402,
+      "start_time": "2026-08-26T08:00:00",
+      "end_time": "2026-08-26T13:00:00",
+      "original_description": "Poznań: ul. Nad Wierzbakiem 29A, 29B, 31, 33.",
+      "id": "70c2d00b9be4b4592851580a57a3dab8"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Międzyzdrojska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
       "lat": 52.4419025,
       "lon": 16.8056672,
@@ -1190,6 +1200,26 @@
       "end_time": "2026-08-28T16:00:00",
       "original_description": "Poznań: ul. Garaszewo 25, dz. 13/1, dz. 30/5, dz. 30/7, dz. 30/8, dz. 30/9, dz. 30/10, dz. 30/14, dz. 30/28.",
       "id": "a985112f4a0fd70374a4137d00bfd022"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dusznicka, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4565513,
+      "lon": 16.8725769,
+      "start_time": "2026-08-28T08:30:00",
+      "end_time": "2026-08-28T12:30:00",
+      "original_description": "Poznań: ul. Szczawnicka 118, ul. Dusznicka 26, 28, 30.",
+      "id": "7a8258e39dd7e2baaa0f290b917debb1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "2026-08-28T08:30:00",
+      "end_time": "2026-08-28T12:30:00",
+      "original_description": "Poznań: ul. Szczawnicka 118, ul. Dusznicka 26, 28, 30.",
+      "id": "2cad3ba403376aa1519e7653daf97916"
     },
     {
       "type": "planned",
