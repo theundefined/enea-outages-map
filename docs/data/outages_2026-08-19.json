@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-19T15:29:22.572372+00:00",
+  "last_update": "2026-08-19T15:59:03.149097+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1600,6 +1600,16 @@
       "end_time": "2026-08-19T19:00:00",
       "original_description": "Poznań ul. Bolesława Krzywoustego 121, ul. Chotomińska 10, 19, 42A, ul. Łopawska 1, 10, 11, 11A, 12, 13, 13A, 15, 15A, 16, 18, 2, 20, 21, 22, 23, 24, 3, 3A, 4, 4A, 6, 7, 7A, 8, 8A, 9, 9A, ul. Okólna 38, ul. Ostrowska 331, 331 A, 333, 333 A, 334, 334 A, 335, 335A, 336, 337, 337A, 338, 339, 340, 341, 343, 343A, 345, 346, 347, 348, 349, 350, 351, 353, 354, 355, 356, 357, 357A, 358, 359, 359A, 360, 361, 362, 363, 365, 365A, 367, 367A, 369, 371, 373, 377, 377A, 378, 379, 379A, 382, ul. Przeskok 10, ul. Rodawska, ul. Szczepankowo 35A.",
       "id": "a966e4ccb9fc4858e2cccc4ef8631bf3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-19T19:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "222387684439d715fda9547875142e6f"
     },
     {
       "type": "unplanned",
