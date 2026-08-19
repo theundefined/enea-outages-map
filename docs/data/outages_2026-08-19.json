@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-19T12:55:10.143249+00:00",
+  "last_update": "2026-08-19T13:40:36.346889+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1500,6 +1500,16 @@
       "end_time": "2026-08-19T16:00:00",
       "original_description": "Bogucin ul. Boczna 11, 4, 9, ul. Gnieźnieńska 127, 139, 143, 147, 149, 25, 64, 68, 7/A, 70, 72, 74, 76, ul. Helikopterowa 10, 14, 3, 4, 6, 8, ul. Janikowska 11, dz.246/3, ul. Kolarska 1, 2, 3, 4, 5, 6, 8, 9, ul. Pilotów 4, 6, Janikowo ul. Gnieźnieńska 210, 44, 52, ul. Podgórna 06-0627, 10, 10A, 2, 3, 4, 8, Poznań ul. Janikowska 16, 17, 17A, 19, 8, 9, ul. Kołodzieja 10, 12, 14, 16, 19, 20, 22, 24, 30, 32, 34, 34A, 34B, ul. Kosiarzy 2, 4, 4A, ul. Prząśniczki 2, 3, 4.",
       "id": "19dac5613b39b0bce44ad187c17fd674"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-19T16:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "2ee36db244c5f773336fedb75040041a"
     },
     {
       "type": "unplanned",
