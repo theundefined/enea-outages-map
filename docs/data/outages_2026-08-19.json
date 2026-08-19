@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-19T18:29:03.164264+00:00",
+  "last_update": "2026-08-19T19:03:12.955549+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1650,6 +1650,16 @@
       "end_time": "2026-08-19T21:00:00",
       "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
       "id": "322b06c7662a4000b78904361d7bc2d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-19T22:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "a68a9ad6f7a36f1acfc2ad542269d080"
     }
   ]
 }
