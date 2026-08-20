@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20T11:45:29.565814+00:00",
+  "last_update": "2026-08-20T12:14:42.642890+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1080,6 +1080,66 @@
       "end_time": "2026-09-01T12:00:00",
       "original_description": "Poznań: ul. Kolska, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste, ul. Kostrzyńska 14, ul. Mogileńska 40, 41, 42, 42B, 49, plac budowy, ul. Inowrocławska 19B, od 24 do 46A parzyste, od 21 do 35A nieparzyste.",
       "id": "c920547af019ed49dea7d258700922b2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "ebe10fec7ec4641ff3aaf0116de51d1d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stewnicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3737936,
+      "lon": 16.9986544,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "eaa75b71a218e23260d4d5f9f452e923"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "b0b39971ba8ddfc26071a2cc2967bc46"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głowicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-182, Polska",
+      "lat": 52.4058093,
+      "lon": 16.8222775,
+      "start_time": "2026-09-07T08:30:00",
+      "end_time": "2026-09-07T11:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza od 12 do 34 parzyste.",
+      "id": "5612f35bf9dd842bc3e43442d0ad1c9d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Owcza, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-182, Polska",
+      "lat": 52.4051879,
+      "lon": 16.8200184,
+      "start_time": "2026-09-07T08:30:00",
+      "end_time": "2026-09-07T11:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza od 12 do 34 parzyste.",
+      "id": "dcf8e14c404c48036088e8e93460cf3b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "2026-09-07T08:30:00",
+      "end_time": "2026-09-07T11:30:00",
+      "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, ul. Owcza od 12 do 34 parzyste.",
+      "id": "9755a8b5d99cdedbd922e5d91b3198ed"
     },
     {
       "type": "unplanned",
