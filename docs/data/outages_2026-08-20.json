@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20T06:58:07.578470+00:00",
+  "last_update": "2026-08-20T07:43:55.677130+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1010,6 +1010,56 @@
       "end_time": "2026-08-31T15:30:00",
       "original_description": "Poznań: ul. Szczepankowo od 55 do 61 nieparzyste.",
       "id": "360a4052b7ab7ea72c6ed0dce0d2dd3f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Inowrocławska, Czekalskie, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-021, Polska",
+      "lat": 52.4125057,
+      "lon": 16.9871212,
+      "start_time": "2026-09-01T08:00:00",
+      "end_time": "2026-09-01T12:00:00",
+      "original_description": "Poznań: ul. Kolska, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste, ul. Kostrzyńska 14, ul. Mogileńska 40, 41, 42, 42B, 49, plac budowy, ul. Inowrocławska 19B, od 24 do 46A parzyste, od 21 do 35A nieparzyste.",
+      "id": "73e96dd06db1d28c70d0c34c9157caab"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kolska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4113199,
+      "lon": 16.9894439,
+      "start_time": "2026-09-01T08:00:00",
+      "end_time": "2026-09-01T12:00:00",
+      "original_description": "Poznań: ul. Kolska, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste, ul. Kostrzyńska 14, ul. Mogileńska 40, 41, 42, 42B, 49, plac budowy, ul. Inowrocławska 19B, od 24 do 46A parzyste, od 21 do 35A nieparzyste.",
+      "id": "ac56615d72b2b2cc2fc2091c81c61d9f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kostrzyńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-042, Polska",
+      "lat": 52.4111322,
+      "lon": 16.987591,
+      "start_time": "2026-09-01T08:00:00",
+      "end_time": "2026-09-01T12:00:00",
+      "original_description": "Poznań: ul. Kolska, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste, ul. Kostrzyńska 14, ul. Mogileńska 40, 41, 42, 42B, 49, plac budowy, ul. Inowrocławska 19B, od 24 do 46A parzyste, od 21 do 35A nieparzyste.",
+      "id": "91514c7d66110720bedfc38abf56d91e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mogileńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4101227,
+      "lon": 16.9913619,
+      "start_time": "2026-09-01T08:00:00",
+      "end_time": "2026-09-01T12:00:00",
+      "original_description": "Poznań: ul. Kolska, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste, ul. Kostrzyńska 14, ul. Mogileńska 40, 41, 42, 42B, 49, plac budowy, ul. Inowrocławska 19B, od 24 do 46A parzyste, od 21 do 35A nieparzyste.",
+      "id": "4581e63681f73af2a60780f2bd6ab403"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łęczycka, Czekalskie, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-042, Polska",
+      "lat": 52.4118516,
+      "lon": 16.9887225,
+      "start_time": "2026-09-01T08:00:00",
+      "end_time": "2026-09-01T12:00:00",
+      "original_description": "Poznań: ul. Kolska, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste, ul. Kostrzyńska 14, ul. Mogileńska 40, 41, 42, 42B, 49, plac budowy, ul. Inowrocławska 19B, od 24 do 46A parzyste, od 21 do 35A nieparzyste.",
+      "id": "c920547af019ed49dea7d258700922b2"
     },
     {
       "type": "unplanned",
