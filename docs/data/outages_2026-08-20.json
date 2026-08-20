@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20T18:14:07.265040+00:00",
+  "last_update": "2026-08-20T19:02:36.177433+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1800,6 +1800,16 @@
       "end_time": "2026-08-20T21:00:00",
       "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Jana Keplera 6C, ul. Jawornicka 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
       "id": "67b2ce778fbd2622da99839809564073"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T22:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "f309b84c414a7fcba9e769f3ebae865b"
     }
   ]
 }
