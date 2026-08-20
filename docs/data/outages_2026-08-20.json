@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20T16:30:07.730268+00:00",
+  "last_update": "2026-08-20T17:02:33.817278+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1643,6 +1643,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "95d6478c2cd78191aecea25612fc3cf5"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Galileusza, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
       "lat": 52.3877028,
       "lon": 16.8597577,
@@ -1730,6 +1740,66 @@
       "end_time": "2026-08-20T20:30:00",
       "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
       "id": "7a935b63b01d761550ceb05e2d08fb07"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T21:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Jana Keplera 6C, ul. Jawornicka 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "84dcf3216ce3a9328bd75e15d8668965"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Galileusza, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3877028,
+      "lon": 16.8597577,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T21:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Jana Keplera 6C, ul. Jawornicka 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "81704fe3a4cbccc9486158b2de6ffc71"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Keplera, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-158, Polska",
+      "lat": 52.3911464,
+      "lon": 16.8641034,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T21:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Jana Keplera 6C, ul. Jawornicka 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "3bfd66998e78c525a1a0c516e2fd44d1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jawornicka, Junikowo, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.389702,
+      "lon": 16.8538982,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T21:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Jana Keplera 6C, ul. Jawornicka 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "dd88476aab9717bc1f8121cedaec72c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jugosłowiańska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-301, Polska",
+      "lat": 52.3928964,
+      "lon": 16.8649578,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T21:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Jana Keplera 6C, ul. Jawornicka 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "6b9c5fc2faa3f8bf9f46489ab4c2e5dc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T21:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Jana Keplera 6C, ul. Jawornicka 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "67b2ce778fbd2622da99839809564073"
     }
   ]
 }
