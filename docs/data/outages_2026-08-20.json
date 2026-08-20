@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20T08:18:13.552740+00:00",
+  "last_update": "2026-08-20T08:59:35.933362+00:00",
   "outages": [
     {
       "type": "planned",
@@ -990,6 +990,26 @@
       "end_time": "2026-08-28T12:30:00",
       "original_description": "Poznań: ul. Szczawnicka 118, ul. Dusznicka 26, 28, 30.",
       "id": "2cad3ba403376aa1519e7653daf97916"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Na Wzgórzu, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4775612,
+      "lon": 17.1931719,
+      "start_time": "2026-08-31T08:00:00",
+      "end_time": "2026-08-31T17:00:00",
+      "original_description": "Gmina Kaźmierz miejscowość Bytyń ul. Pniewska 4, 19 \nGmina Duszniki miejscowość Ludowo 5, 14, 30, działki nr 414/5, \nmiejscowość Młynkowo 28, 29, 30, 31, 32, \nmiejscowość Sękowo ulica Poznańska od 1 do 7, od 12 do 15, ul. Sosnowa cała, działki nr 86/50, 388/3, 411/8, 412/9, 414/5, wieża telekomunikacyjna Polkomtel, PERN, \nmiejscowość Wilczyna ul. Na Wzgórzu 3,",
+      "id": "c2a9c8a53edc4174693b51063934586e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pniewska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-446, Polska",
+      "lat": 52.4287754,
+      "lon": 16.8235245,
+      "start_time": "2026-08-31T08:00:00",
+      "end_time": "2026-08-31T17:00:00",
+      "original_description": "Gmina Kaźmierz miejscowość Bytyń ul. Pniewska 4, 19 \nGmina Duszniki miejscowość Ludowo 5, 14, 30, działki nr 414/5, \nmiejscowość Młynkowo 28, 29, 30, 31, 32, \nmiejscowość Sękowo ulica Poznańska od 1 do 7, od 12 do 15, ul. Sosnowa cała, działki nr 86/50, 388/3, 411/8, 412/9, 414/5, wieża telekomunikacyjna Polkomtel, PERN, \nmiejscowość Wilczyna ul. Na Wzgórzu 3,",
+      "id": "6c5e6d83a9710deaf8fb1970f557e264"
     },
     {
       "type": "planned",
