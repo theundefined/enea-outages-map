@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20T15:19:46.304412+00:00",
+  "last_update": "2026-08-20T15:52:43.212034+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1480,6 +1480,156 @@
       "end_time": "2026-08-20T17:30:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "96952c802722facaec98b0e4ac60545f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T19:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "23793434d00a7fd22a7c6cb960f838f0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Babimojska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-309, Polska",
+      "lat": 52.3915632,
+      "lon": 16.8591353,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "c0681b12197cdf87ed0446c5be5dabba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Galileusza, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3877028,
+      "lon": 16.8597577,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "db19a37bb642921ab53caeac3232a0bd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Izaaka Newtona, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 61-135, Polska",
+      "lat": 52.384001,
+      "lon": 16.8664155,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "88899d556e0d1ea38576c90a1d129b54"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Keplera, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-158, Polska",
+      "lat": 52.3911464,
+      "lon": 16.8641034,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "10f3f4e62918358ff31c76bf961048ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jawornicka, Junikowo, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.389702,
+      "lon": 16.8538982,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "008a66e013273bf5511306d689e66898"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jugosłowiańska, Grunwald Południe, Poznań, województwo wielkopolskie, 60-301, Polska",
+      "lat": 52.3928964,
+      "lon": 16.8649578,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "f541acb5b42b738fe1ac716a2fd872c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Koronna, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-652, Polska",
+      "lat": 52.4307422,
+      "lon": 16.9138966,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań os. Winiary 10, 11, 12, 13, 14, 15, 45, 46, 47, 48, 49, 50, 51, 7, 8, 9, B 10-11, II-10, PRZY BL.9, ul. Koronna, ul. Piątkowska 105, 106, 110, 110 /U1, 110 A, 110 A/U2, 110 B, 110A, 110B, 112 A, 112 B, 112 C, 112A-lok.1, 112B, 116, 116B/3, 118, 118 lok.33, 118 lok.34, 118 lok.36, 118 lok.40, 121, 122, 122 lok., 122 lok. 3, 122 lok. 4, 122 lok. 6, 122 lok. 7, 122 lok. 8, 122 lok.10, 122 lok.2, 122/1A, 122/5, 123, 123 KL.SCH, 123/1, 127, 129 A, 3, ul. Winiarska 56 C, PRZY BL..",
+      "id": "a92b74e7840d62eaa29f508beb2856ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mrągowska, Górczyn, Junikowo, Poznań, województwo wielkopolskie, 60-106, Polska",
+      "lat": 52.3814267,
+      "lon": 16.8647232,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "ccb6f4e5d9a6d1978c376ed0d13fdbdb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań os. Winiary 10, 11, 12, 13, 14, 15, 45, 46, 47, 48, 49, 50, 51, 7, 8, 9, B 10-11, II-10, PRZY BL.9, ul. Koronna, ul. Piątkowska 105, 106, 110, 110 /U1, 110 A, 110 A/U2, 110 B, 110A, 110B, 112 A, 112 B, 112 C, 112A-lok.1, 112B, 116, 116B/3, 118, 118 lok.33, 118 lok.34, 118 lok.36, 118 lok.40, 121, 122, 122 lok., 122 lok. 3, 122 lok. 4, 122 lok. 6, 122 lok. 7, 122 lok. 8, 122 lok.10, 122 lok.2, 122/1A, 122/5, 123, 123 KL.SCH, 123/1, 127, 129 A, 3, ul. Winiarska 56 C, PRZY BL..",
+      "id": "8ff561bbe94ffc29de7265247c66d58e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "28dee7e324202cd43dcbb8a381633126"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rembertowska, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 61-135, Polska",
+      "lat": 52.385887,
+      "lon": 16.8702147,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "3a2045d62dc5977f6ed8c1952c591f6d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań ul. Babimojska 11B, GARAŻE P, ul. Galileusza /RYNEK, 12 B, 12A, 12B, 12B/1, 12C, 14, 1A, 4, 5D, 5E, 5F, 7, 8, 8 lok.13, 8 lok.3, KIOSK, TARGOWIS, TARGOWISKO, ul. Izaaka Newtona 1, 1 G, 12 A, 12 C, 12/ B/28, 12A, 12B, 12C, 14, 16 A, 16A, 1F, 1G, 1H, 2, 3D, 4 B, 4A, 4B, 8A, ul. Jana Keplera 1, 3 A, 3 B, 3A, 3B, 3C, 5, 6 B, 6A, 6B, 6C, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Jawornicka 17, 58, 7, 7 D, 7C, 7D, 7E, ul. Jugosłowiańska 44E, 44F, 52, 52 D, 52 E, 52 F, 52C, 52D, 52E, 52F, 54, 54 B, 54 C, 54 D, 54 E, 54 H, 54A, 54B, 54C, 54D, 54E, 54F, 54G, 54G/1, 54G/2, 54H, ul. Mrągowska 11, ul. Promienista 131, ul. Rembertowska 42, 44, 46A, 46B, 46C, 48, ul. Smardzewska 14, 16, 16 A, 16 B, 16A, 16b, 16B, 17, 18, 18 kl. B, 18 kl. C, 18 kl. D, 18 kl. E, 19, 20, 20 kl. A, 20 kl. B, 20 kl. E, 22, 22 kl. A, 22 kl. B, 22 kl. D, 7, 7 KL.C.",
+      "id": "5add9bfb95eb0bf68cf6f657d47bb881"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Winiarska, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4286072,
+      "lon": 16.9088052,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań os. Winiary 10, 11, 12, 13, 14, 15, 45, 46, 47, 48, 49, 50, 51, 7, 8, 9, B 10-11, II-10, PRZY BL.9, ul. Koronna, ul. Piątkowska 105, 106, 110, 110 /U1, 110 A, 110 A/U2, 110 B, 110A, 110B, 112 A, 112 B, 112 C, 112A-lok.1, 112B, 116, 116B/3, 118, 118 lok.33, 118 lok.34, 118 lok.36, 118 lok.40, 121, 122, 122 lok., 122 lok. 3, 122 lok. 4, 122 lok. 6, 122 lok. 7, 122 lok. 8, 122 lok.10, 122 lok.2, 122/1A, 122/5, 123, 123 KL.SCH, 123/1, 127, 129 A, 3, ul. Winiarska 56 C, PRZY BL..",
+      "id": "f746f2e76d89c2a8fc8bc62061989944"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4329657,
+      "lon": 16.9118111,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T20:00:00",
+      "original_description": "Poznań os. Winiary 10, 11, 12, 13, 14, 15, 45, 46, 47, 48, 49, 50, 51, 7, 8, 9, B 10-11, II-10, PRZY BL.9, ul. Koronna, ul. Piątkowska 105, 106, 110, 110 /U1, 110 A, 110 A/U2, 110 B, 110A, 110B, 112 A, 112 B, 112 C, 112A-lok.1, 112B, 116, 116B/3, 118, 118 lok.33, 118 lok.34, 118 lok.36, 118 lok.40, 121, 122, 122 lok., 122 lok. 3, 122 lok. 4, 122 lok. 6, 122 lok. 7, 122 lok. 8, 122 lok.10, 122 lok.2, 122/1A, 122/5, 123, 123 KL.SCH, 123/1, 127, 129 A, 3, ul. Winiarska 56 C, PRZY BL..",
+      "id": "8c517273a76b57440fd03c534ecaf4c8"
     }
   ]
 }
