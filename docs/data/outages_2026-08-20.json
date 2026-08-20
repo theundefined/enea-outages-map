@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-20T06:00:04.042463+00:00",
+  "last_update": "2026-08-20T06:58:07.578470+00:00",
   "outages": [
     {
       "type": "planned",
@@ -550,6 +550,16 @@
       "end_time": "2026-08-26T11:30:00",
       "original_description": "Poznań: ul. Słupska od 27 do 33 nieparzyste, od 20 do 28 parzyste, ul. Międzyzdrojska od 1 do 25 nieparzyste, do 2 do 22 parzyste, ul. Łagowska od 1 do 23 nieparzyste, od 2 do 18 parzyte, ul. Łebska 40, ul. Olecka 4, 5.",
       "id": "7c6f4bcab44942ef161a871f14f5580d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "2026-08-26T08:30:00",
+      "end_time": "2026-08-26T14:30:00",
+      "original_description": "Poznań ul. Ogrodowa 11, 12, 13, 14, 14A.",
+      "id": "899c1edf1f8c39b28c616f3a9c024fd2"
     },
     {
       "type": "planned",
@@ -1300,6 +1310,16 @@
       "end_time": "2026-08-20T08:30:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "80c722bae96a424f846036a10e393757"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-20T10:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "9011c496a7d604ed81c7d17a1881425a"
     }
   ]
 }
