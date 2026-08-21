@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-21T12:38:46.646509+00:00",
+  "last_update": "2026-08-21T13:29:57.696101+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1380,6 +1380,16 @@
       "end_time": "2026-08-21T16:00:00",
       "original_description": "Kobylnica ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
       "id": "e7f3da073951ae824306ba3566d12439"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T17:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "d0b74701c5a5e63881b42a38fc84915b"
     }
   ]
 }
