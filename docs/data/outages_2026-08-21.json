@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-21T18:59:31.881837+00:00",
+  "last_update": "2026-08-21T19:30:43.054556+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1450,6 +1450,16 @@
       "end_time": "2026-08-21T21:30:00",
       "original_description": "Dziećmierowo ul. Dworcowa 2, 3, 4, ul. Katowicka 1, 11, 13, 15, 15A(dz. 22, 17, 19, 19 E, 19B, 2, 21 B, 21A, 3, 5, 5A, 7, Kórnik ul. Czereśniowa 1, 2, ul. Dworcowa, ul. Juliana Tuwima 3, 3,5, Poznań ul. Katowicka 11.",
       "id": "fe070e99446258d00ff498d2e43296c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T23:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "bb29f8bff10beadb900a47d88c3a0f45"
     }
   ]
 }
