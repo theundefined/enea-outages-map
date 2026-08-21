@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-21T04:58:25.319288+00:00",
+  "last_update": "2026-08-21T05:36:10.091480+00:00",
   "outages": [
     {
       "type": "planned",
@@ -793,6 +793,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Osiedle Kosmonautów, Winogrady, Poznań, województwo wielkopolskie, 61-642, Polska",
+      "lat": 52.4375448,
+      "lon": 16.9436717,
+      "start_time": "2026-08-31T08:00:00",
+      "end_time": "2026-08-31T15:00:00",
+      "original_description": "Poznań: os. Kosmonautów 9D-F, 10.",
+      "id": "29acc5efd3523d70585b50221289d78c"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Na Wzgórzu, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
       "lat": 52.4775612,
       "lon": 17.1931719,
@@ -880,6 +890,66 @@
       "end_time": "2026-09-01T12:00:00",
       "original_description": "Poznań: ul. Kolska, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste, ul. Kostrzyńska 14, ul. Mogileńska 40, 41, 42, 42B, 49, plac budowy, ul. Inowrocławska 19B, od 24 do 46A parzyste, od 21 do 35A nieparzyste.",
       "id": "c920547af019ed49dea7d258700922b2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Floksowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3851886,
+      "lon": 16.8162566,
+      "start_time": "2026-09-03T08:30:00",
+      "end_time": "2026-09-03T13:30:00",
+      "original_description": "Poznań ul. Sasankowa od 16 do 24 parzyste, od 27 do 37 nieparzyste, ul. Szarotkowa 132, ul. Floksowa 44, ul. Lawendowa od 22 do 54 parzyste, ul. Margaretkowa, ul. Magnoliowa 35A.",
+      "id": "eef35d0080ba9df178fe7a636e43577b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "2026-09-03T08:30:00",
+      "end_time": "2026-09-03T13:30:00",
+      "original_description": "Poznań ul. Sasankowa od 16 do 24 parzyste, od 27 do 37 nieparzyste, ul. Szarotkowa 132, ul. Floksowa 44, ul. Lawendowa od 22 do 54 parzyste, ul. Margaretkowa, ul. Magnoliowa 35A.",
+      "id": "1f96f0505fd6e887bbcb485dc2f01faa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Magnoliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3869836,
+      "lon": 16.8116487,
+      "start_time": "2026-09-03T08:30:00",
+      "end_time": "2026-09-03T13:30:00",
+      "original_description": "Poznań ul. Sasankowa od 16 do 24 parzyste, od 27 do 37 nieparzyste, ul. Szarotkowa 132, ul. Floksowa 44, ul. Lawendowa od 22 do 54 parzyste, ul. Margaretkowa, ul. Magnoliowa 35A.",
+      "id": "bbc43aeae35115a3fae05ecc91706036"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Margaretkowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3855998,
+      "lon": 16.8118884,
+      "start_time": "2026-09-03T08:30:00",
+      "end_time": "2026-09-03T13:30:00",
+      "original_description": "Poznań ul. Sasankowa od 16 do 24 parzyste, od 27 do 37 nieparzyste, ul. Szarotkowa 132, ul. Floksowa 44, ul. Lawendowa od 22 do 54 parzyste, ul. Margaretkowa, ul. Magnoliowa 35A.",
+      "id": "f6bb0e545c6892f7c36976e07642863e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sasankowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3872832,
+      "lon": 16.8123568,
+      "start_time": "2026-09-03T08:30:00",
+      "end_time": "2026-09-03T13:30:00",
+      "original_description": "Poznań ul. Sasankowa od 16 do 24 parzyste, od 27 do 37 nieparzyste, ul. Szarotkowa 132, ul. Floksowa 44, ul. Lawendowa od 22 do 54 parzyste, ul. Margaretkowa, ul. Magnoliowa 35A.",
+      "id": "362369c51b84802e44b121ba8143578a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szarotkowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3839374,
+      "lon": 16.8128112,
+      "start_time": "2026-09-03T08:30:00",
+      "end_time": "2026-09-03T13:30:00",
+      "original_description": "Poznań ul. Sasankowa od 16 do 24 parzyste, od 27 do 37 nieparzyste, ul. Szarotkowa 132, ul. Floksowa 44, ul. Lawendowa od 22 do 54 parzyste, ul. Margaretkowa, ul. Magnoliowa 35A.",
+      "id": "90f8741ce051ac506da16db589a15ccc"
     },
     {
       "type": "planned",
