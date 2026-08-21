@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-21T16:41:40.949291+00:00",
+  "last_update": "2026-08-21T17:13:17.910141+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1400,6 +1400,46 @@
       "end_time": "2026-08-21T18:30:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "da9119864b3b7dc933d15ac88ed37d85"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T21:30:00",
+      "original_description": "Dziećmierowo ul. Dworcowa 2, 3, 4, ul. Katowicka 1, 11, 13, 15, 15A(dz. 22, 17, 19, 19 E, 19B, 2, 21 B, 21A, 3, 5, 5A, 7, Kórnik ul. Czereśniowa 1, 2, ul. Dworcowa, ul. Juliana Tuwima 3, 3,5, Poznań ul. Katowicka 11.",
+      "id": "bed8abfe324951796f16ff8d9a6a033f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T21:30:00",
+      "original_description": "Dziećmierowo ul. Dworcowa 2, 3, 4, ul. Katowicka 1, 11, 13, 15, 15A(dz. 22, 17, 19, 19 E, 19B, 2, 21 B, 21A, 3, 5, 5A, 7, Kórnik ul. Czereśniowa 1, 2, ul. Dworcowa, ul. Juliana Tuwima 3, 3,5, Poznań ul. Katowicka 11.",
+      "id": "3339c0413eb172c2dc1d2dfbda34e098"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Juliana Tuwima, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
+      "lat": 52.4073831,
+      "lon": 16.8375636,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T21:30:00",
+      "original_description": "Dziećmierowo ul. Dworcowa 2, 3, 4, ul. Katowicka 1, 11, 13, 15, 15A(dz. 22, 17, 19, 19 E, 19B, 2, 21 B, 21A, 3, 5, 5A, 7, Kórnik ul. Czereśniowa 1, 2, ul. Dworcowa, ul. Juliana Tuwima 3, 3,5, Poznań ul. Katowicka 11.",
+      "id": "df10c412f28e04b4e90f2e0721b5d7c2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Katowicka, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-132, Polska",
+      "lat": 52.3971217,
+      "lon": 16.9672977,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T21:30:00",
+      "original_description": "Dziećmierowo ul. Dworcowa 2, 3, 4, ul. Katowicka 1, 11, 13, 15, 15A(dz. 22, 17, 19, 19 E, 19B, 2, 21 B, 21A, 3, 5, 5A, 7, Kórnik ul. Czereśniowa 1, 2, ul. Dworcowa, ul. Juliana Tuwima 3, 3,5, Poznań ul. Katowicka 11.",
+      "id": "fe070e99446258d00ff498d2e43296c8"
     }
   ]
 }
