@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-21T08:35:21.099762+00:00",
+  "last_update": "2026-08-21T09:17:42.561412+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1223,6 +1223,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T12:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "b30ae043431a29807df86fc560900286"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Narcyza Derdy, Tarnowo Podgórne, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-079, Polska",
       "lat": 52.4635525,
       "lon": 16.6539885,
@@ -1270,6 +1280,46 @@
       "end_time": "2026-08-21T12:30:00",
       "original_description": "Tarnowo Podgórne ul. Narcyza Derdy 1, 3, 6, 7, 8, 9, ul. Nowa 1, 10, 11, 12, 16, 17, 18, 2 A, 20, 20a, 20B, 21, 22, 24, 25, 26, 3, 30, 32, 34, 36, 38, 4, 40, 42, 5, 6, 7B, 8, 9, dz. 100/6, POZNAŃSKA, ul. Poznańska 100, 100 A, 100a, 100B, 102, 104, 106, 108, 110, 112, 112A, 114/A, 114B, 116, 98, kier., ul. Wiśniowy Sad 20, 21, 22.",
       "id": "b79d4e3a3d48ab5dfc0d0a76f07afe62"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolinowa, Kobylnica, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4456998,
+      "lon": 17.0924771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T13:00:00",
+      "original_description": "Kobylnica ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "e6cf9d07ead9ca9ea1db26942062011e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T13:00:00",
+      "original_description": "Kobylnica ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "3326e6a439ca7e89c25a1e8771f0f2eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T13:00:00",
+      "original_description": "Kobylnica ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "fb1265f4f65247d6c63d0afe8b68c633"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-21T13:00:00",
+      "original_description": "Kobylnica ul. Dolinowa, ul. Kręta 1, 10, 12, 13, 14, 15, 17, 3, 4, 5, 6, 8, 9, ul. Poznańska 105, 107, 109B, 111, 113, 117, 119, 121, 123, 125, 28, 30, 32, 34, 36, 40, 42, 44, 45, 50, 87, 89, 91, 95, 97, 99/10, dz.78, ul. Różana 1, 1/A, 3, 4, 5.",
+      "id": "d1226a5e1ec2c15cea6479e4bbc964d6"
     }
   ]
 }
