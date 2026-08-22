@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-22T13:46:11.885517+00:00",
+  "last_update": "2026-08-22T14:01:15.358522+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1683,6 +1683,56 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T17:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "a9df38428c6524829203333a4a652ab3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "dd3119422c656223e164adf302cc2f1b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "5040c665614b16c06ea0d9ea500d14d8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "4e3b518962e9c9db261c9aae36320191"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.248571,
+      "lon": 17.0886353,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "ac355353e885b784f59ae5aae53188d2"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
       "lat": 52.4108266,
       "lon": 16.8955491,
@@ -1690,6 +1740,16 @@
       "end_time": "2026-08-22T18:00:00",
       "original_description": "Lubosz ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 11, 9, ul. Rolna 3, ul. Wiśniowa 1.",
       "id": "59d52442e2e632dcf2d31fd11a57b703"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "424347b5ea7a8507f4d4b0022ad0a30d"
     },
     {
       "type": "unplanned",
@@ -1703,6 +1763,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "aad04fcea36219f1a727276f4e34eb34"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
       "lat": 52.3848378,
       "lon": 16.9173623,
@@ -1713,6 +1783,46 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "e4bb127c6aeca11586ce271c4f785a06"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "38e2ef4855346756d82bd90fdb64a728"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna Dolina, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4366614,
+      "lon": 17.0887545,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "7d3151996090fd079c7c572d55635689"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Usługowa, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4599384,
+      "lon": 17.1959395,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "847b4f00b7e7fb03fba974df85c3252d"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
       "lat": 52.3752583,
       "lon": 16.909929,
@@ -1720,6 +1830,26 @@
       "end_time": "2026-08-22T18:00:00",
       "original_description": "Lubosz ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 11, 9, ul. Rolna 3, ul. Wiśniowa 1.",
       "id": "a99074fbdd6d6388a24227b3d299bc86"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "2a3b215b7ee06f15f31284f916ef8a7e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielone Wzgórze, Szczytniki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.3071557,
+      "lon": 17.0040679,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T18:00:00",
+      "original_description": "Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Leśna 16, 18, ul. Parkowa 2, 3, 3/A, 6, ul. Pocztowa 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Poznańska 1, 11, 9, ul. Rolna 3, ul. Słoneczna Dolina 10, 18, 2, DZ. 265/76, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9.",
+      "id": "d9abf6d1a386aac5989d31e8ba9ade4c"
     },
     {
       "type": "unplanned",
