@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-22T09:24:37.406534+00:00",
+  "last_update": "2026-08-22T09:50:30.121447+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1210,6 +1210,206 @@
       "end_time": "2026-08-22T11:30:00",
       "original_description": "Poznań os. Armii Krajowej 102.",
       "id": "0190bac9b5092b6b07289acd2deb0389"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T13:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "4ce7cb5d9c3a27d01dcc72e768457ab9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3795223,
+      "lon": 16.9514537,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T13:00:00",
+      "original_description": "Poznań os. Armii Krajowej 102.",
+      "id": "dce4b0c0e4aa9b2eaaaba795fe5a4bd7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bułgarska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-325, Polska",
+      "lat": 52.3962032,
+      "lon": 16.8622017,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T13:30:00",
+      "original_description": "Poznań ul. Bułgarska 120 . 118 . 116. 114",
+      "id": "e76e61f4fb2220e1ac1aa4b6c0cc6912"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "3b0e4308b9ddda44352dd09f2a4b50a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krótka, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-011, Polska",
+      "lat": 52.4224058,
+      "lon": 16.9702661,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "5ba4f894265aec15e2f1415582a500e6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "3a7421fda7d0f03edca6242666f49fd0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
+      "lat": 52.4038105,
+      "lon": 16.929477,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "3bcc88718a965fc62d394f601f2c6311"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
+      "lat": 52.4019724,
+      "lon": 16.9030897,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "ac983a6a9429afe4aa90b1910707af32"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
+      "lat": 52.248571,
+      "lon": 17.0886353,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "37537eae70648f1c2344fe97f320485d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "a43994ef6c733641c5696d413867c996"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-702, Polska",
+      "lat": 52.4034274,
+      "lon": 16.9169047,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "a68052d1001e05193468ddfd9d3b84dd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "7cd9cd07aed96ee3b788deea07a878ff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
+      "lat": 52.3848378,
+      "lon": 16.9173623,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "9d95e57b4fdbd4dbbf0956b6b9d27e37"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "fa9ac256257192d96fde82d4ed297d73"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sportowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
+      "lat": 52.3805603,
+      "lon": 16.9144143,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "a12744fd8b5f7588c3347dced7fb5cda"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słoneczna Dolina, Gruszczyn, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-006, Polska",
+      "lat": 52.4366614,
+      "lon": 17.0887545,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "cd0c0fae79967f40f6f8812448917f69"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Usługowa, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4599384,
+      "lon": 17.1959395,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "b1ecfd9cfc10a8a9123cbaa88ff0810e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "d81c354024e4c3700e889090f0130dbd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wąska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-859, Polska",
+      "lat": 52.4140584,
+      "lon": 16.9056711,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "4b9b80ef7ff3d8dd73a13e7a5ce2ea1d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zielone Wzgórze, Szczytniki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
+      "lat": 52.3071557,
+      "lon": 17.0040679,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T14:00:00",
+      "original_description": "Augustowo, Daleszynek, Lubosz ul. Dworcowa 1, 10, 2, 4, 4a, 6, 7, ul. Krótka 1, 2, 3, 4, ul. Leśna 16, 18, ul. Ogrodowa 1, ul. Parkowa 1, 1A, 1B, 2, 3, 3/A, 6, ul. Pocztowa 1, 2, 3, 3 A, 3 B, 3/A, 3/C, 3A, 3B, 3c, 3C, 4, 5, 6, 7, 7B, 8, ul. Polna 11, 12, 12A, 13, 14, 15, 15b, 16, 16A, 17, 18, 2, 20, 21, 22, 24, 3, 4, 4a, 5, 7, 8, 9, dz 166/2, ul. Powstańców Wielkopolskich 1, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 2, 20, 21, 21/4, 22, 23, 24, 24a, 25, 26, 27, 28, 29, 3, 30, 35, 4, 5, 6, 7, 8, 9, DZ. 48, ul. Poznańska 1, 11, 12, 13, 2, 4, 6, 8, 9, ul. Rolna 3, ul. Słoneczna Dolina /LEŚNA, 10, 18, 2, DZ. 265/76, ul. Spokojna 1, 2, ul. Sportowa 1, 12, 13, 14, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 25a, 27, 28, 29, 3, 31, 4, 5, 6, 7, 8, 9, ul. Usługowa 1, 1/A, 2, ul. Wąska 1, 1/A, 1/B, 1/C, 1B, 1C, 2 B, 2/A, 2/B, 2/C, ul. Wiśniowa 1, ul. Zielone Wzgórze 1, 14, 17, 5, 6, 7, 8, 9, Pólko.",
+      "id": "98f4cf2c5d4e756d765f1972c1342f74"
     }
   ]
 }
