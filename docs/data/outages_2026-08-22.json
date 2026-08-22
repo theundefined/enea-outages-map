@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-22T05:03:03.811151+00:00",
+  "last_update": "2026-08-22T05:37:52.703893+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1010,6 +1010,26 @@
       "end_time": "2026-08-22T08:00:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "30f48763958dfa4c647ed5734e12cba5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3795223,
+      "lon": 16.9514537,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T09:30:00",
+      "original_description": "Poznań os. Armii Krajowej 102.",
+      "id": "56817a07d19006ec14cbc3a0cfbf01ac"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3795223,
+      "lon": 16.9514537,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-22T09:30:00",
+      "original_description": "Poznań os. Armii Krajowej 100.",
+      "id": "6cd9080d63b987f6aa49c23690bce19e"
     }
   ]
 }
