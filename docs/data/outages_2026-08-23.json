@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-23T05:55:30.317064+00:00",
+  "last_update": "2026-08-23T06:35:05.415660+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1200,6 +1200,26 @@
       "end_time": "2026-08-23T08:30:00",
       "original_description": "Poznań ul. Rudnicze 1, 3, 5, 5A, 7, 7A, 9, ul. Wykopy 1, 11, 11 A, 11A, 1A, 2, 3, 8.",
       "id": "796f7713d27a26cd65a9b15c507aad79"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-23T09:30:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "ce6ca85241541874813ad5ab6a734506"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3795223,
+      "lon": 16.9514537,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-23T09:30:00",
+      "original_description": "Poznań os. Armii Krajowej 102.",
+      "id": "c8412e9fc67fa104264623f9000a9a46"
     }
   ]
 }
