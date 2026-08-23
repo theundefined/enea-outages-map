@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-23T01:06:09.520458+00:00",
+  "last_update": "2026-08-23T02:36:10.397201+00:00",
   "outages": [
     {
       "type": "planned",
@@ -990,6 +990,26 @@
       "end_time": "2026-08-23T03:30:00",
       "original_description": "Poznań os. Armii Krajowej 102.",
       "id": "cb512f902925769b6ba85b79212ef234"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-23T05:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "63f7cd93fa1576ed63941f048b619e55"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3795223,
+      "lon": 16.9514537,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-23T05:00:00",
+      "original_description": "Poznań os. Armii Krajowej 102.",
+      "id": "3a60440d4d05d5065b739bc44c9b4197"
     }
   ]
 }
