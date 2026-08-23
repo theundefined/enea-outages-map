@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-23T10:19:10.882498+00:00",
+  "last_update": "2026-08-23T10:45:00.260728+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1390,6 +1390,16 @@
       "end_time": "2026-08-23T12:30:00",
       "original_description": "Poznań os. Armii Krajowej 102.",
       "id": "5d40a028a5ecaf27c00373225c369812"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Armii Krajowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3795223,
+      "lon": 16.9514537,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-23T14:00:00",
+      "original_description": "Poznań os. Armii Krajowej 102.",
+      "id": "5b69a42c847cdfdbfc82f052c53759b6"
     }
   ]
 }
