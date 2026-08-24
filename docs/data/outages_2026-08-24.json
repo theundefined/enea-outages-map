@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-24T23:00:02.808728+00:00",
+  "last_update": "2026-08-24T23:28:35.311160+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1933,6 +1933,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Biskupińska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4622495,
+      "lon": 16.867017,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-25T03:00:00",
+      "original_description": "Poznań ul. Biskupińska 129, 138, 140, 142, 144, 146, 148, 150, ul. Floriana Marciniaka 25, ul. Kowarska 25, ul. Międzyleska 10, 14, 15, 16, 17, 18, 19, 21, 22/24, 26, 29, 33, 35, 37, 39, 40, 41, 43, 45, 47, 49, 50, 51, 57, 6, 8, ul. Strzeszyńska 244, 246, 247, 249, 251 B, 254, 255, 255 A, 255B, 256, 257, 258, 260, 261, 261A, 262, 263, 263 B, 263B, 264, 265, 265 A, 265A, 266, 267, 268, 269, 269A, 270, 271, 272, 273, 274, 276, 279, 282A, 283, 284-ADM., 284-LOK.2, 286, 288, 290, 292, 294, 296, 298, ul. Zakopiańska 211, 213, 215, 216, 217, 219, 220, 221/223, 222, 224, 227, 229, 230, 231/233, 232, 233, 234, 235, 235 A, 235 B, 235C, 235D, 236, 237, 238, 238A, 239, 240, 242, 244, 246, 248, BISKUPIŃSK.",
+      "id": "a03228a7871164cde63f126d82092ccc"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4756134,
       "lon": 16.7707182,
@@ -1940,6 +1950,56 @@
       "end_time": "2026-08-25T03:00:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "96b9706af112dadde0ac3a585def491f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Floriana Marciniaka, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4628252,
+      "lon": 16.8720423,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-25T03:00:00",
+      "original_description": "Poznań ul. Biskupińska 129, 138, 140, 142, 144, 146, 148, 150, ul. Floriana Marciniaka 25, ul. Kowarska 25, ul. Międzyleska 10, 14, 15, 16, 17, 18, 19, 21, 22/24, 26, 29, 33, 35, 37, 39, 40, 41, 43, 45, 47, 49, 50, 51, 57, 6, 8, ul. Strzeszyńska 244, 246, 247, 249, 251 B, 254, 255, 255 A, 255B, 256, 257, 258, 260, 261, 261A, 262, 263, 263 B, 263B, 264, 265, 265 A, 265A, 266, 267, 268, 269, 269A, 270, 271, 272, 273, 274, 276, 279, 282A, 283, 284-ADM., 284-LOK.2, 286, 288, 290, 292, 294, 296, 298, ul. Zakopiańska 211, 213, 215, 216, 217, 219, 220, 221/223, 222, 224, 227, 229, 230, 231/233, 232, 233, 234, 235, 235 A, 235 B, 235C, 235D, 236, 237, 238, 238A, 239, 240, 242, 244, 246, 248, BISKUPIŃSK.",
+      "id": "c3ff34c290039580bb7e2a0b4f49cb93"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kowarska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4581933,
+      "lon": 16.8699036,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-25T03:00:00",
+      "original_description": "Poznań ul. Biskupińska 129, 138, 140, 142, 144, 146, 148, 150, ul. Floriana Marciniaka 25, ul. Kowarska 25, ul. Międzyleska 10, 14, 15, 16, 17, 18, 19, 21, 22/24, 26, 29, 33, 35, 37, 39, 40, 41, 43, 45, 47, 49, 50, 51, 57, 6, 8, ul. Strzeszyńska 244, 246, 247, 249, 251 B, 254, 255, 255 A, 255B, 256, 257, 258, 260, 261, 261A, 262, 263, 263 B, 263B, 264, 265, 265 A, 265A, 266, 267, 268, 269, 269A, 270, 271, 272, 273, 274, 276, 279, 282A, 283, 284-ADM., 284-LOK.2, 286, 288, 290, 292, 294, 296, 298, ul. Zakopiańska 211, 213, 215, 216, 217, 219, 220, 221/223, 222, 224, 227, 229, 230, 231/233, 232, 233, 234, 235, 235 A, 235 B, 235C, 235D, 236, 237, 238, 238A, 239, 240, 242, 244, 246, 248, BISKUPIŃSK.",
+      "id": "b727a644f173ce0c38ff6d0c6fa6d612"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Międzyleska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4609988,
+      "lon": 16.8692584,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-25T03:00:00",
+      "original_description": "Poznań ul. Biskupińska 129, 138, 140, 142, 144, 146, 148, 150, ul. Floriana Marciniaka 25, ul. Kowarska 25, ul. Międzyleska 10, 14, 15, 16, 17, 18, 19, 21, 22/24, 26, 29, 33, 35, 37, 39, 40, 41, 43, 45, 47, 49, 50, 51, 57, 6, 8, ul. Strzeszyńska 244, 246, 247, 249, 251 B, 254, 255, 255 A, 255B, 256, 257, 258, 260, 261, 261A, 262, 263, 263 B, 263B, 264, 265, 265 A, 265A, 266, 267, 268, 269, 269A, 270, 271, 272, 273, 274, 276, 279, 282A, 283, 284-ADM., 284-LOK.2, 286, 288, 290, 292, 294, 296, 298, ul. Zakopiańska 211, 213, 215, 216, 217, 219, 220, 221/223, 222, 224, 227, 229, 230, 231/233, 232, 233, 234, 235, 235 A, 235 B, 235C, 235D, 236, 237, 238, 238A, 239, 240, 242, 244, 246, 248, BISKUPIŃSK.",
+      "id": "8b4476b16974c654fae2ab751c722b5a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-25T03:00:00",
+      "original_description": "Poznań ul. Biskupińska 129, 138, 140, 142, 144, 146, 148, 150, ul. Floriana Marciniaka 25, ul. Kowarska 25, ul. Międzyleska 10, 14, 15, 16, 17, 18, 19, 21, 22/24, 26, 29, 33, 35, 37, 39, 40, 41, 43, 45, 47, 49, 50, 51, 57, 6, 8, ul. Strzeszyńska 244, 246, 247, 249, 251 B, 254, 255, 255 A, 255B, 256, 257, 258, 260, 261, 261A, 262, 263, 263 B, 263B, 264, 265, 265 A, 265A, 266, 267, 268, 269, 269A, 270, 271, 272, 273, 274, 276, 279, 282A, 283, 284-ADM., 284-LOK.2, 286, 288, 290, 292, 294, 296, 298, ul. Zakopiańska 211, 213, 215, 216, 217, 219, 220, 221/223, 222, 224, 227, 229, 230, 231/233, 232, 233, 234, 235, 235 A, 235 B, 235C, 235D, 236, 237, 238, 238A, 239, 240, 242, 244, 246, 248, BISKUPIŃSK.",
+      "id": "c0f4e793bf8b25bd3eafc700ca8e457c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zakopiańska, Strzeszyn Grecki, Podolany, Poznań, województwo wielkopolskie, 60-479, Polska",
+      "lat": 52.4477978,
+      "lon": 16.8867114,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-25T03:00:00",
+      "original_description": "Poznań ul. Biskupińska 129, 138, 140, 142, 144, 146, 148, 150, ul. Floriana Marciniaka 25, ul. Kowarska 25, ul. Międzyleska 10, 14, 15, 16, 17, 18, 19, 21, 22/24, 26, 29, 33, 35, 37, 39, 40, 41, 43, 45, 47, 49, 50, 51, 57, 6, 8, ul. Strzeszyńska 244, 246, 247, 249, 251 B, 254, 255, 255 A, 255B, 256, 257, 258, 260, 261, 261A, 262, 263, 263 B, 263B, 264, 265, 265 A, 265A, 266, 267, 268, 269, 269A, 270, 271, 272, 273, 274, 276, 279, 282A, 283, 284-ADM., 284-LOK.2, 286, 288, 290, 292, 294, 296, 298, ul. Zakopiańska 211, 213, 215, 216, 217, 219, 220, 221/223, 222, 224, 227, 229, 230, 231/233, 232, 233, 234, 235, 235 A, 235 B, 235C, 235D, 236, 237, 238, 238A, 239, 240, 242, 244, 246, 248, BISKUPIŃSK.",
+      "id": "b7695142a91b10f173c8e66221c82f17"
     }
   ]
 }
