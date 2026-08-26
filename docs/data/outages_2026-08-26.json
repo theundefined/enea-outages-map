@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-26T10:04:51.262079+00:00",
+  "last_update": "2026-08-26T10:48:10.934676+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1280,6 +1280,16 @@
       "end_time": "2026-09-03T14:30:00",
       "original_description": "Poznań: ul. Dąbrowskiego od 86 do 90 parzyste.",
       "id": "1b5018b45e67b394494d6bcea5811cc1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-09-03T09:00:00",
+      "end_time": "2026-09-03T13:00:00",
+      "original_description": "Gądki ul. Poznańska 80",
+      "id": "13603d755939d3c4718b1c64d55fa837"
     },
     {
       "type": "planned",
