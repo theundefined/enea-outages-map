@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-27T00:03:25.407093+00:00",
+  "last_update": "2026-08-27T09:35:02.009987+00:00",
   "outages": [
     {
       "type": "planned",
@@ -983,6 +983,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "2026-09-03T08:00:00",
+      "end_time": "2026-09-03T14:00:00",
+      "original_description": "Kobylnica: ul. Poznańska od 87 do 129 nieparzyste, od 30 do 50 parzyste, ul. Różana, ul. Kręta.",
+      "id": "44c1d02dcc7e384f3a8a2a3aa5717fcf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-09-03T08:00:00",
+      "end_time": "2026-09-03T14:00:00",
+      "original_description": "Kobylnica: ul. Poznańska od 87 do 129 nieparzyste, od 30 do 50 parzyste, ul. Różana, ul. Kręta.",
+      "id": "e7a20e93490aa01a38c8ed2de8e7f5cf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Różana, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-578, Polska",
+      "lat": 52.3985641,
+      "lon": 16.9244396,
+      "start_time": "2026-09-03T08:00:00",
+      "end_time": "2026-09-03T14:00:00",
+      "original_description": "Kobylnica: ul. Poznańska od 87 do 129 nieparzyste, od 30 do 50 parzyste, ul. Różana, ul. Kręta.",
+      "id": "1130db34da175bc3123570484d8978f7"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
       "lat": 52.4344643,
       "lon": 16.9130576,
@@ -1313,6 +1343,66 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Dobra, Ogrody, Poznań, województwo wielkopolskie, 60-593, Polska",
+      "lat": 52.4191712,
+      "lon": 16.8746697,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T15:00:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste",
+      "id": "2c34525f3c0c3d37bfe9243668a61d5b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nowina, Ogrody, Poznań, województwo wielkopolskie, 60-587, Polska",
+      "lat": 52.4160049,
+      "lon": 16.8804289,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T15:00:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste",
+      "id": "284a48fb8ce897c32a58e23808f377a3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4006632,
+      "lon": 16.9197326,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T15:00:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste",
+      "id": "1ae5e137c44cf9a1ac38abaaecd3cfaf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Swojska, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4155528,
+      "lon": 16.8722704,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T15:00:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste",
+      "id": "38c9853ea2984d2c911c07b7cb2bde68"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szafirowa, Ogrody, Poznań, województwo wielkopolskie, 60-595, Polska",
+      "lat": 52.4161925,
+      "lon": 16.8721405,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T15:00:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste",
+      "id": "fdfef8fbacac511eef7c81b6efd0675a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Złota, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4164268,
+      "lon": 16.8737707,
+      "start_time": "2026-09-04T08:30:00",
+      "end_time": "2026-09-04T15:00:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste",
+      "id": "0c21996c5e88da53e35114a10e74f7c4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Głowicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-182, Polska",
       "lat": 52.4058093,
       "lon": 16.8222775,
@@ -1442,6 +1532,36 @@
       "id": "4fa5f3a68dde19a08153041ba8410309"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Polanka, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-131, Polska",
+      "lat": 52.3995524,
+      "lon": 16.9586574,
+      "start_time": "2026-09-15T08:30:00",
+      "end_time": "2026-09-15T15:30:00",
+      "original_description": "Poznań: ul. Polanka 2A, 4A, 10, 10A, 12, 12A, od 9 do 19 nieparzyste, 25.",
+      "id": "30105dd2eed3d113efed69e6fd341cd7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nowina, Ogrody, Poznań, województwo wielkopolskie, 60-587, Polska",
+      "lat": 52.4160049,
+      "lon": 16.8804289,
+      "start_time": "2026-09-16T07:00:00",
+      "end_time": "2026-09-16T21:00:00",
+      "original_description": "Baranowo: ul. Nowina od 2 do 20 parzyste bez 18, ul. Poznańska 22, 22A, 22B, 26, dz. 347/3, od 34 do 64 parzyste.",
+      "id": "b8e40caf41a63d4b4fc57ea1ffa11777"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-09-16T07:00:00",
+      "end_time": "2026-09-16T21:00:00",
+      "original_description": "Baranowo: ul. Nowina od 2 do 20 parzyste bez 18, ul. Poznańska 22, 22A, 22B, 26, dz. 347/3, od 34 do 64 parzyste.",
+      "id": "d910f6357d0a6766ecfe75d2d3cbd21f"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.478354,
@@ -1460,6 +1580,26 @@
       "end_time": "2026-08-27T03:30:00",
       "original_description": "Poznań ul. Bosmańska 10.",
       "id": "6fea285e1c4cf23976ff965a8429bad4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-27T05:00:00",
+      "original_description": "Poznań ul. Podjazdowa 91, 93.",
+      "id": "1dcaff410e4cfae929df9fda3ca13310"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4756134,
+      "lon": 16.7707182,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-27T12:00:00",
+      "original_description": "Poznań ul. Bosmańska 10.",
+      "id": "f916802fb2ba46465992922d9ddf6ee2"
     }
   ]
 }
