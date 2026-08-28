@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-28T04:08:28.269852+00:00",
+  "last_update": "2026-08-28T16:35:55.391534+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1063,6 +1063,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-09-04T08:00:00",
+      "end_time": "2026-09-04T14:00:00",
+      "original_description": "Mielno: ul. Poznańska od 28 do 41.",
+      "id": "d3d266cd532f04beb41e24fbac41e134"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3701237,
       "lon": 17.0363363,
@@ -1203,6 +1213,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-09-09T08:00:00",
+      "end_time": "2026-09-09T15:00:00",
+      "original_description": "Poznań: ul. Piątkowska od 181 do 197 nieparzyste, 211.",
+      "id": "4b376484e1470f156091cda9691b91ae"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bożeny, Antoninek Dolny, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-054, Polska",
+      "lat": 52.4092871,
+      "lon": 17.0073052,
+      "start_time": "2026-09-09T08:30:00",
+      "end_time": "2026-09-09T11:30:00",
+      "original_description": "Poznań: ul. Sabiny od 9 do 43 nieparzyste, ul. Wandy 1, 3, 3A, 5, 6, 8, 10, 11, 13, 15, 17, ul. Bożeny 32, 34, 36, 38.",
+      "id": "4e7ec3c8c2e60d9cabd1dadc0ef6b9fa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sabiny, Antoninek Dolny, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-054, Polska",
+      "lat": 52.4069846,
+      "lon": 17.0062345,
+      "start_time": "2026-09-09T08:30:00",
+      "end_time": "2026-09-09T11:30:00",
+      "original_description": "Poznań: ul. Sabiny od 9 do 43 nieparzyste, ul. Wandy 1, 3, 3A, 5, 6, 8, 10, 11, 13, 15, 17, ul. Bożeny 32, 34, 36, 38.",
+      "id": "c187a7fe174d4c4ee4f90ccbb5d9d78f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wandy, Antoninek Dolny, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-054, Polska",
+      "lat": 52.4074944,
+      "lon": 17.008189,
+      "start_time": "2026-09-09T08:30:00",
+      "end_time": "2026-09-09T11:30:00",
+      "original_description": "Poznań: ul. Sabiny od 9 do 43 nieparzyste, ul. Wandy 1, 3, 3A, 5, 6, 8, 10, 11, 13, 15, 17, ul. Bożeny 32, 34, 36, 38.",
+      "id": "bc42fd4474dde3341b680802ca98762c"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Henryka Sucharskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
       "lat": 52.3686577,
       "lon": 16.8889604,
@@ -1333,6 +1383,66 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Kościańska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
+      "lat": 52.3729316,
+      "lon": 16.873216,
+      "start_time": "2026-09-11T08:30:00",
+      "end_time": "2026-09-11T12:30:00",
+      "original_description": "Poznań: ul. Rawicka od 1 do 37 nieparzyste, od 16 do 42 parzyste, ul. Kościańska 55, 58.",
+      "id": "21129781ed38daa41a09530aed79cd32"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rawicka, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-103, Polska",
+      "lat": 52.3740105,
+      "lon": 16.8734113,
+      "start_time": "2026-09-11T08:30:00",
+      "end_time": "2026-09-11T12:30:00",
+      "original_description": "Poznań: ul. Rawicka od 1 do 37 nieparzyste, od 16 do 42 parzyste, ul. Kościańska 55, 58.",
+      "id": "e264062b4a658976131615aa7ddcef44"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Darłowska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4328863,
+      "lon": 16.8243857,
+      "start_time": "2026-09-14T08:30:00",
+      "end_time": "2026-09-14T11:30:00",
+      "original_description": "Poznań: ul. Połczyńska bez 20, ul. Darłowska od 3 do 25A nieparzyste bez 13 , od 31 do 43 nieparzyste, od 2 do 36 parzyste, ul. Santocka od 3 do 11 nieparzyste, od 6 do 18 parzyste, ul. Ownicka, ul. Owczarska.",
+      "id": "07688df3b92afdad8ef14d6823c8ee50"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Owczarska, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-452, Polska",
+      "lat": 52.4336542,
+      "lon": 16.824506,
+      "start_time": "2026-09-14T08:30:00",
+      "end_time": "2026-09-14T11:30:00",
+      "original_description": "Poznań: ul. Połczyńska bez 20, ul. Darłowska od 3 do 25A nieparzyste bez 13 , od 31 do 43 nieparzyste, od 2 do 36 parzyste, ul. Santocka od 3 do 11 nieparzyste, od 6 do 18 parzyste, ul. Ownicka, ul. Owczarska.",
+      "id": "1838007a1944fd498d6324bd00f1aaa5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ownicka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-438, Polska",
+      "lat": 52.4336824,
+      "lon": 16.8262791,
+      "start_time": "2026-09-14T08:30:00",
+      "end_time": "2026-09-14T11:30:00",
+      "original_description": "Poznań: ul. Połczyńska bez 20, ul. Darłowska od 3 do 25A nieparzyste bez 13 , od 31 do 43 nieparzyste, od 2 do 36 parzyste, ul. Santocka od 3 do 11 nieparzyste, od 6 do 18 parzyste, ul. Ownicka, ul. Owczarska.",
+      "id": "7bbc8fb7dca2c7ce029c7c131d15bcb9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Santocka, Sytkowo, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-432, Polska",
+      "lat": 52.4381887,
+      "lon": 16.8305414,
+      "start_time": "2026-09-14T08:30:00",
+      "end_time": "2026-09-14T11:30:00",
+      "original_description": "Poznań: ul. Połczyńska bez 20, ul. Darłowska od 3 do 25A nieparzyste bez 13 , od 31 do 43 nieparzyste, od 2 do 36 parzyste, ul. Santocka od 3 do 11 nieparzyste, od 6 do 18 parzyste, ul. Ownicka, ul. Owczarska.",
+      "id": "d42839dbde7c7849a0dc7405c90c3e42"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Polanka, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-131, Polska",
       "lat": 52.3995524,
       "lon": 16.9586574,
@@ -1360,6 +1470,56 @@
       "end_time": "2026-09-16T21:00:00",
       "original_description": "Baranowo: ul. Nowina od 2 do 20 parzyste bez 18, ul. Poznańska 22, 22A, 22B, 26, dz. 347/3, od 34 do 64 parzyste.",
       "id": "d910f6357d0a6766ecfe75d2d3cbd21f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gerberowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.385267,
+      "lon": 16.8251734,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-28T19:00:00",
+      "original_description": "Poznań ul. Gerberowa 3, 5, ul. Grunwaldzka 305, ul. Malwowa 30, 32, 34, 36, 38, 40, 40A, 42, 47, 48, 49, 51, 53, 55, 57, 59, 59/61, 69, 69 A, 75, 77, 79, 81.",
+      "id": "3bacaeb04b0fc6f92df623688e6ab981"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-28T19:00:00",
+      "original_description": "Poznań ul. Gerberowa 3, 5, ul. Grunwaldzka 305, ul. Malwowa 30, 32, 34, 36, 38, 40, 40A, 42, 47, 48, 49, 51, 53, 55, 57, 59, 59/61, 69, 69 A, 75, 77, 79, 81.",
+      "id": "0be6cb9681435d3319cccacce011eb78"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-28T19:00:00",
+      "original_description": "Poznań ul. Gerberowa 3, 5, ul. Grunwaldzka 305, ul. Malwowa 30, 32, 34, 36, 38, 40, 40A, 42, 47, 48, 49, 51, 53, 55, 57, 59, 59/61, 69, 69 A, 75, 77, 79, 81.",
+      "id": "b762dbc1169cdb97591bb48ae4157ef2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Beskidzka, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-433, Polska",
+      "lat": 52.4458097,
+      "lon": 16.8323933,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-28T19:30:00",
+      "original_description": "Poznań ul. Beskidzka 110, 59, 6, ul. Biskupińska 1, 10, 10A, 9, 9B, 9E, 9H.",
+      "id": "ac3b978ac97cdca11ace0f4797993bf9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Biskupińska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4622495,
+      "lon": 16.867017,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-28T19:30:00",
+      "original_description": "Poznań ul. Beskidzka 110, 59, 6, ul. Biskupińska 1, 10, 10A, 9, 9B, 9E, 9H.",
+      "id": "22b861a6a66b1a23136d97181074d576"
     }
   ]
 }
