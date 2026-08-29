@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-29T00:40:36.729482+00:00",
+  "last_update": "2026-08-29T07:27:06.804057+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1440,6 +1440,66 @@
       "end_time": "2026-08-29T03:30:00",
       "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
       "id": "3da83eac53cf21e7666b1270557c74f0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T11:00:00",
+      "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
+      "id": "e9be8f49123b6d87fddbd17ca13be8e0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ignacego Daszyńskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3669844,
+      "lon": 16.8861151,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T11:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty 1, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 3, 30, 32, 34, 3A, 4, 5A, 5B, 5C, 5D, 6, 8, DZ 336/4, ul. Daszyńskiego 53, 55, 57, 65, dz. 2125, ul. Kurpińskiego 12, 14, 21, 23, 25, 27, 29, ul. Makowa 1, ul. Ogińskiego 10, 11, 2, 4, 5, 6, 7, 8, 9, ST. 971, ul. Osadnicza 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Wieniawskiego 10, 2, 4, 6, 8.",
+      "id": "015d827df7ea9742b428de496f2ace9b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kurpińskiego, Karola Kurpińskiego, Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, 60-681, Polska",
+      "lat": 52.4507727,
+      "lon": 16.9194408,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T11:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty 1, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 3, 30, 32, 34, 3A, 4, 5A, 5B, 5C, 5D, 6, 8, DZ 336/4, ul. Daszyńskiego 53, 55, 57, 65, dz. 2125, ul. Kurpińskiego 12, 14, 21, 23, 25, 27, 29, ul. Makowa 1, ul. Ogińskiego 10, 11, 2, 4, 5, 6, 7, 8, 9, ST. 971, ul. Osadnicza 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Wieniawskiego 10, 2, 4, 6, 8.",
+      "id": "a53851d436a0fe736385f78190193d28"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lotnisko Poznań-Ławica, Pilotów, Wola, Poznań, województwo wielkopolskie, 60-412, Polska",
+      "lat": 52.420564,
+      "lon": 16.8317925,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T11:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty 1, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 3, 30, 32, 34, 3A, 4, 5A, 5B, 5C, 5D, 6, 8, DZ 336/4, ul. Daszyńskiego 53, 55, 57, 65, dz. 2125, ul. Kurpińskiego 12, 14, 21, 23, 25, 27, 29, ul. Makowa 1, ul. Ogińskiego 10, 11, 2, 4, 5, 6, 7, 8, 9, ST. 971, ul. Osadnicza 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Wieniawskiego 10, 2, 4, 6, 8.",
+      "id": "191202dd01a7f215e522b6ad5b429831"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T11:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty 1, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 3, 30, 32, 34, 3A, 4, 5A, 5B, 5C, 5D, 6, 8, DZ 336/4, ul. Daszyńskiego 53, 55, 57, 65, dz. 2125, ul. Kurpińskiego 12, 14, 21, 23, 25, 27, 29, ul. Makowa 1, ul. Ogińskiego 10, 11, 2, 4, 5, 6, 7, 8, 9, ST. 971, ul. Osadnicza 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Wieniawskiego 10, 2, 4, 6, 8.",
+      "id": "5db19ab7f9141f0b12d23ac3ba9625c8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tablica 55. Poznańskiego Pułku Piechoty, Aleja Armii Poznań, Stare Winogrady, Stare Miasto, Poznań, województwo wielkopolskie, 61-721, Polska",
+      "lat": 52.4182659,
+      "lon": 16.9337771,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T11:30:00",
+      "original_description": "Przyczyna Dolna, Wschowa ul. 55 Poznańskiego Pułku Piechoty 1, 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 3, 30, 32, 34, 3A, 4, 5A, 5B, 5C, 5D, 6, 8, DZ 336/4, ul. Daszyńskiego 53, 55, 57, 65, dz. 2125, ul. Kurpińskiego 12, 14, 21, 23, 25, 27, 29, ul. Makowa 1, ul. Ogińskiego 10, 11, 2, 4, 5, 6, 7, 8, 9, ST. 971, ul. Osadnicza 1, 10, 2, 3, 4, 5, 6, 7, 8, 9, ul. Wieniawskiego 10, 2, 4, 6, 8.",
+      "id": "892caf507314563f5ab0624996dbb81d"
     }
   ]
 }
