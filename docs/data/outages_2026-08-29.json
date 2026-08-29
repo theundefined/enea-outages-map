@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-29T17:12:54.261797+00:00",
+  "last_update": "2026-08-29T19:46:48.538861+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1680,6 +1680,16 @@
       "end_time": "2026-08-29T20:30:00",
       "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
       "id": "528c72f3fb1cfba0403abfa4e38b311a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T23:00:00",
+      "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
+      "id": "13b7c796217f79bf365e8598103f4f1c"
     }
   ]
 }
