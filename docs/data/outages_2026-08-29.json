@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-29T13:18:26.402951+00:00",
+  "last_update": "2026-08-29T17:12:54.261797+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1520,6 +1520,166 @@
       "end_time": "2026-08-29T16:00:00",
       "original_description": "Poznań ul. Odrzycka 7, 7A.",
       "id": "e346af0795fc4a37c10ab77fb0441f57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T18:30:00",
+      "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
+      "id": "85d8c47df84ab3c042a8975af55b6167"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "abc5ca3c7369314caf58e0c160e2ab52"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gorzowska, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4121407,
+      "lon": 16.8181504,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "7498074cf134c6faf2d7b1ed8db6a1ae"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lubniewicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4087271,
+      "lon": 16.8186808,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "7a5c41d36d55eca09dce341e173c9565"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marii Szmytówny, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4124453,
+      "lon": 16.816261,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "e2eb1c38aca2f513fa0490ba429c62d7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Michaliny Stefanowskiej, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4131386,
+      "lon": 16.8159227,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "fe9e33b19ea8f78e9549e9ce3988f331"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Moryńska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4115619,
+      "lon": 16.8219975,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "fcd84be2125627f87439ae2ee466afd5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Odrzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4120769,
+      "lon": 16.8209787,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "2743c629973b412dc8bfab8df65ed925"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perzycka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4014691,
+      "lon": 16.828928,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "54c446b112747f642625269de6740eee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pod Lasem, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4099167,
+      "lon": 16.8165543,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "53f098aa481c59d5d4e990380b959f29"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Policka, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4114,
+      "lon": 16.8175823,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "746d7fcaaf31fd063795db160650c9d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pośród Drzew, Śpiewu Ptaków, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4108556,
+      "lon": 16.8167996,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "6eaf4a1348c044e00d16f97a3fa6953c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sławińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-186, Polska",
+      "lat": 52.4096059,
+      "lon": 16.8215316,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "0e75cc497f08ca18f6d4ecce1d6931e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Templińska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-188, Polska",
+      "lat": 52.4097315,
+      "lon": 16.8277511,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "1ed7a437329ba817b3c68d1d3b34a4a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ławica, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4112414,
+      "lon": 16.8253002,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "595bdf9e7b656abc196904bb0715dae7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śpiewu Ptaków, Ławica, Poznań, województwo wielkopolskie, 60-183, Polska",
+      "lat": 52.4103353,
+      "lon": 16.8176748,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-29T20:30:00",
+      "original_description": "Poznań ul. Bukowska, ul. Gorzowska, ul. Lubniewicka, ul. Ławica, ul. Marii Szmytówny, ul. Michaliny Stefanowskiej, ul. Moryńska, ul. Odrzycka, ul. Perzycka, ul. Pod Lasem, ul. Policka, ul. Pośród Drzew, ul. Sławińska, ul. Śpiewu Ptaków, ul. Templińska.",
+      "id": "528c72f3fb1cfba0403abfa4e38b311a"
     }
   ]
 }
