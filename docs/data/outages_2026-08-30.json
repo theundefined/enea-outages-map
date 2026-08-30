@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-30T10:37:43.272473+00:00",
+  "last_update": "2026-08-30T14:58:34.633378+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1460,6 +1460,16 @@
       "end_time": "2026-08-30T14:00:00",
       "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
       "id": "90007856101392999fdacda5a877483b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-30T18:30:00",
+      "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
+      "id": "10d5cdf6339b131a2f328f28b31771cb"
     }
   ]
 }
