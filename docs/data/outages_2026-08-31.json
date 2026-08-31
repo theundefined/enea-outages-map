@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-08-31T01:39:43.674434+00:00",
+  "last_update": "2026-08-31T07:39:23.254268+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1153,6 +1153,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Widna, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.4292557,
+      "lon": 16.9089359,
+      "start_time": "2026-09-08T08:00:00",
+      "end_time": "2026-09-08T15:00:00",
+      "original_description": "Poznań: ul. Widna 1, 3.",
+      "id": "8ed6d423a9fd71952f0381a539267a61"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Deszczowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
       "lat": 52.4688535,
       "lon": 16.906224,
@@ -1440,6 +1450,186 @@
       "end_time": "2026-08-31T05:00:00",
       "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
       "id": "0d5328fe06eae5f38283387ed790410c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:00:00",
+      "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
+      "id": "e72cac43c8a49b0b819545cbf708654e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dolna, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4697134,
+      "lon": 16.9524326,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "b32d1997a83ba930f791a9ec10fdcbf4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Działkowa, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-131, Polska",
+      "lat": 52.3890032,
+      "lon": 16.8799714,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "63de2d34c3066ad09ebd486356e6d62c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3689431,
+      "lon": 17.0062642,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "8ebf09baed71390e989cc79288e98680"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeżynowa, Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3693677,
+      "lon": 17.0351542,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "21c937d394eecfa44b84a329c007e2bb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3207486,
+      "lon": 16.8844695,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "33af216526f1bd92e11a05a390ced9e2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "5dd55c2296a6a71f43f5a5c2d45a8dda"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.370543,
+      "lon": 16.9092524,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "b29c0ddbec4f0284872f5d1478a0db43"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morelowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.370513,
+      "lon": 16.8987738,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "e24a0615b3084c4adb90a42a4a794103"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podleśna, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4180824,
+      "lon": 17.0426216,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "9c9efa004187d90d4f29fd83573e06ea"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "182840af309d55be18febc4d5865a27a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "a466525b4dcc595791346c6948ee9bc3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "6f9f6e4111a827cbc76a2926e09b31b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "a9d9fb732588d27b8e85f276db835fcc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiewiórcza, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-066, Polska",
+      "lat": 52.3915154,
+      "lon": 17.0240582,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "41028fa6b687770db168de15d139d211"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wyższa Szkoła Bankowa w Poznaniu, 1, Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
+      "lat": 52.4036146,
+      "lon": 16.923645,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "a57183877195f7182885b2028e6f9dd2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "52816b30bc85b3fcbbcd6cee8df1f0d6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Żurawinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-455, Polska",
+      "lat": 52.3681895,
+      "lon": 16.9066014,
+      "start_time": "Brak danych",
+      "end_time": "2026-08-31T11:30:00",
+      "original_description": "Czapury ul. Dolna, ul. Jagodowa, ul. Jeżynowa, ul. Kręta, ul. Leśna, ul. Morelowa, ul. Poznańska, ul. Wiewiórcza, ul. Żurawinowa, Wiórek ul. Bankowa, ul. Działkowa, ul. Łąkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Szkolna, ul. Wierzbowa.",
+      "id": "3757d86baa4487a7abb816bd3063929f"
     }
   ]
 }
