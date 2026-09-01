@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-01T00:29:31.377392+00:00",
+  "last_update": "2026-09-01T05:32:13.858390+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1400,6 +1400,166 @@
       "end_time": "2026-09-01T02:00:00",
       "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
       "id": "ba0b4e9a3fc5b5522da896296ab7dd12"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T08:00:00",
+      "original_description": "Poznań os. Orła Białego 102, 77, 78, 79, 79 lok. 23, 80, 86.",
+      "id": "af4f60916bd600407f329b5bb1cdd9b0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleja Lipowa, Kalwy, gmina Buk, powiat poznański, województwo wielkopolskie, 64-553, Polska",
+      "lat": 52.4045632,
+      "lon": 16.601949,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "572999cd7b07fc9d20692c9c31a77cba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "39f63bd652607bc8824a3ae891685351"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4159569,
+      "lon": 17.0325761,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "4e5e1f13d22aba7231d44fa417089e68"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Malinowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
+      "lat": 52.3705387,
+      "lon": 16.9104483,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "113a56cf2b4cbfd411c566a53d28c70c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morelowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.370513,
+      "lon": 16.8987738,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "f5c60bfcb88d5ef58622e158bbcc3358"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
+      "lat": 52.4119625,
+      "lon": 16.9392776,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "813292c56f9a045e5d476a6029d8c84f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Podgórna, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-828, Polska",
+      "lat": 52.4062698,
+      "lon": 16.9302717,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "8339c16b3ac7334693127bf93a5fb52e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "5912f4a0503c07c0502f5f266b6b3554"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poziomkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3650812,
+      "lon": 17.037059,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "f86da525ce6ac73d8f8c2e2ae6ae7e90"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "798adad5acdc5144021d7fb8c6d17aa3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3697932,
+      "lon": 16.8977877,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "1d784d158e7c7305360cae3ff890a1fb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spacerowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.465908,
+      "lon": 16.7941901,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "00eac7dcc2742c38e3770c7e26e89a25"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "734a85fd6f584fe41f97c2148a868608"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiśniowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3752583,
+      "lon": 16.909929,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "89c31332adcf2e6664e650e68c3e5f7e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4257557,
+      "lon": 16.9231184,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-01T09:30:00",
+      "original_description": "Kalwy ul. aleja Lipowa 12, 25A, 4, 6, 8, ul. Brzozowa 1, 18B, 18C, 18D, 1LOK.1, 20, 51, 53, 55, 57, 8, DZ 50/21, DZ 80/17, DZ 80/20, ul. Leśna 10, 14/G, 14/L, 18, 20, 26, 30, 35, 4, 8, dz.105/17, dz.105/8, ul. Piaskowa 11, 16, 17, 25, 4, 8, ul. Podgórna 1, 10, 11, 13, 14, 2, 5, dz.88/4, ul. Sosnowa 2, 2A, ul. Spacerowa 2, 6, 7, 9, DZ. 88/18, ul. Wierzbowa 12, 14, 16, 4, 6, 8, Niepruszewo ul. Leśna 32, 34, 38, 40, 42, 44, ul. Malinowa 10, 12, 13, 15, 18, 20, 21, 22, 23, 24, 6, 7, DZ 94/10, ul. Morelowa 17, 18, 25, 6, Dz. 704/14, ul. Polna 10, 4, Polna, ul. Poziomkowa, ul. Poznańska 95, 97, ul. Tęczowa DZ.100/35, ul. Wiśniowa 11, 15, 2, 6, 6A, 8, 8 A, 8F, dz. 704/4, dz.94/7, ul. Zbożowa.",
+      "id": "a595fd0148d95b57c573cd089497e6fd"
     }
   ]
 }
