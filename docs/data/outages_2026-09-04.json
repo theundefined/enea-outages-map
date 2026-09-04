@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-04T09:51:24.187198+00:00",
+  "last_update": "2026-09-04T13:58:24.916786+00:00",
   "outages": [
     {
       "type": "planned",
@@ -860,6 +860,26 @@
       "end_time": "2026-09-04T12:00:00",
       "original_description": "Poznań ul. Włodzimierza Majakowskiego 356.",
       "id": "9ff3d830dcf5c90efb2718376cfe0f31"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Arcybiskupa Walentego Dymka, Chartowo, Poznań, województwo wielkopolskie, 61-244, Polska",
+      "lat": 52.393638,
+      "lon": 16.9925896,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-04T16:30:00",
+      "original_description": "Poznań ul. Włodzimierza Majakowskiego 356.",
+      "id": "deeb343d321e9f60d31787b78320900e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3784821,
+      "lon": 16.9657192,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-04T18:00:00",
+      "original_description": "Poznań os. Orła Białego 78, 79, 79 lok. 23, 80.",
+      "id": "a2b5cb71920dc93148cf703766d48995"
     }
   ]
 }
