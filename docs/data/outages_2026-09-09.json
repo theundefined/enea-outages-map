@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-09T10:54:00.635240+00:00",
+  "last_update": "2026-09-09T15:00:02.735563+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1080,6 +1080,16 @@
       "end_time": "2026-09-22T11:30:00",
       "original_description": "Poznań: ul. Kamienicka, ul. Żagańska, ul. Miśnieńska od 48 do 67, 67A-B, ul. Junikowska 48B.",
       "id": "76e9387b6137bb389646d9f7830f9a12"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4113371,
+      "lon": 16.9476211,
+      "start_time": "2026-09-22T08:30:00",
+      "end_time": "2026-09-22T15:30:00",
+      "original_description": "Poznań: ul. Ostrów Tumski 2, 3, 4, 5, 5A, 6, 9, 9A, 10, 11, 12, 13.",
+      "id": "5fb05965348ba5ca915741264d813dde"
     },
     {
       "type": "planned",
