@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-10T05:56:08.821719+00:00",
+  "last_update": "2026-09-10T10:41:03.465637+00:00",
   "outages": [
     {
       "type": "planned",
@@ -803,6 +803,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Cypriana Norwida, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-867, Polska",
+      "lat": 52.4163907,
+      "lon": 16.9117318,
+      "start_time": "2026-09-16T08:30:00",
+      "end_time": "2026-09-16T15:30:00",
+      "original_description": "Poznań: ul. Barzyńskiego 4A, 6, 8, 10, 11, 13, ul. Norwida 8, 10, od 9 do 13 nieparzyste.",
+      "id": "bc43842b46af2292202e21d12fb97d58"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michała Barzyńskiego, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-866, Polska",
+      "lat": 52.4147729,
+      "lon": 16.9129884,
+      "start_time": "2026-09-16T08:30:00",
+      "end_time": "2026-09-16T15:30:00",
+      "original_description": "Poznań: ul. Barzyńskiego 4A, 6, 8, 10, 11, 13, ul. Norwida 8, 10, od 9 do 13 nieparzyste.",
+      "id": "23360cacf1cc04550203cbcdb5716a63"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Woźna, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-779, Polska",
       "lat": 52.408111,
       "lon": 16.9348977,
@@ -833,6 +853,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska Ogólnokształcąca Szkoła Muzyczna I st. nr 2 im. Tadeusza Szeligowskiego, Bydgoska, Śródka, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4117665,
+      "lon": 16.9556609,
+      "start_time": "2026-09-17T08:00:00",
+      "end_time": "2026-09-17T11:00:00",
+      "original_description": "Leszno ul. Poznańska nr 17 do 25 - nieparzyste.",
+      "id": "410b355a718b90c406fffa8f240818bf"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Baltazara Lewandowskiego, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
       "lat": 52.4795048,
       "lon": 16.9326226,
@@ -853,6 +883,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-09-17T08:00:00",
+      "end_time": "2026-09-17T15:00:00",
+      "original_description": "Poznań: ul. Piątkowska od 181 do 197 nieparzyste, 211.",
+      "id": "af546f0edf65bf51f41873e3d3199ca4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Dęblińska, Minikowo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-337, Polska",
       "lat": 52.3519969,
       "lon": 16.9396452,
@@ -870,6 +910,116 @@
       "end_time": "2026-09-17T14:30:00",
       "original_description": "Poznań: ul. Ożarowska 2A, od 4 do 40 parzyste, 40A, 41, 43, ul. Chęcińska od 3 do 9 nieparzyste, 9A, od 6 do 14 parzyste, ul. Warecka od 3 do 10, ul. Kozienicka, ul. Oświęcimska 23, 23A, 25, ul. Puławska, ul. Dęblińska.",
       "id": "3e810b2345d034d2d0baff3de00c76b4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kórnicka, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
+      "lat": 52.3997552,
+      "lon": 16.9510957,
+      "start_time": "2026-09-17T08:30:00",
+      "end_time": "2026-09-17T15:30:00",
+      "original_description": "Poznań: ul. Kórnicka 5.",
+      "id": "5d3cfe05ea8ce56cceb15706a0cd8eea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Andrzeja Kopy, Wola, Poznań, województwo wielkopolskie, 60-411, Polska",
+      "lat": 52.4263475,
+      "lon": 16.8494842,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "68a8952ee5f2e0f878eddd4c3c1d7913"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Biblioteka Uniwersytecka, Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-816, Polska",
+      "lat": 52.4068379,
+      "lon": 16.9252304,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "e194891908dd77d22569d3fc610182a1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Biskupa Stanisława Adamskiego, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.4441457,
+      "lon": 16.7002509,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "27aaa566b7b24966b35a217d308cdcad"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bronisława Kluczyka, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.4450852,
+      "lon": 16.6969985,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "0f4e45eb28d908c32cfc5af389026f9a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jakuba Spychały, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.4413309,
+      "lon": 16.6948158,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "362b4e50e4641b4f50f107505d154eb1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Księdza Antoniego Czeszewskiego, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.4397341,
+      "lon": 16.6987094,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "cc3148eee5a5575b5b64ce24a39b8d9c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Księdza Ignacego Serdeckiego, Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.4427035,
+      "lon": 16.6987707,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "48fffe61849bda59ec2b7c25110157db"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "1589a51682d456fe98a33c793b2bbd8b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Władysława Pniewskiego, Piątkowo, Poznań, województwo wielkopolskie, 60-692, Polska",
+      "lat": 52.4516437,
+      "lon": 16.9086835,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "7eba720dea5c3866a378c47175d9087f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zygmunta Plucińskiego, Hettich Polska Sp z o.o., Lusowo, gmina Tarnowo Podgórne, powiat poznański, województwo wielkopolskie, 62-080, Polska",
+      "lat": 52.4413497,
+      "lon": 16.6977226,
+      "start_time": "2026-09-17T09:00:00",
+      "end_time": "2026-09-17T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "ebb747c0d0298f33f0660eadfc3d771d"
     },
     {
       "type": "planned",
@@ -963,6 +1113,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Górnicza, Górczyn, Poznań, województwo wielkopolskie, 60-107, Polska",
+      "lat": 52.3841136,
+      "lon": 16.8731753,
+      "start_time": "2026-09-23T08:30:00",
+      "end_time": "2026-09-23T14:30:00",
+      "original_description": "Poznań: ul. Górnicza od 2/39 do 2/41, od 2/51 do 2/61, od 2/67 do 2/78, 2/100, 2/103, 2/106, 2/107, 2/108, 2/108A, 2/125, 2/133.",
+      "id": "db06f593ab217f4317effcf069fb9209"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Gościnna, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
       "lat": 52.3488352,
       "lon": 17.0334734,
@@ -970,6 +1130,16 @@
       "end_time": "2026-09-23T15:30:00",
       "original_description": "Poznań: ul. Gościnna 21C, 23, 23A-F.",
       "id": "cc9b006d44ef0a0f9d694169cb91cb96"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Górnicza, Górczyn, Poznań, województwo wielkopolskie, 60-107, Polska",
+      "lat": 52.3841136,
+      "lon": 16.8731753,
+      "start_time": "2026-09-24T08:30:00",
+      "end_time": "2026-09-24T14:30:00",
+      "original_description": "Poznań: ul. Górnicza od 2/39 do 2/41, od 2/51 do 2/61, od 2/67 do 2/78, 2/100, 2/103, 2/106, 2/107, 2/108, 2/108A, 2/125, 2/133.",
+      "id": "36dafb46d179287f07c25e5edfd89984"
     },
     {
       "type": "planned",
