@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-10T10:41:03.465637+00:00",
+  "last_update": "2026-09-10T14:39:31.215185+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1043,6 +1043,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-09-18T09:00:00",
+      "end_time": "2026-09-18T17:00:00",
+      "original_description": "Gmina Tarnowo Podgórne  miejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
+      "id": "5848a5dd70f6c1436f76facb393ecdb8"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kudowska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
       "lat": 52.4577691,
       "lon": 16.8755563,
@@ -1210,6 +1220,26 @@
       "end_time": "2026-09-25T12:30:00",
       "original_description": "Poznań: ul. Okolewo 1, 9, 10, dz. 128/5, dz. 128/9, ul. Glinienko, ul. Janowo, ul. Łysy Młyn, wieża telekomunikacyjna,  poligon Morasko-Biedrusko, ul. Drogocin, ul. Knyszyn, ul. Glinno.",
       "id": "04fcdfd056425742ffcc2526aabb5ce7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-102, Polska",
+      "lat": 52.4069342,
+      "lon": 16.9424386,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-10T19:00:00",
+      "original_description": "Poznań ul. Chwaliszewo 64, ul. Tylne Chwaliszewo 26 A.",
+      "id": "0cb130cde2455e7b5bf643f054f3230e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tylne Chwaliszewo, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-103, Polska",
+      "lat": 52.4084819,
+      "lon": 16.9430349,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-10T19:00:00",
+      "original_description": "Poznań ul. Chwaliszewo 64, ul. Tylne Chwaliszewo 26 A.",
+      "id": "a11c1705cbbd64f02604ae566598d17b"
     }
   ]
 }
