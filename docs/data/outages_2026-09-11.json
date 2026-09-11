@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-11T09:47:27.282789+00:00",
+  "last_update": "2026-09-11T13:52:18.162995+00:00",
   "outages": [
     {
       "type": "planned",
@@ -900,6 +900,36 @@
       "end_time": "2026-09-17T17:00:00",
       "original_description": "Gmina Tarnowo Podgórne miejscowość Lusowo ul. Kopy, ul. Kluczyka, ul. Plucińskiego, ul. Ratajczaka (oprócz 6, 16, 20, 24, , ul. Serdeckiego, ul. Pniewskiego, ul. Czeszewskiego, ul. Spychały, ul. Adamskiego, \n\nmiejscowość Tarnowo Podgórne ul. Poznańska od 12 do 19, 21, 23, 25,  27, działki nr 476/5, 676/5, 692/2, 693/3, 764/7, 755, bramownica, kładka dla pieszych, przepompownia, Okręgowa Stacja Kontroli Pojazdów Aliwojtrans,  Gospodarstwo Sadwnicze,",
       "id": "ebb747c0d0298f33f0660eadfc3d771d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Cześnikowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-326, Polska",
+      "lat": 52.4019434,
+      "lon": 16.8694828,
+      "start_time": "2026-09-18T08:30:00",
+      "end_time": "2026-09-18T10:30:00",
+      "original_description": "Poznań: ul. Podkomorska od 32 do 48, 50, 52, 52A, ul. Cześnikowska 45, ul. Marszałkowska 12A, 14, 16, od 18 do 38 parzyste, 38A.",
+      "id": "9bb6405edd4cd7211737e1300de07acf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Marszałkowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-327, Polska",
+      "lat": 52.4003519,
+      "lon": 16.8670496,
+      "start_time": "2026-09-18T08:30:00",
+      "end_time": "2026-09-18T10:30:00",
+      "original_description": "Poznań: ul. Podkomorska od 32 do 48, 50, 52, 52A, ul. Cześnikowska 45, ul. Marszałkowska 12A, 14, 16, od 18 do 38 parzyste, 38A.",
+      "id": "7a10f2437f947a8479c788a7d333efb2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podkomorska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-327, Polska",
+      "lat": 52.4012336,
+      "lon": 16.8681331,
+      "start_time": "2026-09-18T08:30:00",
+      "end_time": "2026-09-18T10:30:00",
+      "original_description": "Poznań: ul. Podkomorska od 32 do 48, 50, 52, 52A, ul. Cześnikowska 45, ul. Marszałkowska 12A, 14, 16, od 18 do 38 parzyste, 38A.",
+      "id": "6f9a31e8437f728c80455579ab61a9ca"
     },
     {
       "type": "planned",
