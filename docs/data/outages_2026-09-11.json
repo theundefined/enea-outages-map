@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-11T17:28:59.933741+00:00",
+  "last_update": "2026-09-11T19:58:18.727067+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1310,6 +1310,26 @@
       "end_time": "2026-09-11T08:30:00",
       "original_description": "Poznań ul. Chwaliszewo 64, ul. Tylne Chwaliszewo 26 A.",
       "id": "49ad8b8bcf71567e01d2e7c99c9dd605"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dojazd, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-631, Polska",
+      "lat": 52.433952,
+      "lon": 16.8977348,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-11T22:30:00",
+      "original_description": "Poznań ul. Dojazd 34.",
+      "id": "842234ddad1fa5bcccfba26869fd2fdd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dojazd, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-631, Polska",
+      "lat": 52.433952,
+      "lon": 16.8977348,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-12T00:00:00",
+      "original_description": "Poznań ul. Dojazd 30, 34, DZ.76, DZIALKA, DZIAŁKA 87, DZIAŁKI.",
+      "id": "99c6a1a8478bd63d5f6d49d0ea1d4939"
     }
   ]
 }
