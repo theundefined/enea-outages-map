@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-12T04:52:12.654986+00:00",
+  "last_update": "2026-09-12T08:59:47.365207+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1043,6 +1043,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
+      "lat": 52.4074553,
+      "lon": 16.9131949,
+      "start_time": "2026-09-23T08:00:00",
+      "end_time": "2026-09-23T15:00:00",
+      "original_description": "Miasto Sieraków ul. Dworcowa od 5 do 27, 35, 41, ul. Poznańska 25, ul. Bohaterów od 1 do 16, działki nr 1571, 1576/3, 1576/7, hala widowiskowo-sportowa, Szkoła Podstawowa, Sierakowski Ośrodek Kultury, market DINO, Sierakowski Klub Sportowy WARTA,",
+      "id": "8dd32965a170affda8336b6db37e2317"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Bohaterów II Wojny Światowej, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3829007,
+      "lon": 16.9499342,
+      "start_time": "2026-09-23T08:00:00",
+      "end_time": "2026-09-23T15:00:00",
+      "original_description": "Miasto Sieraków ul. Dworcowa od 5 do 27, 35, 41, ul. Poznańska 25, ul. Bohaterów od 1 do 16, działki nr 1571, 1576/3, 1576/7, hala widowiskowo-sportowa, Szkoła Podstawowa, Sierakowski Ośrodek Kultury, market DINO, Sierakowski Klub Sportowy WARTA,",
+      "id": "b08fbfb07067199c7116baa96d585791"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-09-23T08:00:00",
+      "end_time": "2026-09-23T15:00:00",
+      "original_description": "Miasto Sieraków ul. Dworcowa od 5 do 27, 35, 41, ul. Poznańska 25, ul. Bohaterów od 1 do 16, działki nr 1571, 1576/3, 1576/7, hala widowiskowo-sportowa, Szkoła Podstawowa, Sierakowski Ośrodek Kultury, market DINO, Sierakowski Klub Sportowy WARTA,",
+      "id": "d73b6dfd6c6731b6b74534c4d0ec6ded"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Górnicza, Górczyn, Poznań, województwo wielkopolskie, 60-107, Polska",
       "lat": 52.3841136,
       "lon": 16.8731753,
@@ -1280,6 +1310,16 @@
       "end_time": "2026-09-12T08:00:00",
       "original_description": "Poznań ul. Dojazd 34.",
       "id": "0d892ec88c9d414d7857432eeea4fd87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dojazd, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-631, Polska",
+      "lat": 52.433952,
+      "lon": 16.8977348,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-12T12:30:00",
+      "original_description": "Poznań ul. Dojazd 34.",
+      "id": "5da9cb365cf4d450fbc821ae8346f7f2"
     }
   ]
 }
