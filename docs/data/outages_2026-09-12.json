@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-12T12:48:01.504454+00:00",
+  "last_update": "2026-09-12T15:52:25.989024+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1330,6 +1330,16 @@
       "end_time": "2026-09-12T16:00:00",
       "original_description": "Poznań ul. Dojazd 34.",
       "id": "818ad310420636f59966b3efbab088c5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dojazd, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 60-631, Polska",
+      "lat": 52.433952,
+      "lon": 16.8977348,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-12T19:00:00",
+      "original_description": "Poznań ul. Dojazd 34.",
+      "id": "d30ee8ca6dfcc62bc2107b7d8a9f169d"
     }
   ]
 }
