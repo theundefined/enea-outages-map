@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-15T15:05:19.145336+00:00",
+  "last_update": "2026-09-15T18:55:48.543371+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1700,6 +1700,116 @@
       "end_time": "2026-09-15T19:30:00",
       "original_description": "Poznań ul. Garaszewo 5.",
       "id": "4141fc8cc268c0e561b4053cafbca112"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T22:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "8c595fa97b96d9d3ea28946ac245a940"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Konarzewska, Górczynek, Górczyn, Poznań, województwo wielkopolskie, 60-102, Polska",
+      "lat": 52.3702214,
+      "lon": 16.8693933,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "9c94bdbe823e41a2a4e909f221d9385c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Alfonsa Majcherka, Dopiewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.3674609,
+      "lon": 16.6746721,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "62ab992e0855b7e903dc790942fd34bf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pogodna, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-137, Polska",
+      "lat": 52.3878732,
+      "lon": 16.8760061,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "b33403e0596e34f980dc93b506178b7b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
+      "lat": 52.4108266,
+      "lon": 16.8955491,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "933688d9efbcafb54890c368fa6bf195"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "7bf7302ad9bc2932e790616505acc9b2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sokołów, Dopiewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.357821,
+      "lon": 16.6806191,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "3d148e0f67f7d2c15a59f358d9dd5201"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "2fbdc9ae5c49ea76e3a78e6add0c7820"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wierzbowa, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-853, Polska",
+      "lat": 52.4044486,
+      "lon": 16.9411863,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "b9189e8ba644066cb12007656701faca"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
+      "lat": 52.4073247,
+      "lon": 16.9364678,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "b2fb1242e788661a301556b93557b620"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
+      "lat": 52.4017012,
+      "lon": 16.9322223,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-15T23:00:00",
+      "original_description": "Dopiewiec ul. Polna 2, 4, ul. Szkolna 2, 3, 42, 46, 48, 50, 54, 54A, 63, ul. Wierzbowa 18, Dopiewo ul. Konarzewska 12, 13, 14, 16, ul. ks. Alfonsa Majcherka 1, 10, 11, 11/a, 12, 13, 16a, 2, 3, 4, 5, 7, ul. Łąkowa 15, 17, 2, 4, 4 A, 4/a, 5, 5A, 6, 7, 8, ul. Pogodna 11, 13, 15, 17, 19, 21, 23, 25, 27, 5, 6, 7, 9, 9A, DZ.151/9, ul. Poznańska 18, 19, 20/a, 20B, 21, 23, 24, 27, 29, 41, 59, 60, 62, 63, ul. Sokołów 14, 14A, 16, 17, 18, 18A, 22, 23, 24, 25, 7, 8, 9, ul. Szkolna 2, ul. Wodna 1, 10, 13, 14, 16, 18, 1A, 1B, 2, 3, 4, 7, 8, 9.",
+      "id": "bb20aaf9d472e8cbaeb33e8177d67235"
     }
   ]
 }
