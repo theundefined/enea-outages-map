@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-16T08:49:33.981509+00:00",
+  "last_update": "2026-09-16T13:46:00.215490+00:00",
   "outages": [
     {
       "type": "planned",
@@ -653,6 +653,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Krośniewicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.411066,
+      "lon": 17.0386179,
+      "start_time": "2026-09-24T07:00:00",
+      "end_time": "2026-09-24T16:00:00",
+      "original_description": "Poznań: ul. Warszawska od 361 do 367 nieparzyste, parking, ul. Krośniewicka.",
+      "id": "81eaf2ccdb5ab6d8c0998fdda8bfc8d0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "2026-09-24T07:00:00",
+      "end_time": "2026-09-24T16:00:00",
+      "original_description": "Poznań: ul. Warszawska od 361 do 367 nieparzyste, parking, ul. Krośniewicka.",
+      "id": "3626d3091da04d4c33ba73b7f5e6379b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
       "lat": 52.4159569,
       "lon": 17.0325761,
@@ -710,6 +730,26 @@
       "end_time": "2026-09-24T14:30:00",
       "original_description": "Poznań: ul. Górnicza od 2/39 do 2/41, od 2/51 do 2/61, od 2/67 do 2/78, 2/100, 2/103, 2/106, 2/107, 2/108, 2/108A, 2/125, 2/133.",
       "id": "36dafb46d179287f07c25e5edfd89984"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczawnicka, Strzeszyn Grecki, Poznań, województwo wielkopolskie, 60-476, Polska",
+      "lat": 52.4395751,
+      "lon": 16.8889144,
+      "start_time": "2026-09-24T08:30:00",
+      "end_time": "2026-09-24T14:30:00",
+      "original_description": "Poznań ul. Szczawnicka 92, 94, ul. Tylicka 1",
+      "id": "61b34b6686e83003f34b50e25e41a734"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tylicka, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-466, Polska",
+      "lat": 52.4541069,
+      "lon": 16.8736876,
+      "start_time": "2026-09-24T08:30:00",
+      "end_time": "2026-09-24T14:30:00",
+      "original_description": "Poznań ul. Szczawnicka 92, 94, ul. Tylicka 1",
+      "id": "dd38cf7de38dd3830f9895fac010b738"
     },
     {
       "type": "planned",
@@ -1100,6 +1140,16 @@
       "end_time": "2026-09-16T13:00:00",
       "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
       "id": "9721dd0832ed4f5ecbc0e6a230c58a8a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T16:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "e597e2d639264c7577e9d7336a1e596a"
     }
   ]
 }
