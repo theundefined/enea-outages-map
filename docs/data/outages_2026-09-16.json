@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-16T03:32:50.166703+00:00",
+  "last_update": "2026-09-16T08:49:33.981509+00:00",
   "outages": [
     {
       "type": "planned",
@@ -883,6 +883,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3662503,
+      "lon": 16.9949315,
+      "start_time": "2026-09-30T08:30:00",
+      "end_time": "2026-09-30T13:30:00",
+      "original_description": "Poznań: ul. Ostrowska od 474 do 480 parzyste, 500, 502, 503.",
+      "id": "f12cf509af4c010f91a4ecf3483b332b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
       "lat": 52.3656758,
       "lon": 16.9061644,
@@ -920,6 +930,176 @@
       "end_time": "2026-09-16T06:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "20af8b8f3e11a2c83c69f4af915f46e1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T12:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "924d97651afa5f13d00dfad2c49f1ff3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
+      "lat": 52.4063647,
+      "lon": 16.9116898,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T12:30:00",
+      "original_description": "Poznań ul. Bukowska 177, 235, 237.",
+      "id": "68780209057f75ce904ec81fe516ff8e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "11, Plac Światowida, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3914007,
+      "lon": 16.8431306,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "81be9354ecc04a5fa346c56b5b3bbf39"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Budziszyńska, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.392912,
+      "lon": 16.8416191,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "86ffd850889628bd981ee0b6a4e72423"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bułgarska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-325, Polska",
+      "lat": 52.3962032,
+      "lon": 16.8622017,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "0f4762b90badec7c537599f7da9c45b5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziewińska, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3928746,
+      "lon": 16.8395384,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "c771cd60cba292384f83c08ef31050b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Figowa, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4632837,
+      "lon": 16.9586506,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Skrzynki ul. Figowa 15A, 17, 19, 21, 3, 6, ul. Poznańska 1, 1 H, 189, 2, 3, 4, 5, 5C, 5E.",
+      "id": "2525a069b987f0268e1d3bf7e8ab7b2a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jawornicka, Junikowo, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.389702,
+      "lon": 16.8538982,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "b407ca81e5011a58782c49efa677740b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeleniogórska, Junikowo, Poznań, województwo wielkopolskie, 60-179, Polska",
+      "lat": 52.3909845,
+      "lon": 16.8482938,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "4e7f7e8e5dd0538f904dbf011e83258f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kamiennogórska, Junikowo, Poznań, województwo wielkopolskie, 60-179, Polska",
+      "lat": 52.3932818,
+      "lon": 16.8475005,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "6f5123b46a320d6628f732470c890372"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mariana Smoluchowskiego, Junikowo, Poznań, województwo wielkopolskie, 60-318, Polska",
+      "lat": 52.3925047,
+      "lon": 16.8507566,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "eecabeab5a2399977bebdf2abe308736"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Perłowska, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-184, Polska",
+      "lat": 52.4058669,
+      "lon": 16.8273812,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "bacedd3e7a23a6142129223234f0dd7b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Skrzynki ul. Figowa 15A, 17, 19, 21, 3, 6, ul. Poznańska 1, 1 H, 189, 2, 3, 4, 5, 5C, 5E.",
+      "id": "b54fa4d8c84b23cb7b3bab3810449756"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Smardzewska, Osiedle Mikołaja Kopernika, Grunwald Południe, Poznań, województwo wielkopolskie, 60-159, Polska",
+      "lat": 52.3895154,
+      "lon": 16.859701,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "c68cbd9c9567cf6e3fcbe3687574b7e5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Srebrna, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3902532,
+      "lon": 16.8418332,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "bd90fe20619e1ec8b0de06b522a71cdb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Węgorka, Junikowo, Poznań, województwo wielkopolskie, 60-318, Polska",
+      "lat": 52.3950086,
+      "lon": 16.8542157,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "32f7e7478135a0e2c8c6e3c196a9c1c5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ścinawska, Junikowo, Poznań, województwo wielkopolskie, 60-178, Polska",
+      "lat": 52.3890366,
+      "lon": 16.8423071,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-16T13:00:00",
+      "original_description": "Poznań pl. Światowida 11, 13, 15, 21, 25, 5, 7 BUDOWA, 9, ul. Budziszyńska 29, 33, 41, 46, 46A, 47, 47A, 48, 48A, 49, 50, 50A, 51, 51A, 52, 52A, 53, 54, 55, 56, 57, 57A, 58, 59, 59A, 60, 61, 61A, 62, 63, 63A, 64, 65, 65A, 66, 67, 67A, 68, 69, 70, 70A, 71, 72, 72A, 73, 74, 75, 75A, 78, 80, 82, ul. Bułgarska 59A, ul. Dziewińska 40, 41, 42, 43, 44, 45, 45A, 46, 46A, 47, 48, 49, 49A, 50, 51, 52, 53, 55, 57, ul. Jawornicka 5, 5 B, 5A, 5B, 5C, 5D, ul. Jeleniogórska 1, 1/3, 1/3 E, 1/3B, 1/3C, 1/3E, 10, 14, 14/ADM1.2, 14/ADM2.1, 18B, 5, 7, 7 A, 7 A/ U 10, 7 A/ U 12, 7 A/ U 5, 7 A/ U 9, 7 U 11, 7A, 8, ADM, ul. Kamiennogórska 5, 5 LOK. 1, 5A, 5B, 5C, 5D, 5E, 7, 9, 9/ U 1, 9/ U 2, 9/ U 3, 9/ U 4, 9/ U 5, ul. Mariana Smoluchowskiego 11, 22, 22 A, 22A, 3F, 3G, ul. Perłowska 21, ul. Smardzewska 5, 6, 6 A, 6 B, 6A, 6B, 7, 7 KL.A, ul. Srebrna 11, 9, ul. Ścinawska 46A, ul. Władysława Węgorka 20B, 22, FORTVIII.",
+      "id": "9721dd0832ed4f5ecbc0e6a230c58a8a"
     }
   ]
 }
