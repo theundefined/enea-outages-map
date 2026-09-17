@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-17T16:53:56.978939+00:00",
+  "last_update": "2026-09-17T19:58:44.520356+00:00",
   "outages": [
     {
       "type": "planned",
@@ -920,6 +920,16 @@
       "end_time": "2026-09-17T20:30:00",
       "original_description": "Pakszyn, Czerniejewo os. Działkowe 1, 2, 3, 4, 5, 6, 7, dz. 363, ul. Gnieźnieńska 13, 3, ul. Gospodarcza 7, ul. Poznańska 46B, 46E, dz. 521/15, ul. Wrzesińska 1, 10, 2, 3, 3/A, 4, 5, 500, 7, 7A, cmentarz.",
       "id": "fa10723b3476f26080ced634ea5f47da"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T22:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "d70a9864fc70238bb89d47e6da956e51"
     }
   ]
 }
