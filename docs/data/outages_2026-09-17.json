@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-17T01:29:12.140550+00:00",
+  "last_update": "2026-09-17T06:34:06.863168+00:00",
   "outages": [
     {
       "type": "planned",
@@ -703,6 +703,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Antoniego Gołubiewa, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4532881,
+      "lon": 16.8613767,
+      "start_time": "2026-09-29T08:30:00",
+      "end_time": "2026-09-29T15:30:00",
+      "original_description": "Poznań: ul. Gołubiewa 2, ul. Kasprowicza od 17 do 23 nieparzyste, ul. Irzykowskiego 6, 7, 8, 9.",
+      "id": "5fa381b2ef7626eefeae4a9d7af25d15"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Karola Irzykowskiego, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
+      "lat": 52.4542025,
+      "lon": 16.8611489,
+      "start_time": "2026-09-29T08:30:00",
+      "end_time": "2026-09-29T15:30:00",
+      "original_description": "Poznań: ul. Gołubiewa 2, ul. Kasprowicza od 17 do 23 nieparzyste, ul. Irzykowskiego 6, 7, 8, 9.",
+      "id": "a0b48d9798c43f5fa1e418c100fc610c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park Jana Kasprowicza, Łazarz, Poznań, województwo wielkopolskie, 60-235, Polska",
+      "lat": 52.3964266,
+      "lon": 16.8923356,
+      "start_time": "2026-09-29T08:30:00",
+      "end_time": "2026-09-29T15:30:00",
+      "original_description": "Poznań: ul. Gołubiewa 2, ul. Kasprowicza od 17 do 23 nieparzyste, ul. Irzykowskiego 6, 7, 8, 9.",
+      "id": "ffce15f55e0b5b580a7839e4e057f8eb"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
       "lat": 52.3662503,
       "lon": 16.9949315,
@@ -750,6 +780,26 @@
       "end_time": "2026-09-17T04:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "f1268c75f194dac837e3c47a1b971a83"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T09:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "fbe6b864da085cacecf0a182975d3bfe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T10:30:00",
+      "original_description": "Tarnowo Podgórne ul. Poznańska 12, 13, 14, 15, 16D, 17, 18, 19, 21, 27, dz 692/2.",
+      "id": "8bd98c3a72af4ea9c419524cebde0c38"
     }
   ]
 }
