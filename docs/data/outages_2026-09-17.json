@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-17T12:01:08.354370+00:00",
+  "last_update": "2026-09-17T16:53:56.978939+00:00",
   "outages": [
     {
       "type": "planned",
@@ -860,6 +860,66 @@
       "end_time": "2026-09-17T13:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "108168b37a79dc6674938415e27ab133"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T19:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "6a2657c804421475e91e02fb11eb206f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gnieźnieńska, Główna, Poznań, województwo wielkopolskie, 61-015, Polska",
+      "lat": 52.4237511,
+      "lon": 16.9882301,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T20:30:00",
+      "original_description": "Pakszyn, Czerniejewo os. Działkowe 1, 2, 3, 4, 5, 6, 7, dz. 363, ul. Gnieźnieńska 13, 3, ul. Gospodarcza 7, ul. Poznańska 46B, 46E, dz. 521/15, ul. Wrzesińska 1, 10, 2, 3, 3/A, 4, 5, 500, 7, 7A, cmentarz.",
+      "id": "524b840209319199f3d960281ef643ce"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gospodarcza, Biskupice, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4616739,
+      "lon": 17.1909354,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T20:30:00",
+      "original_description": "Pakszyn, Czerniejewo os. Działkowe 1, 2, 3, 4, 5, 6, 7, dz. 363, ul. Gnieźnieńska 13, 3, ul. Gospodarcza 7, ul. Poznańska 46B, 46E, dz. 521/15, ul. Wrzesińska 1, 10, 2, 3, 3/A, 4, 5, 500, 7, 7A, cmentarz.",
+      "id": "dba7d69906d54809393ad3fe9cf4d2b0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ogródki działkowe \"Pod Lipami\", Krzesiny, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3355714,
+      "lon": 16.9953324,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T20:30:00",
+      "original_description": "Pakszyn, Czerniejewo os. Działkowe 1, 2, 3, 4, 5, 6, 7, dz. 363, ul. Gnieźnieńska 13, 3, ul. Gospodarcza 7, ul. Poznańska 46B, 46E, dz. 521/15, ul. Wrzesińska 1, 10, 2, 3, 3/A, 4, 5, 500, 7, 7A, cmentarz.",
+      "id": "fc63a1e4076fce189e367186764e32f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T20:30:00",
+      "original_description": "Pakszyn, Czerniejewo os. Działkowe 1, 2, 3, 4, 5, 6, 7, dz. 363, ul. Gnieźnieńska 13, 3, ul. Gospodarcza 7, ul. Poznańska 46B, 46E, dz. 521/15, ul. Wrzesińska 1, 10, 2, 3, 3/A, 4, 5, 500, 7, 7A, cmentarz.",
+      "id": "cc25bb418b9eb6074395df161510eacb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wrzesińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4193337,
+      "lon": 16.9765039,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-17T20:30:00",
+      "original_description": "Pakszyn, Czerniejewo os. Działkowe 1, 2, 3, 4, 5, 6, 7, dz. 363, ul. Gnieźnieńska 13, 3, ul. Gospodarcza 7, ul. Poznańska 46B, 46E, dz. 521/15, ul. Wrzesińska 1, 10, 2, 3, 3/A, 4, 5, 500, 7, 7A, cmentarz.",
+      "id": "fa10723b3476f26080ced634ea5f47da"
     }
   ]
 }
