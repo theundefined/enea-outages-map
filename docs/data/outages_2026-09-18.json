@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-18T05:17:48.252150+00:00",
+  "last_update": "2026-09-18T09:52:39.044361+00:00",
   "outages": [
     {
       "type": "planned",
@@ -563,6 +563,56 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Jarowa, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4659375,
+      "lon": 16.952938,
+      "start_time": "2026-09-30T08:00:00",
+      "end_time": "2026-09-30T14:00:00",
+      "original_description": "Poznań: ul. Radłowa od 7 do 29 nieparzyste, 14, 16, 18, dz. 105/15, dz. 105/14, ul. Jarowa od 16 do 32 parzyste, od 17 do 31 nieparzyste, ul. Kresowa 36, ul. Poręba 35.",
+      "id": "aa4cefa8697b92440591122435294b58"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kresowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4674908,
+      "lon": 16.9524778,
+      "start_time": "2026-09-30T08:00:00",
+      "end_time": "2026-09-30T14:00:00",
+      "original_description": "Poznań: ul. Radłowa od 7 do 29 nieparzyste, 14, 16, 18, dz. 105/15, dz. 105/14, ul. Jarowa od 16 do 32 parzyste, od 17 do 31 nieparzyste, ul. Kresowa 36, ul. Poręba 35.",
+      "id": "e5e797b0b80bfa8943011451ab4cadbf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-09-30T08:00:00",
+      "end_time": "2026-09-30T14:00:00",
+      "original_description": "Poznań: ul. Piątkowska od 181 do 197 nieparzyste, 211.",
+      "id": "b44f48a3dc09a3bcc0d36574e5b68775"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poręba, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4669167,
+      "lon": 16.9516911,
+      "start_time": "2026-09-30T08:00:00",
+      "end_time": "2026-09-30T14:00:00",
+      "original_description": "Poznań: ul. Radłowa od 7 do 29 nieparzyste, 14, 16, 18, dz. 105/15, dz. 105/14, ul. Jarowa od 16 do 32 parzyste, od 17 do 31 nieparzyste, ul. Kresowa 36, ul. Poręba 35.",
+      "id": "9204a54f8279832554f3ab1e8b234e50"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radłowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4681488,
+      "lon": 16.9551277,
+      "start_time": "2026-09-30T08:00:00",
+      "end_time": "2026-09-30T14:00:00",
+      "original_description": "Poznań: ul. Radłowa od 7 do 29 nieparzyste, 14, 16, 18, dz. 105/15, dz. 105/14, ul. Jarowa od 16 do 32 parzyste, od 17 do 31 nieparzyste, ul. Kresowa 36, ul. Poręba 35.",
+      "id": "3df4c5a0a07caadd343c53558b5f6e70"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
       "lat": 52.3662503,
       "lon": 16.9949315,
@@ -652,6 +702,26 @@
       "id": "f2475b30baababf8c520d11b46a45296"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Deszczowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4688535,
+      "lon": 16.906224,
+      "start_time": "2026-10-06T08:30:00",
+      "end_time": "2026-10-06T12:30:00",
+      "original_description": "Poznań: ul. Nad Różanym Potokiem od 1 do 17 nieparzyste, od 2 do 6 parzyste, ul. Deszczowa dz. 347/1, garaże.",
+      "id": "6a503a6d3f671657683637004714a44c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nad Różanym Potokiem, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4723652,
+      "lon": 16.9060891,
+      "start_time": "2026-10-06T08:30:00",
+      "end_time": "2026-10-06T12:30:00",
+      "original_description": "Poznań: ul. Nad Różanym Potokiem od 1 do 17 nieparzyste, od 2 do 6 parzyste, ul. Deszczowa dz. 347/1, garaże.",
+      "id": "39d8ff9bb958d1bba684bbf621f8d377"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Osiedle Czecha, Chartowo, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3850099,
@@ -690,6 +760,16 @@
       "end_time": "2026-09-18T08:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "ea9c45d06c910739bb7c14b41a3618a4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-18T12:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "7f8ad8590ea9d8f95134e7a033372291"
     }
   ]
 }
