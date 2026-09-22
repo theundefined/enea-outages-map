@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-22T06:18:41.033875+00:00",
+  "last_update": "2026-09-22T11:50:32.430021+00:00",
   "outages": [
     {
       "type": "planned",
@@ -843,6 +843,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Piątkowo Północ, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4626619,
+      "lon": 16.9079299,
+      "start_time": "2026-10-03T08:00:00",
+      "end_time": "2026-10-03T14:00:00",
+      "original_description": "Poznań: os. Sobieskiego 42A, 43, 44, 108, 109.",
+      "id": "7cde36696a82b30609c5baccb3c88f94"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Metalowa, Górczyn, Poznań, województwo wielkopolskie, 60-118, Polska",
       "lat": 52.3810316,
       "lon": 16.8861837,
@@ -900,6 +910,236 @@
       "end_time": "2026-10-07T14:30:00",
       "original_description": "Poznań: ul. Rumiankowa od 6 do 20 parzyste, ul. Laurowa 21, 24, od 32 do 36 parzyste, dz. 118/11, dz. 118/13.",
       "id": "73fa3588f1a5f21b364938ff5be6f70f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-10-07T09:00:00",
+      "end_time": "2026-10-07T14:00:00",
+      "original_description": "Miasto Stęszew ul. Poznańska 22, 22A, hala widowiskowo-sportowa, działki nr 860/4,",
+      "id": "17ef82827dda5a80e66735287d3996bb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ametystowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4718819,
+      "lon": 16.9566257,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "3613bce42bcdec425546aec141ba5329"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Andrzeja Radomickiego, Konarzewo, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-070, Polska",
+      "lat": 52.3460093,
+      "lon": 16.7203929,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "18391bac200508f13ac6a08658306f7d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Diamentowa, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.4710574,
+      "lon": 16.9592338,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "ad0d69b618f2c3af99fa67ab5a793a9d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Fiołkowa, Wilda, Poznań, województwo wielkopolskie, 61-478, Polska",
+      "lat": 52.3747467,
+      "lon": 16.9076006,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "156fd572b3a9ace29d4b2b13c93536b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Frezjowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3850327,
+      "lon": 16.8274234,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "d29f8bd2a93abeae52a9759a430c2631"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gronowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4290922,
+      "lon": 16.9340357,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "dbdac48bb1601c2f726883d83ec537b7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Irysowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3833989,
+      "lon": 16.8291071,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "be66f6a94a1f1d7ecca6c16397413026"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "188ac1779487ab32cdf64d668ba0b877"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krokusowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3815547,
+      "lon": 16.8283168,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "0a156ccd36bf57c80a8d9227cf42ba62"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
+      "lat": 52.401875,
+      "lon": 16.9312654,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "fa82f7b731480f77a128d56102e223c1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Letnia, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4056993,
+      "lon": 17.0349651,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "bc02bfeaedc5c5feca7284ecaf182a7e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
+      "lat": 52.410976,
+      "lon": 16.9264675,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "b73d9e8c055bd56093d36df8a0972e07"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Platynowa, Swarzędz, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
+      "lat": 52.3951803,
+      "lon": 17.0799658,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "7c32acdeb994d78041e5b373ed8ec616"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Promienista, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-289, Polska",
+      "lat": 52.3939561,
+      "lon": 16.879966,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "1548dc5b1839b07f457ce31706804d6c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spokojna, Umultowo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.4689605,
+      "lon": 16.9485,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "4d0b928f5646294395d524b3f391dcc9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szafirowa, Ogrody, Poznań, województwo wielkopolskie, 60-595, Polska",
+      "lat": 52.4161925,
+      "lon": 16.8721405,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "bcd009322c472d9da902f002a91610df"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
+      "lat": 52.4075185,
+      "lon": 16.9322942,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "10b56569fa654507fda8e29226e20ecd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szmaragdowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4714466,
+      "lon": 16.9578796,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "85c5b9d6591a8dded84f5897340564cc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Topazowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.471966,
+      "lon": 16.9587615,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "0b413e5b6fbcd2eb95aca9e007093c68"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Torfowa, Kopanina, Górczyn, Poznań, województwo wielkopolskie, 60-106, Polska",
+      "lat": 52.3787695,
+      "lon": 16.8599121,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "9e4db8f3a59292fa8df6b0d8efd63967"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tęczowa, Pogodno, Grunwald Południe, Łazarz, Poznań, województwo wielkopolskie, 60-275, Polska",
+      "lat": 52.3924959,
+      "lon": 16.8799077,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "dd7e485dc8e748d63a78acc263c20ae7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wesoła, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4148612,
+      "lon": 16.8745993,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-22T16:00:00",
+      "original_description": "Gołuski ul. Fiołkowa, ul. Irysowa 1, 11, 12, 14, 16, 18, 19, 2, 3, 3A, 4, 5, 6, 7, 7 A, 8, DZ. 163/15, DZ. 163/21, DZ. 163/30, ul. Kwiatowa, ul. Szkolna 2, Konarzewo ul. Ametystowa 1, ul. Andrzeja Radomickiego 1, 13, 15, 3, 5, 7, 9, dz.481/11, ul. Diamentowa 1, 10, 11, 11 A, 12, 12A, 13, 14, 15a, 15B, 16, 17, 18, 19, 2, 20, 21, 21A, 22, 23, 24, 26, 28, 2a, 4, 4 A, 6, 6A, 7A, 8, 9, 9 A, dz.394/4, lok.1, ul. Frezjowa 1, 11, 17, 19, 27, 29, 31, 7, 9, ul. Gronowa 4, 5, ul. Kościelna, ul. Krokusowa 10, 4, 6, 8, ul. Letnia 11, 12, 13, 15, 17, 29, 31, 33, 4, 5, 6A, dz. 501/15, dz.501/18, DZ.508/2, ul. Młyńska 10, 11, 12, 16, 18, 2, 20, 20/A, 21, 25, 28, 2A, 2B, 3, 31, 32, 33, 35, 39, 4, 43, 45, 47, 4A, 5, 6, 7, 8, 9, ul. Platynowa 10, 13, 14, 16, 18, 19, 21, 23, 25, 27B, 29, 4, 5, 6, 7, 9, 9A, dz.394/10, DZ.407/2, ul. Spokojna 1, 12, 2, 3, 4, 5, 6, 7, ul. Szafirowa 1, 10, 12, 14, 16, 17, 18, 19, 1C, 20, 21, 22, 23, 24, 25, 26, 27, 28, 30, 30/1, 31, 32, 33, 34, 35, 36, 38, 4, 40, 41, 43, 44, 46, 48, 6, 8, dz.480/12, dz.480/69, ul. Szkolna 1, 10, 11, 12, 13, 14, 16, 16/a, 17, 18, 2, 20, 24, 25, 26, 28, 29, 3, 30, 31, 32, 33, 33/A, 34, 35, 38, 39, 40, 41 A, 43, 43A, 46, 47 A, 47B, 49, 5, 51, 52, 54, 55, 56, 57, 6, 60, 64, 65, 7, 8, 80, 82, 84, 86, 9, 92, DZ 369/4, dz.457/4, dz.486/1, dz.486/4, dz.610, ul. Szmaragdowa 4, 6, ul. Tęczowa 10, ul. Topazowa 13, 5, 7, 9, ul. Torfowa 1, ul. Wesoła 1, 2, 3, 6, 8, dz.457/8, Poznań ul. Promienista 95.",
+      "id": "fb1c8a2f82971ef5bc0cff1b565e7f6f"
     }
   ]
 }
