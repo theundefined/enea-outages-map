@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-24T05:11:02.815819+00:00",
+  "last_update": "2026-09-24T10:06:45.089724+00:00",
   "outages": [
     {
       "type": "planned",
@@ -313,6 +313,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "2026-09-29T08:00:00",
+      "end_time": "2026-09-29T16:00:00",
+      "original_description": "Poznań: ul. Głogowska 15, ul. Zachodnia 1, Dworzec Zachodni.",
+      "id": "a07679c0c92317cac7cc9d6fc110a6e7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zachodnia, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4014513,
+      "lon": 16.9098439,
+      "start_time": "2026-09-29T08:00:00",
+      "end_time": "2026-09-29T16:00:00",
+      "original_description": "Poznań: ul. Głogowska 15, ul. Zachodnia 1, Dworzec Zachodni.",
+      "id": "171995a5a250a1cd6a743a3b07494b66"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Głęboka, Górna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-563, Polska",
       "lat": 52.3966355,
       "lon": 16.9258333,
@@ -600,6 +620,26 @@
       "end_time": "2026-09-30T16:00:00",
       "original_description": "Poznań: ul. Głogowska 17, 19, 21, 26.",
       "id": "34d255671351084efff4b339a1c31e6b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "2026-09-30T08:00:00",
+      "end_time": "2026-09-30T16:00:00",
+      "original_description": "Poznań: ul. Głogowska 17, 19, 21, 22, 23, 26, ul. Zachodnia 15, 17, 25, 26, 27.",
+      "id": "fb94054010bcd098bc3a725542f9a0b1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zachodnia, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4014513,
+      "lon": 16.9098439,
+      "start_time": "2026-09-30T08:00:00",
+      "end_time": "2026-09-30T16:00:00",
+      "original_description": "Poznań: ul. Głogowska 17, 19, 21, 22, 23, 26, ul. Zachodnia 15, 17, 25, 26, 27.",
+      "id": "1fea0e7e368b170cf16e1b98df6a9ce8"
     },
     {
       "type": "planned",
@@ -983,6 +1023,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-10-08T08:00:00",
+      "end_time": "2026-10-08T15:00:00",
+      "original_description": "Poznań: os. Przyjaźni 1.",
+      "id": "f144730c3b915076b5a6e29f5e5b7ae9"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Garaszewo, Krzesiny-Pokrzywno-Garaszewo, Poznań, województwo wielkopolskie, 61-316, Polska",
       "lat": 52.3500473,
       "lon": 16.9661059,
@@ -1050,6 +1100,16 @@
       "end_time": "2026-10-08T12:30:00",
       "original_description": "Poznań: ul. Pruszkowska, ul. Janowska, ul. Mielecka od 2 do 18A parzyste, od 1 do 17 nieparzyste,  ul. Nowotarska 1, 13, ul. Jarosławska od 2 do 10 parzyste, od 1 do 11 nieparzyste, ul. Garaszewo 35, ul. Krzesiny od 14 do 44 parzyste, 27, 29, 33, 45A, dz. 12.",
       "id": "fd3aba6ed103bfc8db79b6a77a7b47e1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Błażeja, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4602697,
+      "lon": 16.9413042,
+      "start_time": "2026-10-13T08:00:00",
+      "end_time": "2026-10-13T15:00:00",
+      "original_description": "Poznań: ul. Błażeja 14I-J.",
+      "id": "bb437227603ff1f2ddddf402eb23a104"
     },
     {
       "type": "unplanned",
@@ -1130,6 +1190,26 @@
       "end_time": "2026-09-24T08:00:00",
       "original_description": "Poznań ul. Antoniego Małeckiego 1, 10, 11, 12, 12A, 13, 14, 15, 15a, 15A, 16, 17, 18, 18 OFIC., 19, 2, 20, 21, 21 Węzeł, 21/30, 22, 23, 23 KL.S., 23 LOK. 3, 24, 24 A, 24 lok.2, 24A, 25, 25 KL.SC, 26, 27, 28, 28 KL.S, 28/13, 29, 3, 3 OFIC, 31, 31-32 C, 31/32, 32, 33, 34, 35, 36, 37, 38, 4, 4 B, 4C, 5, 6, 7, 8/9, ul. Gąsiorowskich 10, 11, 12, 3, 4, 5, 5A, 6, 7, 8, 9, 9-lok.2, ul. Głogowska /DW.ZACHOD, /Glinianki, /Kotowo, /Opłotki, /wiadukt, /ZAŁĘŻE, 10, 100, 100 lok. 3, 101, 102, 103, 104, 105, 106, 106 A, 107, 107/109, 108, 108/5, 109, 111, 113, 113-115, 114, 115, 115 A, 115 lok.11, 115A, 117, 123, 123 KL., 125, 125 LU 1, 126, 128, 131/133, 132, 133, 133A, 14, 141, 142, 142 KLAT, 144, 144-lok.3, 144/2, 144/4, 145, 146, 147, 148, 150, 152, 152/154, 153, 154, 154 A, 154a, 154A, 155, 157, 158, 159, 16, 16 paw 2, 160, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 17, 170, 170A, 171, 172, 173, 173 A, 173A, 173LOK. 2, 174, 174A, 174B, 175, 176, 177, 178, 179, 18, 180, 180A, 181, 181 A, 181A, 181B, 182, 182A, 183, 183 - 185, 184, 184 A, 184A, 185, 187, 187A, 187B, 189, 189 A, 189 B, 189A, 189B, 19, 191, 193, 195, 195 A, 195 AB, 195 B, 195A, 195B, 197, 197 B, 197A, 197B, 19A, 19C, 19E, 211A, 213, 214, 215, 215 A, 215A, 216, 217, 217A, 218, 219, 219 B, 219A, 219C, 221, 223, 223A, 225, 225-lok.2, 227, 227 C, 227A, 227B, 227C, 228/230, 229, 229A, 231, 231A, 232, 233, 233A, 235, 237, 237A, 239, 241, 243, 245, 245A, 247, 249, 251, 251A, 253, 253A, 255, 257, 259, 26, 26 A, 260, 261, 261 A, 261B, 263, 263 A, 263 D, 263A, 263B, 263C, 264, 265, 265 A, 267, 269, 269A, 26A, 27, 27-29, 271, 273, 273A, 275, 277, 277/279, 28, 28-LOK.6, 29, 30, 31, 32, 322, 325, 332, 342, 343, 346A, 348, 35, 35 A, 350, 352, 354, 356, 356 A - P, 356 C, 356 F, 356 H, 356 i, 356 M, 356 P, 356A, 356C, 356D, 356J, 356K, 356N, 358, 35A, 36, 360, 362, 366, 377, 38, 39, 40, 400, 401, 41, 411, 412, 413, 413A, 415, 415A, 419, 420, 421, 421 A, 423, 425, 429, 43, 43 A, 431, 43A, 45, 45a, 45A, 47, 47 B, 47 C, 47 D, 47 E, 47A, 47A-lok.3A, 47B, 47C, 47C/12, 47D, 47E, 48, 48 LOK. 5, 48 lok. 50, 48/50, 49, 50, 51, 53, 54, 55, 55/57, 56, 58, 58 LOK.3, 59, 60, 61, 62, 62 lok.4, 63, 64, 64A, 65, 65/23, 65/48, 66, 66/8B, 66/8C, 67, 68, 69, 69/16, 69/24 A, 70, 71, 71/9, 72, 73, 74, 74/2, 75, 76, 76 lok.2, 77, 78, 79, 79 /4, 79 KL.SC, 79-SKLEP, 80, 80 KL.S, 80 SKL., 80 W-T, 82, 82/D, 82E, 84, 84 lok. 3A, 84 PRZY, 84/4, 84/5, 85, 85 KL.S, 86, 86 KL.S, 86A, 87, 87 KL., 87 OFIC, 88, 88A, 89, 89 b, 89 B, 89A, 89B, 90, 91, 91 A, 91A, 91B, 91C, 92, 93, 93 GRAW, 93 KL.S, 93 PODW, 93 SKLEP, 94, 94/3, 95, 95 ADM, 95 KL.S, 96, 97, 98, 99, 99 A, 99a, 99A, DWORZEC, dz.15/10, DZ.15/10.",
       "id": "74b3c1bc6f8467bf4419f36b0bd85c9e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-24T13:30:00",
+      "original_description": "Poznań ul. Naramowicka 283.",
+      "id": "f20b131cedfb5d90faa2514ca68ae6ee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Glebowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
+      "lat": 52.3551889,
+      "lon": 17.0157795,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-24T14:00:00",
+      "original_description": "Poznań ul. Glebowa 17 A, 17A, 19, 19 A, 19A, 19H, 21, 21 B, 21A, 21C, 23, 23A, 23C, 24, 24 A, 25, 26, 27, 27A, 27C, 28, 29, 29A, 30, 30A, 32, 32 b, 32C, 32D, 34, 34A, 36, 38, 38A, 38b, 38c, 65, dz.3/22,28.",
+      "id": "d05eac93ade5a8069f320630b7ed9b5b"
     }
   ]
 }
