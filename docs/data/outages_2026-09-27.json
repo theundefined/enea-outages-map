@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-09-27T17:37:48.177187+00:00",
+  "last_update": "2026-09-27T20:22:43.834716+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1000,6 +1000,16 @@
       "end_time": "2026-09-27T21:00:00",
       "original_description": "Poznań ul. Słodyńska 5, 7.",
       "id": "7602c2f4a5072ebf6d7c63bc67f83d66"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słodyńska, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764034,
+      "lon": 16.8015936,
+      "start_time": "Brak danych",
+      "end_time": "2026-09-27T22:30:00",
+      "original_description": "Poznań ul. Słodyńska 5, 7.",
+      "id": "2ba9aa89ddf07b1f8480474472823130"
     }
   ]
 }
