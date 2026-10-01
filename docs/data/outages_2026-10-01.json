@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-01T02:22:31.500253+00:00",
+  "last_update": "2026-10-01T09:14:04.510618+00:00",
   "outages": [
     {
       "type": "planned",
@@ -310,6 +310,66 @@
       "end_time": "2026-10-06T14:00:00",
       "original_description": "Gmina Komorniki miejscowość Chomęcice ul. Poznańska od 109 do 125 nr nieparzyste oraz 112, 114, Szkoła Podstawowa, szafa Orange, sygnalizacja świetlna,",
       "id": "fc68b0e94219110471f86a8954be8061"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bażanta, Kliny, gmina Czerwonak, powiat poznański, województwo wielkopolskie, 62-008, Polska",
+      "lat": 52.4773806,
+      "lon": 17.0410692,
+      "start_time": "2026-10-07T08:00:00",
+      "end_time": "2026-10-07T13:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "537f7e8eca1e3bda3deb5068c2c7f535"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krucza, Rataje, Poznań, województwo wielkopolskie, 61-387, Polska",
+      "lat": 52.3844304,
+      "lon": 16.9496195,
+      "start_time": "2026-10-07T08:00:00",
+      "end_time": "2026-10-07T13:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "7cbcbae61dae1d8e0fc04465e4a22b35"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-10-07T08:00:00",
+      "end_time": "2026-10-07T13:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "6176efbe8df7c67abe4c142b0b30eab0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przepiórki, Rakownia, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-095, Polska",
+      "lat": 52.5653197,
+      "lon": 17.0352374,
+      "start_time": "2026-10-07T08:00:00",
+      "end_time": "2026-10-07T13:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "61f62a20019be3664b02155669c8a640"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sokoła, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-653, Polska",
+      "lat": 52.4288613,
+      "lon": 16.9125281,
+      "start_time": "2026-10-07T08:00:00",
+      "end_time": "2026-10-07T13:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "c45a43335b2bceb83c71218d500b5063"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sowia, Miasteczko, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-139, Polska",
+      "lat": 52.3989433,
+      "lon": 16.9567029,
+      "start_time": "2026-10-07T08:00:00",
+      "end_time": "2026-10-07T13:00:00",
+      "original_description": "Kliny: ul. Sokoła, ul. Poznańska dz. 61/2, ul. Bażanta, ul. Przepiórki, ul. Krucza, ul. Sowia.",
+      "id": "bcb22b808386ac5820bca5ddab51cd5c"
     },
     {
       "type": "planned",
@@ -633,6 +693,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Poznańska Ogólnokształcąca Szkoła Muzyczna I st. nr 2 im. Tadeusza Szeligowskiego, Bydgoska, Śródka, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4117665,
+      "lon": 16.9556609,
+      "start_time": "2026-10-07T09:00:00",
+      "end_time": "2026-10-07T15:00:00",
+      "original_description": "gm. Kościan: Kiełczewo ul. Poznańska nr 22, 24, 35, PETER RENZ, PHU JOLMIRS.",
+      "id": "0f133e5d849f093b86397a9ce89460ed"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
       "lat": 52.4313634,
       "lon": 16.9267169,
@@ -740,6 +810,16 @@
       "end_time": "2026-10-08T12:00:00",
       "original_description": "Poznań: ul. Barzyńskiego, ul. Norwida 6, 7, 8, 9, 10, 11, 11A, 13, ul. Poznańska 62.",
       "id": "cb5bd17f07490b4e7f5ce8aa03906a48"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Za Cybiną, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.404675,
+      "lon": 17.0443613,
+      "start_time": "2026-10-09T08:00:00",
+      "end_time": "2026-10-09T13:00:00",
+      "original_description": "Poznań: ul. Za Cybiną.",
+      "id": "b9b91af869cf5ef95f3841f1a310ef06"
     },
     {
       "type": "planned",
@@ -992,6 +1072,96 @@
       "id": "df4087268bdfa089b09b4a479c745ce2"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3925747,
+      "lon": 17.0208852,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Selerowa, ul. Sierpowa od 53 do 57 nieparzyste, ul. Przedpole, ul. Michałowo od 60 do 71, ul. Kobylepole 69.",
+      "id": "fda8a881796dc1f14ab0ccb240eb352c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Selerowa, ul. Sierpowa od 53 do 57 nieparzyste, ul. Przedpole, ul. Michałowo od 60 do 71, ul. Kobylepole 69.",
+      "id": "ec03da1eeaf21a3009a455d990cc4722"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przedpole, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3725965,
+      "lon": 17.0114818,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Selerowa, ul. Sierpowa od 53 do 57 nieparzyste, ul. Przedpole, ul. Michałowo od 60 do 71, ul. Kobylepole 69.",
+      "id": "fdd1a65094fffdeebbbb06b874751e8e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Roślinna, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.365729,
+      "lon": 17.0073943,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Roślinna od 12 do 44 parzyste, ul. Sierpowa 40, ul. Sowice od 33 do 39 nieparzyste.",
+      "id": "4bb4ec77d2558b2235ba187d4a970c6e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Selerowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
+      "lat": 52.3708902,
+      "lon": 17.0126799,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Selerowa, ul. Sierpowa od 53 do 57 nieparzyste, ul. Przedpole, ul. Michałowo od 60 do 71, ul. Kobylepole 69.",
+      "id": "db997ff54adb3b824134c804ca06df5d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sierpowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.367821,
+      "lon": 17.0151878,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Selerowa, ul. Sierpowa od 53 do 57 nieparzyste, ul. Przedpole, ul. Michałowo od 60 do 71, ul. Kobylepole 69.",
+      "id": "95447627ad84e373d96a8ff1d6aa0943"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sierpowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-310, Polska",
+      "lat": 52.367821,
+      "lon": 17.0151878,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Roślinna od 12 do 44 parzyste, ul. Sierpowa 40, ul. Sowice od 33 do 39 nieparzyste.",
+      "id": "0fdb3ba9284a8fb9f1fe8dd10cba5a86"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sowice, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3627333,
+      "lon": 17.0239578,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Roślinna od 12 do 44 parzyste, ul. Sierpowa 40, ul. Sowice od 33 do 39 nieparzyste.",
+      "id": "85f6c9e50818d271ba59db52ceb2a4e4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "2026-10-16T08:30:00",
+      "end_time": "2026-10-16T11:30:00",
+      "original_description": "Poznań: ul. Szczepankowo 63, 63A-D.",
+      "id": "a97b572c506d3e1026c8cf3b4f9629d1"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
       "lat": 52.3913994,
@@ -1030,6 +1200,76 @@
       "end_time": "2026-10-01T05:30:00",
       "original_description": "Poznań ul. Czarnkowska /Budzyńska, 1, 10, 10-12, 11, 13, 14, 16, 16 B, 16A, 17, 17 B, 17A, 17B, 18, 18A, 19, 19A, 19B, 20, 20A, 21, 22, 23, 25, 26, 28, 3, 30, 32, 33, 34, 35, 37, 38, 4, 5, 6, 7, 8, 9, ul. Jana Henryka Dąbrowskiego /CIENISTA, /NAD MIEDZ, /Wichrowa, 1, 1 kl.sch., 10, 100, 102, 102 A, 102A, 104, 104/3, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 117A, 118, 12, 120, 122, 124, 130, 130 B, 130A, 130B, 130C, 132, 134, 136, 137, 138, 139, 14/16, 140, 140/142, 141, 142, 143, 144, 144 A, 144a, 144A, 146, 146A, 147, 149, 15, 151, 152, 152 A, 152A, 153, 154, 154 B, 154A, 155, 156, 158, 158A, 159, 159-paw.1, 159-paw.2, 160, 160A, 160B, 162, 162A, 162B, 163, 164, 165, 168A, 168B, 168C, 169/171, 17, 170, 170 A, 172, 172 KL.SCH, 174-176, 175, 177, 179, 179A, 17a, 17A, 18, 18 lok. 23, 18/8, 181, 181A, 182, 183, 183A, 184, 185, 186, 186A, 187, 188, 189, 190, 191, 192, 192A, 193, 193A, 194, 195, 195A, 196, 196A, 197, 197A, 198, 198A, 199, 20, 20 lok. 22, 20/22, 20/22 A, 20/22 B, 20/22A, 20/22B, 20/22C, 20/22D, 200, 201, 201A, 203, 205, 211, 211A, 213, 213A, 215, 217, 219, 221, 223, 225, 227, 229, 23, 23/6, 23/7A, 23/KOCHAN, 231, 233, 235, 237, 239, 239A, 24, 241, 245, 249, 25, 25 A, 25 LOK.2B, 25-LOK.1, 251, 252, 253, 257, 259, 25a, 25A, 26, 261, 262/280, 263, 263A, 265, 267, 27, 271, 273, 273A, 275, 277, 279, 27A, 27A/6, 28, 281, 281A, 283, 283A, 285, 285A, 287, 287A, 288, 289, 289A, 28a, 28A, 29, 29 A, 29 B, 29 C, 29 D, 29 E, 29 U, 29 U1/B, 29 U1C, 29 U3, 29 U4A, 29 U4B, 29 U4C, 29 U6A, 29/U6c, 290, 291, 291 A, 291 B, 292, 293, 293A, 294, 295, 295A, 296, 296 A, 297, 297A, 298, 299, 29A, 29B, 29C, 29C/1, 29e, 29E, 29LOK U1A, 3, 30, 30 A, 30 B, 30 C, 30/32, 300, 301, 301A, 302, 303, 304, 304A, 305, 306, 306 A, 306A, 307, 308, 309, 309A, 30A, 30B, 30C, 31, 31 B, 310, 312, 313, 315, 316, 316A, 318, 318A, 31A, 31b, 31B, 32, 32 LU-2, 320, 320A, 322, 322 A, 324, 324A, 326, 326A, 328, 328A, 33, 33 lok.4 A, 33 lok.4 B, 33 lok.6, 33 lok.7, 33 lok.8, 33/10A, 330, 332, 332A, 333, 334, 334 A, 336, 339, 34, 341, 343, 345, 349, 35, 35/37, 351, 351 B, 351A, 353, 355, 357, 36, 36/1, 38, 381A, 383, 385, 387, 39, 399, 40, 41, 41A, 42, 425, 427, 43, 431, 435, 437, 439, 44, 441, 445, 447, 449, 449 A, 45, 453, 455, 457, 458, 459, 459 A, 46, 461, 465, 467, 469, 47, 471 A, 472, 473, 475, 479 A, 481, 483, 485, 485 A, 485A, 489, 489/2, 489A, 49, 49 A, 49 B, 49 B/6, 493, 493A, 495, 496, 497, 499, 499A, 49A, 49A KL.SCH, 49B, 49B KL.SCH, 49D, 5, 50, 500, 501, 501A, 503, 505, 506, 507, 509, 51, 511, 513, 515, 517, 52, 525, 527, 529, 529A, 53, 53/55, 53/55 L.27, 531, 531A, 533A, 536, 54, 54/5B, 543, 550, 551, 553, 554, 556, 558, 56, 56 lok. 4, 560, 562, 566, 568, 57, 57/3, 570, 572, 58, 60, 62, 63, 63/1, 63/4A, 64, 64 \"C\", 64 lok.5, 65, 66, 66 kl.sch, 67, 67 B, 67 C, 68, 69, 7, 7 lok. 4, 70, 70 A, 70A, 71, 71 A LOK 1, 71A, 72, 73, 75, 75 lok.82, 75-lok.15, 75/21, 75/22, 75/26, 75/3, 75/40, 75/54, 75/56, 75/58, 75/61, 75/66, 75/67, 75/74, 75/78, 75/83, 75/84, 76, 76 kl.sch., 76 lok. 14, 76/13, 76/16, 78, 79A, 8, 80, 80 lok. 36, 81/85, 82, 82/A/P, 82A, 84, 84 lok.2, 84 lok.3, 86, 86 KL.SCH., 87-89, 88, 89, 9, 9/11, 9/11 KL.SC, 9/11-lok.1, 9/11-lok.2, 90, 92, 92/94, 94, 94 A, 94A, 95, 96, 96 kl.sch., 96A, 97, 97 A, 97 B, 97 C, 97 D, 97A, 97B, 97C, 97D, 97E, 97E/1B, 98, przy 253a, przy 305, RYNEK, ul. Lutycka 1, 11, 113, 115, 123, 3, 31, 34, 34 C, 34 D, 34 E, 34A, 34C, 34D, 34E, 39, 41, 43, 83, 93, 95, 95 A, 97, przy 122.",
       "id": "c2b0ba68131abf0dfc51a95c8f84e5b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czarnkowska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
+      "lat": 52.4333693,
+      "lon": 16.8448723,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-01T11:30:00",
+      "original_description": "Poznań ul. Czarnkowska /Budzyńska, 1, 10, 10-12, 11, 13, 14, 16, 16 B, 16A, 17, 17 B, 17A, 17B, 18, 18A, 19, 19A, 19B, 20, 20A, 21, 22, 23, 25, 26, 28, 3, 30, 32, 33, 34, 35, 37, 38, 4, 5, 6, 7, 8, 9, ul. Jana Henryka Dąbrowskiego /CIENISTA, /NAD MIEDZ, /Wichrowa, 1, 1 kl.sch., 10, 100, 102, 102 A, 102A, 104, 104/3, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 117A, 118, 12, 120, 122, 124, 130, 130 B, 130A, 130B, 130C, 132, 134, 136, 137, 138, 139, 14/16, 140, 140/142, 141, 142, 143, 144, 144 A, 144a, 144A, 146, 146A, 147, 149, 15, 151, 152, 152 A, 152A, 153, 154, 154 B, 154A, 155, 156, 158, 158A, 159, 159-paw.1, 159-paw.2, 160, 160A, 160B, 162, 162A, 162B, 163, 164, 165, 168A, 168B, 168C, 169/171, 17, 170, 170 A, 172, 172 KL.SCH, 174-176, 175, 177, 179, 179A, 17a, 17A, 18, 18 lok. 23, 18/8, 181, 181A, 182, 183, 183A, 184, 185, 186, 186A, 187, 188, 189, 190, 191, 192, 192A, 193, 193A, 194, 195, 195A, 196, 196A, 197, 197A, 198, 198A, 199, 20, 20 lok. 22, 20/22, 20/22 A, 20/22 B, 20/22A, 20/22B, 20/22C, 20/22D, 200, 201, 201A, 203, 205, 211, 211A, 213, 213A, 215, 217, 219, 221, 223, 225, 227, 229, 23, 23/6, 23/7A, 23/KOCHAN, 231, 233, 235, 237, 239, 239A, 24, 241, 245, 249, 25, 25 A, 25 LOK.2B, 25-LOK.1, 251, 252, 253, 257, 259, 25a, 25A, 26, 261, 262/280, 263, 263A, 265, 267, 27, 271, 273, 273A, 275, 277, 279, 27A, 27A/6, 28, 281, 281A, 283, 283A, 285, 285A, 287, 287A, 288, 289, 289A, 28a, 28A, 29, 29 A, 29 B, 29 C, 29 D, 29 E, 29 U, 29 U1/B, 29 U1C, 29 U3, 29 U4A, 29 U4B, 29 U4C, 29 U6A, 29/U6c, 290, 291, 291 A, 291 B, 292, 293, 293A, 294, 295, 295A, 296, 296 A, 297, 297A, 298, 299, 29A, 29B, 29C, 29C/1, 29e, 29E, 29LOK U1A, 3, 30, 30 A, 30 B, 30 C, 30/32, 300, 301, 301A, 302, 303, 304, 304A, 305, 306, 306 A, 306A, 307, 308, 309, 309A, 30A, 30B, 30C, 31, 31 B, 310, 312, 313, 315, 316, 316A, 318, 318A, 31A, 31b, 31B, 32, 32 LU-2, 320, 320A, 322, 322 A, 324, 324A, 326, 326A, 328, 328A, 33, 33 lok.4 A, 33 lok.4 B, 33 lok.6, 33 lok.7, 33 lok.8, 33/10A, 330, 332, 332A, 333, 334, 334 A, 336, 339, 34, 341, 343, 345, 349, 35, 35/37, 351, 351 B, 351A, 353, 355, 357, 36, 36/1, 38, 381A, 383, 385, 387, 39, 399, 40, 41, 41A, 42, 425, 427, 43, 431, 435, 437, 439, 44, 441, 445, 447, 449, 449 A, 45, 453, 455, 457, 458, 459, 459 A, 46, 461, 465, 467, 469, 47, 471 A, 472, 473, 475, 479 A, 481, 483, 485, 485 A, 485A, 489, 489/2, 489A, 49, 49 A, 49 B, 49 B/6, 493, 493A, 495, 496, 497, 499, 499A, 49A, 49A KL.SCH, 49B, 49B KL.SCH, 49D, 5, 50, 500, 501, 501A, 503, 505, 506, 507, 509, 51, 511, 513, 515, 517, 52, 525, 527, 529, 529A, 53, 53/55, 53/55 L.27, 531, 531A, 533A, 536, 54, 54/5B, 543, 550, 551, 553, 554, 556, 558, 56, 56 lok. 4, 560, 562, 566, 568, 57, 57/3, 570, 572, 58, 60, 62, 63, 63/1, 63/4A, 64, 64 \"C\", 64 lok.5, 65, 66, 66 kl.sch, 67, 67 B, 67 C, 68, 69, 7, 7 lok. 4, 70, 70 A, 70A, 71, 71 A LOK 1, 71A, 72, 73, 75, 75 lok.82, 75-lok.15, 75/21, 75/22, 75/26, 75/3, 75/40, 75/54, 75/56, 75/58, 75/61, 75/66, 75/67, 75/74, 75/78, 75/83, 75/84, 76, 76 kl.sch., 76 lok. 14, 76/13, 76/16, 78, 79A, 8, 80, 80 lok. 36, 81/85, 82, 82/A/P, 82A, 84, 84 lok.2, 84 lok.3, 86, 86 KL.SCH., 87-89, 88, 89, 9, 9/11, 9/11 KL.SC, 9/11-lok.1, 9/11-lok.2, 90, 92, 92/94, 94, 94 A, 94A, 95, 96, 96 kl.sch., 96A, 97, 97 A, 97 B, 97 C, 97 D, 97A, 97B, 97C, 97D, 97E, 97E/1B, 98, przy 253a, przy 305, RYNEK, ul. Lutycka 1, 11, 113, 115, 123, 3, 31, 34, 34 C, 34 D, 34 E, 34A, 34C, 34D, 34E, 39, 41, 43, 83, 93, 95, 95 A, 97, przy 122.",
+      "id": "532802578b6c4a272ac80b8451dbb14f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-01T11:30:00",
+      "original_description": "Poznań ul. Czarnkowska /Budzyńska, 1, 10, 10-12, 11, 13, 14, 16, 16 B, 16A, 17, 17 B, 17A, 17B, 18, 18A, 19, 19A, 19B, 20, 20A, 21, 22, 23, 25, 26, 28, 3, 30, 32, 33, 34, 35, 37, 38, 4, 5, 6, 7, 8, 9, ul. Jana Henryka Dąbrowskiego /CIENISTA, /NAD MIEDZ, /Wichrowa, 1, 1 kl.sch., 10, 100, 102, 102 A, 102A, 104, 104/3, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 117A, 118, 12, 120, 122, 124, 130, 130 B, 130A, 130B, 130C, 132, 134, 136, 137, 138, 139, 14/16, 140, 140/142, 141, 142, 143, 144, 144 A, 144a, 144A, 146, 146A, 147, 149, 15, 151, 152, 152 A, 152A, 153, 154, 154 B, 154A, 155, 156, 158, 158A, 159, 159-paw.1, 159-paw.2, 160, 160A, 160B, 162, 162A, 162B, 163, 164, 165, 168A, 168B, 168C, 169/171, 17, 170, 170 A, 172, 172 KL.SCH, 174-176, 175, 177, 179, 179A, 17a, 17A, 18, 18 lok. 23, 18/8, 181, 181A, 182, 183, 183A, 184, 185, 186, 186A, 187, 188, 189, 190, 191, 192, 192A, 193, 193A, 194, 195, 195A, 196, 196A, 197, 197A, 198, 198A, 199, 20, 20 lok. 22, 20/22, 20/22 A, 20/22 B, 20/22A, 20/22B, 20/22C, 20/22D, 200, 201, 201A, 203, 205, 211, 211A, 213, 213A, 215, 217, 219, 221, 223, 225, 227, 229, 23, 23/6, 23/7A, 23/KOCHAN, 231, 233, 235, 237, 239, 239A, 24, 241, 245, 249, 25, 25 A, 25 LOK.2B, 25-LOK.1, 251, 252, 253, 257, 259, 25a, 25A, 26, 261, 262/280, 263, 263A, 265, 267, 27, 271, 273, 273A, 275, 277, 279, 27A, 27A/6, 28, 281, 281A, 283, 283A, 285, 285A, 287, 287A, 288, 289, 289A, 28a, 28A, 29, 29 A, 29 B, 29 C, 29 D, 29 E, 29 U, 29 U1/B, 29 U1C, 29 U3, 29 U4A, 29 U4B, 29 U4C, 29 U6A, 29/U6c, 290, 291, 291 A, 291 B, 292, 293, 293A, 294, 295, 295A, 296, 296 A, 297, 297A, 298, 299, 29A, 29B, 29C, 29C/1, 29e, 29E, 29LOK U1A, 3, 30, 30 A, 30 B, 30 C, 30/32, 300, 301, 301A, 302, 303, 304, 304A, 305, 306, 306 A, 306A, 307, 308, 309, 309A, 30A, 30B, 30C, 31, 31 B, 310, 312, 313, 315, 316, 316A, 318, 318A, 31A, 31b, 31B, 32, 32 LU-2, 320, 320A, 322, 322 A, 324, 324A, 326, 326A, 328, 328A, 33, 33 lok.4 A, 33 lok.4 B, 33 lok.6, 33 lok.7, 33 lok.8, 33/10A, 330, 332, 332A, 333, 334, 334 A, 336, 339, 34, 341, 343, 345, 349, 35, 35/37, 351, 351 B, 351A, 353, 355, 357, 36, 36/1, 38, 381A, 383, 385, 387, 39, 399, 40, 41, 41A, 42, 425, 427, 43, 431, 435, 437, 439, 44, 441, 445, 447, 449, 449 A, 45, 453, 455, 457, 458, 459, 459 A, 46, 461, 465, 467, 469, 47, 471 A, 472, 473, 475, 479 A, 481, 483, 485, 485 A, 485A, 489, 489/2, 489A, 49, 49 A, 49 B, 49 B/6, 493, 493A, 495, 496, 497, 499, 499A, 49A, 49A KL.SCH, 49B, 49B KL.SCH, 49D, 5, 50, 500, 501, 501A, 503, 505, 506, 507, 509, 51, 511, 513, 515, 517, 52, 525, 527, 529, 529A, 53, 53/55, 53/55 L.27, 531, 531A, 533A, 536, 54, 54/5B, 543, 550, 551, 553, 554, 556, 558, 56, 56 lok. 4, 560, 562, 566, 568, 57, 57/3, 570, 572, 58, 60, 62, 63, 63/1, 63/4A, 64, 64 \"C\", 64 lok.5, 65, 66, 66 kl.sch, 67, 67 B, 67 C, 68, 69, 7, 7 lok. 4, 70, 70 A, 70A, 71, 71 A LOK 1, 71A, 72, 73, 75, 75 lok.82, 75-lok.15, 75/21, 75/22, 75/26, 75/3, 75/40, 75/54, 75/56, 75/58, 75/61, 75/66, 75/67, 75/74, 75/78, 75/83, 75/84, 76, 76 kl.sch., 76 lok. 14, 76/13, 76/16, 78, 79A, 8, 80, 80 lok. 36, 81/85, 82, 82/A/P, 82A, 84, 84 lok.2, 84 lok.3, 86, 86 KL.SCH., 87-89, 88, 89, 9, 9/11, 9/11 KL.SC, 9/11-lok.1, 9/11-lok.2, 90, 92, 92/94, 94, 94 A, 94A, 95, 96, 96 kl.sch., 96A, 97, 97 A, 97 B, 97 C, 97 D, 97A, 97B, 97C, 97D, 97E, 97E/1B, 98, przy 253a, przy 305, RYNEK, ul. Lutycka 1, 11, 113, 115, 123, 3, 31, 34, 34 C, 34 D, 34 E, 34A, 34C, 34D, 34E, 39, 41, 43, 83, 93, 95, 95 A, 97, przy 122.",
+      "id": "a4a6c5246c3fdd5667291881650f7683"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Lutycka, Golęcin, Sołacz, Poznań, województwo wielkopolskie, 61-670, Polska",
+      "lat": 52.4381939,
+      "lon": 16.8638299,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-01T11:30:00",
+      "original_description": "Poznań ul. Czarnkowska /Budzyńska, 1, 10, 10-12, 11, 13, 14, 16, 16 B, 16A, 17, 17 B, 17A, 17B, 18, 18A, 19, 19A, 19B, 20, 20A, 21, 22, 23, 25, 26, 28, 3, 30, 32, 33, 34, 35, 37, 38, 4, 5, 6, 7, 8, 9, ul. Jana Henryka Dąbrowskiego /CIENISTA, /NAD MIEDZ, /Wichrowa, 1, 1 kl.sch., 10, 100, 102, 102 A, 102A, 104, 104/3, 105, 106, 107, 108, 109, 110, 111, 112, 113, 114, 115, 116, 117, 117A, 118, 12, 120, 122, 124, 130, 130 B, 130A, 130B, 130C, 132, 134, 136, 137, 138, 139, 14/16, 140, 140/142, 141, 142, 143, 144, 144 A, 144a, 144A, 146, 146A, 147, 149, 15, 151, 152, 152 A, 152A, 153, 154, 154 B, 154A, 155, 156, 158, 158A, 159, 159-paw.1, 159-paw.2, 160, 160A, 160B, 162, 162A, 162B, 163, 164, 165, 168A, 168B, 168C, 169/171, 17, 170, 170 A, 172, 172 KL.SCH, 174-176, 175, 177, 179, 179A, 17a, 17A, 18, 18 lok. 23, 18/8, 181, 181A, 182, 183, 183A, 184, 185, 186, 186A, 187, 188, 189, 190, 191, 192, 192A, 193, 193A, 194, 195, 195A, 196, 196A, 197, 197A, 198, 198A, 199, 20, 20 lok. 22, 20/22, 20/22 A, 20/22 B, 20/22A, 20/22B, 20/22C, 20/22D, 200, 201, 201A, 203, 205, 211, 211A, 213, 213A, 215, 217, 219, 221, 223, 225, 227, 229, 23, 23/6, 23/7A, 23/KOCHAN, 231, 233, 235, 237, 239, 239A, 24, 241, 245, 249, 25, 25 A, 25 LOK.2B, 25-LOK.1, 251, 252, 253, 257, 259, 25a, 25A, 26, 261, 262/280, 263, 263A, 265, 267, 27, 271, 273, 273A, 275, 277, 279, 27A, 27A/6, 28, 281, 281A, 283, 283A, 285, 285A, 287, 287A, 288, 289, 289A, 28a, 28A, 29, 29 A, 29 B, 29 C, 29 D, 29 E, 29 U, 29 U1/B, 29 U1C, 29 U3, 29 U4A, 29 U4B, 29 U4C, 29 U6A, 29/U6c, 290, 291, 291 A, 291 B, 292, 293, 293A, 294, 295, 295A, 296, 296 A, 297, 297A, 298, 299, 29A, 29B, 29C, 29C/1, 29e, 29E, 29LOK U1A, 3, 30, 30 A, 30 B, 30 C, 30/32, 300, 301, 301A, 302, 303, 304, 304A, 305, 306, 306 A, 306A, 307, 308, 309, 309A, 30A, 30B, 30C, 31, 31 B, 310, 312, 313, 315, 316, 316A, 318, 318A, 31A, 31b, 31B, 32, 32 LU-2, 320, 320A, 322, 322 A, 324, 324A, 326, 326A, 328, 328A, 33, 33 lok.4 A, 33 lok.4 B, 33 lok.6, 33 lok.7, 33 lok.8, 33/10A, 330, 332, 332A, 333, 334, 334 A, 336, 339, 34, 341, 343, 345, 349, 35, 35/37, 351, 351 B, 351A, 353, 355, 357, 36, 36/1, 38, 381A, 383, 385, 387, 39, 399, 40, 41, 41A, 42, 425, 427, 43, 431, 435, 437, 439, 44, 441, 445, 447, 449, 449 A, 45, 453, 455, 457, 458, 459, 459 A, 46, 461, 465, 467, 469, 47, 471 A, 472, 473, 475, 479 A, 481, 483, 485, 485 A, 485A, 489, 489/2, 489A, 49, 49 A, 49 B, 49 B/6, 493, 493A, 495, 496, 497, 499, 499A, 49A, 49A KL.SCH, 49B, 49B KL.SCH, 49D, 5, 50, 500, 501, 501A, 503, 505, 506, 507, 509, 51, 511, 513, 515, 517, 52, 525, 527, 529, 529A, 53, 53/55, 53/55 L.27, 531, 531A, 533A, 536, 54, 54/5B, 543, 550, 551, 553, 554, 556, 558, 56, 56 lok. 4, 560, 562, 566, 568, 57, 57/3, 570, 572, 58, 60, 62, 63, 63/1, 63/4A, 64, 64 \"C\", 64 lok.5, 65, 66, 66 kl.sch, 67, 67 B, 67 C, 68, 69, 7, 7 lok. 4, 70, 70 A, 70A, 71, 71 A LOK 1, 71A, 72, 73, 75, 75 lok.82, 75-lok.15, 75/21, 75/22, 75/26, 75/3, 75/40, 75/54, 75/56, 75/58, 75/61, 75/66, 75/67, 75/74, 75/78, 75/83, 75/84, 76, 76 kl.sch., 76 lok. 14, 76/13, 76/16, 78, 79A, 8, 80, 80 lok. 36, 81/85, 82, 82/A/P, 82A, 84, 84 lok.2, 84 lok.3, 86, 86 KL.SCH., 87-89, 88, 89, 9, 9/11, 9/11 KL.SC, 9/11-lok.1, 9/11-lok.2, 90, 92, 92/94, 94, 94 A, 94A, 95, 96, 96 kl.sch., 96A, 97, 97 A, 97 B, 97 C, 97 D, 97A, 97B, 97C, 97D, 97E, 97E/1B, 98, przy 253a, przy 305, RYNEK, ul. Lutycka 1, 11, 113, 115, 123, 3, 31, 34, 34 C, 34 D, 34 E, 34A, 34C, 34D, 34E, 39, 41, 43, 83, 93, 95, 95 A, 97, przy 122.",
+      "id": "a80e2cffeea5572acfde108c76be41c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-01T11:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "3d8bff504dc7d577ec7711d91e9c828f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Armii Poznań, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3538833,
+      "lon": 16.9020446,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-01T13:30:00",
+      "original_description": "Oborniki ul. Armii Poznań 1, 10, 12, 14, 16, 16/2, 18, 25, 27, 31, 31/B, 31/D, 31/E, 33, 33 B, 33 C, 33/A, 33/e, 35, 37, 41, 41/a, 41/A, 43, 45, 47, 6, 7, 8, ul. Gołaszyńska 2, ul. Objezierska 2, ul. Okrężna 1, 3, dz. 2260/1, ul. Szamotulska 11, 12, 13, 13/A, 15, 18, 3, 3/D, 5, 5/A, 7, 9, dz. 2142, z ARMII.",
+      "id": "29d88f8103e0979cbdc12b80ea3bd031"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrężna, Jerzykowo, gmina Pobiedziska, powiat poznański, województwo wielkopolskie, 62-007, Polska",
+      "lat": 52.4701548,
+      "lon": 17.1775244,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-01T13:30:00",
+      "original_description": "Oborniki ul. Armii Poznań 1, 10, 12, 14, 16, 16/2, 18, 25, 27, 31, 31/B, 31/D, 31/E, 33, 33 B, 33 C, 33/A, 33/e, 35, 37, 41, 41/a, 41/A, 43, 45, 47, 6, 7, 8, ul. Gołaszyńska 2, ul. Objezierska 2, ul. Okrężna 1, 3, dz. 2260/1, ul. Szamotulska 11, 12, 13, 13/A, 15, 18, 3, 3/D, 5, 5/A, 7, 9, dz. 2142, z ARMII.",
+      "id": "f86a43f127559fc3c0b6eb8da7bdbc62"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szamotulska, Ogrody, Poznań, województwo wielkopolskie, 60-396, Polska",
+      "lat": 52.4108791,
+      "lon": 16.8836846,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-01T13:30:00",
+      "original_description": "Oborniki ul. Armii Poznań 1, 10, 12, 14, 16, 16/2, 18, 25, 27, 31, 31/B, 31/D, 31/E, 33, 33 B, 33 C, 33/A, 33/e, 35, 37, 41, 41/a, 41/A, 43, 45, 47, 6, 7, 8, ul. Gołaszyńska 2, ul. Objezierska 2, ul. Okrężna 1, 3, dz. 2260/1, ul. Szamotulska 11, 12, 13, 13/A, 15, 18, 3, 3/D, 5, 5/A, 7, 9, dz. 2142, z ARMII.",
+      "id": "7b557060e4c76f41d48da98b23d7f4bc"
     }
   ]
 }
