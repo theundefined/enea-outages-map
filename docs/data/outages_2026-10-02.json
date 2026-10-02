@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-02T06:38:48.739400+00:00",
+  "last_update": "2026-10-02T13:10:04.431369+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1252,6 +1252,106 @@
       "id": "a97b572c506d3e1026c8cf3b4f9629d1"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4077496,
+      "lon": 16.9072925,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Gajowa od 13B do 41 nr nieparzyste (oprócz 19 i 21), od 54 do 66 nr parzyste,  ul. Krótka cała, ul. Poznańska od 2 do 9, 11, 13, 17, 19, ul. Przemysłowa 2, ul. Magazynowa 3, 5, działki nr 119/4, 127/8, 129/1, 216/7, żłobek Baby House,",
+      "id": "809f144a8d1d72a4c960db846551275d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Magazynowa, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
+      "lat": 52.3313553,
+      "lon": 16.8908049,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Gajowa od 13B do 41 nr nieparzyste (oprócz 19 i 21), od 54 do 66 nr parzyste,  ul. Krótka cała, ul. Poznańska od 2 do 9, 11, 13, 17, 19, ul. Przemysłowa 2, ul. Magazynowa 3, 5, działki nr 119/4, 127/8, 129/1, 216/7, żłobek Baby House,",
+      "id": "8bc83be6f5e7c09c79e804741c762a3f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
+      "lat": 52.4133513,
+      "lon": 16.9048857,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Gajowa od 13B do 41 nr nieparzyste (oprócz 19 i 21), od 54 do 66 nr parzyste,  ul. Krótka cała, ul. Poznańska od 2 do 9, 11, 13, 17, 19, ul. Przemysłowa 2, ul. Magazynowa 3, 5, działki nr 119/4, 127/8, 129/1, 216/7, żłobek Baby House,",
+      "id": "c6467a62ad0dbe1a207f1adb5104289c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przemysłowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-581, Polska",
+      "lat": 52.400503,
+      "lon": 16.9184599,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Gajowa od 13B do 41 nr nieparzyste (oprócz 19 i 21), od 54 do 66 nr parzyste,  ul. Krótka cała, ul. Poznańska od 2 do 9, 11, 13, 17, 19, ul. Przemysłowa 2, ul. Magazynowa 3, 5, działki nr 119/4, 127/8, 129/1, 216/7, żłobek Baby House,",
+      "id": "fe4b50ac812e141377d5b856414e1d28"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Burysława, Naramowice, Poznań, województwo wielkopolskie, 61-607, Polska",
+      "lat": 52.4585212,
+      "lon": 16.9487246,
+      "start_time": "2026-10-19T08:30:00",
+      "end_time": "2026-10-19T12:30:00",
+      "original_description": "Poznań: ul. Szczawiowa, ul. Koprowa, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste, ul. Daktylowa od 2 do 10 parzyste, ul. Burysława 2, ul. Naramowicka od 220 do 234 parzyste, 234A, 238, 240, od 249 do 275 nieparzyste.",
+      "id": "2e8f05377889b89ecdc8afc9de384f95"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Daktylowa, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
+      "lat": 52.46221,
+      "lon": 16.9536956,
+      "start_time": "2026-10-19T08:30:00",
+      "end_time": "2026-10-19T12:30:00",
+      "original_description": "Poznań: ul. Szczawiowa, ul. Koprowa, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste, ul. Daktylowa od 2 do 10 parzyste, ul. Burysława 2, ul. Naramowicka od 220 do 234 parzyste, 234A, 238, 240, od 249 do 275 nieparzyste.",
+      "id": "d7f05afa111edf1de7351de4c2553496"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Koprowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4638547,
+      "lon": 16.94724,
+      "start_time": "2026-10-19T08:30:00",
+      "end_time": "2026-10-19T12:30:00",
+      "original_description": "Poznań: ul. Szczawiowa, ul. Koprowa, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste, ul. Daktylowa od 2 do 10 parzyste, ul. Burysława 2, ul. Naramowicka od 220 do 234 parzyste, 234A, 238, 240, od 249 do 275 nieparzyste.",
+      "id": "4717cdb0d0f1f5e29770a93fd390b0ca"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maków Polnych, Umultowo, Poznań, województwo wielkopolskie, 61-607, Polska",
+      "lat": 52.4634005,
+      "lon": 16.9455861,
+      "start_time": "2026-10-19T08:30:00",
+      "end_time": "2026-10-19T12:30:00",
+      "original_description": "Poznań: ul. Szczawiowa, ul. Koprowa, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste, ul. Daktylowa od 2 do 10 parzyste, ul. Burysława 2, ul. Naramowicka od 220 do 234 parzyste, 234A, 238, 240, od 249 do 275 nieparzyste.",
+      "id": "89a5b87b06ced69b0c84d1d6ab6b8dad"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-10-19T08:30:00",
+      "end_time": "2026-10-19T12:30:00",
+      "original_description": "Poznań: ul. Szczawiowa, ul. Koprowa, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste, ul. Daktylowa od 2 do 10 parzyste, ul. Burysława 2, ul. Naramowicka od 220 do 234 parzyste, 234A, 238, 240, od 249 do 275 nieparzyste.",
+      "id": "5865977532d0524965b571a40def32dd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczawiowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4639805,
+      "lon": 16.9463452,
+      "start_time": "2026-10-19T08:30:00",
+      "end_time": "2026-10-19T12:30:00",
+      "original_description": "Poznań: ul. Szczawiowa, ul. Koprowa, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste, ul. Daktylowa od 2 do 10 parzyste, ul. Burysława 2, ul. Naramowicka od 220 do 234 parzyste, 234A, 238, 240, od 249 do 275 nieparzyste.",
+      "id": "4e1c11e5099f2a9d7b55b4cda7730097"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
       "lat": 52.3883109,
@@ -1300,6 +1400,16 @@
       "end_time": "2026-10-02T10:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "cb0d4c79ee2bed93bb5b870916734f42"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-02T16:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "da1236d506d5f2950cd0fdbc6c7c1cd8"
     }
   ]
 }
