@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-03T19:11:52.588869+00:00",
+  "last_update": "2026-10-03T22:10:18.873301+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1940,6 +1940,16 @@
       "end_time": "2026-10-03T22:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "0cc32406c5ab48d04d02a91e99495428"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-04T01:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "f2ab04ff3ea0fd88bc3c1fda07b22445"
     }
   ]
 }
