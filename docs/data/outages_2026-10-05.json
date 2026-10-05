@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-05T08:15:06.564481+00:00",
+  "last_update": "2026-10-05T17:11:30.475549+00:00",
   "outages": [
     {
       "type": "planned",
@@ -833,6 +833,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Dwatory, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 60-202, Polska",
+      "lat": 52.3839215,
+      "lon": 16.9016194,
+      "start_time": "2026-10-13T08:00:00",
+      "end_time": "2026-10-13T14:00:00",
+      "original_description": "Poznań: ul. Dwatory, ul. Górecka 6, 7, 9, 13, 17, 23, 25, 37, dz. 39/4.",
+      "id": "b9ad35779f02d1f6d9c107fa9031fcb1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Górecka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3718577,
+      "lon": 16.8928666,
+      "start_time": "2026-10-13T08:00:00",
+      "end_time": "2026-10-13T14:00:00",
+      "original_description": "Poznań: ul. Dwatory, ul. Górecka 6, 7, 9, 13, 17, 23, 25, 37, dz. 39/4.",
+      "id": "dcbc479e363fea15f3912ca2a44d35f1"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Kmieca, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
       "lat": 52.4287549,
       "lon": 16.9406963,
@@ -1010,6 +1030,86 @@
       "end_time": "2026-10-14T15:30:00",
       "original_description": "Poznań: ul. 23 Lutego 28, 30, 36.",
       "id": "3ce8ff1575d6fd5eb90e28421837474b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Drużynowa, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-483, Polska",
+      "lat": 52.379845,
+      "lon": 16.8961047,
+      "start_time": "2026-10-14T08:30:00",
+      "end_time": "2026-10-14T16:30:00",
+      "original_description": "Poznań: ul. Obrzeże, ul. Zwrotnicza, ul. Przesmyk, ul. Mała, ul. Tarczowa, ul. Maszynowa, ul. Drużynowa, ul. Górecka dz. 36/3, 15, 19, 27, 29, 29A, od 79 do 111 nieparzyste, ROD \"Kolejarz Dębiec\".",
+      "id": "a8d993ffbb140c18df5ecdd95b3cd3ed"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Górecka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3718577,
+      "lon": 16.8928666,
+      "start_time": "2026-10-14T08:30:00",
+      "end_time": "2026-10-14T16:30:00",
+      "original_description": "Poznań: ul. Obrzeże, ul. Zwrotnicza, ul. Przesmyk, ul. Mała, ul. Tarczowa, ul. Maszynowa, ul. Drużynowa, ul. Górecka dz. 36/3, 15, 19, 27, 29, 29A, od 79 do 111 nieparzyste, ROD \"Kolejarz Dębiec\".",
+      "id": "62dfdf6ba605c5329a51a486f090bcce"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maszynowa, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-483, Polska",
+      "lat": 52.3781948,
+      "lon": 16.8999052,
+      "start_time": "2026-10-14T08:30:00",
+      "end_time": "2026-10-14T16:30:00",
+      "original_description": "Poznań: ul. Obrzeże, ul. Zwrotnicza, ul. Przesmyk, ul. Mała, ul. Tarczowa, ul. Maszynowa, ul. Drużynowa, ul. Górecka dz. 36/3, 15, 19, 27, 29, 29A, od 79 do 111 nieparzyste, ROD \"Kolejarz Dębiec\".",
+      "id": "2d9715699d6d71817d23c55de5c9cd3f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mała, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.3772971,
+      "lon": 16.8966004,
+      "start_time": "2026-10-14T08:30:00",
+      "end_time": "2026-10-14T16:30:00",
+      "original_description": "Poznań: ul. Obrzeże, ul. Zwrotnicza, ul. Przesmyk, ul. Mała, ul. Tarczowa, ul. Maszynowa, ul. Drużynowa, ul. Górecka dz. 36/3, 15, 19, 27, 29, 29A, od 79 do 111 nieparzyste, ROD \"Kolejarz Dębiec\".",
+      "id": "8fe0058fdeb0ed0f819f9884db0ba82a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Obrzeże, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.37694,
+      "lon": 16.9003869,
+      "start_time": "2026-10-14T08:30:00",
+      "end_time": "2026-10-14T16:30:00",
+      "original_description": "Poznań: ul. Obrzeże, ul. Zwrotnicza, ul. Przesmyk, ul. Mała, ul. Tarczowa, ul. Maszynowa, ul. Drużynowa, ul. Górecka dz. 36/3, 15, 19, 27, 29, 29A, od 79 do 111 nieparzyste, ROD \"Kolejarz Dębiec\".",
+      "id": "7eeb3c1864753db76ab2c75ed3ff83c5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przesmyk, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.3764734,
+      "lon": 16.8981863,
+      "start_time": "2026-10-14T08:30:00",
+      "end_time": "2026-10-14T16:30:00",
+      "original_description": "Poznań: ul. Obrzeże, ul. Zwrotnicza, ul. Przesmyk, ul. Mała, ul. Tarczowa, ul. Maszynowa, ul. Drużynowa, ul. Górecka dz. 36/3, 15, 19, 27, 29, 29A, od 79 do 111 nieparzyste, ROD \"Kolejarz Dębiec\".",
+      "id": "70944612b43fda3e0ad723859c90de8e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tarczowa, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.377701,
+      "lon": 16.898273,
+      "start_time": "2026-10-14T08:30:00",
+      "end_time": "2026-10-14T16:30:00",
+      "original_description": "Poznań: ul. Obrzeże, ul. Zwrotnicza, ul. Przesmyk, ul. Mała, ul. Tarczowa, ul. Maszynowa, ul. Drużynowa, ul. Górecka dz. 36/3, 15, 19, 27, 29, 29A, od 79 do 111 nieparzyste, ROD \"Kolejarz Dębiec\".",
+      "id": "1b13fad8634c16f0f0c7a517a748e8ad"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zwrotnicza, Zatorze, Górczyn, Poznań, województwo wielkopolskie, 61-482, Polska",
+      "lat": 52.3768547,
+      "lon": 16.8980714,
+      "start_time": "2026-10-14T08:30:00",
+      "end_time": "2026-10-14T16:30:00",
+      "original_description": "Poznań: ul. Obrzeże, ul. Zwrotnicza, ul. Przesmyk, ul. Mała, ul. Tarczowa, ul. Maszynowa, ul. Drużynowa, ul. Górecka dz. 36/3, 15, 19, 27, 29, 29A, od 79 do 111 nieparzyste, ROD \"Kolejarz Dębiec\".",
+      "id": "81c4067fc66a065af68bf9a6d6e46509"
     },
     {
       "type": "planned",
@@ -1370,6 +1470,16 @@
       "end_time": "2026-10-05T10:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "549b77bc2c2ff8c4c11119d340d25c2a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-05T20:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "3964f9225ccc49e024d7bada04a1aa58"
     }
   ]
 }
