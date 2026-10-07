@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-07T06:34:19.379114+00:00",
+  "last_update": "2026-10-07T13:51:28.194799+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1573,6 +1573,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bonin, Winiary, Poznań, województwo wielkopolskie, 60-658, Polska",
+      "lat": 52.430754,
+      "lon": 16.9078088,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T15:00:00",
+      "original_description": "Poznań: ul. Turkusowa 6, ul. Lazurowa 12, ul. Bonin 1.",
+      "id": "f0dfe0ad1a095dbf0d20e4b370d296e8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lazurowa, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-655, Polska",
+      "lat": 52.4298566,
+      "lon": 16.9061895,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T15:00:00",
+      "original_description": "Poznań: ul. Turkusowa 6, ul. Lazurowa 12, ul. Bonin 1.",
+      "id": "fd0ab153dc2efc957b54efcd1cea8acb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Turkusowa, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-656, Polska",
+      "lat": 52.430605,
+      "lon": 16.9040148,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T15:00:00",
+      "original_description": "Poznań: ul. Turkusowa 5, dz. 47.",
+      "id": "a4111a61cdf1995db672af5c291bef0b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Turkusowa, Bonin, Winiary, Poznań, województwo wielkopolskie, 60-656, Polska",
+      "lat": 52.430605,
+      "lon": 16.9040148,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T15:00:00",
+      "original_description": "Poznań: ul. Turkusowa 6, ul. Lazurowa 12, ul. Bonin 1.",
+      "id": "d8e47c7fabef4697812bcd86fbe0d09a"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
       "lat": 52.4077496,
       "lon": 16.9072925,
@@ -1670,6 +1710,26 @@
       "end_time": "2026-10-19T12:30:00",
       "original_description": "Poznań: ul. Szczawiowa, ul. Koprowa, ul. Maków Polnych od 1 do 5 nieparzyste, 5A, od 4 do 14 parzyste, ul. Daktylowa od 2 do 10 parzyste, ul. Burysława 2, ul. Naramowicka od 220 do 234 parzyste, 234A, 238, 240, od 249 do 275 nieparzyste.",
       "id": "4e1c11e5099f2a9d7b55b4cda7730097"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Złotowska, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-189, Polska",
+      "lat": 52.4124762,
+      "lon": 16.8324672,
+      "start_time": "2026-10-20T08:30:00",
+      "end_time": "2026-10-20T13:30:00",
+      "original_description": "Poznań: ul. Złotowska 65.",
+      "id": "30ebcb1da623b61247d13c450b3f04dd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dolna, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4697134,
+      "lon": 16.9524326,
+      "start_time": "2026-10-21T08:15:00",
+      "end_time": "2026-10-21T12:30:00",
+      "original_description": "Poznań: ul. Dolna 45, 47, 49, 51, 53, od 50 do 66 parzyste.",
+      "id": "a63fc44a78a7a8acdd340d431e9d8640"
     },
     {
       "type": "planned",
@@ -1850,6 +1910,16 @@
       "end_time": "2026-10-07T10:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "c77e887bd382f0a0718567c30ce5e5b3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-07T16:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "c35b6c56cdf208895062a17baaa22f25"
     }
   ]
 }
