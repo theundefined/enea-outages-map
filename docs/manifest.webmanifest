@@ -1,0 +1,16 @@
+{
+    "name": "Mapa Awarii Enea - Poznań",
+    "short_name": "Awarie Enea",
+    "description": "Aktualne i historyczne awarie oraz planowane wyłączenia prądu Enea w Poznaniu na mapie.",
+    "lang": "pl",
+    "start_url": "./",
+    "scope": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#0057a8",
+    "icons": [
+        { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+        { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+        { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    ]
+}

@@ -19,6 +19,8 @@ h1 {
     display: flex;
     gap: 10px;
     align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .controls label {
@@ -67,4 +69,21 @@ h1 {
 .info h4 {
     margin: 0 0 5px;
     color: #777;
+}
+#install-button {
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    background: #0057a8;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+#install-button:hover {
+    background: #00468a;
+}
+
+#install-button[hidden] {
+    display: none;
 }

@@ -8,12 +8,17 @@
           integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
           crossorigin=""/>
     <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.webmanifest">
+    <meta name="theme-color" content="#0057a8">
+    <link rel="icon" type="image/png" sizes="192x192" href="icons/icon-192.png">
+    <link rel="apple-touch-icon" href="icons/icon-180.png">
 </head>
 <body>
     <h1>Mapa Awarii Enea - Poznań (Historia)</h1>
     <div class="controls">
         <label for="date-selector">Wybierz widok:</label>
         <select id="date-selector"></select>
+        <button id="install-button" type="button" hidden>📲 Dodaj jako aplikację</button>
     </div>
     <div class="official-links">
         Oficjalne źródła Enea Operator:
@@ -26,5 +31,6 @@
             integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
             crossorigin=""></script>
     <script src="script.js"></script>
+    <script src="pwa.js"></script>
 </body>
 </html>
