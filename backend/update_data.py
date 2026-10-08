@@ -101,7 +101,7 @@ def get_all_outages(client: EneaOutagesClient, cache: dict) -> list[dict]:
     for outage_type in [OutageType.PLANNED, OutageType.UNPLANNED]:
         print(f"\n--- Fetching {outage_type.name} outages for region: {REGION} ---")
         try:
-            outages = client.get_outages_for_region(region=REGION, outage_type=outage_type)
+            outages = client.get_outages_for_department(department=REGION, outage_type=outage_type)
         except Exception as e:
             print(f"Error fetching {outage_type.name} outages: {e}")
             continue
