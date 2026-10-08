@@ -1,4 +1,4 @@
-const { categorizeOutage } = require('./script.js');
+const { categorizeOutage, groupVisibleOutages } = require('./script.js');
 
 describe('categorizeOutage', () => {
 
@@ -102,5 +102,46 @@ describe('categorizeOutage', () => {
                 expect(result.layerName).toBe('other');
             });
         });
+    });
+});
+
+describe('groupVisibleOutages', () => {
+    const now = new Date('2025-12-05T12:00:00');
+    const planned = (lat, lon, description) => ({
+        type: 'planned', lat, lon,
+        start_time: '2025-12-05T10:00:00', end_time: '2025-12-05T14:00:00',
+        geocoded_address: 'Adres', original_description: description,
+    });
+    const unplanned = (lat, lon, description, end_time = '2025-12-05T13:00:00') => ({
+        type: 'unplanned', lat, lon, start_time: 'Brak danych', end_time,
+        geocoded_address: 'Adres', original_description: description,
+    });
+
+    test('merges outages of the same layer at the same coordinates', () => {
+        const groups = groupVisibleOutages([planned(52, 16, 'A'), planned(52, 16, 'B')], now, true);
+        expect(groups).toHaveLength(1);
+        expect(groups[0].entries).toHaveLength(2);
+        expect(groups[0].offsetIndex).toBe(0);
+    });
+
+    test('keeps different layers at the same coordinates separate with distinct offsets', () => {
+        const groups = groupVisibleOutages([planned(52, 16, 'A'), unplanned(52, 16, 'B')], now, true);
+        expect(groups.map(g => g.layerName)).toEqual(['unplanned', 'ongoing']);
+        expect(groups.map(g => g.offsetIndex)).toEqual([0, 1]);
+    });
+
+    test('does not offset markers at different coordinates', () => {
+        const groups = groupVisibleOutages([planned(52, 16, 'A'), unplanned(53, 17, 'B')], now, true);
+        expect(groups.map(g => g.offsetIndex)).toEqual([0, 0]);
+    });
+
+    test('deduplicates identical popup content', () => {
+        const groups = groupVisibleOutages([planned(52, 16, 'A'), planned(52, 16, 'A')], now, true);
+        expect(groups[0].entries).toHaveLength(1);
+    });
+
+    test('excludes hidden outages', () => {
+        const groups = groupVisibleOutages([unplanned(52, 16, 'A', '2025-12-05T11:00:00')], now, true);
+        expect(groups).toHaveLength(0);
     });
 });

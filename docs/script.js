@@ -89,6 +89,42 @@ function categorizeOutage(outage, now, isCurrentView) {
     return { visible: false };
 }
 
+const LAYER_ORDER = ['unplanned', 'ongoing', 'next24h', 'other'];
+
+// Groups visible outages into one marker per (layer, coordinates). Groups of different layers
+// at the same coordinates get increasing offsetIndex values so their markers don't overlap.
+function groupVisibleOutages(outages, now, isCurrentView) {
+    const groups = new Map();
+
+    outages.forEach(outage => {
+        const result = categorizeOutage(outage, now, isCurrentView);
+        if (!result.visible) return;
+
+        const layerName = LAYER_ORDER.includes(result.layerName) ? result.layerName : 'other';
+        const key = `${layerName}|${outage.lat},${outage.lon}`;
+        if (!groups.has(key)) {
+            groups.set(key, { layerName, lat: outage.lat, lon: outage.lon, entries: [] });
+        }
+        const group = groups.get(key);
+        if (!group.entries.some(entry => entry.popupContent === result.popupContent)) {
+            group.entries.push({ popupContent: result.popupContent, startTime: outage.start_time });
+        }
+    });
+
+    const result = [...groups.values()];
+    result.forEach(group => group.entries.sort((a, b) => String(a.startTime).localeCompare(String(b.startTime))));
+    result.sort((a, b) => LAYER_ORDER.indexOf(a.layerName) - LAYER_ORDER.indexOf(b.layerName));
+
+    const offsetsByCoords = {};
+    result.forEach(group => {
+        const coords = `${group.lat},${group.lon}`;
+        group.offsetIndex = offsetsByCoords[coords] || 0;
+        offsetsByCoords[coords] = group.offsetIndex + 1;
+    });
+
+    return result;
+}
+
 
 document.addEventListener('DOMContentLoaded', () => {
     const map = L.map('map').setView([52.4064, 16.9252], 12);
@@ -104,28 +140,24 @@ document.addEventListener('DOMContentLoaded', () => {
         other: L.layerGroup()
     };
 
-    const icons = {
-        unplanned: new L.Icon({
-            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-red.png',
-            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-            iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
-        }),
-        ongoing: new L.Icon({
-            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-orange.png',
-            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-            iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
-        }),
-        next24h: new L.Icon({
-            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-yellow.png',
-            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-            iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
-        }),
-        other: new L.Icon({
-            iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-grey.png',
-            shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-            iconSize: [25, 41], iconAnchor: [12, 41], popupAnchor: [1, -34], shadowSize: [41, 41]
-        })
-    };
+    const iconColors = { unplanned: 'red', ongoing: 'orange', next24h: 'yellow', other: 'grey' };
+    const MARKER_OFFSET_PX = 14;
+    const iconCache = {};
+
+    // Markers of different layers at the same point are shifted right so all of them stay clickable.
+    // popupAnchor is relative to iconAnchor, so it is shifted by the same amount the other way.
+    function getIcon(layerName, offsetIndex) {
+        const key = `${layerName}|${offsetIndex}`;
+        if (!iconCache[key]) {
+            const dx = offsetIndex * MARKER_OFFSET_PX;
+            iconCache[key] = new L.Icon({
+                iconUrl: `https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-${iconColors[layerName]}.png`,
+                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                iconSize: [25, 41], iconAnchor: [12 - dx, 41], popupAnchor: [1 + dx, -34], shadowSize: [41, 41]
+            });
+        }
+        return iconCache[key];
+    }
 
     const dateSelector = document.getElementById('date-selector');
     const infoControl = L.control();
@@ -152,20 +184,16 @@ document.addEventListener('DOMContentLoaded', () => {
             return; 
         }
 
-        outages.forEach(outage => {
-            const result = categorizeOutage(outage, referenceDate, isCurrentView);
+        groupVisibleOutages(outages, referenceDate, isCurrentView).forEach(group => {
+            const contents = group.entries.map(entry => entry.popupContent);
+            const n = contents.length;
+            const noun = (n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 'przerwy' : 'przerw';
+            const header = n > 1 ? `<b>${n} ${noun} w tym miejscu</b><hr>` : '';
+            const marker = L.marker([group.lat, group.lon], { icon: getIcon(group.layerName, group.offsetIndex) })
+                .addTo(layers[group.layerName])
+                .bindPopup(header + contents.join('<hr>'), { maxHeight: 300 });
 
-            if (result.visible) {
-                // The 'other' layer is no longer used by categorizeOutage for visible markers,
-                // but we keep it in the layers control for consistency.
-                const targetLayer = layers[result.layerName] || layers.other;
-                const marker = L.marker([outage.lat, outage.lon], { icon: icons[result.layerName] })
-                    .addTo(targetLayer)
-                    .bindPopup(result.popupContent);
-                
-                marker.on('mouseover', function (e) { this.openPopup(); });
-                marker.on('mouseout', function (e) { this.closePopup(); });
-            }
+            marker.on('mouseover', function () { this.openPopup(); });
         });
     }
 
@@ -276,8 +304,13 @@ document.addEventListener('DOMContentLoaded', () => {
         loadDataForSelection(event.target.value);
     });
 
+    // Re-rendering clears all layers, which would close a popup the user is reading.
+    let popupOpen = false;
+    map.on('popupopen', () => { popupOpen = true; });
+    map.on('popupclose', () => { popupOpen = false; });
+
     setInterval(() => {
-        if (dateSelector.value === 'current') {
+        if (dateSelector.value === 'current' && !popupOpen) {
             loadDataForSelection('current');
         }
     }, 60 * 1000);
@@ -302,5 +335,5 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // For testing purposes
 if (typeof module !== 'undefined' && module.exports) {
-    module.exports = { categorizeOutage };
+    module.exports = { categorizeOutage, groupVisibleOutages };
 }
