@@ -1,14 +1,22 @@
-// "Add to home screen" button. Chrome/Edge/Samsung Internet on Android fire
-// beforeinstallprompt; other Android browsers (e.g. Firefox) only get instructions.
+// "Add as app" support. Chrome/Edge/Samsung Internet fire beforeinstallprompt and get the
+// native install dialog; elsewhere (or before the event arrives) the button shows instructions.
 (function () {
+    if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.register('sw.js');
+    }
+
     const button = document.getElementById('install-button');
     if (!button) return;
 
-    const isStandalone = window.matchMedia('(display-mode: standalone)').matches;
-    const isAndroid = /Android/i.test(navigator.userAgent);
+    const isStandalone = window.matchMedia('(display-mode: standalone)').matches
+        || window.navigator.standalone === true;
     if (isStandalone) return;
 
     let deferredPrompt = null;
+
+    if (/Android/i.test(navigator.userAgent)) {
+        button.hidden = false;
+    }
 
     window.addEventListener('beforeinstallprompt', (event) => {
         event.preventDefault();
@@ -21,11 +29,6 @@
         button.hidden = true;
     });
 
-    // Browsers without beforeinstallprompt support still allow installing from the menu.
-    if (isAndroid && !('onbeforeinstallprompt' in window)) {
-        button.hidden = false;
-    }
-
     button.addEventListener('click', async () => {
         if (deferredPrompt) {
             deferredPrompt.prompt();
@@ -34,6 +37,6 @@
             if (outcome === 'accepted') button.hidden = true;
             return;
         }
-        alert('Aby dodać aplikację, otwórz menu przeglądarki (⋮) i wybierz „Dodaj do ekranu głównego” lub „Zainstaluj”.');
+        alert('Aby dodać aplikację, otwórz menu przeglądarki (⋮) i wybierz „Zainstaluj aplikację” lub „Dodaj do ekranu głównego”.');
     });
 })();
