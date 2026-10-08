@@ -206,11 +206,26 @@ document.addEventListener('DOMContentLoaded', () => {
     L.control.layers(null, overlayMaps).addTo(map);
 
     let masterIndex = [];
-    let allDataCache = {}; 
-    let lastEtag = null; 
+    let allDataCache = {};
 
-    async function loadDataForSelection(selectedValue) {
-        let dataPayload = {};
+    // Re-rendering clears all layers, which would close a popup the user is reading.
+    let popupOpen = false;
+    map.on('popupopen', () => { popupOpen = true; });
+    map.on('popupclose', () => { popupOpen = false; });
+
+    async function fetchDayData(date, fresh) {
+        if (!fresh && allDataCache[date]) {
+            return allDataCache[date];
+        }
+        const response = await fetch(`data/outages_${date}.json`, { cache: 'no-store' });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        allDataCache[date] = await response.json();
+        return allDataCache[date];
+    }
+
+    // fresh: bypass the in-memory cache; quiet: background refresh that keeps the current
+    // map on errors and defers rendering while a popup is open (the data is cached for the next tick).
+    async function loadDataForSelection(selectedValue, { fresh = false, quiet = false } = {}) {
         let referenceDate;
         let dateToFetch;
         let mainInfoText;
@@ -220,13 +235,13 @@ document.addEventListener('DOMContentLoaded', () => {
         if (isCurrentView) {
             referenceDate = new Date();
             mainInfoText = 'Widok bieżący';
-            dateToFetch = masterIndex[0]; 
+            dateToFetch = masterIndex[0];
         } else {
-            // For historical views, use a neutral time. The new logic in 
+            // For historical views, use a neutral time. The new logic in
             // categorizeOutage doesn't depend on it for showing/hiding,
             // only for the text in the popup. Noon is fine.
             referenceDate = new Date(selectedValue);
-            referenceDate.setHours(12, 0, 0, 0); 
+            referenceDate.setHours(12, 0, 0, 0);
             mainInfoText = `Dane dla: ${selectedValue}`;
             dateToFetch = selectedValue;
         }
@@ -237,83 +252,90 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        infoControl.update(mainInfoText, 'Ładowanie...');
-        
-        if (allDataCache[dateToFetch]) {
-            dataPayload = allDataCache[dateToFetch];
-        } else {
-            const response = await fetch(`data/outages_${dateToFetch}.json`, { cache: 'no-store' });
-            if (!response.ok) {
+        if (!quiet) infoControl.update(mainInfoText, 'Ładowanie...');
+
+        let dataPayload;
+        try {
+            dataPayload = await fetchDayData(dateToFetch, fresh);
+        } catch (error) {
+            console.error(`Error loading data for ${dateToFetch}:`, error);
+            if (!quiet) {
                 infoControl.update(`Błąd ładowania danych dla ${dateToFetch}`);
                 clearAllLayers();
-                return;
             }
-            dataPayload = await response.json();
-            allDataCache[dateToFetch] = dataPayload;
+            return;
         }
-        
+
+        // The user may have switched views while the request was in flight.
+        if (dateSelector.value !== selectedValue) return;
+        if (quiet && popupOpen) return;
+
         renderOutages(dataPayload.outages || [], referenceDate, isCurrentView);
         infoControl.update(mainInfoText, dataPayload.last_update);
     }
 
-    async function fetchMasterIndexAndLoadData() {
-        try {
-            const response = await fetch('data/master_index.json', { cache: 'no-store' });
-            if (!response.ok) throw new Error('Master index not found');
-            const newIndex = await response.json();
-            
-            if (JSON.stringify(newIndex) !== JSON.stringify(masterIndex)) {
-                masterIndex = newIndex;
-                dateSelector.innerHTML = ''; 
-                
-                const currentOption = document.createElement('option');
-                currentOption.value = "current";
-                currentOption.textContent = "Aktualne";
-                dateSelector.appendChild(currentOption);
+    // Fetches master_index.json and rebuilds the selector if it changed, keeping the current selection.
+    async function updateMasterIndex() {
+        const response = await fetch('data/master_index.json', { cache: 'no-store' });
+        if (!response.ok) throw new Error('Master index not found');
+        const newIndex = await response.json();
+        if (JSON.stringify(newIndex) === JSON.stringify(masterIndex)) return;
 
-                masterIndex.forEach(dateStr => {
-                    const option = document.createElement('option');
-                    option.value = dateStr;
-                    option.textContent = dateStr;
-                    dateSelector.appendChild(option);
-                });
-                
-                const urlParams = new URLSearchParams(window.location.search);
-                const dateParam = urlParams.get('date');
+        const previousSelection = dateSelector.value;
+        masterIndex = newIndex;
+        dateSelector.innerHTML = '';
 
-                if (dateParam && masterIndex.includes(dateParam)) {
-                    dateSelector.value = dateParam;
-                    loadDataForSelection(dateParam);
-                } else {
-                    dateSelector.value = 'current';
-                    loadDataForSelection('current');
-                }
-            } else if (dateSelector.value === 'current') {
-                loadDataForSelection('current');
-            }
-        } catch (error) {
-            console.error('Error loading master index:', error);
-            infoControl.update('Błąd ładowania indeksu danych historycznych.');
+        const currentOption = document.createElement('option');
+        currentOption.value = "current";
+        currentOption.textContent = "Aktualne";
+        dateSelector.appendChild(currentOption);
+
+        masterIndex.forEach(dateStr => {
+            const option = document.createElement('option');
+            option.value = dateStr;
+            option.textContent = dateStr;
+            dateSelector.appendChild(option);
+        });
+
+        if (previousSelection && (previousSelection === 'current' || masterIndex.includes(previousSelection))) {
+            dateSelector.value = previousSelection;
         }
     }
 
+    async function initialLoad() {
+        try {
+            await updateMasterIndex();
+        } catch (error) {
+            console.error('Error loading master index:', error);
+            infoControl.update('Błąd ładowania indeksu danych historycznych.');
+            return;
+        }
 
-    fetchMasterIndexAndLoadData();
-    
+        const dateParam = new URLSearchParams(window.location.search).get('date');
+        dateSelector.value = dateParam && masterIndex.includes(dateParam) ? dateParam : 'current';
+        loadDataForSelection(dateSelector.value);
+    }
+
+    async function refresh() {
+        try {
+            await updateMasterIndex();
+        } catch (error) {
+            console.error('Error refreshing master index:', error);
+        }
+        // Only the newest day still changes; older days are final.
+        const selected = dateSelector.value;
+        if (selected === 'current' || selected === masterIndex[0]) {
+            loadDataForSelection(selected, { fresh: true, quiet: true });
+        }
+    }
+
+    initialLoad();
+
     dateSelector.addEventListener('change', (event) => {
         loadDataForSelection(event.target.value);
     });
 
-    // Re-rendering clears all layers, which would close a popup the user is reading.
-    let popupOpen = false;
-    map.on('popupopen', () => { popupOpen = true; });
-    map.on('popupclose', () => { popupOpen = false; });
-
-    setInterval(() => {
-        if (dateSelector.value === 'current' && !popupOpen) {
-            loadDataForSelection('current');
-        }
-    }, 60 * 1000);
+    setInterval(refresh, 60 * 1000);
 
     const style = document.createElement('style');
     style.innerHTML = `
