@@ -1,21 +1,33 @@
 name: Update Enea Outages
 
+# GitHub delays scheduled runs heavily (in practice they start every 4-7 hours instead of
+# every 10 minutes), so each run keeps updating in a loop for almost the 6 h job limit.
+# The concurrency group queues the next scheduled run, which starts as soon as the current
+# loop ends, giving near-continuous updates.
 on:
   schedule:
     - cron: '*/10 * * * *'
   workflow_dispatch:
 
+concurrency:
+  group: update-outages
+  cancel-in-progress: false
+
 jobs:
   update-data:
     runs-on: ubuntu-latest
+    timeout-minutes: 355
     permissions:
       contents: write
+    env:
+      LOOP_MINUTES: 340
+      INTERVAL_SECONDS: 600
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
@@ -26,20 +38,32 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r backend/requirements.txt
 
-      - name: Run update script
+      - name: Update data in a loop
         run: |
           source venv/bin/activate
-          python backend/update_data.py
-
-      - name: Commit and push if there are changes
-        run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/data/ backend/geocoding_cache.json
-          # Check if there are staged changes
-          if ! git diff --staged --quiet; then
-            git commit -m "Update outage data and geocoding cache"
-            git push
-          else
-            echo "No changes to commit."
-          fi
+
+          end=$((SECONDS + LOOP_MINUTES * 60))
+          while true; do
+            echo "::group::Update $(date -u +%FT%TZ)"
+            # Pick up commits pushed meanwhile (e.g. code changes) before updating.
+            git pull --rebase --autostash --quiet || echo "Pull failed, continuing with local state."
+            if python backend/update_data.py; then
+              git add docs/data/ backend/geocoding_cache.json
+              if ! git diff --staged --quiet; then
+                git commit -m "Update outage data and geocoding cache"
+                git push || { git pull --rebase --autostash && git push; } || echo "Push failed, will retry next iteration."
+              else
+                echo "No changes to commit."
+              fi
+            else
+              echo "Update script failed, will retry next iteration."
+            fi
+            echo "::endgroup::"
+
+            if [ $((SECONDS + INTERVAL_SECONDS)) -ge "$end" ]; then
+              break
+            fi
+            sleep "$INTERVAL_SECONDS"
+          done
