@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-08T11:31:33.646470+00:00",
+  "last_update": "2026-10-08T16:26:50.953097+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1780,6 +1780,26 @@
       "end_time": "2026-10-08T14:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "21146ee2c662ba077c978e6e0b2f3b08"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grochowe Łąki, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-757, Polska",
+      "lat": 52.4127013,
+      "lon": 16.9386289,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-08T16:00:00",
+      "original_description": "Poznań ul. Grochowe Łąki 4.",
+      "id": "ee01290dac490982965f265df43c8a2f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-08T19:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "e5ee66d3c100a74a0ce9913958eb1584"
     }
   ]
 }
