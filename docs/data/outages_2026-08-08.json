@@ -3,36 +3,6 @@
   "outages": [
     {
       "type": "planned",
-      "geocoded_address": "Gołębia, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
-      "lat": 52.4067111,
-      "lon": 16.9325619,
-      "start_time": "2026-08-08T08:00:00",
-      "end_time": "2026-08-08T14:00:00",
-      "original_description": "Miasto  Grodzisk Wielkopolski ul. Poznańska 15, ul. Grabary numery parzyste od 2 do 18, ul. Gołębia 2, 4, 6, ul. Krzywa 1, Powiatowy Urząd Pracy,",
-      "id": "b431100b34867bff1e5af841aeabf356"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Krzywa, Górczyn, Poznań, województwo wielkopolskie, 60-118, Polska",
-      "lat": 52.3817316,
-      "lon": 16.8864536,
-      "start_time": "2026-08-08T08:00:00",
-      "end_time": "2026-08-08T14:00:00",
-      "original_description": "Miasto  Grodzisk Wielkopolski ul. Poznańska 15, ul. Grabary numery parzyste od 2 do 18, ul. Gołębia 2, 4, 6, ul. Krzywa 1, Powiatowy Urząd Pracy,",
-      "id": "003124ccea76dbbf3dd5938522a18a18"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-08T08:00:00",
-      "end_time": "2026-08-08T14:00:00",
-      "original_description": "Miasto  Grodzisk Wielkopolski ul. Poznańska 15, ul. Grabary numery parzyste od 2 do 18, ul. Gołębia 2, 4, 6, ul. Krzywa 1, Powiatowy Urząd Pracy,",
-      "id": "067d8a16fda8888d00a7a6a83f009a09"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Juwenalisa, Strzeszyn Grecki, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
       "lat": 52.4488788,
       "lon": 16.8747679,
@@ -53,76 +23,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
-      "lat": 52.3656758,
-      "lon": 16.9061644,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "49f0eefdf70708730698054cb2011214"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
-      "lat": 52.401875,
-      "lon": 16.9312654,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "698550bea3cedfe41fd0cfad4ee3e4c6"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
-      "lat": 52.3866129,
-      "lon": 16.8161801,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "22fc9283584795952dfc784809c90b82"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
-      "lat": 52.4038105,
-      "lon": 16.929477,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "f83a6bc25ebee9afa10df51725e4c1df"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
-      "lat": 52.4119625,
-      "lon": 16.9392776,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "ffcf834227c650be1d7ab9b81b98b605"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
-      "lat": 52.4075185,
-      "lon": 16.9322942,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "c218cca6176fbbabcaf3eb010e57e68b"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wczasowa, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-060, Polska",
-      "lat": 52.3972742,
-      "lon": 17.028723,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "3d2d7ea4118646eb562fc182959abe55"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Sokalska, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
       "lat": 52.3459274,
       "lon": 17.0181975,
@@ -133,26 +33,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-11T08:00:00",
-      "end_time": "2026-08-11T16:00:00",
-      "original_description": "miejscowość Piła al. Poznańska 130, 136, 138, dz. 19/3, dz. 24, ul. Przemysłowa 63 - Suder & Suder.",
-      "id": "7697c3446645c77d2ffef974d970e108"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Przemysłowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-581, Polska",
-      "lat": 52.400503,
-      "lon": 16.9184599,
-      "start_time": "2026-08-11T08:00:00",
-      "end_time": "2026-08-11T16:00:00",
-      "original_description": "miejscowość Piła al. Poznańska 130, 136, 138, dz. 19/3, dz. 24, ul. Przemysłowa 63 - Suder & Suder.",
-      "id": "dc9a066d66e74c3cf8f1e914bb3b07dd"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Janusza Kulasa, Stare Miasto, Poznań, województwo wielkopolskie, 61-714, Polska",
       "lat": 52.4135469,
       "lon": 16.9232744,
@@ -160,16 +40,6 @@
       "end_time": "2026-08-11T19:30:00",
       "original_description": "Poznań ul. Janusza Kulasa 6, 8.",
       "id": "0fb402fd870cf28ee87f994bf631d43f"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-11T10:30:00",
-      "end_time": "2026-08-11T12:30:00",
-      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Poznańska od 10 do 12B, 26, działki nr 3/15,  10, 11/1, 11/2, 11/13, 11/1ac5, 11/22, 48, Folwark Polityka, działki rekreacyjne, stacja bazowa T-Mobile 40283,",
-      "id": "7582f1c72ff26c1727127d251c78c7d8"
     },
     {
       "type": "planned",
@@ -400,26 +270,6 @@
       "end_time": "2026-08-13T15:30:00",
       "original_description": "Poznań: ul. Bożeny od 2 do 28 parzyste, 28A, ul. Wiesławy 1, ul. Warszawska 200, dz. 4/28 (Zakład Kamieniarski) , dz. 37/4 (Dom Pogrzebowy Miłostowo).",
       "id": "042ede3d27964a238c6a03d2271ef28d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
-      "lat": 52.4019724,
-      "lon": 16.9030897,
-      "start_time": "2026-08-13T11:30:00",
-      "end_time": "2026-08-13T15:30:00",
-      "original_description": "Gmina Dopiewo miejscowość Dąbrówka ul. Lipowa nr parzyste, ul. Parkowa 3, ul. Poznańska 25, działki nr 75/10, 75/15,",
-      "id": "2ebb725ef8310e593c3ad959e239bd66"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-13T11:30:00",
-      "end_time": "2026-08-13T15:30:00",
-      "original_description": "Gmina Dopiewo miejscowość Dąbrówka ul. Lipowa nr parzyste, ul. Parkowa 3, ul. Poznańska 25, działki nr 75/10, 75/15,",
-      "id": "8153aaf0c546dbef671255d080f9dcc7"
     },
     {
       "type": "planned",
@@ -703,156 +553,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-19T08:30:00",
-      "end_time": "2026-08-19T16:30:00",
-      "original_description": "Gmina Grodzisk Wielkopolski miejscowość Kobylniki od 3 do 12, od 14 do 18B (oprócz nr 18), 19A, 20, 22, 22B, działki nr od 279/42 do 279/65,  292/1, 292/4, od 292/15 do 292/35,\n\nmiejscowość Chrustowo 4, \n\nGmina Rakoniewice miejscowość Ruchocice ul. Poznańska 20",
-      "id": "625b2168807f41ce57e83b041514d27e"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Ametystowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
-      "lat": 52.4718819,
-      "lon": 16.9566257,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "3f0e6e6263228c1785c5b2ad18cdb2c0"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Ananasowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
-      "lat": 52.4646348,
-      "lon": 16.9493593,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "447956b5c63455faef65c5192215d6aa"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Arbuzowa, Paczkowo, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-021, Polska",
-      "lat": 52.3929791,
-      "lon": 17.1587344,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "3aa9af5e69bf2d09b3ca5b587e75db7b"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Bażancia, Sianokosy, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
-      "lat": 52.3520605,
-      "lon": 17.0311318,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "f830ea5cacdb40cea3e574434ad93eab"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Bociania, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-621, Polska",
-      "lat": 52.4205149,
-      "lon": 16.8993876,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "f36d2f190bc3302368df489d54c4b45a"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Brylantowa, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
-      "lat": 52.4696092,
-      "lon": 16.9604985,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "9cf38dad7c8b065097334d66ed115f55"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Diamentowa, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
-      "lat": 52.4710574,
-      "lon": 16.9592338,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "7bf16c36a298f9782791326a6075affd"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Jabłoniowa, Wojnówko, Wojnowo, gmina Murowana Goślina, powiat poznański, województwo wielkopolskie, 62-097, Polska",
-      "lat": 52.6352492,
-      "lon": 17.0722624,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "68da1c56abd30b8aa73916113de704fc"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Koralowa, Komandoria, Komandoria-Pomet, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-029, Polska",
-      "lat": 52.4100314,
-      "lon": 16.9700358,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "29a6bb6551bdb4d1dec28d1b19802aca"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Mandarynkowa, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
-      "lat": 52.4642616,
-      "lon": 16.950701,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "3faa204f1c5dc98d590d713c0a403eae"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Pomarańczowa, Różany Młyn, Umultowo, Poznań, województwo wielkopolskie, 61-605, Polska",
-      "lat": 52.4633699,
-      "lon": 16.953423,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "fefdb98f1872e8c006a89a5cd1b5034d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "840a15dba95beec4bc24a58e3dd50a99"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Szafirowa, Ogrody, Poznań, województwo wielkopolskie, 60-595, Polska",
-      "lat": 52.4161925,
-      "lon": 16.8721405,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "f22100118a0cbe223919128ba4dddc41"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Topazowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
-      "lat": 52.471966,
-      "lon": 16.9587615,
-      "start_time": "2026-08-19T10:00:00",
-      "end_time": "2026-08-19T15:00:00",
-      "original_description": "Gmina Kaźmierz miejscowość Kaźmierz ul. Bażancia, ul. Brylantowa, ul. Szafirowa, ul. Koralowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, ul. Bociania, działki nr 21/18, 23/21, 24/8, 24/9, 24/23, 80,  111/7, \n\nmiejscowość Kiączyn ul. Jabłoniowa, ul. Arbuzowa, ul. Ananasowa, ul. Pomarańczowa, ul. Mandarynkowa,  ul. Bociania, ul. Topazowa 49, 51, 53, ul. Brylantowa, ul. Szafirowa, ul. Ametystowa, ul. Poznańska od 40 do 80, ul. Diamentowa 17, działki nr 23/21, 24/8, 24/9, 24/23, 80/3, market DINO,  okręgowa stacja kontroli pojazdów \n\nmiejscowość Dolne Pole od 21 do 28, 28, 40,41, ul. Jabłoniowa, działki nr 144/70, 144/94,",
-      "id": "7a9f31210354303eff266cde52a8bd71"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
       "lat": 52.4063647,
       "lon": 16.9116898,
@@ -1040,136 +740,6 @@
       "end_time": "2026-08-26T11:30:00",
       "original_description": "Poznań: ul. Słupska od 27 do 33 nieparzyste, od 20 do 28 parzyste, ul. Międzyzdrojska od 1 do 25 nieparzyste, do 2 do 22 parzyste, ul. Łagowska od 1 do 23 nieparzyste, od 2 do 18 parzyte, ul. Łebska 40, ul. Olecka 4, 5.",
       "id": "7c6f4bcab44942ef161a871f14f5580d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "3 Maja, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-728, Polska",
-      "lat": 52.4090081,
-      "lon": 16.9248006,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "52c417fa8db88fd2035ff3d906ed498f"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Fabianowska, Osiedle Brzozowy Gaj, Aniołowo, Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-003, Polska",
-      "lat": 52.366295,
-      "lon": 16.8312422,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "09225b82b461ade134229e246c86242d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Fabianowska, Osiedle Brzozowy Gaj, Aniołowo, Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-003, Polska",
-      "lat": 52.366295,
-      "lon": 16.8312422,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "7b9553862bb00dc4396e911671afd287"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Jana Brzechwy, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
-      "lat": 52.4097394,
-      "lon": 16.8361093,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "240a04fe1092adfcc661ec705fc602e9"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Janusza Korczaka, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
-      "lat": 52.3590819,
-      "lon": 16.8840061,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "ec1a4c09f4f233adeab65a401c83ce02"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Juliana Tuwima, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
-      "lat": 52.4073831,
-      "lon": 16.8375636,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "777fbf6ffc681c1e1382bc67e9a59cd3"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
-      "lat": 52.410976,
-      "lon": 16.9264675,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "dca29c5d0d964bf1aab5f4d4a15a2de3"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
-      "lat": 52.248571,
-      "lon": 17.0886353,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "d45ad48a861f1c838dc52084cad6929a"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
-      "lat": 52.4108266,
-      "lon": 16.8955491,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "836a88dc3a1a5e5338cc787ae4ba8581"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "8fdb3e637b81a056ef7e3535b36c757b"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "f8964d376db5a0b8b0129c3a315c9301"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Stanisława Staszica, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-528, Polska",
-      "lat": 52.4122544,
-      "lon": 16.8984855,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "93973c186a4873ecaff50a47e5015587"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Stanisława Staszica, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-528, Polska",
-      "lat": 52.4122544,
-      "lon": 16.8984855,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "8ca0f783cf346df4213f837109e586f6"
     },
     {
       "type": "planned",

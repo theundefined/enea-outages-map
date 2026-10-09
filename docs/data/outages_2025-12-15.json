@@ -3,56 +3,6 @@
   "outages": [
     {
       "type": "planned",
-      "geocoded_address": "Gajówka, Sobota, gmina Rokietnica, powiat poznański, województwo wielkopolskie, 62-001, Polska",
-      "lat": 52.533568,
-      "lon": 16.7882399,
-      "start_time": "2025-12-15T08:00:00",
-      "end_time": "2025-12-15T17:00:00",
-      "original_description": "Gmina Rokietnica miejscowość Sobota ul. Poznańska od 1 do 30 (oprócz 3, 3E, 25), ul. Gajówka 1,  ul. Kasztanowa 1, 2, 2A, ul. Ogrodowa 23, Kościół, sklep, PGR, gajówka,",
-      "id": "b950f8ee16dfac1ce9012141675a7bdc"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
-      "lat": 52.3656758,
-      "lon": 16.9061644,
-      "start_time": "2025-12-15T08:00:00",
-      "end_time": "2025-12-15T17:00:00",
-      "original_description": "Gmina Rokietnica miejscowość Sobota ul. Poznańska od 1 do 30 (oprócz 3, 3E, 25), ul. Gajówka 1,  ul. Kasztanowa 1, 2, 2A, ul. Ogrodowa 23, Kościół, sklep, PGR, gajówka,",
-      "id": "ebcc7662db32ee53df5f25fdc5ddb8d4"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
-      "lat": 52.4038105,
-      "lon": 16.929477,
-      "start_time": "2025-12-15T08:00:00",
-      "end_time": "2025-12-15T17:00:00",
-      "original_description": "Gmina Rokietnica miejscowość Sobota ul. Poznańska od 1 do 30 (oprócz 3, 3E, 25), ul. Gajówka 1,  ul. Kasztanowa 1, 2, 2A, ul. Ogrodowa 23, Kościół, sklep, PGR, gajówka,",
-      "id": "8f088834540109fa542f134e289844fa"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2025-12-15T08:00:00",
-      "end_time": "2025-12-15T17:00:00",
-      "original_description": "Gmina Rokietnica miejscowość Sobota ul. Poznańska od 1 do 30 (oprócz 3, 3E, 25), ul. Gajówka 1,  ul. Kasztanowa 1, 2, 2A, ul. Ogrodowa 23, Kościół, sklep, PGR, gajówka,",
-      "id": "cff5892aac35e7a603cbdf3c6247caac"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2025-12-15T08:30:00",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Baranowo: ul. Poznańska 22B.",
-      "id": "9d0e976b32b2039c65411d717228868c"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Świętego Wincentego, Zawady, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-003, Polska",
       "lat": 52.4141515,
       "lon": 16.9532481,
@@ -153,36 +103,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
-      "lat": 52.4159569,
-      "lon": 17.0325761,
-      "start_time": "2025-12-16T08:30:00",
-      "end_time": "2025-12-16T11:30:00",
-      "original_description": "Przeźmierowo ul. Poznańska 35, 37, 39, ul. Leśna 64, 68, dz. 196/2, ul. Ogrodowa 4D, 6, 8, 10, 16, 16A-C, od 1 do 7 nieparzyste, 11, 11A-D, od 13 do 19 nieparzyste.",
-      "id": "4f7dc0b15a7e7c6a832e7da16d94b638"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
-      "lat": 52.4038105,
-      "lon": 16.929477,
-      "start_time": "2025-12-16T08:30:00",
-      "end_time": "2025-12-16T11:30:00",
-      "original_description": "Przeźmierowo ul. Poznańska 35, 37, 39, ul. Leśna 64, 68, dz. 196/2, ul. Ogrodowa 4D, 6, 8, 10, 16, 16A-C, od 1 do 7 nieparzyste, 11, 11A-D, od 13 do 19 nieparzyste.",
-      "id": "c342eac2137525746fb91ee9bbb8ef4d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2025-12-16T08:30:00",
-      "end_time": "2025-12-16T11:30:00",
-      "original_description": "Przeźmierowo ul. Poznańska 35, 37, 39, ul. Leśna 64, 68, dz. 196/2, ul. Ogrodowa 4D, 6, 8, 10, 16, 16A-C, od 1 do 7 nieparzyste, 11, 11A-D, od 13 do 19 nieparzyste.",
-      "id": "4ff97b4f134410d7d225a52e70050ca8"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Plonowa, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-312, Polska",
       "lat": 52.3566152,
       "lon": 17.0110889,
@@ -210,56 +130,6 @@
       "end_time": "2025-12-16T20:30:00",
       "original_description": "Poznań: ul. Ostrowska od 474 do 478, 478A, 497, 498, 498A, 499, 500, 502, 503.",
       "id": "9460a367286be9c3a8bf0f98ebfbb206"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Maniewska, Chludowo, gmina Suchy Las, powiat poznański, województwo wielkopolskie, 62-001, Polska",
-      "lat": 52.5596952,
-      "lon": 16.8521385,
-      "start_time": "2025-12-16T09:00:00",
-      "end_time": "2025-12-16T17:00:00",
-      "original_description": "Gmina Oborniki miejscowość Gołębowo całe, \nmiejscowość Ocieszyn ul. Rolna, ul. Obornicka 1, 2, 3, \nmiejscowość Maniewo od 73 do 82C, działki nr od 150/1 do 150/27, 325/2, 3253, stacja uzdatniania wody, \nmiejscowość Świerkówki cała (oprócz nr od 7 do 14A), \n\nGmina Suchy Las miejscowość Chludowo ul. Za Parkiem cała, ul. Ekologiczna cała, ul. Sosnowa cała,  ul. Biedruszczarnia cała (oprócz nr 1 i 2), ul. Leśna  cała (oprócz nr od 1 do 6), ul. Obornicka 61, ul. Poznańska 41, ul. Łagiewnicka 22A, 24B, 24C, 24D,  32, 34, 40, 42, 44, 46, ul. Węgierska cała, ul. Maniewska 3, 26, działki nr 227, 228/2, 228/3, 237/1, 562/1, 609/1, 619, 620/3, 620/1, 633/2, 633/3, wieża telekomunikacyjna, hydrofornia,",
-      "id": "0156ea26ee768c8348e08328936ca6d4"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Piątkowska, Osiedle Przyjaźni, Osiedle Studenckie, Winiary, Poznań, województwo wielkopolskie, 60-001, Polska",
-      "lat": 52.4248211,
-      "lon": 16.9184756,
-      "start_time": "2025-12-16T09:00:00",
-      "end_time": "2025-12-16T17:00:00",
-      "original_description": "Gmina Oborniki miejscowość Gołębowo całe, \nmiejscowość Ocieszyn ul. Rolna, ul. Obornicka 1, 2, 3, \nmiejscowość Maniewo od 73 do 82C, działki nr od 150/1 do 150/27, 325/2, 3253, stacja uzdatniania wody, \nmiejscowość Świerkówki cała (oprócz nr od 7 do 14A), \n\nGmina Suchy Las miejscowość Chludowo ul. Za Parkiem cała, ul. Ekologiczna cała, ul. Sosnowa cała,  ul. Biedruszczarnia cała (oprócz nr 1 i 2), ul. Leśna  cała (oprócz nr od 1 do 6), ul. Obornicka 61, ul. Poznańska 41, ul. Łagiewnicka 22A, 24B, 24C, 24D,  32, 34, 40, 42, 44, 46, ul. Węgierska cała, ul. Maniewska 3, 26, działki nr 227, 228/2, 228/3, 237/1, 562/1, 609/1, 619, 620/3, 620/1, 633/2, 633/3, wieża telekomunikacyjna, hydrofornia,",
-      "id": "900388fbdf34d4690e1c784ce1b27ded"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2025-12-16T09:00:00",
-      "end_time": "2025-12-16T17:00:00",
-      "original_description": "Gmina Oborniki miejscowość Gołębowo całe, \nmiejscowość Ocieszyn ul. Rolna, ul. Obornicka 1, 2, 3, \nmiejscowość Maniewo od 73 do 82C, działki nr od 150/1 do 150/27, 325/2, 3253, stacja uzdatniania wody, \nmiejscowość Świerkówki cała (oprócz nr od 7 do 14A), \n\nGmina Suchy Las miejscowość Chludowo ul. Za Parkiem cała, ul. Ekologiczna cała, ul. Sosnowa cała,  ul. Biedruszczarnia cała (oprócz nr 1 i 2), ul. Leśna  cała (oprócz nr od 1 do 6), ul. Obornicka 61, ul. Poznańska 41, ul. Łagiewnicka 22A, 24B, 24C, 24D,  32, 34, 40, 42, 44, 46, ul. Węgierska cała, ul. Maniewska 3, 26, działki nr 227, 228/2, 228/3, 237/1, 562/1, 609/1, 619, 620/3, 620/1, 633/2, 633/3, wieża telekomunikacyjna, hydrofornia,",
-      "id": "ce8d6bc26ed5b8e8ba24a18652662528"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
-      "lat": 52.3848378,
-      "lon": 16.9173623,
-      "start_time": "2025-12-16T09:00:00",
-      "end_time": "2025-12-16T17:00:00",
-      "original_description": "Gmina Oborniki miejscowość Gołębowo całe, \nmiejscowość Ocieszyn ul. Rolna, ul. Obornicka 1, 2, 3, \nmiejscowość Maniewo od 73 do 82C, działki nr od 150/1 do 150/27, 325/2, 3253, stacja uzdatniania wody, \nmiejscowość Świerkówki cała (oprócz nr od 7 do 14A), \n\nGmina Suchy Las miejscowość Chludowo ul. Za Parkiem cała, ul. Ekologiczna cała, ul. Sosnowa cała,  ul. Biedruszczarnia cała (oprócz nr 1 i 2), ul. Leśna  cała (oprócz nr od 1 do 6), ul. Obornicka 61, ul. Poznańska 41, ul. Łagiewnicka 22A, 24B, 24C, 24D,  32, 34, 40, 42, 44, 46, ul. Węgierska cała, ul. Maniewska 3, 26, działki nr 227, 228/2, 228/3, 237/1, 562/1, 609/1, 619, 620/3, 620/1, 633/2, 633/3, wieża telekomunikacyjna, hydrofornia,",
-      "id": "88404956346d32e5bdd61d4cea6197da"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Łagiewnicka, Psarskie, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
-      "lat": 52.4774426,
-      "lon": 16.8060561,
-      "start_time": "2025-12-16T09:00:00",
-      "end_time": "2025-12-16T17:00:00",
-      "original_description": "Gmina Oborniki miejscowość Gołębowo całe, \nmiejscowość Ocieszyn ul. Rolna, ul. Obornicka 1, 2, 3, \nmiejscowość Maniewo od 73 do 82C, działki nr od 150/1 do 150/27, 325/2, 3253, stacja uzdatniania wody, \nmiejscowość Świerkówki cała (oprócz nr od 7 do 14A), \n\nGmina Suchy Las miejscowość Chludowo ul. Za Parkiem cała, ul. Ekologiczna cała, ul. Sosnowa cała,  ul. Biedruszczarnia cała (oprócz nr 1 i 2), ul. Leśna  cała (oprócz nr od 1 do 6), ul. Obornicka 61, ul. Poznańska 41, ul. Łagiewnicka 22A, 24B, 24C, 24D,  32, 34, 40, 42, 44, 46, ul. Węgierska cała, ul. Maniewska 3, 26, działki nr 227, 228/2, 228/3, 237/1, 562/1, 609/1, 619, 620/3, 620/1, 633/2, 633/3, wieża telekomunikacyjna, hydrofornia,",
-      "id": "6d1c141dc761debaf9fb10bc7c928614"
     },
     {
       "type": "planned",
@@ -413,36 +283,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
-      "lat": 52.4159569,
-      "lon": 17.0325761,
-      "start_time": "2025-12-17T08:30:00",
-      "end_time": "2025-12-17T13:00:00",
-      "original_description": "Gądki ul. Leśna, ul. Poznańska 60, ul. Towarowa 3,",
-      "id": "cc10ef8688817db6b118e678d9df5db7"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2025-12-17T08:30:00",
-      "end_time": "2025-12-17T13:00:00",
-      "original_description": "Gądki ul. Leśna, ul. Poznańska 60, ul. Towarowa 3,",
-      "id": "eedde874d4cc9e17741947288456b375"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Stanisława Matyi, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-584, Polska",
-      "lat": 52.4017068,
-      "lon": 16.9206037,
-      "start_time": "2025-12-17T08:30:00",
-      "end_time": "2025-12-17T13:00:00",
-      "original_description": "Gądki ul. Leśna, ul. Poznańska 60, ul. Towarowa 3,",
-      "id": "d224026fbe7410349d3ba304d3b90693"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Bielniki, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-555, Polska",
       "lat": 52.3950062,
       "lon": 16.9348609,
@@ -520,66 +360,6 @@
       "end_time": "2025-12-18T14:00:00",
       "original_description": "Poznań: ul. Skałkowskiego od 19 do 31 nieparzyste.",
       "id": "2d103990075d5eeeb4544c3045734f2a"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "1 Maja, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
-      "lat": 52.3335419,
-      "lon": 16.8849169,
-      "start_time": "2025-12-18T08:00:00",
-      "end_time": "2025-12-18T16:00:00",
-      "original_description": "Gmina Komorniki miejscowość Rosnówko ul. 1 Maja od 1 do 47, 49, 53, 55, ul. Miodowa cała, ul. Spokojna cała, ul. Stawnego od 1 do 16, ul. Mostowa cała, ul. Nowa od 1 do 3, ul. Poznańska 11, 17, 18, 18a, 19, 21, 23, 25, 27, \ndziałki nr 68/1, 69/3, 81, 133, 161/7, 162, 312/9, 312/10, 312/11, 316/2, Kościół, cmentarz, orlik, przedszkole, wieża Orange,",
-      "id": "2320e9fe12b979836e8db9dbb79d5e4a"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "73, Armii Poznań, Lasek Dolny, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
-      "lat": 52.32917,
-      "lon": 16.88841,
-      "start_time": "2025-12-18T08:00:00",
-      "end_time": "2025-12-18T16:00:00",
-      "original_description": "Murowana Goślina ulice Śliwkowa, Wiśniowa, Czereśniowa, Brzoskwiniowa, Morelowa, Chabrowa 1, Poznańska 73, 61, Bracka 8, dz. 930/14, Malwowa 8, 12",
-      "id": "26174d28f2e1a201662a573173a1a528"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Nowa Synagoga, 11a, Wroniecka, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-763, Polska",
-      "lat": 52.4109536,
-      "lon": 16.9350496,
-      "start_time": "2025-12-18T08:00:00",
-      "end_time": "2025-12-18T16:00:00",
-      "original_description": "Gmina Komorniki miejscowość Rosnówko ul. 1 Maja od 1 do 47, 49, 53, 55, ul. Miodowa cała, ul. Spokojna cała, ul. Stawnego od 1 do 16, ul. Mostowa cała, ul. Nowa od 1 do 3, ul. Poznańska 11, 17, 18, 18a, 19, 21, 23, 25, 27, \ndziałki nr 68/1, 69/3, 81, 133, 161/7, 162, 312/9, 312/10, 312/11, 316/2, Kościół, cmentarz, orlik, przedszkole, wieża Orange,",
-      "id": "aece7224459b5dd43b51bf774cc6e627"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2025-12-18T08:00:00",
-      "end_time": "2025-12-18T16:00:00",
-      "original_description": "Gmina Komorniki miejscowość Rosnówko ul. 1 Maja od 1 do 47, 49, 53, 55, ul. Miodowa cała, ul. Spokojna cała, ul. Stawnego od 1 do 16, ul. Mostowa cała, ul. Nowa od 1 do 3, ul. Poznańska 11, 17, 18, 18a, 19, 21, 23, 25, 27, \ndziałki nr 68/1, 69/3, 81, 133, 161/7, 162, 312/9, 312/10, 312/11, 316/2, Kościół, cmentarz, orlik, przedszkole, wieża Orange,",
-      "id": "27e94c949430289b1f7575e132dc342d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Stawnego, Rosnówko, gmina Komorniki, powiat poznański, województwo wielkopolskie, 62-052, Polska",
-      "lat": 52.3033975,
-      "lon": 16.7748173,
-      "start_time": "2025-12-18T08:00:00",
-      "end_time": "2025-12-18T16:00:00",
-      "original_description": "Gmina Komorniki miejscowość Rosnówko ul. 1 Maja od 1 do 47, 49, 53, 55, ul. Miodowa cała, ul. Spokojna cała, ul. Stawnego od 1 do 16, ul. Mostowa cała, ul. Nowa od 1 do 3, ul. Poznańska 11, 17, 18, 18a, 19, 21, 23, 25, 27, \ndziałki nr 68/1, 69/3, 81, 133, 161/7, 162, 312/9, 312/10, 312/11, 316/2, Kościół, cmentarz, orlik, przedszkole, wieża Orange,",
-      "id": "481fcc5bc96d93eea5254b354cf28567"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "18, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-154, Polska",
-      "lat": 52.3958989,
-      "lon": 16.9443473,
-      "start_time": "2025-12-18T08:30:00",
-      "end_time": "2025-12-18T12:30:00",
-      "original_description": "Poznań: Piastowskie 18, 19, 20, 21.",
-      "id": "2c5166d3a15bf53ad3084cf7a3ea3d33"
     },
     {
       "type": "planned",
@@ -730,26 +510,6 @@
       "end_time": "2025-12-19T11:30:00",
       "original_description": "Poznań: ul. Okulickiego od 43 do 115 nieparzyste, od 50 do 66 parzyste, od 72 do 98 parzyste, ul. Krasickiego od 51 do 93 nieparzyste, od 64 do 110 parzyste, ul. Buczka 6, 8, 10, 12, 16, 18, 22, 24, ul. Lelewela 56, od 80 do 96 parzyste.",
       "id": "fb3f9dffc7f406dbd4719d419af6650c"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
-      "lat": 52.4159569,
-      "lon": 17.0325761,
-      "start_time": "2025-12-19T11:00:00",
-      "end_time": "2025-12-19T14:00:00",
-      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Leśna od 1 do 29, 36 ul. Poznańska 5, 7, 9, 9A, 9B, 11, 13, działki nr 56, 270/3, 270/7,  stacja bazowa T-Mobile 40343,",
-      "id": "067d66139354557bc52d8f72899b725c"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2025-12-19T11:00:00",
-      "end_time": "2025-12-19T14:00:00",
-      "original_description": "Gmina Buk miejscowość Niepruszewo ul. Leśna od 1 do 29, 36 ul. Poznańska 5, 7, 9, 9A, 9B, 11, 13, działki nr 56, 270/3, 270/7,  stacja bazowa T-Mobile 40343,",
-      "id": "b6632915a22d0ce416c6119a763755a8"
     },
     {
       "type": "planned",
@@ -1813,16 +1573,6 @@
     },
     {
       "type": "unplanned",
-      "geocoded_address": "Armii Poznań, Osiedle Generała Władysława Sikorskiego, Piaski, Sieraków, gmina Sieraków, powiat międzychodzki, województwo wielkopolskie, 64-410, Polska",
-      "lat": 52.6475072,
-      "lon": 16.0709461,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "ca8781698c89637c80dca8f1d5c9476d"
-    },
-    {
-      "type": "unplanned",
       "geocoded_address": "Błażeja Winklera, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
       "lat": 52.3903278,
       "lon": 16.8871132,
@@ -1830,46 +1580,6 @@
       "end_time": "2025-12-15T11:00:00",
       "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
       "id": "bdb6f2b99fe1b09e14546312cf778fd4"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Generała Tadeusza Kutrzeby, Przepadek, Stare Miasto, Poznań, województwo wielkopolskie, 61-718, Polska",
-      "lat": 52.4152239,
-      "lon": 16.9317635,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "1cb9764e4ce33a9af37406e48c11dd13"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Jarosława Dąbrowskiego, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-419, Polska",
-      "lat": 52.4303425,
-      "lon": 16.844788,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "b13489548093c40caeb34c5d548a67dd"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Józefa Kraszewskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-518, Polska",
-      "lat": 52.4108559,
-      "lon": 16.9030171,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "c1b189ec5fa5f794d9e4d9f21be9541d"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Karola Marcinkowskiego, Puszczykowo, powiat poznański, województwo wielkopolskie, 62-040, Polska",
-      "lat": 52.2752719,
-      "lon": 16.8639848,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "df716138f38e4d57592558a038459e3d"
     },
     {
       "type": "unplanned",
@@ -1883,16 +1593,6 @@
     },
     {
       "type": "unplanned",
-      "geocoded_address": "Kórnicka, Święty Roch, Rataje, Poznań, województwo wielkopolskie, 61-141, Polska",
-      "lat": 52.3997552,
-      "lon": 16.9510957,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "7e34078b5fcf3016156b58b2cf117694"
-    },
-    {
-      "type": "unplanned",
       "geocoded_address": "Macieja Palacza, Pogodno, Grunwald Południe, Poznań, województwo wielkopolskie, 60-001, Polska",
       "lat": 52.3964455,
       "lon": 16.8677181,
@@ -1900,56 +1600,6 @@
       "end_time": "2025-12-15T11:00:00",
       "original_description": "Poznań ul. Adama Biedrzyckiego, ul. Błażeja Winklera, ul. Kazimierza Jarochowskiego, ul. Macieja Palacza.",
       "id": "bf248db5bdd065327643e1acc0ee1f4d"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
-      "lat": 52.4108266,
-      "lon": 16.8955491,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "d34b86ec0cee2cb8b0ae9180ce48a3a1"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. Poznańska.",
-      "id": "fcaf4093d9ab159f30900cf24f5fa984"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "6d6c3ea829bc1f99d9e57d7d705a486c"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Tadeusza Kościuszki, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-898, Polska",
-      "lat": 52.4022309,
-      "lon": 16.9243989,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "2677ebc60d678b775689d0f024b178e1"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Władysława Sikorskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-536, Polska",
-      "lat": 52.39072,
-      "lon": 16.9124477,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T11:00:00",
-      "original_description": "Swarzędz ul. gen. Tadeusza Kutrzeby, ul. Jarosława Dąbrowskiego, ul. Józefa Kraszewskiego, ul. Karola Marcinkowskiego, ul. Kórnicka, ul. Piaski, ul. Polna, ul. Poznańska, ul. Tadeusza Kościuszki, ul. Władysława Sikorskiego.",
-      "id": "c0d80f889b32b1dcb8b525edb4c0191e"
     },
     {
       "type": "unplanned",
@@ -1980,106 +1630,6 @@
       "end_time": "2025-12-15T11:30:00",
       "original_description": "Poznań ul. Babimojska, ul. Grunwaldzka, ul. Smardzewska.",
       "id": "fa335d495cab08b2ae558fb7ca992452"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Augusta Emila Fieldorfa, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
-      "lat": 52.4437051,
-      "lon": 16.8608306,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "84f8934e73bc854d39a9c6f7bd0f3b1f"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Park Władysława Czarneckiego, Winogrady, Poznań, województwo wielkopolskie, 61-640, Polska",
-      "lat": 52.4340947,
-      "lon": 16.9288697,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "0677189d73429ddc51506392605dbd4e"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Poznańska.",
-      "id": "4b9d022244337f0b23c6d948ee8a9c1a"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "92a5914f2a81af02fb49a14b449184e8"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Profesora Jana Rutkowskiego, Jasin, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
-      "lat": 52.4106225,
-      "lon": 17.0950267,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "c96ea1c1c1245c7a84262ebbae44c92a"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Solecka, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-335, Polska",
-      "lat": 52.3422785,
-      "lon": 16.9370758,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "96f3d88dbc9d9fc3744b501838cd23ea"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Tulipanowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
-      "lat": 52.3876508,
-      "lon": 16.8142466,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "a147bac969bab8c5718eb458ef808bcf"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Wrzesińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
-      "lat": 52.4193337,
-      "lon": 16.9765039,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "f6ed3a3c90b5f15cddb7bdc7be35bbee"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Ziemowita, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-053, Polska",
-      "lat": 52.4051572,
-      "lon": 17.0049725,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "700501632fdd6841fa90b50e7afea6d4"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Łowęcińska, Jasin, gmina Swarzędz, powiat poznański, województwo wielkopolskie, 62-020, Polska",
-      "lat": 52.4093667,
-      "lon": 17.1062125,
-      "start_time": "Brak danych",
-      "end_time": "2025-12-15T12:30:00",
-      "original_description": "Jasin ul. Augusta, ul. Łowęcińska, ul. Poznańska, ul. prof. Jana Rutkowskiego, ul. Sołecka, ul. Tulipanowa, ul. Władysława, ul. Wrzesińska, ul. Ziemowita, Swarzędz ul. prof. Jana Rutkowskiego, ul. Wrzesińska.",
-      "id": "e5dc0fdecebb3b14bdaab564d8af2c93"
     },
     {
       "type": "unplanned",

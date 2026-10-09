@@ -3,116 +3,6 @@
   "outages": [
     {
       "type": "planned",
-      "geocoded_address": "Gwarna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-703, Polska",
-      "lat": 52.407635,
-      "lon": 16.9212577,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna, ul. Wiejska, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
-      "id": "4e8c75bc35d83b22afbf43317db7112d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
-      "id": "1838b64457a95521605aa730f13216bc"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna, ul. Wiejska, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
-      "id": "5412b6d6cb6115be73bb6fe6ee3539a7"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste.",
-      "id": "ef7ca702ad5a9257d594f6d84b90ff04"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Rolna, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-513, Polska",
-      "lat": 52.3848378,
-      "lon": 16.9173623,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
-      "id": "a58e33ddc8416df9a812b97af54f660d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
-      "lat": 52.410741,
-      "lon": 16.983344,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna, ul. Wiejska, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
-      "id": "3206e60095aee96812b1b9bac7dc8ebb"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wiejska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
-      "lat": 52.4211828,
-      "lon": 16.9756718,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna, ul. Wiejska, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
-      "id": "cd1137b4ab4f55f00bba3e7159b4a2c7"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
-      "lat": 52.4073247,
-      "lon": 16.9364678,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9, ul. Wodna, ul. Wiejska, ul. Gwarna 2, 4, ul. Poznańska 43, 45, 47, od 34 do 46 parzyste.",
-      "id": "be45f4dd099bdf4cdb187d89b4c6e94b"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Zbożowa, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
-      "lat": 52.4257557,
-      "lon": 16.9231184,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
-      "id": "d7c53a2a2787b3c6d331ec4243182377"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Łanowa, Wilda, Poznań, województwo wielkopolskie, 61-489, Polska",
-      "lat": 52.3814024,
-      "lon": 16.9138488,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Poznańska 46A, od 49 do 67 nieparzyste, od 48 do 64 parzyste, ul. Łanowa od 1 do 7 nieparzyste, od 2 do 10 parzyste.",
-      "id": "b6865141e4f1c80345b604b792ce3368"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Żniwna, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
-      "lat": 52.4236767,
-      "lon": 16.9278324,
-      "start_time": "2026-03-31T08:00:00",
-      "end_time": "2026-03-31T13:00:00",
-      "original_description": "Kicin: ul. Poznańska od 69 do 89 nieparzyste, od 66 do 82 parzyste, ul. Rolna, ul Siewna, ul. Żniwna, ul. Zbożowa.",
-      "id": "abd9e8847b74e9a42bc9cd67feec7bf8"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Leszka, Nowy Młyn, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-043, Polska",
       "lat": 52.4057704,
       "lon": 17.0160297,
@@ -403,56 +293,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Długa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-851, Polska",
-      "lat": 52.4037413,
-      "lon": 16.9352621,
-      "start_time": "2026-04-01T09:00:00",
-      "end_time": "2026-04-01T16:00:00",
-      "original_description": "Gmina Tarnowo Podgórne miejscowość Góra ul. Długa od 1 od 1D, od 2 do 4T, 17, ul. Kręta 2, 2A, 3, 3A, 3B, 3C, u. Poznańska 1, 3, ul. Szkolna 1, 2, działki nr 14/6, 14/7, 15/35, 15/37,   123, 125/3,",
-      "id": "ced9cadfa019645224701293f3952b0d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Karczma u Grzegorza, 1a, generała Stanisława Maczka, Osiedle Studenckie, Osiedle Przyjaźni, Winiary, Poznań, województwo wielkopolskie, 60-651, Polska",
-      "lat": 52.4242808,
-      "lon": 16.9129314,
-      "start_time": "2026-04-01T09:00:00",
-      "end_time": "2026-04-01T16:00:00",
-      "original_description": "Gmina Tarnowo Podgórne miejscowość Góra ul. Długa od 1 od 1D, od 2 do 4T, 17, ul. Kręta 2, 2A, 3, 3A, 3B, 3C, u. Poznańska 1, 3, ul. Szkolna 1, 2, działki nr 14/6, 14/7, 15/35, 15/37,   123, 125/3,",
-      "id": "93a2bb29636a7519ead9011e53717025"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
-      "lat": 52.3207486,
-      "lon": 16.8844695,
-      "start_time": "2026-04-01T09:00:00",
-      "end_time": "2026-04-01T16:00:00",
-      "original_description": "Gmina Tarnowo Podgórne miejscowość Góra ul. Długa od 1 od 1D, od 2 do 4T, 17, ul. Kręta 2, 2A, 3, 3A, 3B, 3C, u. Poznańska 1, 3, ul. Szkolna 1, 2, działki nr 14/6, 14/7, 15/35, 15/37,   123, 125/3,",
-      "id": "cf5aa39d997548c1a09df00899b47ef8"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
-      "lat": 52.4075185,
-      "lon": 16.9322942,
-      "start_time": "2026-04-01T09:00:00",
-      "end_time": "2026-04-01T16:00:00",
-      "original_description": "Gmina Tarnowo Podgórne miejscowość Góra ul. Długa od 1 od 1D, od 2 do 4T, 17, ul. Kręta 2, 2A, 3, 3A, 3B, 3C, u. Poznańska 1, 3, ul. Szkolna 1, 2, działki nr 14/6, 14/7, 15/35, 15/37,   123, 125/3,",
-      "id": "e45882beae6bd6528920e32d1462a8a8"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wydział Inżynierii Zarządzania, 2, Jacka Rychlewskiego, Święty Roch, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-131, Polska",
-      "lat": 52.4061856,
-      "lon": 16.9524283,
-      "start_time": "2026-04-01T09:00:00",
-      "end_time": "2026-04-01T16:00:00",
-      "original_description": "Gmina Tarnowo Podgórne miejscowość Góra ulica Kręta 1, Poznańska 2, 4, 5, 6, 7, 8, 10, 12 Tęczowa 11, 13, 15/1, 15/2,  \ndziałki numer 151/3, 156, 183, 178,",
-      "id": "21e132a3146b33eb82bfed95f720b8b8"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Ćmielowska, Marlewo, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-334, Polska",
       "lat": 52.3437216,
       "lon": 16.9292255,
@@ -460,76 +300,6 @@
       "end_time": "2026-04-01T16:00:00",
       "original_description": "Poznań: ul. Ćmielowska 4, 6, 8, 10.",
       "id": "3da9620c37f4328046313a0fdbe26feb"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Działkowa, Raszyn, Grunwald Południe, Poznań, województwo wielkopolskie, 60-131, Polska",
-      "lat": 52.3890032,
-      "lon": 16.8799714,
-      "start_time": "2026-04-02T08:00:00",
-      "end_time": "2026-04-02T12:30:00",
-      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
-      "id": "7f68e75f15f86e30de6ef1e0ebee590c"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Makowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-464, Polska",
-      "lat": 52.370543,
-      "lon": 16.9092524,
-      "start_time": "2026-04-02T08:00:00",
-      "end_time": "2026-04-02T12:30:00",
-      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
-      "id": "61212e0deaaaf71c1fb5f0eb19d29d96"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Podleśna, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
-      "lat": 52.4180824,
-      "lon": 17.0426216,
-      "start_time": "2026-04-02T08:00:00",
-      "end_time": "2026-04-02T12:30:00",
-      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
-      "id": "d1e7fa81485770ad9f29e05634b9e03f"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-04-02T08:00:00",
-      "end_time": "2026-04-02T12:30:00",
-      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
-      "id": "e2b702024977653a8e4d790b95d790de"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Sosnowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
-      "lat": 52.3697932,
-      "lon": 16.8977877,
-      "start_time": "2026-04-02T08:00:00",
-      "end_time": "2026-04-02T12:30:00",
-      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
-      "id": "b9394a2f8737285607d920b8f42553dd"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wyższa Szkoła Bankowa w Poznaniu, 1, Powstańców Wielkopolskich, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-813, Polska",
-      "lat": 52.4036146,
-      "lon": 16.923645,
-      "start_time": "2026-04-02T08:00:00",
-      "end_time": "2026-04-02T12:30:00",
-      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
-      "id": "c20f80779b51acf576b747689b3d6c59"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Łąkowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-878, Polska",
-      "lat": 52.4017012,
-      "lon": 16.9322223,
-      "start_time": "2026-04-02T08:00:00",
-      "end_time": "2026-04-02T12:30:00",
-      "original_description": "Wiórek ul. Działkowa, ul. Makowa, ul. Podleśna, ul. Poznańska, ul. Sosnowa, ul. Bankowa, ul. Łąkowa,",
-      "id": "750b130d400667e512a8ffb49d43e8d8"
     },
     {
       "type": "planned",
@@ -600,36 +370,6 @@
       "end_time": "2026-04-02T12:30:00",
       "original_description": "Poznań: ul. Sarmacka 36, 44, 46, 52, ul. Skwierzyńska 1, 2, ul. Swarożyca 1, 2, 2A, ul. Popiela, ul. Madziarska 4, 6, 8, 10, od 12 do 16A parzyste, od 1 do 17A nieparzyste.",
       "id": "5cb3cc0a2c16a6203ac75c13c6f0f986"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Dolna, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
-      "lat": 52.4697134,
-      "lon": 16.9524326,
-      "start_time": "2026-04-03T08:00:00",
-      "end_time": "2026-04-03T12:30:00",
-      "original_description": "Czapury ul. Kręta, ul. Dolna, ul. Poznańska",
-      "id": "6d26453d1c68801a6729e89a11238f8c"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Kręta, Lasek, Luboń, powiat poznański, województwo wielkopolskie, 62-030, Polska",
-      "lat": 52.3207486,
-      "lon": 16.8844695,
-      "start_time": "2026-04-03T08:00:00",
-      "end_time": "2026-04-03T12:30:00",
-      "original_description": "Czapury ul. Kręta, ul. Dolna, ul. Poznańska",
-      "id": "03996eb78bc4832e819ffe0abdee76e7"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-04-03T08:00:00",
-      "end_time": "2026-04-03T12:30:00",
-      "original_description": "Czapury ul. Kręta, ul. Dolna, ul. Poznańska",
-      "id": "889b2316050fb378b0e8e45ea168a2d1"
     },
     {
       "type": "planned",
@@ -753,16 +493,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-04-08T08:00:00",
-      "end_time": "2026-04-08T13:00:00",
-      "original_description": "Mielno: ul. Poznańska 30, 32, od 29 do 43 nieparzyste.",
-      "id": "f787c5593bc59050120e0566b2e3a3a1"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Masztalarska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-767, Polska",
       "lat": 52.4101758,
       "lon": 16.9331274,
@@ -770,36 +500,6 @@
       "end_time": "2026-04-08T15:00:00",
       "original_description": "Poznań: ul. Masztalarska 7, 7A, 8, 8A.",
       "id": "d3f9c96e45249a5d626701e21f208a5a"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-04-08T08:00:00",
-      "end_time": "2026-04-08T16:00:00",
-      "original_description": "Czapury ul. Poznańska 177, Wiórek ul. Szkolna 1, 10, 11, 13, 13A, 17, 18, 19, 1A, 2, 25, 27, 5, 7, 9, ul. Poznańska 13, 17, 19",
-      "id": "f3266a621f64e39508358d32b6319521"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-04-08T08:00:00",
-      "end_time": "2026-04-08T16:00:00",
-      "original_description": "Gmina Pniewy miejscowość Jakubowo od 7 do 15, 18, działki nr 126, \nmiasto Pniewy ul. Poznańska 92, 96, 98, restauracja McDonalds, stacja paliw BP,",
-      "id": "a795f3311be9341ea7dc1016dffefdd8"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
-      "lat": 52.4075185,
-      "lon": 16.9322942,
-      "start_time": "2026-04-08T08:00:00",
-      "end_time": "2026-04-08T16:00:00",
-      "original_description": "Czapury ul. Poznańska 177, Wiórek ul. Szkolna 1, 10, 11, 13, 13A, 17, 18, 19, 1A, 2, 25, 27, 5, 7, 9, ul. Poznańska 13, 17, 19",
-      "id": "fbf3fd9e538019217ac92433cf548f86"
     },
     {
       "type": "planned",
@@ -1203,66 +903,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Dworcowa, Stare Miasto, Poznań, województwo wielkopolskie, 61-802, Polska",
-      "lat": 52.4074553,
-      "lon": 16.9131949,
-      "start_time": "2026-04-10T11:00:00",
-      "end_time": "2026-04-10T16:00:00",
-      "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
-      "id": "6b3a11be1defe9cc78e61a77cbe0d0e7"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-04-10T11:00:00",
-      "end_time": "2026-04-10T16:00:00",
-      "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
-      "id": "a23c81751e5a29bfed40c40c361855e2"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
-      "lat": 52.410741,
-      "lon": 16.983344,
-      "start_time": "2026-04-10T11:00:00",
-      "end_time": "2026-04-10T16:00:00",
-      "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
-      "id": "98fbb2a4bb2f19525deefffe0f95088c"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Słonecznikowa, Umultowo, Poznań, województwo wielkopolskie, 61-680, Polska",
-      "lat": 52.4774997,
-      "lon": 16.9390768,
-      "start_time": "2026-04-10T11:00:00",
-      "end_time": "2026-04-10T16:00:00",
-      "original_description": "Kobylnica: ul. Poznańska od 125 do 187 nieparzyste, ul. Swarzędzka 2, 2A, 5, 9, 11, dz. 221/25, ul. Dworcowa od 1 do 38, ul. Słonecznikowa od 3 do 15 nieparzyste.",
-      "id": "e1370de772010bf3a961d687b1f8292b"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Bukowska, Łazarz, Poznań, województwo wielkopolskie, 60-809, Polska",
-      "lat": 52.4063647,
-      "lon": 16.9116898,
-      "start_time": "2026-04-13T08:00:00",
-      "end_time": "2026-04-13T17:00:00",
-      "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
-      "id": "7bcef042be62981bb80b2a5550beaee2"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
-      "lat": 52.4128608,
-      "lon": 16.9032869,
-      "start_time": "2026-04-13T08:00:00",
-      "end_time": "2026-04-13T17:00:00",
-      "original_description": "Gmina Kaźmierz  miejscowość Gaj Wielki ul. Poznańska cała, ul. Pocztowa cała, ul. Kiączyńska cała, ul. Krótka cała, ul. Humerczyka cała, ul. Kościelna 1, 1A, 3, 10, 11A, 12, 12A,  ul. Bukowska 1, działki nr 82/6, kaplica, Szkoła Podstawowa, sklep, stacja bazowa P4 nr SZA3052, bramownica,",
-      "id": "b3824320f447ce9c36dc8345a780ee2c"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Gerberowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
       "lat": 52.385267,
       "lon": 16.8251734,
@@ -1303,26 +943,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-04-14T09:00:00",
-      "end_time": "2026-04-14T14:00:00",
-      "original_description": "Baranowo: ul. Poznańska 1, 1A, ul. Budowlanych od 1 do 5 nieparzyste, od 4 do 14 parzyste, dz. 222/153.",
-      "id": "6d5b33af814ae5655f5644ff88824a00"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Rodzinny Ogród Działkowy im. \"Budowlanych\", Naramowice, Poznań, województwo wielkopolskie, Polska",
-      "lat": 52.449638,
-      "lon": 16.9291109,
-      "start_time": "2026-04-14T09:00:00",
-      "end_time": "2026-04-14T14:00:00",
-      "original_description": "Baranowo: ul. Poznańska 1, 1A, ul. Budowlanych od 1 do 5 nieparzyste, od 4 do 14 parzyste, dz. 222/153.",
-      "id": "3afcc6659541a106a4bb61bc3e3e651c"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Głowicka, Wydmy, Ławica, Poznań, województwo wielkopolskie, 60-182, Polska",
       "lat": 52.4058093,
       "lon": 16.8222775,
@@ -1350,56 +970,6 @@
       "end_time": "2026-04-16T13:30:00",
       "original_description": "Poznań: ul. Głowicka, ul. Perzycka 82, 84, ul. Owcza.",
       "id": "ec3439055121500db1666587b4b17388"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Gwarna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-703, Polska",
-      "lat": 52.407635,
-      "lon": 16.9212577,
-      "start_time": "2026-04-16T09:00:00",
-      "end_time": "2026-04-16T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9 nieparzyste, ul. Wodna od 1 do 7 nieparzyste, ul. Wiejska od 2 do 10 parzyste, od 1 do 5 nieparzyste, dz. 311/3, ul. Gwarna 2, 4, ,ul. Poznańska 43, 45, 47, od 42 do 46 parzyste.",
-      "id": "edde97df18f29f58a5d4c05d7f98f80c"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-04-16T09:00:00",
-      "end_time": "2026-04-16T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9 nieparzyste, ul. Wodna od 1 do 7 nieparzyste, ul. Wiejska od 2 do 10 parzyste, od 1 do 5 nieparzyste, dz. 311/3, ul. Gwarna 2, 4, ,ul. Poznańska 43, 45, 47, od 42 do 46 parzyste.",
-      "id": "d0b29c636f18450c34fbf2b65ca1f847"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Swarzędzka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-039, Polska",
-      "lat": 52.410741,
-      "lon": 16.983344,
-      "start_time": "2026-04-16T09:00:00",
-      "end_time": "2026-04-16T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9 nieparzyste, ul. Wodna od 1 do 7 nieparzyste, ul. Wiejska od 2 do 10 parzyste, od 1 do 5 nieparzyste, dz. 311/3, ul. Gwarna 2, 4, ,ul. Poznańska 43, 45, 47, od 42 do 46 parzyste.",
-      "id": "d1c2b0ac50e2cbccc1672de4d3068599"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wiejska, Nadolnik, Główna, Poznań, województwo wielkopolskie, 61-019, Polska",
-      "lat": 52.4211828,
-      "lon": 16.9756718,
-      "start_time": "2026-04-16T09:00:00",
-      "end_time": "2026-04-16T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9 nieparzyste, ul. Wodna od 1 do 7 nieparzyste, ul. Wiejska od 2 do 10 parzyste, od 1 do 5 nieparzyste, dz. 311/3, ul. Gwarna 2, 4, ,ul. Poznańska 43, 45, 47, od 42 do 46 parzyste.",
-      "id": "c762f9c19ac688908b609e1fc621dbaf"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wodna, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-782, Polska",
-      "lat": 52.4073247,
-      "lon": 16.9364678,
-      "start_time": "2026-04-16T09:00:00",
-      "end_time": "2026-04-16T13:00:00",
-      "original_description": "Kicin: ul. Swarzędzka od 1 do 9 nieparzyste, ul. Wodna od 1 do 7 nieparzyste, ul. Wiejska od 2 do 10 parzyste, od 1 do 5 nieparzyste, dz. 311/3, ul. Gwarna 2, 4, ,ul. Poznańska 43, 45, 47, od 42 do 46 parzyste.",
-      "id": "ba2d80739783a3855bd1c2c406143648"
     },
     {
       "type": "planned",

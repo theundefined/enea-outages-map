@@ -3,56 +3,6 @@
   "outages": [
     {
       "type": "planned",
-      "geocoded_address": "Folwarczna, Osiedle Przemysława, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-064, Polska",
-      "lat": 52.3895876,
-      "lon": 17.0075819,
-      "start_time": "2026-08-06T08:30:00",
-      "end_time": "2026-08-06T14:30:00",
-      "original_description": "Przeźmierowo: ul. Folwarczna od 1 do 39 nieparzyste, od 2 do 44 parzyste, ul. Poznańska od 15 do 27 nieparzyste, ul. Leśna 17, 19, ul. Wiosny Ludów 22.",
-      "id": "f5d70183a83eeea54c096463f1c8177b"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Leśna, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
-      "lat": 52.4159569,
-      "lon": 17.0325761,
-      "start_time": "2026-08-06T08:30:00",
-      "end_time": "2026-08-06T14:30:00",
-      "original_description": "Przeźmierowo: ul. Folwarczna od 1 do 39 nieparzyste, od 2 do 44 parzyste, ul. Poznańska od 15 do 27 nieparzyste, ul. Leśna 17, 19, ul. Wiosny Ludów 22.",
-      "id": "e7a6c7a2f2d29e65413d8beb6e4292cb"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-06T08:30:00",
-      "end_time": "2026-08-06T14:30:00",
-      "original_description": "Przeźmierowo: ul. Folwarczna od 1 do 39 nieparzyste, od 2 do 44 parzyste, ul. Poznańska od 15 do 27 nieparzyste, ul. Leśna 17, 19, ul. Wiosny Ludów 22.",
-      "id": "227e18f904545b5eec337445dd5f4b93"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wiosny Ludów, Lubonianka, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
-      "lat": 52.2418804,
-      "lon": 16.8617573,
-      "start_time": "2026-08-06T08:30:00",
-      "end_time": "2026-08-06T14:30:00",
-      "original_description": "Przeźmierowo: ul. Folwarczna od 1 do 39 nieparzyste, od 2 do 44 parzyste, ul. Poznańska od 15 do 27 nieparzyste, ul. Leśna 17, 19, ul. Wiosny Ludów 22.",
-      "id": "465572fa585c2b5b10933c5d8d76f808"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Altanowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
-      "lat": 52.481406,
-      "lon": 16.7771664,
-      "start_time": "2026-08-07T08:30:00",
-      "end_time": "2026-08-07T12:30:00",
-      "original_description": "Kiekrz: ul. Kierska 1, 1A-C, ul. Altanowa 13.\nPoznań: ul. Turystyczna od 17 do 29 nieparzyste, 20, 22, ul. Kierska od 1 do 35 nieparzyste, od 2 do 18 parzyste, ul. Sztormowa, ul. Chojnicka 78, 80, 96, ul. Sanatoryjna 13, 15, 17.",
-      "id": "4e8db4263a80dbfaf8df0b6cd3c03d11"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Chojnicka, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
       "lat": 52.4751085,
       "lon": 16.7897565,
@@ -93,36 +43,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Gołębia, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
-      "lat": 52.4067111,
-      "lon": 16.9325619,
-      "start_time": "2026-08-08T08:00:00",
-      "end_time": "2026-08-08T14:00:00",
-      "original_description": "Miasto  Grodzisk Wielkopolski ul. Poznańska 15, ul. Grabary numery parzyste od 2 do 18, ul. Gołębia 2, 4, 6, ul. Krzywa 1, Powiatowy Urząd Pracy,",
-      "id": "b431100b34867bff1e5af841aeabf356"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Krzywa, Górczyn, Poznań, województwo wielkopolskie, 60-118, Polska",
-      "lat": 52.3817316,
-      "lon": 16.8864536,
-      "start_time": "2026-08-08T08:00:00",
-      "end_time": "2026-08-08T14:00:00",
-      "original_description": "Miasto  Grodzisk Wielkopolski ul. Poznańska 15, ul. Grabary numery parzyste od 2 do 18, ul. Gołębia 2, 4, 6, ul. Krzywa 1, Powiatowy Urząd Pracy,",
-      "id": "003124ccea76dbbf3dd5938522a18a18"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-08T08:00:00",
-      "end_time": "2026-08-08T14:00:00",
-      "original_description": "Miasto  Grodzisk Wielkopolski ul. Poznańska 15, ul. Grabary numery parzyste od 2 do 18, ul. Gołębia 2, 4, 6, ul. Krzywa 1, Powiatowy Urząd Pracy,",
-      "id": "067d8a16fda8888d00a7a6a83f009a09"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Juwenalisa, Strzeszyn Grecki, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
       "lat": 52.4488788,
       "lon": 16.8747679,
@@ -143,76 +63,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Kasztanowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-446, Polska",
-      "lat": 52.3656758,
-      "lon": 16.9061644,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "49f0eefdf70708730698054cb2011214"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Kwiatowa, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-883, Polska",
-      "lat": 52.401875,
-      "lon": 16.9312654,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "698550bea3cedfe41fd0cfad4ee3e4c6"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
-      "lat": 52.3866129,
-      "lon": 16.8161801,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "22fc9283584795952dfc784809c90b82"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Ogrodowa, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-825, Polska",
-      "lat": 52.4038105,
-      "lon": 16.929477,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "f83a6bc25ebee9afa10df51725e4c1df"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Piaskowa, Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-753, Polska",
-      "lat": 52.4119625,
-      "lon": 16.9392776,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "ffcf834227c650be1d7ab9b81b98b605"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Szkolna, Rybaki, Stare Miasto, Poznań, województwo wielkopolskie, 61-832, Polska",
-      "lat": 52.4075185,
-      "lon": 16.9322942,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "c218cca6176fbbabcaf3eb010e57e68b"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Wczasowa, Kobylepole, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-060, Polska",
-      "lat": 52.3972742,
-      "lon": 17.028723,
-      "start_time": "2026-08-10T08:30:00",
-      "end_time": "2026-08-10T11:30:00",
-      "original_description": "Chyby: ul. Ogrodowa, ul. Kwiatowa, ul. Piaskowa, ul. Szkolna 1E, 1K, od 3 do 47 nieparzyste, 2H-L, od 4 do 20 parzyste, ul. Lawendowa, ul. Kasztanowa od 3 do 7 nieparzyste, ul. Wczasowa 4.\nPoznań: ul. Dolne Chyby od 8 do 20 parzyste.",
-      "id": "3d2d7ea4118646eb562fc182959abe55"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Sokalska, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-324, Polska",
       "lat": 52.3459274,
       "lon": 17.0181975,
@@ -223,26 +73,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-11T08:00:00",
-      "end_time": "2026-08-11T16:00:00",
-      "original_description": "miejscowość Piła al. Poznańska 130, 136, 138, dz. 19/3, dz. 24, ul. Przemysłowa 63 - Suder & Suder.",
-      "id": "7697c3446645c77d2ffef974d970e108"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Przemysłowa, Wierzbięcice, Wilda, Poznań, województwo wielkopolskie, 61-581, Polska",
-      "lat": 52.400503,
-      "lon": 16.9184599,
-      "start_time": "2026-08-11T08:00:00",
-      "end_time": "2026-08-11T16:00:00",
-      "original_description": "miejscowość Piła al. Poznańska 130, 136, 138, dz. 19/3, dz. 24, ul. Przemysłowa 63 - Suder & Suder.",
-      "id": "dc9a066d66e74c3cf8f1e914bb3b07dd"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Janusza Kulasa, Stare Miasto, Poznań, województwo wielkopolskie, 61-714, Polska",
       "lat": 52.4135469,
       "lon": 16.9232744,
@@ -250,16 +80,6 @@
       "end_time": "2026-08-11T19:30:00",
       "original_description": "Poznań ul. Janusza Kulasa 6, 8.",
       "id": "0fb402fd870cf28ee87f994bf631d43f"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-11T10:30:00",
-      "end_time": "2026-08-11T12:30:00",
-      "original_description": "Gmina Dopiewo miejscowość Zakrzewo ul. Poznańska od 10 do 12B, 26, działki nr 3/15,  10, 11/1, 11/2, 11/13, 11/1ac5, 11/22, 48, Folwark Polityka, działki rekreacyjne, stacja bazowa T-Mobile 40283,",
-      "id": "7582f1c72ff26c1727127d251c78c7d8"
     },
     {
       "type": "planned",
@@ -490,26 +310,6 @@
       "end_time": "2026-08-13T15:30:00",
       "original_description": "Poznań: ul. Bożeny od 2 do 28 parzyste, 28A, ul. Wiesławy 1, ul. Warszawska 200, dz. 4/28 (Zakład Kamieniarski) , dz. 37/4 (Dom Pogrzebowy Miłostowo).",
       "id": "042ede3d27964a238c6a03d2271ef28d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Parkowa, Łazarz, Poznań, województwo wielkopolskie, 60-774, Polska",
-      "lat": 52.4019724,
-      "lon": 16.9030897,
-      "start_time": "2026-08-13T11:30:00",
-      "end_time": "2026-08-13T15:30:00",
-      "original_description": "Gmina Dopiewo miejscowość Dąbrówka ul. Lipowa nr parzyste, ul. Parkowa 3, ul. Poznańska 25, działki nr 75/10, 75/15,",
-      "id": "2ebb725ef8310e593c3ad959e239bd66"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-13T11:30:00",
-      "end_time": "2026-08-13T15:30:00",
-      "original_description": "Gmina Dopiewo miejscowość Dąbrówka ul. Lipowa nr parzyste, ul. Parkowa 3, ul. Poznańska 25, działki nr 75/10, 75/15,",
-      "id": "8153aaf0c546dbef671255d080f9dcc7"
     },
     {
       "type": "planned",
@@ -923,136 +723,6 @@
     },
     {
       "type": "planned",
-      "geocoded_address": "3 Maja, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-728, Polska",
-      "lat": 52.4090081,
-      "lon": 16.9248006,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "52c417fa8db88fd2035ff3d906ed498f"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Fabianowska, Osiedle Brzozowy Gaj, Aniołowo, Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-003, Polska",
-      "lat": 52.366295,
-      "lon": 16.8312422,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "09225b82b461ade134229e246c86242d"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Fabianowska, Osiedle Brzozowy Gaj, Aniołowo, Plewiska, gmina Komorniki, powiat poznański, województwo wielkopolskie, 60-003, Polska",
-      "lat": 52.366295,
-      "lon": 16.8312422,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "7b9553862bb00dc4396e911671afd287"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Jana Brzechwy, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
-      "lat": 52.4097394,
-      "lon": 16.8361093,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "240a04fe1092adfcc661ec705fc602e9"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Janusza Korczaka, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
-      "lat": 52.3590819,
-      "lon": 16.8840061,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "ec1a4c09f4f233adeab65a401c83ce02"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Juliana Tuwima, Osiedle Bajkowe, Ławica, Poznań, województwo wielkopolskie, 60-195, Polska",
-      "lat": 52.4073831,
-      "lon": 16.8375636,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "777fbf6ffc681c1e1382bc67e9a59cd3"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Młyńska, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-732, Polska",
-      "lat": 52.410976,
-      "lon": 16.9264675,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "dca29c5d0d964bf1aab5f4d4a15a2de3"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Pocztowa, Kórnik, gmina Kórnik, powiat poznański, województwo wielkopolskie, 62-036, Polska",
-      "lat": 52.248571,
-      "lon": 17.0886353,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "d45ad48a861f1c838dc52084cad6929a"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Polna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-533, Polska",
-      "lat": 52.4108266,
-      "lon": 16.8955491,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "836a88dc3a1a5e5338cc787ae4ba8581"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "8fdb3e637b81a056ef7e3535b36c757b"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "f8964d376db5a0b8b0129c3a315c9301"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Stanisława Staszica, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-528, Polska",
-      "lat": 52.4122544,
-      "lon": 16.8984855,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Pocztowa, ul. Poznańska 22, 24, 26, od 17 do 47 nieparzyste, ul. Młyńska 4, ul. Fabianowska 1, 3, 3A, ul. Staszica 22, 26.",
-      "id": "93973c186a4873ecaff50a47e5015587"
-    },
-    {
-      "type": "planned",
-      "geocoded_address": "Stanisława Staszica, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-528, Polska",
-      "lat": 52.4122544,
-      "lon": 16.8984855,
-      "start_time": "2026-08-27T08:00:00",
-      "end_time": "2026-08-27T17:00:00",
-      "original_description": "Komorniki: ul. Fabianowska od 4 do 93 nieparzyste, od 2 do 66 parzyste, ul. 3 Maja, ul. Korczaka, ul. Brzechwy, ul. Tuwima, ul. Staszica od 1 do 37A nieparzyste, od 2 do 30 parzyste, 38,  ul. Polna 5, ul. Poznańska 47A, od 49 do 71 nieparzyste.",
-      "id": "8ca0f783cf346df4213f837109e586f6"
-    },
-    {
-      "type": "planned",
       "geocoded_address": "Czysta, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
       "lat": 52.3696732,
       "lon": 16.9454166,
@@ -1120,76 +790,6 @@
       "end_time": "2026-08-31T11:30:00",
       "original_description": "Poznań ul. Podolańska 45",
       "id": "508a73a9a363044a4316288f2fc0f06d"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Aleja Jana Piwnika, Kazimierza Nieżychowskiego, Osiedle Literackie, Strzeszyn, Poznań, województwo wielkopolskie, 60-461, Polska",
-      "lat": 52.4477696,
-      "lon": 16.8646493,
-      "start_time": "Brak danych",
-      "end_time": "2026-08-06T13:30:00",
-      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
-      "id": "e44f078101894783961c91fec421b1d6"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Myśliwska, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
-      "lat": 52.3844325,
-      "lon": 16.8883878,
-      "start_time": "Brak danych",
-      "end_time": "2026-08-06T13:30:00",
-      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
-      "id": "40cb51ae4470bfc2b26f4f3e652f277f"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Oleńki Billewiczówny, Junikowo, Poznań, województwo wielkopolskie, 60-177, Polska",
-      "lat": 52.3928919,
-      "lon": 16.8355687,
-      "start_time": "Brak danych",
-      "end_time": "2026-08-06T13:30:00",
-      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
-      "id": "c63e4969e69a90612ef2ac8e40b3c90e"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Poznańska, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-848, Polska",
-      "lat": 52.4133513,
-      "lon": 16.9048857,
-      "start_time": "Brak danych",
-      "end_time": "2026-08-06T13:30:00",
-      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
-      "id": "42a997985a18a03a3e9e8d7a137d6605"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Stawowa, Szczytniki, gmina Kórnik, powiat poznański, województwo wielkopolskie, 61-327, Polska",
-      "lat": 52.2999892,
-      "lon": 17.0100781,
-      "start_time": "Brak danych",
-      "end_time": "2026-08-06T13:30:00",
-      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
-      "id": "4ee2db6736a545ac4333f86d60f7bc40"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Władysława Jagiełły, Stary Luboń, Luboń, powiat poznański, województwo wielkopolskie, 61-408, Polska",
-      "lat": 52.3470467,
-      "lon": 16.889253,
-      "start_time": "Brak danych",
-      "end_time": "2026-08-06T13:30:00",
-      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
-      "id": "d185d6d21c7d8551e75a5d4e6356db51"
-    },
-    {
-      "type": "unplanned",
-      "geocoded_address": "Łowiecka, Pokrzywnica, Więckowice, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 62-070, Polska",
-      "lat": 52.391175,
-      "lon": 16.6844281,
-      "start_time": "Brak danych",
-      "end_time": "2026-08-06T13:30:00",
-      "original_description": "Leszno ul. Andrzeja Kmicica 1, 1B, 3, 5, 6, 7, 8, 8A, ST.378, ul. Antonińska 25, ul. Gronowska 1, 10, 14, 18, 1A, 2, 20, 21, 22, 23, 23A, 25, 25A, 26, 27, 28, 29, 29A, 30, 30A, 30B, 30C, 30D, 30E, 30F, 30G, 30H, 30I, 30J, 30K, 30L, 30M, 30N, 30o, 30O, 30P, 30R, 30S, 31, 32, 33, 34, 35, 36, 36 A, 5, 6, 7, 8, 9, DZ. 354/2, ul. Jana Kazimierza 47, 49, 51, 53, 55, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 82, 84, 86, 88, ul. Łowiecka 6A, 8, ul. Myśliwska 11, ul. Oleńki Billewiczówny 1, 3, 5, 7, ul. Poznańska 16, ul. Stasia Tarkowskiego 11, 16 E, 16 F, 16 G, 16A, 16B, 16C, 16D, 16E, 16F, 16G, 19, DZ. 339/4, ul. Stawowa 31, 54, 78, 80, 82, 84, 86, 88, ul. Władysława Jagiełły 10, 12, 14, 16, 18, 20, 22, 24, 26, 28, 30, 32, 34, 36, 38, 40, 8 A, 8 B, 8 C, 8A, 8B, 8C, ul. Zawiszy Czarnego 12, 13, 15, 18, 20, 23, 25, DZ. 334/6, ST.879.",
-      "id": "154c79a2f4d0dce1e30472b92d15dbef"
     },
     {
       "type": "unplanned",
