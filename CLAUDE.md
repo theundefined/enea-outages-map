@@ -15,6 +15,7 @@ Backend (run from the repo root — paths in `update_data.py` are relative to it
 python3 -m venv backend/venv
 backend/venv/bin/pip install -r backend/requirements.txt
 backend/venv/bin/python backend/update_data.py   # writes docs/data/* and backend/geocoding_cache.json
+backend/venv/bin/python -m pytest backend         # parser tests (needs pytest; imports enea_outages/geopy)
 ```
 
 Frontend:
@@ -29,6 +30,7 @@ cd docs && npx jest -t 'Unplanned'    # run a single test/describe by name
 
 **Data pipeline (`backend/update_data.py`)**
 - Uses the `enea-outages` library (same author: theundefined/enea-outages) to fetch planned and unplanned outages for region `Poznań`.
+- `extract_poznan_segment` cuts multi-locality descriptions ("Luboń ul. …, Poznań ul. …", "Kiekrz: … / Poznań: …", "Gmina X miejscowość Y … Miasto Poznań …") down to the Poznań part via `LOCALITY_HEADER`; descriptions without a Poznań header are skipped. Never filter by the substring "poznań" — "ul. Poznańska" and "ul. Armii Poznań" exist in many other towns.
 - `parse_addresses_from_description` regex-extracts street names from Enea's free-text descriptions; each street is geocoded via Nominatim (rate-limited to 1 req/s) and cached in `backend/geocoding_cache.json`. Failed lookups are cached as `null` so they are not retried.
 - Output is one file per UTC day, `docs/data/outages_YYYY-MM-DD.json` (`{last_update, outages: [...]}`), plus `docs/data/master_index.json` (list of available dates, newest first).
 - Merging is append-only within the day: outages are deduplicated by an MD5 `id` over times/description/address and never removed. Deciding what is still active happens in the frontend.
@@ -40,7 +42,7 @@ cd docs && npx jest -t 'Unplanned'    # run a single test/describe by name
 **Scheduling (`.github/workflows/update_outages.yml`)**
 - GitHub starts `*/10` cron runs only every 4–7 h, so each run loops `update_data.py` every 10 min for ~5h40m (under the 6 h job limit). `concurrency` queues the next scheduled run to take over when the loop ends. This relies on the repo being public (free Actions minutes).
 - The loop pulls with `--rebase --autostash` before each update, so code pushed to `main` is picked up while it runs. Bot commits ("Update outage data and geocoding cache") land on `main` constantly — pull before pushing.
-- `ci.yml` runs the jest tests on push/PR to `main`.
+- `ci.yml` runs the jest tests and `pytest backend` on push/PR to `main`.
 
 ## Gotchas
 
