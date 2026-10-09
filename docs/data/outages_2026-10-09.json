@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-09T08:52:34.807089+00:00",
+  "last_update": "2026-10-09T09:02:40.284006+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1680,6 +1680,16 @@
       "end_time": "2026-10-09T12:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "f8e258e0ab0655a30d127b8b627c11f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bohaterów Westerplatte, Świerczewo, Poznań, województwo wielkopolskie, 61-418, Polska",
+      "lat": 52.3706065,
+      "lon": 16.8808352,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-09T12:30:00",
+      "original_description": "Poznań ul. Bohaterów Westerplatte 11, 13, 15, 17, 19, 5, 7, 9.",
+      "id": "10d4da49a57855f4a7af382c5050aa29"
     }
   ]
 }
