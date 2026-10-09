@@ -59,6 +59,45 @@ def generate_outage_id(outage_item: dict) -> str:
     unique_string = f"{outage_item['start_time']}-{outage_item['end_time']}-{outage_item['original_description']}-{outage_item['geocoded_address']}"
     return hashlib.md5(unique_string.encode()).hexdigest()
 
+UPPER = "A-ZĄĆĘŁŃÓŚŹŻ"
+LOWER = "a-ząćęłńóśźż"
+LOCALITY_NAME = rf"[{UPPER}][{LOWER}{UPPER}\-]*(?: [{UPPER}][{LOWER}{UPPER}\-]*)*"
+# A locality header names a town followed by ":" or by its first street ("Poznań: ul. ...",
+# "Luboń ul. ...", "Gmina X miejscowość Y ul. ...", "Miasto Poznań ul. ..."). It may only start
+# the text or follow a separator / locality keyword, so street names like "ul. Armii Poznań"
+# or "ul. Poznańska" are never mistaken for headers.
+STREET_PREFIX = r"(?:(?:ul|os|pl|al)\.|ulic[ae]\b|osiedle\b|plac\b|rynek\b|park\b)"
+LOCALITY_HEADER = re.compile(
+    # The start of the text is always a locality, whatever follows it ("Poznań rynek Jeżycki").
+    rf"^\s*(?P<first>{LOCALITY_NAME})"
+    rf"|(?:(?<=[\n/,.:])|(?<=miejscowość )|(?<=miejscowości )|(?<=Miasto ))\s*"
+    rf"(?P<name>{LOCALITY_NAME})(?=\s*:|\s+{STREET_PREFIX})"
+)
+
+
+def extract_poznan_segment(description: str) -> str:
+    """
+    Returns the parts of a description that list streets in Poznań, or "" if there are none.
+    Enea descriptions often cover several localities; streets of neighbouring towns
+    (e.g. "Kiekrz: ul. Poznańska") must not be geocoded as Poznań streets.
+    """
+    headers = list(LOCALITY_HEADER.finditer(description))
+    segments = []
+    for i, header in enumerate(headers):
+        name = header.group("first") or header.group("name")
+        if name.startswith("Miasto "):
+            name = name[len("Miasto "):]
+        if name != "Poznań":
+            continue
+        end = headers[i + 1].start() if i + 1 < len(headers) else len(description)
+        segments.append(description[header.end():end])
+    return " , ".join(segments)
+
+
+# Prefixes that are part of the geocodable name (a square or park is not a street).
+KEPT_PREFIXES = {"pl.": "plac", "plac": "plac", "rynek": "rynek", "park": "park", "osiedle": "osiedle"}
+
+
 def parse_addresses_from_description(description: str) -> list[str]:
     """
     Parses a complex description string to extract individual street addresses.
@@ -67,20 +106,25 @@ def parse_addresses_from_description(description: str) -> list[str]:
     desc = re.sub(r'\(.*\)', '', desc)
     desc = re.sub(r'w godz\..*', '', desc)
     
-    parts = re.split(r',|\s+i\s+|\s+oraz\s+', desc)
+    parts = re.split(r',|\n|\s+i\s+|\s+oraz\s+', desc)
     
     addresses = []
     for part in parts:
         part = part.strip()
-        
-        match = re.search(r'(?:ul\.|os\.|al\.)\s*([\w\s\-\.]+\w)', part)
+        # "Poznań: Lelewela 56, ..." (as cut by extract_poznan_segment) names a street without a prefix.
+        bare_street = part.startswith(':')
+        part = part.lstrip(':').strip()
+
+        match = re.search(r'(ul\.|os\.|al\.|pl\.|\b(?:ulica|plac|rynek|park|osiedle)\b)\s*([\w\s\-\.]+\w)', part)
+        if not match and bare_street:
+            match = re.match(r'()([\w\s\-\.]+\w)', part)
         if match:
-            street_name = match.group(1).strip()
+            street_name = match.group(2).strip()
             street_name = re.sub(r'\s+od\s+\d+.*', '', street_name).strip()
             street_name = re.sub(r'\s+do\s+\d+.*', '', street_name).strip()
             street_name = re.sub(r'\s+\d+.*', '', street_name).strip()
             if len(street_name) > 2:
-                addresses.append(street_name)
+                addresses.append(f"{KEPT_PREFIXES[match.group(1)]} {street_name}" if match.group(1) in KEPT_PREFIXES else street_name)
             continue
 
         if 'poznań' in part:
@@ -109,10 +153,11 @@ def get_all_outages(client: EneaOutagesClient, cache: dict) -> list[dict]:
         print(f"Found {len(outages)} {outage_type.name} outage reports.")
 
         for outage in outages:
-            if "poznań" not in outage.description.lower() and "miejscowość poznań" not in outage.description.lower():
+            poznan_segment = extract_poznan_segment(outage.description)
+            if not poznan_segment:
                 continue
 
-            addresses = parse_addresses_from_description(outage.description)
+            addresses = parse_addresses_from_description(poznan_segment)
             print(f"-> Found {len(addresses)} potential addresses in: \"{outage.description[:70]}...\"")
 
             for address in addresses:
