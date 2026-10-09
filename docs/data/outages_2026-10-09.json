@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-09T06:41:05.457105+00:00",
+  "last_update": "2026-10-09T06:51:10.163099+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1263,6 +1263,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Naramowicka, Szeląg, Nowe Winogrady Południe, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4294534,
+      "lon": 16.9466555,
+      "start_time": "2026-10-20T08:00:00",
+      "end_time": "2026-10-20T15:00:00",
+      "original_description": "Poznań: ul. Naramowicka 34, 36, 38, 38A-B, ul. Słowiańska 78 basen.",
+      "id": "9e5b0b4f6dded02031c1b89a99e0750b"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
       "lat": 52.4313634,
       "lon": 16.9267169,
@@ -1270,6 +1280,16 @@
       "end_time": "2026-10-20T15:00:00",
       "original_description": "Poznań: os. Przyjaźni 2, 3 (numery 150-193).",
       "id": "d1b62e0d64e2107bd2262d3920772be9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Słowiańska, Nowe Winogrady Południe, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4307163,
+      "lon": 16.9353133,
+      "start_time": "2026-10-20T08:00:00",
+      "end_time": "2026-10-20T15:00:00",
+      "original_description": "Poznań: ul. Naramowicka 34, 36, 38, 38A-B, ul. Słowiańska 78 basen.",
+      "id": "40e92e829286df93fa998115c16bf2ef"
     },
     {
       "type": "planned",
