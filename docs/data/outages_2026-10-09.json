@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-09T16:47:12.231748+00:00",
+  "last_update": "2026-10-09T16:57:16.701421+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2190,6 +2190,36 @@
       "end_time": "2026-10-09T19:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "b480dca5d0a6fb17383f6dc222295b87"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spacerowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.465908,
+      "lon": 16.7941901,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-09T20:30:00",
+      "original_description": "Poznań ul. Spacerowa 1, 10, 11, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, 9/7, ul. Stobnicka 2, 2 DZ.24/19, 24, 5, 53, 61, dz24/25i26, ul. Uzdrowiskowa.",
+      "id": "c8bce2742fff7440849137f6e31a7480"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stobnicka, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 61-480, Polska",
+      "lat": 52.4569424,
+      "lon": 16.8160274,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-09T20:30:00",
+      "original_description": "Poznań ul. Spacerowa 1, 10, 11, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, 9/7, ul. Stobnicka 2, 2 DZ.24/19, 24, 5, 53, 61, dz24/25i26, ul. Uzdrowiskowa.",
+      "id": "d3594360a407a808a0319a2745db9ca3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Uzdrowiskowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4640332,
+      "lon": 16.7977946,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-09T20:30:00",
+      "original_description": "Poznań ul. Spacerowa 1, 10, 11, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, 9/7, ul. Stobnicka 2, 2 DZ.24/19, 24, 5, 53, 61, dz24/25i26, ul. Uzdrowiskowa.",
+      "id": "ec61de609f44ee30a808cabfa57f3d12"
     }
   ]
 }
