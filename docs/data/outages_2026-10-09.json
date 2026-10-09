@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-09T17:17:26.426439+00:00",
+  "last_update": "2026-10-09T17:27:30.677654+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2220,6 +2220,16 @@
       "end_time": "2026-10-09T20:30:00",
       "original_description": "Poznań ul. Spacerowa 1, 10, 11, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, 9/7, ul. Stobnicka 2, 2 DZ.24/19, 24, 5, 53, 61, dz24/25i26, ul. Uzdrowiskowa.",
       "id": "ec61de609f44ee30a808cabfa57f3d12"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-09T21:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "829488cef325c628c4b5f98be93e0fe1"
     }
   ]
 }
