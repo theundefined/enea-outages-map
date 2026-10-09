@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-09T11:23:54.660211+00:00",
+  "last_update": "2026-10-09T11:34:06.298057+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1700,6 +1700,16 @@
       "end_time": "2026-10-09T14:00:00",
       "original_description": "Poznań ul. Bohaterów Westerplatte 11, 13, 15, 17, 19, 5, 7, 9.",
       "id": "23b5223ed9f15e5558dbf6b00da5d5ff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-09T15:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "3740c4383bdbbb5d265f49969f967005"
     }
   ]
 }
