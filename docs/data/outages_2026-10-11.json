@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-11T17:21:18.697950+00:00",
+  "last_update": "2026-10-11T17:31:22.621233+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2130,6 +2130,16 @@
       "end_time": "2026-10-11T20:00:00",
       "original_description": "Poznań ul. Drogocin 12, 14, 2, 4, 6, 7, 8, ul. Glinienko 1, 10, 12, 12A, 17, 17A, 19, 5, 7, ul. Glinno 1, 10, 12, 13, 3, 4, 5, 7, ul. Janowo 1, 10, 11, 13, 16, 17-19, 2, 21, 23, 25, 3, 4, 5, 7, 8, 9, ul. Knyszyn 1, 13, 3, 5/7, ul. Łysy Młyn 11, 12, 15, 16, 2, 20, 22, 26, 28, 4, 6, ul. Okolewo 1, 7.",
       "id": "ccfdbe4f787e2ec6fd0fe4408ce4c407"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-11T21:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "1b7670943c8d3f9079bbf8dff3bd9134"
     }
   ]
 }
