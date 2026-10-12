@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-12T06:47:59.974607+00:00",
+  "last_update": "2026-10-12T06:58:03.422995+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1290,6 +1290,66 @@
       "end_time": "2026-10-12T09:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "a6dca409fe5d7822f0276c3859e25441"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-12T10:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "3b7912834981951126ae6efce4c799d3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "5 Stycznia, Wola, Ławica, Poznań, województwo wielkopolskie, 60-407, Polska",
+      "lat": 52.4224148,
+      "lon": 16.8540631,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-12T11:00:00",
+      "original_description": "Poznań ul. 5 Stycznia 11/12, 27, 4, 4A, 6, ul. Adama Haber-Włyńskiego 10, 11, 12, 13, 14, 18, 25, 29, 3, 31, 4, 5, 6, 7, 7 A, 8, ul. Hangarowa 1, 11, 11A, 13, 13A, 15, 15A, 17, 17A, 2, 3, 3A, 4, 5, 5A, 7, 7 A, 7A, 8, 9, ul. Mieczysława Palucha 1, 10, 12A, 12B, 13, 14, 15, 16, 17, 18, 19, 2, 22, 3, 3A, 3B, 4, 5, 6, 7, 8, 9, ul. Pilotów 25, 34, 36, 38, 40.",
+      "id": "b030099eca5b0fe0bf6dccab1c70ce33"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Haber-Włyńskiego, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.423968,
+      "lon": 16.8510464,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-12T11:00:00",
+      "original_description": "Poznań ul. 5 Stycznia 11/12, 27, 4, 4A, 6, ul. Adama Haber-Włyńskiego 10, 11, 12, 13, 14, 18, 25, 29, 3, 31, 4, 5, 6, 7, 7 A, 8, ul. Hangarowa 1, 11, 11A, 13, 13A, 15, 15A, 17, 17A, 2, 3, 3A, 4, 5, 5A, 7, 7 A, 7A, 8, 9, ul. Mieczysława Palucha 1, 10, 12A, 12B, 13, 14, 15, 16, 17, 18, 19, 2, 22, 3, 3A, 3B, 4, 5, 6, 7, 8, 9, ul. Pilotów 25, 34, 36, 38, 40.",
+      "id": "3257905c8ce87c52228948d20bda8195"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hangarowa, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.4243271,
+      "lon": 16.8518198,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-12T11:00:00",
+      "original_description": "Poznań ul. 5 Stycznia 11/12, 27, 4, 4A, 6, ul. Adama Haber-Włyńskiego 10, 11, 12, 13, 14, 18, 25, 29, 3, 31, 4, 5, 6, 7, 7 A, 8, ul. Hangarowa 1, 11, 11A, 13, 13A, 15, 15A, 17, 17A, 2, 3, 3A, 4, 5, 5A, 7, 7 A, 7A, 8, 9, ul. Mieczysława Palucha 1, 10, 12A, 12B, 13, 14, 15, 16, 17, 18, 19, 2, 22, 3, 3A, 3B, 4, 5, 6, 7, 8, 9, ul. Pilotów 25, 34, 36, 38, 40.",
+      "id": "b187e850256fe64bd763c82ff1ed1cfd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mieczysława Palucha, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.425244,
+      "lon": 16.8523439,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-12T11:00:00",
+      "original_description": "Poznań ul. 5 Stycznia 11/12, 27, 4, 4A, 6, ul. Adama Haber-Włyńskiego 10, 11, 12, 13, 14, 18, 25, 29, 3, 31, 4, 5, 6, 7, 7 A, 8, ul. Hangarowa 1, 11, 11A, 13, 13A, 15, 15A, 17, 17A, 2, 3, 3A, 4, 5, 5A, 7, 7 A, 7A, 8, 9, ul. Mieczysława Palucha 1, 10, 12A, 12B, 13, 14, 15, 16, 17, 18, 19, 2, 22, 3, 3A, 3B, 4, 5, 6, 7, 8, 9, ul. Pilotów 25, 34, 36, 38, 40.",
+      "id": "0e1a8d72763d531a7f1a7ecd330b0ab1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pilotów, Wola, Poznań, województwo wielkopolskie, 60-409, Polska",
+      "lat": 52.425293,
+      "lon": 16.8533889,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-12T11:00:00",
+      "original_description": "Poznań ul. 5 Stycznia 11/12, 27, 4, 4A, 6, ul. Adama Haber-Włyńskiego 10, 11, 12, 13, 14, 18, 25, 29, 3, 31, 4, 5, 6, 7, 7 A, 8, ul. Hangarowa 1, 11, 11A, 13, 13A, 15, 15A, 17, 17A, 2, 3, 3A, 4, 5, 5A, 7, 7 A, 7A, 8, 9, ul. Mieczysława Palucha 1, 10, 12A, 12B, 13, 14, 15, 16, 17, 18, 19, 2, 22, 3, 3A, 3B, 4, 5, 6, 7, 8, 9, ul. Pilotów 25, 34, 36, 38, 40.",
+      "id": "866e6a84629e8fc8f02c1cd5099f4b37"
     }
   ]
 }
