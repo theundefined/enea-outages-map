@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-13T09:07:24.004413+00:00",
+  "last_update": "2026-10-13T09:17:27.951513+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1260,6 +1260,16 @@
       "end_time": "2026-10-26T11:30:00",
       "original_description": "Poznań: ul. Bożydara 3, 5, 5A-C, 21, 78, od 45 do 55 nieparzyste, ul. Rubież 81, 87, ul. Bożywoja.",
       "id": "5ce1d545fdaa2637f618a46521ffb333"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Błażeja, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4602697,
+      "lon": 16.9413042,
+      "start_time": "2026-10-28T08:00:00",
+      "end_time": "2026-10-28T14:00:00",
+      "original_description": "Poznań: ul. Błażeja 14I-J.",
+      "id": "ecf90ea7175e96526baa7da16beb80cc"
     },
     {
       "type": "planned",
