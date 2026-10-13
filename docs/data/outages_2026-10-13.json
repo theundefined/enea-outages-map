@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-13T09:47:50.661594+00:00",
+  "last_update": "2026-10-13T10:43:33.241028+00:00",
   "outages": [
     {
       "type": "planned",
@@ -873,6 +873,56 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "2026-10-20T08:30:00",
+      "end_time": "2026-10-20T16:30:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "de7a4acd8bb4fd0167e5685067435962"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grabowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3731907,
+      "lon": 16.9006396,
+      "start_time": "2026-10-20T08:30:00",
+      "end_time": "2026-10-20T16:30:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "622b859e2247ebd69883de5e150118ee"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Morelowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.370513,
+      "lon": 16.8987738,
+      "start_time": "2026-10-20T08:30:00",
+      "end_time": "2026-10-20T16:30:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "c4731db8493f8b8b4e5a2e782b57c15d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "2026-10-20T08:30:00",
+      "end_time": "2026-10-20T16:30:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "6b1a3f82ce8d3804a313672039aaba28"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świerkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.3715758,
+      "lon": 16.8996578,
+      "start_time": "2026-10-20T08:30:00",
+      "end_time": "2026-10-20T16:30:00",
+      "original_description": "Poznań: ul. Grabowa 22, 22A-C, 29, 35, 35A-B, ul. Świerkowa, ul. Opolska 5, 7, 7A, od 14 do 26 parzyste,  ul. Czechosłowacka 60, ul. Morelowa.",
+      "id": "92ea8a2cdca2bc2a725ed918d36bed9c"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Bohdana Winiarskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
       "lat": 52.3598981,
       "lon": 16.8838528,
@@ -1350,6 +1400,56 @@
       "end_time": "2026-10-23T11:30:00",
       "original_description": "Poznań: ul. Witalisa 43, 45, ul. Złotej Kaczki, ul. Maklakiewicza od 1 do 20, ul. Brzechwy dz. 41/18, ul. Grimma od 30 do 48 parzyste, ul. Złotowska 1.",
       "id": "e06dc283a188e57328bf61fa3d785100"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czeremchowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
+      "lat": 52.3731637,
+      "lon": 16.8960019,
+      "start_time": "2026-10-26T08:00:00",
+      "end_time": "2026-10-26T14:30:00",
+      "original_description": "Poznań: ul. Grabowa 33, od 1 do 27 nieparzyste, od 2 do 12 parzyste, ul. Czeremchowa 21, 32, ul. Gruszkowa, ul. Grzybowa, ul. Południowa 51.",
+      "id": "d27864c1fdc00ed4ced9582a00f040be"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grabowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3731907,
+      "lon": 16.9006396,
+      "start_time": "2026-10-26T08:00:00",
+      "end_time": "2026-10-26T14:30:00",
+      "original_description": "Poznań: ul. Grabowa 33, od 1 do 27 nieparzyste, od 2 do 12 parzyste, ul. Czeremchowa 21, 32, ul. Gruszkowa, ul. Grzybowa, ul. Południowa 51.",
+      "id": "4d843fccf51aad888d8c459564f5a52f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gruszkowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3742873,
+      "lon": 16.8996316,
+      "start_time": "2026-10-26T08:00:00",
+      "end_time": "2026-10-26T14:30:00",
+      "original_description": "Poznań: ul. Grabowa 33, od 1 do 27 nieparzyste, od 2 do 12 parzyste, ul. Czeremchowa 21, 32, ul. Gruszkowa, ul. Grzybowa, ul. Południowa 51.",
+      "id": "101922f9faa51f4aa6d6c1c43abbbc45"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grzybowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-472, Polska",
+      "lat": 52.3738192,
+      "lon": 16.9021465,
+      "start_time": "2026-10-26T08:00:00",
+      "end_time": "2026-10-26T14:30:00",
+      "original_description": "Poznań: ul. Grabowa 33, od 1 do 27 nieparzyste, od 2 do 12 parzyste, ul. Czeremchowa 21, 32, ul. Gruszkowa, ul. Grzybowa, ul. Południowa 51.",
+      "id": "992ff2866e10066a0478439e2aa5bde6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Południowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-473, Polska",
+      "lat": 52.3749646,
+      "lon": 16.9001757,
+      "start_time": "2026-10-26T08:00:00",
+      "end_time": "2026-10-26T14:30:00",
+      "original_description": "Poznań: ul. Grabowa 33, od 1 do 27 nieparzyste, od 2 do 12 parzyste, ul. Czeremchowa 21, 32, ul. Gruszkowa, ul. Grzybowa, ul. Południowa 51.",
+      "id": "8a9f1e0347d5558ceeafe2638c6df7c4"
     },
     {
       "type": "planned",
