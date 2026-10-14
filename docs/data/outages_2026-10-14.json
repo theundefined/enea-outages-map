@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T07:05:27.398161+00:00",
+  "last_update": "2026-10-14T07:15:31.122579+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1080,6 +1080,26 @@
       "end_time": "2026-10-21T11:30:00",
       "original_description": "Poznań: ul. Lubartowska, ul. Tomaszowska, ul. Połaniecka, ul. Solecka, ul. Rozwadowska od 47 do 59 nieparzyste, ul. Ćmielowska 16, 18, ul. Czernichowska 58, ul. Ożarowska od 68 do 102 parzyste, ul. Wadowicka dz. 18/5, dz. 19/2, dz. 19/3, dz. 19/4.",
       "id": "5ff607109b7b06ffe9813310ef7c2a88"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bastionowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-658, Polska",
+      "lat": 52.4248604,
+      "lon": 16.9288077,
+      "start_time": "2026-10-21T08:30:00",
+      "end_time": "2026-10-21T14:30:00",
+      "original_description": "Poznań: ul. Bastionowa 15, 17, ul. Za Cytadelą 121, dz. 1/14.",
+      "id": "c197fe7890fecf072e3c7ff3ee37cb79"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Za Cytadelą, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4254647,
+      "lon": 16.9306118,
+      "start_time": "2026-10-21T08:30:00",
+      "end_time": "2026-10-21T14:30:00",
+      "original_description": "Poznań: ul. Bastionowa 15, 17, ul. Za Cytadelą 121, dz. 1/14.",
+      "id": "87ed57317861dab8698ec0e910d057f1"
     },
     {
       "type": "planned",
