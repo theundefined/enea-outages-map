@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T09:26:24.233263+00:00",
+  "last_update": "2026-10-14T09:36:27.896926+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1600,6 +1600,16 @@
       "end_time": "2026-10-14T13:00:00",
       "original_description": "Poznań os. Bolesława Chrobrego 5, 5 B, 5 C, 5G.",
       "id": "e76cbe39c80f0d4810fa608effd7dec0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T13:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "ada160feaa99e4e155e2fdb94c393298"
     }
   ]
 }
