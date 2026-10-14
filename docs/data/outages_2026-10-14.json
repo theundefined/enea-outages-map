@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T08:46:09.210426+00:00",
+  "last_update": "2026-10-14T08:56:12.759531+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1590,6 +1590,16 @@
       "end_time": "2026-10-14T12:00:00",
       "original_description": "Poznań ul. Cześnikowska 30A.",
       "id": "43fb9dad320191691781dd130ff77dd9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Bolesława Chrobrego, Piątkowo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4537561,
+      "lon": 16.913691,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T13:00:00",
+      "original_description": "Poznań os. Bolesława Chrobrego 5, 5 B, 5 C, 5G.",
+      "id": "e76cbe39c80f0d4810fa608effd7dec0"
     }
   ]
 }
