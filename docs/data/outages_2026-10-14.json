@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T06:25:10.966178+00:00",
+  "last_update": "2026-10-14T06:35:16.320272+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1280,6 +1280,56 @@
       "end_time": "2026-10-22T13:00:00",
       "original_description": "Poznań: ul. Kobylepole 2, 4, 4A-C, 6, od 7 do 23 nieparzyste.",
       "id": "c97dd586785b5277c4c536c7f16577ea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gospodarska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3543871,
+      "lon": 17.0276859,
+      "start_time": "2026-10-22T08:30:00",
+      "end_time": "2026-10-22T15:30:00",
+      "original_description": "Poznań ul. Sianokosy, ul. Gospodarska 5, 7, ul. Żeńców,  ul. Skowronkowa, ul. Spławie  92.",
+      "id": "cb72f2ae0a294d84d02ff3449fd02c0c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sianokosy, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3515366,
+      "lon": 17.0300244,
+      "start_time": "2026-10-22T08:30:00",
+      "end_time": "2026-10-22T15:30:00",
+      "original_description": "Poznań ul. Sianokosy, ul. Gospodarska 5, 7, ul. Żeńców,  ul. Skowronkowa, ul. Spławie  92.",
+      "id": "aa838ab9341a2e32b5ecdc42bec80bcb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Skowronkowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3531693,
+      "lon": 17.0288873,
+      "start_time": "2026-10-22T08:30:00",
+      "end_time": "2026-10-22T15:30:00",
+      "original_description": "Poznań ul. Sianokosy, ul. Gospodarska 5, 7, ul. Żeńców,  ul. Skowronkowa, ul. Spławie  92.",
+      "id": "527e06c286866550542deecdf009c5a5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3511524,
+      "lon": 17.0242204,
+      "start_time": "2026-10-22T08:30:00",
+      "end_time": "2026-10-22T15:30:00",
+      "original_description": "Poznań ul. Sianokosy, ul. Gospodarska 5, 7, ul. Żeńców,  ul. Skowronkowa, ul. Spławie  92.",
+      "id": "7a8fa67d84910be36d59ac058bb93723"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żeńców, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-313, Polska",
+      "lat": 52.3523838,
+      "lon": 17.0297699,
+      "start_time": "2026-10-22T08:30:00",
+      "end_time": "2026-10-22T15:30:00",
+      "original_description": "Poznań ul. Sianokosy, ul. Gospodarska 5, 7, ul. Żeńców,  ul. Skowronkowa, ul. Spławie  92.",
+      "id": "8eebd6c5a31e83511be3c38c7e007586"
     },
     {
       "type": "planned",
