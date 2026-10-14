@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T06:15:06.922494+00:00",
+  "last_update": "2026-10-14T06:25:10.966178+00:00",
   "outages": [
     {
       "type": "planned",
@@ -630,6 +630,86 @@
       "end_time": "2026-10-19T15:00:00",
       "original_description": "Poznań: ul. Turkusowa 6, ul. Lazurowa 12, ul. Bonin 1.",
       "id": "d8e47c7fabef4697812bcd86fbe0d09a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Poznań: ul. Jodłowa, ul. Modrzewiowa od 22 do 40 parzyste, od 25 do 43 nieparzyste, ul. Czereśniowa 1, ul. Czechosłowacka od 53 do 79 nieparzyste, od 60 do 72 parzyste, ul. Morelowa 9, ul. Brzozowa od 1 do 35 nieparzyste bez 21, od 2 do 32 parzyste, ul. Sosnowa bez 2, ul. Jesionowa 3, ul. Rydzyńska 4.",
+      "id": "d6f4cb4b8bcf8a3e74fd6acb49b199cd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czechosłowacka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-425, Polska",
+      "lat": 52.3734336,
+      "lon": 16.8945686,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Poznań: ul. Jodłowa, ul. Modrzewiowa od 22 do 40 parzyste, od 25 do 43 nieparzyste, ul. Czereśniowa 1, ul. Czechosłowacka od 53 do 79 nieparzyste, od 60 do 72 parzyste, ul. Morelowa 9, ul. Brzozowa od 1 do 35 nieparzyste bez 21, od 2 do 32 parzyste, ul. Sosnowa bez 2, ul. Jesionowa 3, ul. Rydzyńska 4.",
+      "id": "12c6ec5690e8eecb018e17810cfcde6d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Czereśniowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-426, Polska",
+      "lat": 52.3713436,
+      "lon": 16.8944534,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Poznań: ul. Jodłowa, ul. Modrzewiowa od 22 do 40 parzyste, od 25 do 43 nieparzyste, ul. Czereśniowa 1, ul. Czechosłowacka od 53 do 79 nieparzyste, od 60 do 72 parzyste, ul. Morelowa 9, ul. Brzozowa od 1 do 35 nieparzyste bez 21, od 2 do 32 parzyste, ul. Sosnowa bez 2, ul. Jesionowa 3, ul. Rydzyńska 4.",
+      "id": "8b928a6b930027c0a2192b1e48929484"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Poznań: ul. Jodłowa, ul. Modrzewiowa od 22 do 40 parzyste, od 25 do 43 nieparzyste, ul. Czereśniowa 1, ul. Czechosłowacka od 53 do 79 nieparzyste, od 60 do 72 parzyste, ul. Morelowa 9, ul. Brzozowa od 1 do 35 nieparzyste bez 21, od 2 do 32 parzyste, ul. Sosnowa bez 2, ul. Jesionowa 3, ul. Rydzyńska 4.",
+      "id": "2bb6d306a19587ff1d996ea5993d189b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jodłowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-427, Polska",
+      "lat": 52.3706062,
+      "lon": 16.8959475,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Poznań: ul. Jodłowa, ul. Modrzewiowa od 22 do 40 parzyste, od 25 do 43 nieparzyste, ul. Czereśniowa 1, ul. Czechosłowacka od 53 do 79 nieparzyste, od 60 do 72 parzyste, ul. Morelowa 9, ul. Brzozowa od 1 do 35 nieparzyste bez 21, od 2 do 32 parzyste, ul. Sosnowa bez 2, ul. Jesionowa 3, ul. Rydzyńska 4.",
+      "id": "b3f50ce0a209717284affde75c0d18eb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Modrzewiowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3701225,
+      "lon": 16.8958809,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Poznań: ul. Jodłowa, ul. Modrzewiowa od 22 do 40 parzyste, od 25 do 43 nieparzyste, ul. Czereśniowa 1, ul. Czechosłowacka od 53 do 79 nieparzyste, od 60 do 72 parzyste, ul. Morelowa 9, ul. Brzozowa od 1 do 35 nieparzyste bez 21, od 2 do 32 parzyste, ul. Sosnowa bez 2, ul. Jesionowa 3, ul. Rydzyńska 4.",
+      "id": "b0ded21409f1e19ee04578b63d5963e1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Morelowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-471, Polska",
+      "lat": 52.370513,
+      "lon": 16.8987738,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Poznań: ul. Jodłowa, ul. Modrzewiowa od 22 do 40 parzyste, od 25 do 43 nieparzyste, ul. Czereśniowa 1, ul. Czechosłowacka od 53 do 79 nieparzyste, od 60 do 72 parzyste, ul. Morelowa 9, ul. Brzozowa od 1 do 35 nieparzyste bez 21, od 2 do 32 parzyste, ul. Sosnowa bez 2, ul. Jesionowa 3, ul. Rydzyńska 4.",
+      "id": "6a39de64ad1be9c5df374fd3127557a9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Rydzyńska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-436, Polska",
+      "lat": 52.3684952,
+      "lon": 16.9009761,
+      "start_time": "2026-10-19T08:00:00",
+      "end_time": "2026-10-19T16:00:00",
+      "original_description": "Poznań: ul. Jodłowa, ul. Modrzewiowa od 22 do 40 parzyste, od 25 do 43 nieparzyste, ul. Czereśniowa 1, ul. Czechosłowacka od 53 do 79 nieparzyste, od 60 do 72 parzyste, ul. Morelowa 9, ul. Brzozowa od 1 do 35 nieparzyste bez 21, od 2 do 32 parzyste, ul. Sosnowa bez 2, ul. Jesionowa 3, ul. Rydzyńska 4.",
+      "id": "b6ceff50894ff69f532ea52613f0c167"
     },
     {
       "type": "planned",
