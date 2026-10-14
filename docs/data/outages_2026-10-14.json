@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T17:20:28.260009+00:00",
+  "last_update": "2026-10-14T17:30:32.951515+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1670,6 +1670,26 @@
       "end_time": "2026-10-14T19:30:00",
       "original_description": "Poznań ul. Grunwaldzka 24, 24/26, ul. Kawaleryjska 4.",
       "id": "5f2e469a2f6f89b3dcd3b70b541756fd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T21:00:00",
+      "original_description": "Poznań ul. Grunwaldzka 24, 24/26, ul. Kawaleryjska 4.",
+      "id": "c659b0fded9c5c5699d4893edce1aca5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kawaleryjska, Łazarz, Poznań, województwo wielkopolskie, 60-748, Polska",
+      "lat": 52.4029218,
+      "lon": 16.8972996,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T21:00:00",
+      "original_description": "Poznań ul. Grunwaldzka 24, 24/26, ul. Kawaleryjska 4.",
+      "id": "adb6a73dccb6e7060aebe4583ba4d6c9"
     }
   ]
 }
