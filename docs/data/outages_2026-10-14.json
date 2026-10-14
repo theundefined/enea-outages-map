@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T07:45:44.155353+00:00",
+  "last_update": "2026-10-14T07:55:47.808891+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1570,6 +1570,16 @@
       "end_time": "2026-10-14T08:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "bc99d74b4b2aec16bdd53b44a762d135"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cześnikowska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-326, Polska",
+      "lat": 52.4019434,
+      "lon": 16.8694828,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T12:00:00",
+      "original_description": "Poznań ul. Cześnikowska 30A.",
+      "id": "43fb9dad320191691781dd130ff77dd9"
     }
   ]
 }
