@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-14T18:31:01.074838+00:00",
+  "last_update": "2026-10-14T18:41:06.876037+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1700,6 +1700,46 @@
       "end_time": "2026-10-14T22:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "cfef36aace39b5fb7e1b6a4888881839"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bruzdowa, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3556649,
+      "lon": 16.9995173,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T23:00:00",
+      "original_description": "Poznań ul. Bruzdowa 4, 4B, 6, 8, ul. Nad Spławką 1, 11, 12, 13, 14, 16, 20, 3, 5, 6, 7, 8, 9, ul. Ostrowska /Spławie, 434, 436, 438, 440, 442, 452, 454, 458, 460, 468, 470, 472, 474, ul. Ustrzycka 1, 12, 3, 4, 442, 7, 8, 9, 9A.",
+      "id": "b8dc794f5cf991269dd181aea5b1a455"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Spławką, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3534943,
+      "lon": 16.9990946,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T23:00:00",
+      "original_description": "Poznań ul. Bruzdowa 4, 4B, 6, 8, ul. Nad Spławką 1, 11, 12, 13, 14, 16, 20, 3, 5, 6, 7, 8, 9, ul. Ostrowska /Spławie, 434, 436, 438, 440, 442, 452, 454, 458, 460, 468, 470, 472, 474, ul. Ustrzycka 1, 12, 3, 4, 442, 7, 8, 9, 9A.",
+      "id": "7aea6d7f0c0c01fcb7e3a994349929af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3662503,
+      "lon": 16.9949315,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T23:00:00",
+      "original_description": "Poznań ul. Bruzdowa 4, 4B, 6, 8, ul. Nad Spławką 1, 11, 12, 13, 14, 16, 20, 3, 5, 6, 7, 8, 9, ul. Ostrowska /Spławie, 434, 436, 438, 440, 442, 452, 454, 458, 460, 468, 470, 472, 474, ul. Ustrzycka 1, 12, 3, 4, 442, 7, 8, 9, 9A.",
+      "id": "e382677817e11b9ca5fa08e71016b784"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ustrzycka, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3542923,
+      "lon": 17.0002481,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-14T23:00:00",
+      "original_description": "Poznań ul. Bruzdowa 4, 4B, 6, 8, ul. Nad Spławką 1, 11, 12, 13, 14, 16, 20, 3, 5, 6, 7, 8, 9, ul. Ostrowska /Spławie, 434, 436, 438, 440, 442, 452, 454, 458, 460, 468, 470, 472, 474, ul. Ustrzycka 1, 12, 3, 4, 442, 7, 8, 9, 9A.",
+      "id": "850de1d0fd4571204bb80cad6900f7d2"
     }
   ]
 }
