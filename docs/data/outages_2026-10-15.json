@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-15T08:48:48.013967+00:00",
+  "last_update": "2026-10-15T08:58:51.652612+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1580,6 +1580,36 @@
       "end_time": "2026-10-15T11:00:00",
       "original_description": "Poznań ul. Starołęcka 160, 160A, 160B, 162, 164, 164 B, 166A, 168, 170, 170A, 174, 178, 180, 181, 181A, 183, 186, 186 A, 188, 190, 190 A, 191, 192, 192A, 193, 194, 195, 197, 198, 198A, 200, 201, 202, 202 M 6, 202A, 204, 205, 206, 207.",
       "id": "efa9fb9d0fd91453abc59660adb114af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-15T12:30:00",
+      "original_description": "Poznań ul. Grunwaldzka 24, 24/26, ul. Kawaleryjska 4.",
+      "id": "489aeb13b3eab5e92bba1b57ca18ae59"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kawaleryjska, Łazarz, Poznań, województwo wielkopolskie, 60-748, Polska",
+      "lat": 52.4029218,
+      "lon": 16.8972996,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-15T12:30:00",
+      "original_description": "Poznań ul. Grunwaldzka 24, 24/26, ul. Kawaleryjska 4.",
+      "id": "ee03deb43cc9beb3ab66f85d2af37fc8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-15T12:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "c5a92dfbbc048dcecbe776af1639496a"
     },
     {
       "type": "unplanned",
