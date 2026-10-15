@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-15T06:57:32.876554+00:00",
+  "last_update": "2026-10-15T07:07:36.878410+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1550,6 +1550,16 @@
       "end_time": "2026-10-15T11:00:00",
       "original_description": "Poznań ul. Starołęcka 160, 160A, 160B, 162, 164, 164 B, 166A, 168, 170, 170A, 174, 178, 180, 181, 181A, 183, 186, 186 A, 188, 190, 190 A, 191, 192, 192A, 193, 194, 195, 197, 198, 198A, 200, 201, 202, 202 M 6, 202A, 204, 205, 206, 207.",
       "id": "efa9fb9d0fd91453abc59660adb114af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jaworowa, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-456, Polska",
+      "lat": 52.3685529,
+      "lon": 16.9050344,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-15T14:30:00",
+      "original_description": "Poznań ul. Jaworowa 15, 17, 19",
+      "id": "6852cf7bd31dd1e9b014bb4be5b2132b"
     },
     {
       "type": "unplanned",
