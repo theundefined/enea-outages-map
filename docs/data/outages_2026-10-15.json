@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-15T09:39:07.959391+00:00",
+  "last_update": "2026-10-15T09:49:12.718396+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1230,6 +1230,26 @@
       "end_time": "2026-10-23T11:30:00",
       "original_description": "Poznań: ul. Witalisa 43, 45, ul. Złotej Kaczki, ul. Maklakiewicza od 1 do 20, ul. Brzechwy dz. 41/18, ul. Grimma od 30 do 48 parzyste, ul. Złotowska 1.",
       "id": "e06dc283a188e57328bf61fa3d785100"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Alojzego Nowaka, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3575848,
+      "lon": 16.8922266,
+      "start_time": "2026-10-23T08:30:00",
+      "end_time": "2026-10-23T13:00:00",
+      "original_description": "Poznań: ul. Nowaka od 1 do 12, ul. Tyca od 1 do 29 nieparzyste, od 2 do 12 parzyste.",
+      "id": "3c6cbbdedc1dbcc07b7bcae959d26c19"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Teodora Tyca, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3571507,
+      "lon": 16.8922377,
+      "start_time": "2026-10-23T08:30:00",
+      "end_time": "2026-10-23T13:00:00",
+      "original_description": "Poznań: ul. Nowaka od 1 do 12, ul. Tyca od 1 do 29 nieparzyste, od 2 do 12 parzyste.",
+      "id": "8a82fbfff9646ee06fb22f3e98030003"
     },
     {
       "type": "planned",
