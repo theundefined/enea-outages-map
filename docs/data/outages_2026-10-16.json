@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-16T12:22:43.682041+00:00",
+  "last_update": "2026-10-16T12:32:48.760550+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1520,6 +1520,16 @@
       "end_time": "2026-10-16T15:00:00",
       "original_description": "Poznań ul. Bełchatowska 23, ul. Sobotecka 10, 11, 12, 13, 14, 15, 15A, 16, 16A, 17, 18, 19, 19A, 20, 20 C, 20A, 20B, 21, 26, 27, 28, 28A, 29, 3, 30, 32, 32A, 33, 34, 35, 37, 39, 39A, 4, 4 A, 43, 45, 5, 6, 7, 8, 8 B, 9, ul. Wągrowiecka 4, 6.",
       "id": "9c6024b7e4641d1713c35ab858baf44a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-16T16:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "4dd8d7e651dbe2928c34269cbdaf1104"
     }
   ]
 }
