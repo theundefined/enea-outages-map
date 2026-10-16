@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-16T10:51:44.458077+00:00",
+  "last_update": "2026-10-16T11:01:48.483217+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1490,6 +1490,36 @@
       "end_time": "2026-10-16T13:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "90fe7923a5787db379ae0762d23849db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bełchatowska, Junikowo, Poznań, województwo wielkopolskie, 60-162, Polska",
+      "lat": 52.3859364,
+      "lon": 16.8557056,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-16T15:00:00",
+      "original_description": "Poznań ul. Bełchatowska 23, ul. Sobotecka 10, 11, 12, 13, 14, 15, 15A, 16, 16A, 17, 18, 19, 19A, 20, 20 C, 20A, 20B, 21, 26, 27, 28, 28A, 29, 3, 30, 32, 32A, 33, 34, 35, 37, 39, 39A, 4, 4 A, 43, 45, 5, 6, 7, 8, 8 B, 9, ul. Wągrowiecka 4, 6.",
+      "id": "6a9db8b76c9eab11655daa83fbc9edb4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sobotecka, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.3814727,
+      "lon": 16.8525266,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-16T15:00:00",
+      "original_description": "Poznań ul. Bełchatowska 23, ul. Sobotecka 10, 11, 12, 13, 14, 15, 15A, 16, 16A, 17, 18, 19, 19A, 20, 20 C, 20A, 20B, 21, 26, 27, 28, 28A, 29, 3, 30, 32, 32A, 33, 34, 35, 37, 39, 39A, 4, 4 A, 43, 45, 5, 6, 7, 8, 8 B, 9, ul. Wągrowiecka 4, 6.",
+      "id": "84e6137104d5733df0057c84dbba0fc8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wągrowiecka, Junikowo, Poznań, województwo wielkopolskie, 60-162, Polska",
+      "lat": 52.380693,
+      "lon": 16.854962,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-16T15:00:00",
+      "original_description": "Poznań ul. Bełchatowska 23, ul. Sobotecka 10, 11, 12, 13, 14, 15, 15A, 16, 16A, 17, 18, 19, 19A, 20, 20 C, 20A, 20B, 21, 26, 27, 28, 28A, 29, 3, 30, 32, 32A, 33, 34, 35, 37, 39, 39A, 4, 4 A, 43, 45, 5, 6, 7, 8, 8 B, 9, ul. Wągrowiecka 4, 6.",
+      "id": "9c6024b7e4641d1713c35ab858baf44a"
     }
   ]
 }
