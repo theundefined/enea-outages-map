@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-16T15:54:21.768241+00:00",
+  "last_update": "2026-10-16T16:04:26.224894+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1583,6 +1583,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Bełchatowska, Junikowo, Poznań, województwo wielkopolskie, 60-162, Polska",
+      "lat": 52.3859364,
+      "lon": 16.8557056,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-16T18:00:00",
+      "original_description": "Poznań ul. Bełchatowska 23, ul. Sobotecka 10, 11, 12, 13, 14, 15, 15A, 16, 16A, 17, 18, 19, 19A, 20, 20 C, 20A, 20B, 21, 26, 27, 28, 28A, 29, 3, 30, 32, 32A, 33, 34, 35, 37, 39, 39A, 4, 4 A, 43, 45, 5, 6, 7, 8, 8 B, 9, ul. Wągrowiecka 4, 6.",
+      "id": "eefcc02e9f56d074921cb04732ae5359"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Czeremchowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-475, Polska",
       "lat": 52.3731637,
       "lon": 16.8960019,
@@ -1590,6 +1600,26 @@
       "end_time": "2026-10-16T18:00:00",
       "original_description": "Poznań ul. Czeremchowa 12, 20, 31, 6 a, 6 A, 6A.",
       "id": "b5e8d37eebaced67ed7099704e1359e0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sobotecka, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.3814727,
+      "lon": 16.8525266,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-16T18:00:00",
+      "original_description": "Poznań ul. Bełchatowska 23, ul. Sobotecka 10, 11, 12, 13, 14, 15, 15A, 16, 16A, 17, 18, 19, 19A, 20, 20 C, 20A, 20B, 21, 26, 27, 28, 28A, 29, 3, 30, 32, 32A, 33, 34, 35, 37, 39, 39A, 4, 4 A, 43, 45, 5, 6, 7, 8, 8 B, 9, ul. Wągrowiecka 4, 6.",
+      "id": "34e541fbac08fbafa085cb9f61256a65"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wągrowiecka, Junikowo, Poznań, województwo wielkopolskie, 60-162, Polska",
+      "lat": 52.380693,
+      "lon": 16.854962,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-16T18:00:00",
+      "original_description": "Poznań ul. Bełchatowska 23, ul. Sobotecka 10, 11, 12, 13, 14, 15, 15A, 16, 16A, 17, 18, 19, 19A, 20, 20 C, 20A, 20B, 21, 26, 27, 28, 28A, 29, 3, 30, 32, 32A, 33, 34, 35, 37, 39, 39A, 4, 4 A, 43, 45, 5, 6, 7, 8, 8 B, 9, ul. Wągrowiecka 4, 6.",
+      "id": "53b7e7e1a7ee0c2bf5b4601403b5edd1"
     },
     {
       "type": "unplanned",
