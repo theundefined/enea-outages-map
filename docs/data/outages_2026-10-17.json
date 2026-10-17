@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-17T09:23:18.355333+00:00",
+  "last_update": "2026-10-17T09:33:23.081579+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1250,6 +1250,16 @@
       "end_time": "2026-10-17T12:00:00",
       "original_description": "Poznań ul. Nad Spławką 11, 12, 13, 14, 16, 20, 3, 5, 6, 7, 8, 9.",
       "id": "8bc72e791595cd7816dd6bd5bb78103a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-17T13:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "170d8dd66b3dd9cb00e325fc2c41a2e2"
     }
   ]
 }
