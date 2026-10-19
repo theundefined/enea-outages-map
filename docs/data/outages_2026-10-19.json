@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-19T08:03:20.652013+00:00",
+  "last_update": "2026-10-19T08:13:24.880687+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1080,6 +1080,16 @@
       "end_time": "2026-10-27T15:00:00",
       "original_description": "Poznań: ul. Maków Polnych 9, 9A, 11.",
       "id": "7db02db980131f27daf26c5a1104f1d6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Stare Żegrze, Żegrze, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3830688,
+      "lon": 16.9645951,
+      "start_time": "2026-10-27T08:00:00",
+      "end_time": "2026-10-27T15:30:00",
+      "original_description": "Poznań: os. Stare Żegrze 2, 3, 4.",
+      "id": "a750281cdd45efde426ab4b6bd5172cc"
     },
     {
       "type": "planned",
