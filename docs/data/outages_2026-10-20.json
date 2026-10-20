@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-20T07:26:06.759289+00:00",
+  "last_update": "2026-10-20T07:36:18.368949+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1070,6 +1070,16 @@
       "end_time": "2026-10-20T11:00:00",
       "original_description": "Poznań ul. Naramowicka 34, 36, 38, 38 B, 38/2, 38A, ul. Słowiańska.",
       "id": "881a8c6f0a9e1eed358fb2dd88c42fb6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-20T11:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "e88c79d7e0152d206e180cb5dcbd8cab"
     },
     {
       "type": "unplanned",
