@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-21T15:54:58.272433+00:00",
+  "last_update": "2026-10-21T16:05:02.827017+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1520,6 +1520,36 @@
       "end_time": "2026-10-21T18:00:00",
       "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 41A, ul. Romka Strzałkowskiego 2, 4B.",
       "id": "9548575d3cc2ca95d2e59a884f1a2951"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-21T19:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 41A, ul. Romka Strzałkowskiego 2, 4B.",
+      "id": "949928d503ba7f99a89bf40e8080b970"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-21T19:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "6b3062d76257edbf5af4b0aebfb08196"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romka Strzałkowskiego, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-855, Polska",
+      "lat": 52.4126893,
+      "lon": 16.9070202,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-21T19:30:00",
+      "original_description": "Poznań ul. Jana Henryka Dąbrowskiego 41A, ul. Romka Strzałkowskiego 2, 4B.",
+      "id": "d60f4cfd28dc85c09cb2631222d884e6"
     }
   ]
 }
