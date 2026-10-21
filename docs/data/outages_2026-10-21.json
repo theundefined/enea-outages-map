@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-21T06:39:23.137277+00:00",
+  "last_update": "2026-10-21T06:49:28.320414+00:00",
   "outages": [
     {
       "type": "planned",
@@ -750,6 +750,46 @@
       "end_time": "2026-10-26T11:30:00",
       "original_description": "Poznań: ul. Bożydara 3, 5, 5A-C, 21, 78, od 45 do 55 nieparzyste, ul. Rubież 81, 87, ul. Bożywoja.",
       "id": "5ce1d545fdaa2637f618a46521ffb333"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Cieszyńska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3642626,
+      "lon": 16.8964151,
+      "start_time": "2026-10-26T08:30:00",
+      "end_time": "2026-10-26T15:30:00",
+      "original_description": "Poznań: ul. Jarzębowa, ul. Opolska 58, 70, od 49 do 59 nieparzyste, ul. Jesionowa 14, 16, 18, ul. Cieszyńska 2, 4, 6.",
+      "id": "e09f7edde10c4f1856b26ab41e7454e3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jarzębowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-432, Polska",
+      "lat": 52.3668001,
+      "lon": 16.8933102,
+      "start_time": "2026-10-26T08:30:00",
+      "end_time": "2026-10-26T15:30:00",
+      "original_description": "Poznań: ul. Jarzębowa, ul. Opolska 58, 70, od 49 do 59 nieparzyste, ul. Jesionowa 14, 16, 18, ul. Cieszyńska 2, 4, 6.",
+      "id": "197a09ab22e9f669a3bfe37221c7fee1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "2026-10-26T08:30:00",
+      "end_time": "2026-10-26T15:30:00",
+      "original_description": "Poznań: ul. Jarzębowa, ul. Opolska 58, 70, od 49 do 59 nieparzyste, ul. Jesionowa 14, 16, 18, ul. Cieszyńska 2, 4, 6.",
+      "id": "48a793158a9af06fc874025656ccb588"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "2026-10-26T08:30:00",
+      "end_time": "2026-10-26T15:30:00",
+      "original_description": "Poznań: ul. Jarzębowa, ul. Opolska 58, 70, od 49 do 59 nieparzyste, ul. Jesionowa 14, 16, 18, ul. Cieszyńska 2, 4, 6.",
+      "id": "f42ee8ee95a2fc3d15a529adbf5553bb"
     },
     {
       "type": "planned",
