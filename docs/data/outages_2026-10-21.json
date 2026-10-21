@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-21T09:10:47.820100+00:00",
+  "last_update": "2026-10-21T09:20:52.955893+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1093,6 +1093,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-10-28T08:30:00",
+      "end_time": "2026-10-28T14:30:00",
+      "original_description": "Poznań ul. Piątkowska 87, 87A-D, 89/101, ROD Dąbrowskiego.",
+      "id": "f2e50856609fbb935cddf8ff2a7b6fdc"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Obodrzycka, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-163, Polska",
       "lat": 52.3679179,
       "lon": 16.9490647,
@@ -1110,6 +1120,86 @@
       "end_time": "2026-10-29T15:00:00",
       "original_description": "Poznań: ul. Maków Polnych 9B, 11A.",
       "id": "7b6ed8dfe8f1a1fedce75dedccb2bf81"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Admiralska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4773086,
+      "lon": 16.7711102,
+      "start_time": "2026-10-29T08:30:00",
+      "end_time": "2026-10-29T11:30:00",
+      "original_description": "Poznań: ul. Marynarska, ul. Retmańska 17, 19, ul. Regatowa, ul. Morska 2, ul. Karawelowa 4, ul. Szkutnicza bez 6, ul. Okrętowa 5, 7, 9, ul. Jachtowa od 15 do 45 nieparzyste, od 22 do 46 parzyste, ul. Admiralska 23.",
+      "id": "f6207b85ed8ddd70aa783b4b221f696a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "2026-10-29T08:30:00",
+      "end_time": "2026-10-29T11:30:00",
+      "original_description": "Poznań: ul. Marynarska, ul. Retmańska 17, 19, ul. Regatowa, ul. Morska 2, ul. Karawelowa 4, ul. Szkutnicza bez 6, ul. Okrętowa 5, 7, 9, ul. Jachtowa od 15 do 45 nieparzyste, od 22 do 46 parzyste, ul. Admiralska 23.",
+      "id": "0bfaa82360a328733a4e2d6cfd638462"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Karawelowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4737578,
+      "lon": 16.7690443,
+      "start_time": "2026-10-29T08:30:00",
+      "end_time": "2026-10-29T11:30:00",
+      "original_description": "Poznań: ul. Marynarska, ul. Retmańska 17, 19, ul. Regatowa, ul. Morska 2, ul. Karawelowa 4, ul. Szkutnicza bez 6, ul. Okrętowa 5, 7, 9, ul. Jachtowa od 15 do 45 nieparzyste, od 22 do 46 parzyste, ul. Admiralska 23.",
+      "id": "29333dffcbb6511388e0965b92f53a34"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Marynarska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.476335,
+      "lon": 16.7712684,
+      "start_time": "2026-10-29T08:30:00",
+      "end_time": "2026-10-29T11:30:00",
+      "original_description": "Poznań: ul. Marynarska, ul. Retmańska 17, 19, ul. Regatowa, ul. Morska 2, ul. Karawelowa 4, ul. Szkutnicza bez 6, ul. Okrętowa 5, 7, 9, ul. Jachtowa od 15 do 45 nieparzyste, od 22 do 46 parzyste, ul. Admiralska 23.",
+      "id": "d1250730772d5e5d7a0f69e152188492"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Morska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4742984,
+      "lon": 16.7677278,
+      "start_time": "2026-10-29T08:30:00",
+      "end_time": "2026-10-29T11:30:00",
+      "original_description": "Poznań: ul. Marynarska, ul. Retmańska 17, 19, ul. Regatowa, ul. Morska 2, ul. Karawelowa 4, ul. Szkutnicza bez 6, ul. Okrętowa 5, 7, 9, ul. Jachtowa od 15 do 45 nieparzyste, od 22 do 46 parzyste, ul. Admiralska 23.",
+      "id": "3f19455276afc20ee5446998eb5d3418"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Okrętowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4738496,
+      "lon": 16.7702849,
+      "start_time": "2026-10-29T08:30:00",
+      "end_time": "2026-10-29T11:30:00",
+      "original_description": "Poznań: ul. Marynarska, ul. Retmańska 17, 19, ul. Regatowa, ul. Morska 2, ul. Karawelowa 4, ul. Szkutnicza bez 6, ul. Okrętowa 5, 7, 9, ul. Jachtowa od 15 do 45 nieparzyste, od 22 do 46 parzyste, ul. Admiralska 23.",
+      "id": "82733800fc9b8151e492e43259adf1af"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Regatowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4747964,
+      "lon": 16.7684207,
+      "start_time": "2026-10-29T08:30:00",
+      "end_time": "2026-10-29T11:30:00",
+      "original_description": "Poznań: ul. Marynarska, ul. Retmańska 17, 19, ul. Regatowa, ul. Morska 2, ul. Karawelowa 4, ul. Szkutnicza bez 6, ul. Okrętowa 5, 7, 9, ul. Jachtowa od 15 do 45 nieparzyste, od 22 do 46 parzyste, ul. Admiralska 23.",
+      "id": "a7cdff73cd63bc3bf0cc2913c7200b9c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Retmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764855,
+      "lon": 16.7697994,
+      "start_time": "2026-10-29T08:30:00",
+      "end_time": "2026-10-29T11:30:00",
+      "original_description": "Poznań: ul. Marynarska, ul. Retmańska 17, 19, ul. Regatowa, ul. Morska 2, ul. Karawelowa 4, ul. Szkutnicza bez 6, ul. Okrętowa 5, 7, 9, ul. Jachtowa od 15 do 45 nieparzyste, od 22 do 46 parzyste, ul. Admiralska 23.",
+      "id": "4ada3da90deff1782e807860d111242d"
     },
     {
       "type": "planned",
