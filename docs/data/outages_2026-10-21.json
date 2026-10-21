@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-21T00:05:44.379983+00:00",
+  "last_update": "2026-10-21T00:15:48.903773+00:00",
   "outages": [
     {
       "type": "planned",
@@ -910,6 +910,16 @@
       "end_time": "2026-10-21T03:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "d9e2af65e0185a30c9a77093e6f9736e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-21T04:30:00",
+      "original_description": "Poznań ul. Piątkowska 87 B, 87 C, 87 D, 87D, DZ.65.",
+      "id": "19f75193790f605ef462a28ba8c9d272"
     }
   ]
 }
