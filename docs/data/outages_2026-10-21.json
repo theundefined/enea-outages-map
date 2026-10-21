@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-21T08:50:38.575662+00:00",
+  "last_update": "2026-10-21T09:00:43.242321+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1010,6 +1010,66 @@
       "end_time": "2026-10-28T15:00:00",
       "original_description": "Poznań: ul. 28 Czerwca 1956 roku 290, 296/298, od 279 do 303 nieparzyste, ul. Św. Trójcy, ul. Fiołkowa, ul. Modrakowa, ul. Wrzosowa, ul. Wiśniowa 14, 15.",
       "id": "7755e0ad1e4644dff788fd5014c7ff2d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Białostocka, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-047, Polska",
+      "lat": 52.4080333,
+      "lon": 16.9833835,
+      "start_time": "2026-10-28T08:30:00",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "a2dde3a0136a754cf5681c7f3358b4ba"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Brzeska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-048, Polska",
+      "lat": 52.4071937,
+      "lon": 16.983973,
+      "start_time": "2026-10-28T08:30:00",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "d6cd4c7de59269579ffafa92e735383b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krańcowa, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-019, Polska",
+      "lat": 52.4194782,
+      "lon": 16.9762836,
+      "start_time": "2026-10-28T08:30:00",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "38d5bbe573a7222c8c620093ec5ac3e6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mińska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-051, Polska",
+      "lat": 52.4063811,
+      "lon": 16.9884001,
+      "start_time": "2026-10-28T08:30:00",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "79d38c6f750d42c84bd603c22b0c4372"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Terespolska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-047, Polska",
+      "lat": 52.4084552,
+      "lon": 16.9840267,
+      "start_time": "2026-10-28T08:30:00",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "b595b2ede9a92e450b3f0dd3af664596"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "2026-10-28T08:30:00",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań: ul. Warszawska od 82/12 do 82/298, ul. Krańcowa od 67 do 77B nieparzyste, 83, ul. Mińska 2A-B, ul. Brzeska 1A, ul. Białostocka 1, 2, 3, 4, 5, 6, 8, 10, 12, ul. Terespolska.",
+      "id": "320216692f4e1432978a923d1ac8f8c7"
     },
     {
       "type": "planned",
