@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-26T10:26:15.183253+00:00",
+  "last_update": "2026-10-26T10:36:19.905537+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1240,6 +1240,26 @@
       "end_time": "2026-10-26T10:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "e93f0931436ad32a54c976e167f8c455"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-26T11:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "45a2df9e0e1c58a3ea2bcfb9255a5f6e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-26T13:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "be4bec3f56aad96ca2db1a1174108bc9"
     }
   ]
 }
