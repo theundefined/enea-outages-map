@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-26T06:54:06.238695+00:00",
+  "last_update": "2026-10-26T07:04:11.281468+00:00",
   "outages": [
     {
       "type": "planned",
@@ -840,6 +840,16 @@
       "end_time": "2026-11-09T15:30:00",
       "original_description": "Poznań ul. Sianokosy, ul. Gospodarska 5, 7, ul. Żeńców,  ul. Skowronkowa, ul. Spławie  92.",
       "id": "ac57d79fae2139abffe65f8bda251556"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "RCKiK Poznań OT Leszno, 45, Jana Kiepury, Przylesie, Leszno, województwo wielkopolskie, 64-100, Polska",
+      "lat": 51.8382551,
+      "lon": 16.6073228,
+      "start_time": "2026-11-09T08:30:00",
+      "end_time": "2026-11-09T15:30:00",
+      "original_description": "Poznań: os. Leszno 122, 123.",
+      "id": "d18a56ae48f92f5f81d1971c37cb4983"
     },
     {
       "type": "planned",
