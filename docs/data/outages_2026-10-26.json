@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-26T09:45:51.006206+00:00",
+  "last_update": "2026-10-26T09:56:00.650587+00:00",
   "outages": [
     {
       "type": "planned",
@@ -810,6 +810,46 @@
       "end_time": "2026-11-04T14:00:00",
       "original_description": "Poznań ul. Dworska 12",
       "id": "c5f616be41077b22cb78b170cd0c7e4a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "2026-11-04T08:30:00",
+      "end_time": "2026-11-04T12:30:00",
+      "original_description": "Poznań: ul. Podjazdowa od 13 do 61 nieparzyste, ul. Nawigacyjna 7, ul. Kajakowa od 1 do 14, ul. Jachtowa od 1 do 12, 12A.",
+      "id": "83c84b2c95ef5fdcfe64e4758d69ba3b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kajakowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4750474,
+      "lon": 16.7733809,
+      "start_time": "2026-11-04T08:30:00",
+      "end_time": "2026-11-04T12:30:00",
+      "original_description": "Poznań: ul. Podjazdowa od 13 do 61 nieparzyste, ul. Nawigacyjna 7, ul. Kajakowa od 1 do 14, ul. Jachtowa od 1 do 12, 12A.",
+      "id": "a255ba96fbfb22c68ae1c88fdec7c080"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nawigacyjna, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.477396,
+      "lon": 16.7771387,
+      "start_time": "2026-11-04T08:30:00",
+      "end_time": "2026-11-04T12:30:00",
+      "original_description": "Poznań: ul. Podjazdowa od 13 do 61 nieparzyste, ul. Nawigacyjna 7, ul. Kajakowa od 1 do 14, ul. Jachtowa od 1 do 12, 12A.",
+      "id": "399e8f0c4673ad176c6182c83dc59011"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podjazdowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.478354,
+      "lon": 16.7713146,
+      "start_time": "2026-11-04T08:30:00",
+      "end_time": "2026-11-04T12:30:00",
+      "original_description": "Poznań: ul. Podjazdowa od 13 do 61 nieparzyste, ul. Nawigacyjna 7, ul. Kajakowa od 1 do 14, ul. Jachtowa od 1 do 12, 12A.",
+      "id": "82598ef8447278d5f9bd2c07968ba3eb"
     },
     {
       "type": "planned",
