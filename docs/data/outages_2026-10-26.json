@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-26T15:51:14.956542+00:00",
+  "last_update": "2026-10-26T16:01:20.078425+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1360,6 +1360,56 @@
       "end_time": "2026-10-26T17:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "3a0f53a4b191c67467dd03778fcc336f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Brzozowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-428, Polska",
+      "lat": 52.3692404,
+      "lon": 16.8961435,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-26T19:00:00",
+      "original_description": "Poznań ul. Brzozowa 67, 69, 71, 73, 75, 77, 79, ul. Goleszowska 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 23, 24, 26, 27, 28, 29, 30, 31, 31A, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 48, 50, 52, 54, 6, 8, 9, ul. Jesionowa 16, ul. Opolska 58, ul. Wiązowa 1.",
+      "id": "f3fa43cda92c42092feec7e13adeffff"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Goleszowska, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-434, Polska",
+      "lat": 52.3655895,
+      "lon": 16.89652,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-26T19:00:00",
+      "original_description": "Poznań ul. Brzozowa 67, 69, 71, 73, 75, 77, 79, ul. Goleszowska 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 23, 24, 26, 27, 28, 29, 30, 31, 31A, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 48, 50, 52, 54, 6, 8, 9, ul. Jesionowa 16, ul. Opolska 58, ul. Wiązowa 1.",
+      "id": "eb1369bced59c402f8b3807573ddfa08"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jesionowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-429, Polska",
+      "lat": 52.3696271,
+      "lon": 16.8931065,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-26T19:00:00",
+      "original_description": "Poznań ul. Brzozowa 67, 69, 71, 73, 75, 77, 79, ul. Goleszowska 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 23, 24, 26, 27, 28, 29, 30, 31, 31A, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 48, 50, 52, 54, 6, 8, 9, ul. Jesionowa 16, ul. Opolska 58, ul. Wiązowa 1.",
+      "id": "28fa906f3e067b4975c81968611eb7a6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Opolska, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3625639,
+      "lon": 16.8910512,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-26T19:00:00",
+      "original_description": "Poznań ul. Brzozowa 67, 69, 71, 73, 75, 77, 79, ul. Goleszowska 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 23, 24, 26, 27, 28, 29, 30, 31, 31A, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 48, 50, 52, 54, 6, 8, 9, ul. Jesionowa 16, ul. Opolska 58, ul. Wiązowa 1.",
+      "id": "27f1e743f4175738d84444de47aeb86a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiązowa, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-435, Polska",
+      "lat": 52.3665352,
+      "lon": 16.8971427,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-26T19:00:00",
+      "original_description": "Poznań ul. Brzozowa 67, 69, 71, 73, 75, 77, 79, ul. Goleszowska 10, 11, 12, 13, 14, 15, 16, 18, 20, 22, 23, 24, 26, 27, 28, 29, 30, 31, 31A, 32, 33, 34, 35, 36, 37, 38, 40, 41, 42, 43, 44, 45, 46, 48, 50, 52, 54, 6, 8, 9, ul. Jesionowa 16, ul. Opolska 58, ul. Wiązowa 1.",
+      "id": "7b6a79d597e5ba2871cb4330e23cf6b0"
     }
   ]
 }
