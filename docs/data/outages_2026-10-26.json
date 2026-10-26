@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-26T06:23:52.624700+00:00",
+  "last_update": "2026-10-26T06:33:57.018918+00:00",
   "outages": [
     {
       "type": "planned",
@@ -880,6 +880,26 @@
       "end_time": "2026-11-09T15:30:00",
       "original_description": "Poznań ul. Sianokosy, ul. Gospodarska 5, 7, ul. Żeńców,  ul. Skowronkowa, ul. Spławie  92.",
       "id": "035ad4ff1bbaa17ff1f23d7c9047c897"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Alojzego Nowaka, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3575848,
+      "lon": 16.8922266,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T14:30:00",
+      "original_description": "Poznań: ul. Nowaka od 1 do 11 nieparzyste, od 2 do 8 parzyste, ul. Tyca od 1 do 29 nieparzyste, od 2 do 12 parzyste.",
+      "id": "06e88077b9d32fe7468290c8d92d72f1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Teodora Tyca, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3571507,
+      "lon": 16.8922377,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T14:30:00",
+      "original_description": "Poznań: ul. Nowaka od 1 do 11 nieparzyste, od 2 do 8 parzyste, ul. Tyca od 1 do 29 nieparzyste, od 2 do 12 parzyste.",
+      "id": "7a3f6dddd3893c34f09ac5fbd9590786"
     },
     {
       "type": "planned",
