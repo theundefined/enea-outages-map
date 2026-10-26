@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-26T09:15:36.510705+00:00",
+  "last_update": "2026-10-26T09:25:41.373012+00:00",
   "outages": [
     {
       "type": "planned",
@@ -823,6 +823,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Zagonowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4267118,
+      "lon": 16.9273048,
+      "start_time": "2026-11-05T08:30:00",
+      "end_time": "2026-11-05T12:30:00",
+      "original_description": "Poznań: ul. Zagonowa od 1 do 21 nieparzyste, 21A, od 4 do 24 parzyste.",
+      "id": "c61634251d7671b27758b75580d37caf"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Józefa Rivolego, Podolany, Poznań, województwo wielkopolskie, 60-465, Polska",
       "lat": 52.4539629,
       "lon": 16.8876256,
@@ -840,6 +850,26 @@
       "end_time": "2026-11-05T15:30:00",
       "original_description": "Poznań: os. Stare Żegrze 63, 64.",
       "id": "dd2e2df3b8f1b758a986bf887a7f06c4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Skrzypowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4772659,
+      "lon": 16.9623501,
+      "start_time": "2026-11-06T08:30:00",
+      "end_time": "2026-11-06T11:30:00",
+      "original_description": "Poznań: ul. Skrzypowa, ul. Szałwiowa 2, 4, 6.",
+      "id": "b6a8c701e0e421a4e89f8d3b9fd30b3d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szałwiowa, Nowa Wieś Dolna, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-601, Polska",
+      "lat": 52.478153,
+      "lon": 16.9589492,
+      "start_time": "2026-11-06T08:30:00",
+      "end_time": "2026-11-06T11:30:00",
+      "original_description": "Poznań: ul. Skrzypowa, ul. Szałwiowa 2, 4, 6.",
+      "id": "c5a452dcb08d972270abd311355e3dac"
     },
     {
       "type": "planned",
