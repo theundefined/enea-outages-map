@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-27T10:02:52.001968+00:00",
+  "last_update": "2026-10-27T10:12:56.377447+00:00",
   "outages": [
     {
       "type": "planned",
@@ -790,6 +790,26 @@
       "end_time": "2026-11-04T15:30:00",
       "original_description": "Poznań: ul. Kasztelańska  3, 4, 5.",
       "id": "a2fd8a3caeecbfa5ea9c8a083c712d87"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gąsiorowskich, Łazarz, Poznań, województwo wielkopolskie, 60-704, Polska",
+      "lat": 52.3991581,
+      "lon": 16.9058517,
+      "start_time": "2026-11-05T08:00:00",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań: ul. Kolejowa 57, ul. Gąsiorowskich 4 garaż, 6, 7.",
+      "id": "cb4911001ce4868725f22072333bce13"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "2026-11-05T08:00:00",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań: ul. Kolejowa 57, ul. Gąsiorowskich 4 garaż, 6, 7.",
+      "id": "835790825e151f0da0b0ac19cfe14b99"
     },
     {
       "type": "planned",
