@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-27T08:52:18.554762+00:00",
+  "last_update": "2026-10-27T09:02:22.843849+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1300,6 +1300,16 @@
       "end_time": "2026-10-27T11:00:00",
       "original_description": "Poznań ul. Czwartaków 29, ul. Hetmańska 102-106, ul. Partyzancka 10, 11, 12, 12 A, 12A, 13, 15, 17, 4, 4 A, 5, 5 KL.SCH, 6, 7, 8, 9, ul. Saperska 22.",
       "id": "68c250ce19f3012e4e0613e7dae1222c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-27T11:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "6ddf5e14f193c17e89c66128e1b71f36"
     }
   ]
 }
