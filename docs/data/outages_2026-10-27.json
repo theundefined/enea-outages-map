@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-27T14:55:34.072440+00:00",
+  "last_update": "2026-10-27T15:05:38.628095+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1390,6 +1390,16 @@
       "end_time": "2026-10-27T16:00:00",
       "original_description": "Poznań ul. Gromadzka 14A.",
       "id": "3407ca12a0ad7560be7709f820ce5e52"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-27T17:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "22031bd44ae42aeb6ba479486840ed86"
     }
   ]
 }
