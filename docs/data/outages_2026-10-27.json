@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-27T07:41:44.168361+00:00",
+  "last_update": "2026-10-27T07:51:49.009976+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1253,6 +1253,36 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Czwartaków, Wilda, Poznań, województwo wielkopolskie, 61-495, Polska",
+      "lat": 52.3817842,
+      "lon": 16.9177767,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-27T11:00:00",
+      "original_description": "Poznań ul. Czwartaków 29, ul. Hetmańska 102-106, ul. Partyzancka 10, 11, 12, 12 A, 12A, 13, 15, 17, 4, 4 A, 5, 5 KL.SCH, 6, 7, 8, 9, ul. Saperska 22.",
+      "id": "f7447e5461b7dcfd865d2a2604ce3c85"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hetmańska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3830471,
+      "lon": 16.9258024,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-27T11:00:00",
+      "original_description": "Poznań ul. Czwartaków 29, ul. Hetmańska 102-106, ul. Partyzancka 10, 11, 12, 12 A, 12A, 13, 15, 17, 4, 4 A, 5, 5 KL.SCH, 6, 7, 8, 9, ul. Saperska 22.",
+      "id": "b72cec514347934db7533309167ee8cb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Partyzancka, Wilda, Poznań, województwo wielkopolskie, 61-495, Polska",
+      "lat": 52.3825568,
+      "lon": 16.918357,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-27T11:00:00",
+      "original_description": "Poznań ul. Czwartaków 29, ul. Hetmańska 102-106, ul. Partyzancka 10, 11, 12, 12 A, 12A, 13, 15, 17, 4, 4 A, 5, 5 KL.SCH, 6, 7, 8, 9, ul. Saperska 22.",
+      "id": "123834bd6589192c855e06c668243605"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
       "lat": 52.4116233,
       "lon": 16.8996724,
@@ -1260,6 +1290,16 @@
       "end_time": "2026-10-27T11:00:00",
       "original_description": "Poznań ul. Piotra Wawrzyniaka 10, 12, 4, 6, 8.",
       "id": "a7bb51dbaa9a41c7ca0698b6dd4d18c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Saperska, Dolna Wilda, Wilda, Poznań, województwo wielkopolskie, 61-494, Polska",
+      "lat": 52.3825272,
+      "lon": 16.919704,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-27T11:00:00",
+      "original_description": "Poznań ul. Czwartaków 29, ul. Hetmańska 102-106, ul. Partyzancka 10, 11, 12, 12 A, 12A, 13, 15, 17, 4, 4 A, 5, 5 KL.SCH, 6, 7, 8, 9, ul. Saperska 22.",
+      "id": "68c250ce19f3012e4e0613e7dae1222c"
     }
   ]
 }
