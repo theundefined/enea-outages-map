@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-27T06:00:40.872522+00:00",
+  "last_update": "2026-10-27T06:10:45.301200+00:00",
   "outages": [
     {
       "type": "planned",
@@ -610,6 +610,46 @@
       "end_time": "2026-11-02T13:00:00",
       "original_description": "Poznań: ul. Kobylepole 2, 4, 4A-C, 6, od 7 do 23 nieparzyste.",
       "id": "59c8b1f728c8aeb458fd38b0f054661b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Arkońska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4137716,
+      "lon": 17.0476876,
+      "start_time": "2026-11-03T08:00:00",
+      "end_time": "2026-11-03T14:00:00",
+      "original_description": "Poznań: ul. Starkowska od 7 do 21 nieparzyste, od 8 do 18 parzyste, ul. Zdunowska, ul. Zieliniec 15, 26, 28, 28A, ul. Arkońska od 35 do 53 bez 46.",
+      "id": "72135bcb58321d96d9860225fefdf6b3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Starkowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4136932,
+      "lon": 17.0468837,
+      "start_time": "2026-11-03T08:00:00",
+      "end_time": "2026-11-03T14:00:00",
+      "original_description": "Poznań: ul. Starkowska od 7 do 21 nieparzyste, od 8 do 18 parzyste, ul. Zdunowska, ul. Zieliniec 15, 26, 28, 28A, ul. Arkońska od 35 do 53 bez 46.",
+      "id": "2894e5f3a84cbae44f3057694a2e6005"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zdunowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4121399,
+      "lon": 17.0479725,
+      "start_time": "2026-11-03T08:00:00",
+      "end_time": "2026-11-03T14:00:00",
+      "original_description": "Poznań: ul. Starkowska od 7 do 21 nieparzyste, od 8 do 18 parzyste, ul. Zdunowska, ul. Zieliniec 15, 26, 28, 28A, ul. Arkońska od 35 do 53 bez 46.",
+      "id": "e62b689db4584c2120a700c9907a3d52"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.412955,
+      "lon": 17.0468424,
+      "start_time": "2026-11-03T08:00:00",
+      "end_time": "2026-11-03T14:00:00",
+      "original_description": "Poznań: ul. Starkowska od 7 do 21 nieparzyste, od 8 do 18 parzyste, ul. Zdunowska, ul. Zieliniec 15, 26, 28, 28A, ul. Arkońska od 35 do 53 bez 46.",
+      "id": "4c196506bc40d08a9fc3a5fb885340fa"
     },
     {
       "type": "planned",
