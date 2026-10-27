@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-27T11:23:27.420778+00:00",
+  "last_update": "2026-10-27T11:33:31.935744+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1350,6 +1350,16 @@
       "end_time": "2026-10-27T13:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "f44617c204da42cd669413adf5b74e75"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piotra Wawrzyniaka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-503, Polska",
+      "lat": 52.4116233,
+      "lon": 16.8996724,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-27T14:00:00",
+      "original_description": "Poznań ul. Piotra Wawrzyniaka 10, 12, 4, 6, 8.",
+      "id": "257b9bc5b4b6f4a499eb69243e0ad4a0"
     }
   ]
 }
