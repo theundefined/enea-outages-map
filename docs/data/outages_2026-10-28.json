@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-28T07:24:54.342705+00:00",
+  "last_update": "2026-10-28T07:34:58.323309+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1120,6 +1120,26 @@
       "end_time": "2026-10-28T09:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "c6033573035c8ed1cc178a577a9d9ae0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mogileńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4101227,
+      "lon": 16.9913619,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-28T11:00:00",
+      "original_description": "Poznań ul. Mogileńska /WARSZAW, 22, 37, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
+      "id": "b55922ee154850d20cff834585781860"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-28T11:00:00",
+      "original_description": "Poznań ul. Mogileńska /WARSZAW, 22, 37, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
+      "id": "d4957cc74c8e7d0c7e218236dbac80af"
     }
   ]
 }
