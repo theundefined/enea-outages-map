@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-28T07:45:02.961229+00:00",
+  "last_update": "2026-10-28T07:55:07.184730+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1130,6 +1130,16 @@
       "end_time": "2026-10-28T11:00:00",
       "original_description": "Poznań ul. Mogileńska /WARSZAW, 22, 37, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
       "id": "b55922ee154850d20cff834585781860"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-28T11:00:00",
+      "original_description": "Poznań ul. Piątkowska 87 B, 87 C, 87 D, 87D.",
+      "id": "fb0a8481a4b47ad9fe42c3436bb70ab8"
     },
     {
       "type": "unplanned",
