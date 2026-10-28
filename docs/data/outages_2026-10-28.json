@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-28T09:55:59.456225+00:00",
+  "last_update": "2026-10-28T10:06:04.116268+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1150,6 +1150,46 @@
       "end_time": "2026-10-28T11:00:00",
       "original_description": "Poznań ul. Mogileńska /WARSZAW, 22, 37, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
       "id": "d4957cc74c8e7d0c7e218236dbac80af"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "511e61929d2de59cf5631f329ff6d0bf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mogileńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-041, Polska",
+      "lat": 52.4101227,
+      "lon": 16.9913619,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań ul. Mogileńska /WARSZAW, 22, 37, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
+      "id": "c291512928d9fb24a3ea377e3f9afb66"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "16fc0084e79ca37c6ab6ecbe83135c19"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-28T12:30:00",
+      "original_description": "Poznań ul. Mogileńska /WARSZAW, 22, 37, ul. Warszawska 145, 147, 149, 153, 155, 157, 159, 161, 161 kl.sch, 163, 165, 167, 169, 171, 173, 175.",
+      "id": "ccb7c3602d6bc92ce725fa7bf5f397cc"
     }
   ]
 }
