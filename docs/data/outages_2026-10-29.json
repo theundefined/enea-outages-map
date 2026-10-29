@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-29T07:38:13.435848+00:00",
+  "last_update": "2026-10-29T07:48:17.718078+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1030,6 +1030,76 @@
       "end_time": "2026-10-29T08:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "b828d9d8e9b44a5267600da46f4acaaa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jachtowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4767276,
+      "lon": 16.7732727,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-29T11:00:00",
+      "original_description": "Poznań ul. Jachtowa 15, 17, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32-lok.1, 38, 41, 46, ul. Marynarska 10, 11, 12, 3, 4, 5, 6, 7, ul. Morska 2, ul. Okrętowa 7, 9, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 4, 40, 42, 44, 46, 48, 5, 50, 52, 54, 6, 62, 7, 8, 9, ul. Retmańska 17, ul. Szkutnicza 1, 10, 12, 13, 14, 15, 17, 19, 2, 21, 23, 25, 4, 5, 6, 7, 8.",
+      "id": "fc8304b4c771d397cc082a4941e6db76"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marynarska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.476335,
+      "lon": 16.7712684,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-29T11:00:00",
+      "original_description": "Poznań ul. Jachtowa 15, 17, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32-lok.1, 38, 41, 46, ul. Marynarska 10, 11, 12, 3, 4, 5, 6, 7, ul. Morska 2, ul. Okrętowa 7, 9, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 4, 40, 42, 44, 46, 48, 5, 50, 52, 54, 6, 62, 7, 8, 9, ul. Retmańska 17, ul. Szkutnicza 1, 10, 12, 13, 14, 15, 17, 19, 2, 21, 23, 25, 4, 5, 6, 7, 8.",
+      "id": "48634f52ef3cfdb0490677e5bada7a30"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Morska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4742984,
+      "lon": 16.7677278,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-29T11:00:00",
+      "original_description": "Poznań ul. Jachtowa 15, 17, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32-lok.1, 38, 41, 46, ul. Marynarska 10, 11, 12, 3, 4, 5, 6, 7, ul. Morska 2, ul. Okrętowa 7, 9, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 4, 40, 42, 44, 46, 48, 5, 50, 52, 54, 6, 62, 7, 8, 9, ul. Retmańska 17, ul. Szkutnicza 1, 10, 12, 13, 14, 15, 17, 19, 2, 21, 23, 25, 4, 5, 6, 7, 8.",
+      "id": "da3a152be398b4f20857616ac463adbb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Okrętowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4738496,
+      "lon": 16.7702849,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-29T11:00:00",
+      "original_description": "Poznań ul. Jachtowa 15, 17, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32-lok.1, 38, 41, 46, ul. Marynarska 10, 11, 12, 3, 4, 5, 6, 7, ul. Morska 2, ul. Okrętowa 7, 9, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 4, 40, 42, 44, 46, 48, 5, 50, 52, 54, 6, 62, 7, 8, 9, ul. Retmańska 17, ul. Szkutnicza 1, 10, 12, 13, 14, 15, 17, 19, 2, 21, 23, 25, 4, 5, 6, 7, 8.",
+      "id": "153aa67927c60171c11eccafe80dc5eb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Regatowa, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4747964,
+      "lon": 16.7684207,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-29T11:00:00",
+      "original_description": "Poznań ul. Jachtowa 15, 17, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32-lok.1, 38, 41, 46, ul. Marynarska 10, 11, 12, 3, 4, 5, 6, 7, ul. Morska 2, ul. Okrętowa 7, 9, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 4, 40, 42, 44, 46, 48, 5, 50, 52, 54, 6, 62, 7, 8, 9, ul. Retmańska 17, ul. Szkutnicza 1, 10, 12, 13, 14, 15, 17, 19, 2, 21, 23, 25, 4, 5, 6, 7, 8.",
+      "id": "ed6684ade1babab32b56d4593e661f08"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Retmańska, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4764855,
+      "lon": 16.7697994,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-29T11:00:00",
+      "original_description": "Poznań ul. Jachtowa 15, 17, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32-lok.1, 38, 41, 46, ul. Marynarska 10, 11, 12, 3, 4, 5, 6, 7, ul. Morska 2, ul. Okrętowa 7, 9, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 4, 40, 42, 44, 46, 48, 5, 50, 52, 54, 6, 62, 7, 8, 9, ul. Retmańska 17, ul. Szkutnicza 1, 10, 12, 13, 14, 15, 17, 19, 2, 21, 23, 25, 4, 5, 6, 7, 8.",
+      "id": "6ae6e5d203713592f3e275ceb85df5f8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szkutnicza, Kiekrz, Poznań, województwo wielkopolskie, 60-480, Polska",
+      "lat": 52.4742222,
+      "lon": 16.7698412,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-29T11:00:00",
+      "original_description": "Poznań ul. Jachtowa 15, 17, 19, 21, 22, 23, 24, 26, 27, 28, 29, 31, 32-lok.1, 38, 41, 46, ul. Marynarska 10, 11, 12, 3, 4, 5, 6, 7, ul. Morska 2, ul. Okrętowa 7, 9, ul. Regatowa 1, 10, 11, 12, 13, 14, 15, 16, 17, 22, 23, 24, 25, 26, 28, 29, 30, 31, 32, 33, 34, 35, 36, 38, 4, 40, 42, 44, 46, 48, 5, 50, 52, 54, 6, 62, 7, 8, 9, ul. Retmańska 17, ul. Szkutnicza 1, 10, 12, 13, 14, 15, 17, 19, 2, 21, 23, 25, 4, 5, 6, 7, 8.",
+      "id": "4263806e4b72d21678284f222bca9ff3"
     }
   ]
 }
