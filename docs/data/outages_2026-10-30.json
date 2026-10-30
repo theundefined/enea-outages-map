@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T06:20:30.841013+00:00",
+  "last_update": "2026-10-30T06:30:35.291763+00:00",
   "outages": [
     {
       "type": "planned",
@@ -510,6 +510,76 @@
       "end_time": "2026-11-09T15:30:00",
       "original_description": "Poznań ul. Sianokosy, ul. Gospodarska 5, 7, ul. Żeńców,  ul. Skowronkowa, ul. Spławie  92.",
       "id": "035ad4ff1bbaa17ff1f23d7c9047c897"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bronowa, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-691, Polska",
+      "lat": 52.4419734,
+      "lon": 16.9106047,
+      "start_time": "2026-11-10T08:30:00",
+      "end_time": "2026-11-10T10:30:00",
+      "original_description": "Poznań: ul. Piątkowska 211, 216, ul. Siewna od 1 do 23 nieparzyste, 10, 14, dz. 80/2, ul. Dobrogojskiego 31, 32, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "8c25835906324a0cb4a344f839a4b6c6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ignacego Dobrogojskiego, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-692, Polska",
+      "lat": 52.4399873,
+      "lon": 16.9155373,
+      "start_time": "2026-11-10T08:30:00",
+      "end_time": "2026-11-10T10:30:00",
+      "original_description": "Poznań: ul. Piątkowska 211, 216, ul. Siewna od 1 do 23 nieparzyste, 10, 14, dz. 80/2, ul. Dobrogojskiego 31, 32, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "daac394772c88b7fc0f2caaa9447b695"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-11-10T08:30:00",
+      "end_time": "2026-11-10T10:30:00",
+      "original_description": "Poznań: ul. Piątkowska 211, 216, ul. Siewna od 1 do 23 nieparzyste, 10, 14, dz. 80/2, ul. Dobrogojskiego 31, 32, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "2003d317865d4aab51b8a2df46da202c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Siewna, Trójpole, Winiary, Poznań, województwo wielkopolskie, 61-693, Polska",
+      "lat": 52.4418259,
+      "lon": 16.9151016,
+      "start_time": "2026-11-10T08:30:00",
+      "end_time": "2026-11-10T10:30:00",
+      "original_description": "Poznań: ul. Piątkowska 211, 216, ul. Siewna od 1 do 23 nieparzyste, 10, 14, dz. 80/2, ul. Dobrogojskiego 31, 32, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "ce3a6e15c96c8474270e0c96cb88903f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Witosa Park - etap I, Trójpole, Winiary, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4382241,
+      "lon": 16.9099641,
+      "start_time": "2026-11-10T08:30:00",
+      "end_time": "2026-11-10T10:30:00",
+      "original_description": "Poznań: ul. Piątkowska 211, 216, ul. Siewna od 1 do 23 nieparzyste, 10, 14, dz. 80/2, ul. Dobrogojskiego 31, 32, ul. Bronowa, ul. Witosa 62, 122.",
+      "id": "f18d549a0ab88e2bfa842d1ec1a1ddb3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lechicka, Piątkowo, Poznań, województwo wielkopolskie, 61-692, Polska",
+      "lat": 52.4431229,
+      "lon": 16.9119921,
+      "start_time": "2026-11-10T08:30:00",
+      "end_time": "2026-11-10T12:30:00",
+      "original_description": "Poznań: ul. Lechicka 44, 46, 48, ul. Piątkowska dz. 58/5.",
+      "id": "1b6e34d8ac758089cf6c33cdf76b434a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piątkowska, Osiedle Powstańców Warszawy, Winiary, Poznań, województwo wielkopolskie, 60-654, Polska",
+      "lat": 52.4344643,
+      "lon": 16.9130576,
+      "start_time": "2026-11-10T08:30:00",
+      "end_time": "2026-11-10T12:30:00",
+      "original_description": "Poznań: ul. Lechicka 44, 46, 48, ul. Piątkowska dz. 58/5.",
+      "id": "b0e613e4207418170611aea3fa68157d"
     },
     {
       "type": "planned",
