@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T14:45:16.994216+00:00",
+  "last_update": "2026-10-30T14:55:21.306275+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1020,6 +1020,16 @@
       "end_time": "2026-10-30T17:00:00",
       "original_description": "Poznań ul. Gromadzka 14A.",
       "id": "858a8b52931970d89c1a5df3dfd132c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szczawiowa, Umultowo, Poznań, województwo wielkopolskie, 61-602, Polska",
+      "lat": 52.4639805,
+      "lon": 16.9463452,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T18:00:00",
+      "original_description": "Poznań ul. Szczawiowa 11, 9.",
+      "id": "4cfa63551afd57d9bce3e52c4bd7a410"
     }
   ]
 }
