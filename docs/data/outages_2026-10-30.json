@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T14:55:21.306275+00:00",
+  "last_update": "2026-10-30T15:05:25.629602+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1020,6 +1020,16 @@
       "end_time": "2026-10-30T17:00:00",
       "original_description": "Poznań ul. Gromadzka 14A.",
       "id": "858a8b52931970d89c1a5df3dfd132c0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Syrokomli, Piątkowo, Poznań, województwo wielkopolskie, 60-693, Polska",
+      "lat": 52.448095,
+      "lon": 16.9092941,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T17:30:00",
+      "original_description": "Poznań ul. Władysława Syrokomli 14.",
+      "id": "16c17c6692e04aa478c4341d903bbfb7"
     },
     {
       "type": "unplanned",
