@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T09:22:24.137735+00:00",
+  "last_update": "2026-10-30T09:32:29.181520+00:00",
   "outages": [
     {
       "type": "planned",
@@ -840,6 +840,26 @@
       "end_time": "2026-10-30T11:30:00",
       "original_description": "Poznań os. Bolesława Śmiałego 3, 3 A, 3 B, 3 C, 3A, 3B, 3D, 4, 4 F, 4-3, 6, 6 G, 6 J, 6 L, 6K, 6Ł, 7, 7 B, 7 E, 9, 9 E, 9 H, 9 J, 9F, M 2.",
       "id": "fd76cd6e98476c3a025494df8615c34e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bohdana Winiarskiego, Świerczewo, Poznań, województwo wielkopolskie, 61-408, Polska",
+      "lat": 52.3598981,
+      "lon": 16.8838528,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T12:30:00",
+      "original_description": "Poznań ul. Bohdana Winiarskiego 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 56, ul. Hugona Kołłątaja 27, 29, 31, 33, 35, 37, 39, 41, 41A, 43, 45.",
+      "id": "d332b5c628500cb0a62400043da71e30"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Hugona Kołłątaja, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
+      "lat": 52.3707531,
+      "lon": 16.8866502,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T12:30:00",
+      "original_description": "Poznań ul. Bohdana Winiarskiego 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 56, ul. Hugona Kołłątaja 27, 29, 31, 33, 35, 37, 39, 41, 41A, 43, 45.",
+      "id": "f8fc3b828ec926dd8cec73d46f81e3a9"
     }
   ]
 }
