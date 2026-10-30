@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T13:54:52.065468+00:00",
+  "last_update": "2026-10-30T14:04:56.560198+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1000,6 +1000,16 @@
       "end_time": "2026-10-30T15:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "e015bd8456ddfe1d457141daafa3933a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.367922,
+      "lon": 16.9232611,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T16:30:00",
+      "original_description": "Poznań os. Dębina 17C.",
+      "id": "7fe4d00c514dd4296ae9e07c7c787a85"
     }
   ]
 }
