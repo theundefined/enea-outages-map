@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T09:52:38.243372+00:00",
+  "last_update": "2026-10-30T10:02:42.775019+00:00",
   "outages": [
     {
       "type": "planned",
@@ -853,6 +853,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T12:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "9f7bc33b92e88a63b554d1c94e6cf19d"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Hugona Kołłątaja, Świerczewo, Poznań, województwo wielkopolskie, 61-421, Polska",
       "lat": 52.3707531,
       "lon": 16.8866502,
@@ -860,6 +870,16 @@
       "end_time": "2026-10-30T12:30:00",
       "original_description": "Poznań ul. Bohdana Winiarskiego 37, 39, 41, 43, 45, 47, 49, 51, 53, 55, 56, ul. Hugona Kołłątaja 27, 29, 31, 33, 35, 37, 39, 41, 41A, 43, 45.",
       "id": "f8fc3b828ec926dd8cec73d46f81e3a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T12:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "f1bcd49cfcf43582b2cf7326244ab5d3"
     },
     {
       "type": "unplanned",
