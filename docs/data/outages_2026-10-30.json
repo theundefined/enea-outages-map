@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T12:23:49.483195+00:00",
+  "last_update": "2026-10-30T12:33:53.933235+00:00",
   "outages": [
     {
       "type": "planned",
@@ -970,6 +970,16 @@
       "end_time": "2026-10-30T14:30:00",
       "original_description": "Poznań ul. Władysława Syrokomli 14.",
       "id": "d2047c4cc0d1d192ea641d1b258bee34"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.367922,
+      "lon": 16.9232611,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T15:00:00",
+      "original_description": "Poznań os. Dębina 17C.",
+      "id": "ea31eaa95949d13c2f56ca973ada0751"
     }
   ]
 }
