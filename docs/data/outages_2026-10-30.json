@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T12:13:44.998031+00:00",
+  "last_update": "2026-10-30T12:23:49.483195+00:00",
   "outages": [
     {
       "type": "planned",
@@ -650,6 +650,56 @@
       "end_time": "2026-11-10T14:30:00",
       "original_description": "Poznań: ul. Piołunowa od 2 do 26 parzyste, od 5 do 15 nieparzyste, ul. Podbiałowa 7, ul. Radojewo 32A, dz. 7/3, dz. 7/6, ul. Kminkowa.",
       "id": "ad8fa7dbfd03ac445e59927b9dec109e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Irysowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3833989,
+      "lon": 16.8291071,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "118ae5360379c3cbf987a5acde99fcf8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kaliowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.382541,
+      "lon": 16.8264306,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "4b60a0ccb456ec00febf14212cd14b2d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krokusowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3815547,
+      "lon": 16.8283168,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "850e22bdbd453b2e41139ed5696209c3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "43ace86529387a1eaef622d3467016a7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stokrotkowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3827642,
+      "lon": 16.8263654,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "dff76a6bc403be07a10d8023b75473e0"
     },
     {
       "type": "planned",
