@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-30T07:51:43.487914+00:00",
+  "last_update": "2026-10-30T08:01:48.048894+00:00",
   "outages": [
     {
       "type": "planned",
@@ -320,6 +320,26 @@
       "end_time": "2026-11-04T15:30:00",
       "original_description": "Poznań: ul. Kasztelańska  3, 4, 5.",
       "id": "a2fd8a3caeecbfa5ea9c8a083c712d87"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Warszawska, Antonin, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-062, Polska",
+      "lat": 52.411221,
+      "lon": 17.0224654,
+      "start_time": "2026-11-05T08:00:00",
+      "end_time": "2026-11-05T14:00:00",
+      "original_description": "Poznań: ul. Warszawska 373, stacja POLKOMTEL, stacja ochrony katodowej AQUANET, ul. Świętowidzka 2, 4, 4A, 4B.",
+      "id": "ad8050a6e515177b255cfcaf73bd50f0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Świętowidzka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4081581,
+      "lon": 17.0412139,
+      "start_time": "2026-11-05T08:00:00",
+      "end_time": "2026-11-05T14:00:00",
+      "original_description": "Poznań: ul. Warszawska 373, stacja POLKOMTEL, stacja ochrony katodowej AQUANET, ul. Świętowidzka 2, 4, 4A, 4B.",
+      "id": "2492977e6f043655e63ac201e7d2f006"
     },
     {
       "type": "planned",
@@ -780,6 +800,16 @@
       "end_time": "2026-10-30T09:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "039ae42abf394e177d8851d935a7dca2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Śmiałego, Mosina, gmina Mosina, powiat poznański, województwo wielkopolskie, 62-050, Polska",
+      "lat": 52.2304432,
+      "lon": 16.8320229,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-30T11:00:00",
+      "original_description": "Poznań os. Bolesława Śmiałego 3, 3 A, 3 B, 3 C, 3A, 3B, 3D, 4, 4 F, 4-3, 7, 7 B, 7 E, 9, 9 E, 9 H, 9 J, 9F, M 2.",
+      "id": "42edf0d5aa8c5d4697f25a98d0fa6330"
     }
   ]
 }
