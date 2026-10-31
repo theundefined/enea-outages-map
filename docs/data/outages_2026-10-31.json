@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-31T04:52:45.660139+00:00",
+  "last_update": "2026-10-31T05:02:50.261623+00:00",
   "outages": [
     {
       "type": "planned",
@@ -930,6 +930,36 @@
       "end_time": "2026-10-31T06:00:00",
       "original_description": "Poznań ul. Gromadzka 14A.",
       "id": "a29065f603fd13a362e2a728eff6344b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.367922,
+      "lon": 16.9232611,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-31T07:30:00",
+      "original_description": "Poznań os. Dębina 17C.",
+      "id": "2c3e38f210bc7b0450a4358b31176bdb"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-31T07:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "e3987013539a216fae290ec0e6e9df3b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-31T07:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "db369472eec67b962370a7894288cfbf"
     }
   ]
 }
