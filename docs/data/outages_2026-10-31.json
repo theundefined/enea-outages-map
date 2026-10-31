@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-31T03:22:04.219922+00:00",
+  "last_update": "2026-10-31T03:32:08.843197+00:00",
   "outages": [
     {
       "type": "planned",
@@ -910,6 +910,26 @@
       "end_time": "2026-10-31T04:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "3f53b2e6d0345e7fc5e1e71bdad06d00"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.367922,
+      "lon": 16.9232611,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-31T06:00:00",
+      "original_description": "Poznań os. Dębina 17C.",
+      "id": "ff0c8eecafa9ae5a4b44493c0c6a5b04"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-31T06:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "a29065f603fd13a362e2a728eff6344b"
     }
   ]
 }
