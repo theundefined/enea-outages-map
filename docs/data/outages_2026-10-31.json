@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-10-31T19:21:00.111886+00:00",
+  "last_update": "2026-10-31T19:31:05.312228+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1640,6 +1640,26 @@
       "end_time": "2026-10-31T20:30:00",
       "original_description": "Luboń ul. Wiejska 27D, Poznań ul. Romana Dmowskiego 64 KL.A.",
       "id": "7fee50a3ba81ffc96b6b4fc3d24a1ce4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-31T22:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "a2e0e8699819711dd8a573679a1a475d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romana Dmowskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-729, Polska",
+      "lat": 52.3871157,
+      "lon": 16.896846,
+      "start_time": "Brak danych",
+      "end_time": "2026-10-31T22:00:00",
+      "original_description": "Luboń ul. Wiejska 27D, Poznań ul. Romana Dmowskiego 64 KL.A.",
+      "id": "ed026a1442d0b42efc36251407f33bdf"
     }
   ]
 }
