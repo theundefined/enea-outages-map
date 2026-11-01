@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-01T06:47:01.238163+00:00",
+  "last_update": "2026-11-01T06:57:05.814232+00:00",
   "outages": [
     {
       "type": "planned",
@@ -820,6 +820,36 @@
       "end_time": "2026-11-01T08:00:00",
       "original_description": "Luboń ul. Wiejska 27D, Poznań ul. Romana Dmowskiego 64 KL.A.",
       "id": "e748227bac7306440f356c82b32e2984"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-01T09:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "1b98dc54784b97db4ed8fa4e8121aeb9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-01T09:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "db7b01d237e34fbfed9013d0a8d95037"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romana Dmowskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-729, Polska",
+      "lat": 52.3871157,
+      "lon": 16.896846,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-01T09:30:00",
+      "original_description": "Luboń ul. Wiejska 27D, Poznań ul. Romana Dmowskiego 64 KL.A.",
+      "id": "646fdc74898911372af38d4d93943673"
     }
   ]
 }
