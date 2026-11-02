@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-02T09:41:38.844479+00:00",
+  "last_update": "2026-11-02T09:51:44.083411+00:00",
   "outages": [
     {
       "type": "planned",
@@ -880,6 +880,16 @@
       "end_time": "2026-11-02T11:00:00",
       "original_description": "Luboń ul. Wiejska 27D, Poznań ul. Romana Dmowskiego 64 KL.A.",
       "id": "d4d81fbefbcdb1d5267b78b710ced5b5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słubicka, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-616, Polska",
+      "lat": 52.4471644,
+      "lon": 16.9347976,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-02T13:00:00",
+      "original_description": "Poznań ul. Słubicka 15, 15A.",
+      "id": "8f9fd6f54d582ae5b4c872ae0f60f054"
     }
   ]
 }
