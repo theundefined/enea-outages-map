@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-02T09:31:33.776095+00:00",
+  "last_update": "2026-11-02T09:41:38.844479+00:00",
   "outages": [
     {
       "type": "planned",
@@ -690,6 +690,26 @@
       "end_time": "2026-11-17T14:00:00",
       "original_description": "Poznań: ul. Szelągowska 59A, od 61 do 65B, ul. Przełajowa 8, 14, 15, pawilony.",
       "id": "936f7ab7232509c8f552a9c52eb0ab1c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4113371,
+      "lon": 16.9476211,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Ostrów Tumski 2, 3, 4, 5, 5A, 6, 9, 9A, 10, 11, 12, 13, ul. Wieżowa 2/4.",
+      "id": "17178eb02261ead32ec0d95aa518ce42"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wieżowa, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4085935,
+      "lon": 16.9470147,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Ostrów Tumski 2, 3, 4, 5, 5A, 6, 9, 9A, 10, 11, 12, 13, ul. Wieżowa 2/4.",
+      "id": "7a6a5bc68fd34be6acf962dfcf5fdc2d"
     },
     {
       "type": "unplanned",
