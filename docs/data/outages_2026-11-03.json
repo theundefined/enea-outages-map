@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-03T11:10:14.734498+00:00",
+  "last_update": "2026-11-03T11:20:18.700217+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1230,6 +1230,16 @@
       "end_time": "2026-11-03T14:00:00",
       "original_description": "Suchy Las ul. Borówkowa 57, 59, 59/A, 60, 61, 65A, 76, 78, 80, 82, 86, ul. Nektarowa 49, ul. Saneczkowa 1, 3, 6, ul. Stefana Stefańskiego 23, 25, 62, 62A, 64, 64B, 64C, ul. Szkółkarska 101, 102, 105, 107A, 107B, 107C, 107D, 107E, 107F, 109 A, 109B, 109C, 109D, 109E, 109F, 111A, 111B, 111C, 111D, 111E, 111F, 113, 113A, 113B, 113C, 113D, 113E, 113F, 120A, 122, 124, 130, 132, 134, 95, ul. Wiśniowa 1, ul. Zachodnia 1, 2, 3, 4, 5, ul. Zawilcowa 56, Poznań ul. Strzeszyńska 67.",
       "id": "338c5f8efb71c1f540a991136d645414"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-03T14:30:00",
+      "original_description": "Suchy Las ul. Borówkowa 57, 59, 59/A, 60, 61, 65A, 76, 78, 80, 82, 86, ul. Nektarowa 49, ul. Saneczkowa 1, 3, 6, ul. Stefana Stefańskiego 23, 25, 62, 62A, 64, 64B, 64C, ul. Szkółkarska 101, 102, 105, 107A, 107B, 107C, 107D, 107E, 107F, 109 A, 109B, 109C, 109D, 109E, 109F, 111A, 111B, 111C, 111D, 111E, 111F, 113, 113A, 113B, 113C, 113D, 113E, 113F, 120A, 122, 124, 130, 132, 134, 95, ul. Wiśniowa 1, ul. Zachodnia 1, 2, 3, 4, 5, ul. Zawilcowa 56, Poznań ul. Strzeszyńska 67.",
+      "id": "865fb4bc69413d3faa02bead3c8bfc56"
     }
   ]
 }
