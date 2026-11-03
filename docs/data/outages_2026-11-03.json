@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-03T01:56:42.550691+00:00",
+  "last_update": "2026-11-03T02:06:47.373611+00:00",
   "outages": [
     {
       "type": "planned",
@@ -660,6 +660,26 @@
       "end_time": "2026-11-03T03:00:00",
       "original_description": "Luboń ul. Wiejska 27D, Poznań ul. Romana Dmowskiego 64 KL.A.",
       "id": "e446d396919154a86f29fd7561b17872"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-03T04:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "ded7931a8c3d4f2406fa25619316da74"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romana Dmowskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-729, Polska",
+      "lat": 52.3871157,
+      "lon": 16.896846,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-03T04:30:00",
+      "original_description": "Luboń ul. Wiejska 27D, Poznań ul. Romana Dmowskiego 64 KL.A.",
+      "id": "0db0fcb7229b80c41b577d55342b46c2"
     }
   ]
 }
