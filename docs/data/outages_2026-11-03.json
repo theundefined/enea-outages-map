@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-03T16:50:10.647804+00:00",
+  "last_update": "2026-11-03T17:00:16.626587+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1350,6 +1350,16 @@
       "end_time": "2026-11-03T19:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "37e99177c9bf039ed14f8f39085ae4ba"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Samuela Lindego, Ogrody, Poznań, województwo wielkopolskie, 60-573, Polska",
+      "lat": 52.4182674,
+      "lon": 16.889596,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-03T19:30:00",
+      "original_description": "Poznań ul. Samuela Lindego 4 i 6.",
+      "id": "7385645c744a1d435e92e89fff893695"
     }
   ]
 }
