@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-03T17:50:54.315594+00:00",
+  "last_update": "2026-11-03T18:01:07.266129+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1360,6 +1360,26 @@
       "end_time": "2026-11-03T19:30:00",
       "original_description": "Poznań ul. Samuela Lindego 4 i 6.",
       "id": "7385645c744a1d435e92e89fff893695"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-03T20:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "ba030930eeb151446be2e3321da5e3dd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-03T20:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "c0d3151acf1e4e0b1b2fbad537ed7387"
     }
   ]
 }
