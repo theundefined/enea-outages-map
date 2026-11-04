@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-04T07:33:09.287045+00:00",
+  "last_update": "2026-11-04T07:43:14.904650+00:00",
   "outages": [
     {
       "type": "planned",
@@ -533,6 +533,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Floksowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3851886,
+      "lon": 16.8162566,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "f46ee76533ed203012e09494d485d076"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "4bad5885be0da249fed465a14e21ba10"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Magnoliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3869836,
+      "lon": 16.8116487,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "25cc594e216f789e31d971f69f23f671"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Margaretkowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3855998,
+      "lon": 16.8118884,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "ae2b096d5e31146419a4c5652b845265"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.4113371,
       "lon": 16.9476211,
@@ -540,6 +580,26 @@
       "end_time": "2026-11-17T14:30:00",
       "original_description": "Poznań: ul. Ostrów Tumski 2, 3, 4, 5, 5A, 6, 9, 9A, 10, 11, 12, 13, ul. Wieżowa 2/4.",
       "id": "17178eb02261ead32ec0d95aa518ce42"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sasankowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3872832,
+      "lon": 16.8123568,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "b6b36a97c1d3012f2fa35d9a94faeae9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szarotkowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3839374,
+      "lon": 16.8128112,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "f42712e41a8a195df9745d7fc9e8a75f"
     },
     {
       "type": "planned",
