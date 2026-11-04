@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-04T08:53:46.446866+00:00",
+  "last_update": "2026-11-04T09:03:52.480468+00:00",
   "outages": [
     {
       "type": "planned",
@@ -890,6 +890,16 @@
       "end_time": "2026-11-04T11:00:00",
       "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
       "id": "5ab6aaf90f70284d400ccc866c2883fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "66cbb1224974e6d09d3cb6096ca0c539"
     }
   ]
 }
