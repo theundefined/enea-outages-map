@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-04T07:53:19.084812+00:00",
+  "last_update": "2026-11-04T08:03:24.199203+00:00",
   "outages": [
     {
       "type": "planned",
@@ -780,6 +780,116 @@
       "end_time": "2026-11-04T10:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "2c08b700a34deaf1af6d96be64602e91"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cypriana Norwida, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-867, Polska",
+      "lat": 52.4163907,
+      "lon": 16.9117318,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "919ab586bb2dae23f570e6d16a3501f9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grudzieniec, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4194773,
+      "lon": 16.9010792,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "93e114e9942d6f12d9d42cf9a3880596"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jeżycka, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-865, Polska",
+      "lat": 52.414293,
+      "lon": 16.9119406,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "5f2bdc29f21cc800dfab150b66bf9113"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kościelna, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-870, Polska",
+      "lat": 52.4128608,
+      "lon": 16.9032869,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "39ff0ab9ff37df44699336ba7bcead53"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mylna, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-856, Polska",
+      "lat": 52.4152434,
+      "lon": 16.9083453,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "e8210127e5fe890211ac59837ad67052"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Mączna, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-861, Polska",
+      "lat": 52.4164818,
+      "lon": 16.9079297,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "1c974faa02a3ae95c2c1c1bbefc869cd"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Bogdanką, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-862, Polska",
+      "lat": 52.416569,
+      "lon": 16.909539,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "8e8899a76360cc3f994673fdea24ba76"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nad Wierzbakiem, Niestachów, Sołacz, Poznań, województwo wielkopolskie, 60-863, Polska",
+      "lat": 52.4190922,
+      "lon": 16.9080402,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "0398f6c2f03a2d1b1142f1d1b5e27442"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Barańczaka, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-537, Polska",
+      "lat": 52.4157481,
+      "lon": 16.9030885,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "bde111bf5eead8841edd67e34307f474"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wielkopolska, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-154, Polska",
+      "lat": 52.3919131,
+      "lon": 16.9433857,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "82630ccaba00e23b029443c4375a857f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Św. Wawrzyńca, Świętego Wawrzyńca, Jeżyckie Osiedle, Jeżyce, Poznań, województwo wielkopolskie, 60-546, Polska",
+      "lat": 52.4186963,
+      "lon": 16.9029366,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-04T11:00:00",
+      "original_description": "Wiry ul. Wrzosowa 14, Poznań al. Wielkopolska 39, 40, 41, 43, 45, 51, 53, 57, 59, 59A, 61, 61A, 63, 65, 65A, 67, 67-LOK.3, 67/1, ul. Cypriana Norwida 18, 18A, ul. Grudzieniec 62 B, 64, 66, 70, 72, 76, 76A, 78, 80, 82, ul. Jeżycka 12, 14, 2, 4, 4/2, 6, 7, 8, 8/10, 8/10 B, 8/10C, ul. Kościelna 33, 41C, 43, 45 B, 45 C, 45 D, 45 D,C, 45C, 45d, 45D, 50, 52, 54, 56, 56-LOK.1, 81, ul. Mączna 1, 1-KL.SCHOD, 3, 3/A, 5, 6, ul. Mylna 56, 58, 60, ul. Nad Bogdanką 2, 6, 6 A, 6A, 6A/5, 7, ul. Nad Wierzbakiem 1, 10, 12, 12A, 2, 2A, 3, 4, 5, 6, 6 A, 6A, 7, 9, ul. Stanisława Barańczaka 3F, ul. św. Wawrzyńca.",
+      "id": "5ab6aaf90f70284d400ccc866c2883fe"
     }
   ]
 }
