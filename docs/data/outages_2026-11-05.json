@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-05T08:34:47.465897+00:00",
+  "last_update": "2026-11-05T08:44:52.349817+00:00",
   "outages": [
     {
       "type": "planned",
@@ -630,6 +630,76 @@
       "end_time": "2026-11-19T10:30:00",
       "original_description": "Poznań: ul. Kostrzyńska 14, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste.",
       "id": "9217b23fc7b137aaaf5c75971eebfb11"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gołuchowska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3689042,
+      "lon": 16.8787931,
+      "start_time": "2026-11-19T10:30:00",
+      "end_time": "2026-11-19T12:30:00",
+      "original_description": "Poznań: ul. Koźmińska 18, ul. Gołuchowska 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, od 19 do 35 nieparzyste, ul. Jaraczewska, ul. Kotlińska, ul. Włoszakowicka bez 1.",
+      "id": "23384cad6e2383b6bb8ef2d511758c6d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jaraczewska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3692292,
+      "lon": 16.8782491,
+      "start_time": "2026-11-19T10:30:00",
+      "end_time": "2026-11-19T12:30:00",
+      "original_description": "Poznań: ul. Koźmińska 18, ul. Gołuchowska 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, od 19 do 35 nieparzyste, ul. Jaraczewska, ul. Kotlińska, ul. Włoszakowicka bez 1.",
+      "id": "b4b15b4c0631aca04ce968cdfc564199"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kotlińska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3689183,
+      "lon": 16.8783579,
+      "start_time": "2026-11-19T10:30:00",
+      "end_time": "2026-11-19T12:30:00",
+      "original_description": "Poznań: ul. Koźmińska 18, ul. Gołuchowska 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, od 19 do 35 nieparzyste, ul. Jaraczewska, ul. Kotlińska, ul. Włoszakowicka bez 1.",
+      "id": "02063a9a15519f58fa262c74249081ea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Koźmińska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3695662,
+      "lon": 16.8788848,
+      "start_time": "2026-11-19T10:30:00",
+      "end_time": "2026-11-19T12:30:00",
+      "original_description": "Poznań: ul. Koźmińska 18, ul. Gołuchowska 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, od 19 do 35 nieparzyste, ul. Jaraczewska, ul. Kotlińska, ul. Włoszakowicka bez 1.",
+      "id": "461e100c2ec9648e78697f0a09d1d12d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "2026-11-20T08:30:00",
+      "end_time": "2026-11-20T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "f17fcee9c5c120ea9d105dc571a81e7d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stewnicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3737936,
+      "lon": 16.9986544,
+      "start_time": "2026-11-20T08:30:00",
+      "end_time": "2026-11-20T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "fe0c27889dda4d2dc022e0df6cf079fe"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "2026-11-20T08:30:00",
+      "end_time": "2026-11-20T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "6e2f55e8cf7fbb274329bf72686eefa2"
     },
     {
       "type": "unplanned",
