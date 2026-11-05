@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-05T09:53:14.139847+00:00",
+  "last_update": "2026-11-05T10:03:18.322865+00:00",
   "outages": [
     {
       "type": "planned",
@@ -950,6 +950,36 @@
       "end_time": "2026-11-05T11:30:00",
       "original_description": "Poznań ul. Jana Brzechwy.",
       "id": "0432829f0bd3317598280f03d7d546fe"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T12:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "f0a67b51d7d575ac9389f218c7d521db"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T12:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "0f5817143ab033b93f7fdce4644e5dbf"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Błażeja, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4602697,
+      "lon": 16.9413042,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T13:00:00",
+      "original_description": "Poznań ul. Błażeja 11, 11 A, 11 ADM, 11 B, 11 C, 11 D, 11 E, 11 F, 11 GARAŻ, 11 HYDROF., 11 PORTIER, 11A, 11B, 11C, 11D, 11E, 11F, 13, 13 GARAŻ, 13 KL. D, 9, 9A, 9A,B, 9B, 9C, 9H, 9W.",
+      "id": "6d7fe53f49a56a0705dbf422e76bd99a"
     }
   ]
 }
