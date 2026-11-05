@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-05T11:33:55.194841+00:00",
+  "last_update": "2026-11-05T11:43:59.526728+00:00",
   "outages": [
     {
       "type": "planned",
@@ -980,6 +980,126 @@
       "end_time": "2026-11-05T13:00:00",
       "original_description": "Poznań ul. Błażeja 11, 11 A, 11 ADM, 11 B, 11 C, 11 D, 11 E, 11 F, 11 GARAŻ, 11 HYDROF., 11 PORTIER, 11A, 11B, 11C, 11D, 11E, 11F, 13, 13 GARAŻ, 13 KL. D, 9, 9A, 9A,B, 9B, 9C, 9H, 9W.",
       "id": "6d7fe53f49a56a0705dbf422e76bd99a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Drwali, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4118887,
+      "lon": 17.0444529,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "a30851b3ed9b464921d8b97b1bd90393"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Górska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4154718,
+      "lon": 17.0435405,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "21422c9e629f9d3f42c8858cc275f59a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kamieńska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4142256,
+      "lon": 17.044022,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "95ada1d03bb211aca6f74e70b6ca8e8a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Krośniewicka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.411066,
+      "lon": 17.0386179,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "cab37ba8a8079cfd04797544a7e7fe90"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Leśników, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.410882,
+      "lon": 17.0473726,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "0cf489f2b356b76384076758802804aa"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sarnia, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4104249,
+      "lon": 17.043821,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "fe3f6472705ff56fec53e33fc97d7cf4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sobolowa, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4139264,
+      "lon": 17.0454188,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "83d934eb1005b898b3829ec33ddcf571"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Starkowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4136932,
+      "lon": 17.0468837,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "cc364d69c517769f05fcb4d99ef45f0a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzałkowska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4127073,
+      "lon": 17.0496456,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "4ee50cd62964b258a020595e5c5b4382"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warpińska, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-059, Polska",
+      "lat": 52.4133838,
+      "lon": 17.0481825,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "4adb2eb0063bad692831de0dcc2a49b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.412955,
+      "lon": 17.0468424,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "c300d793a38abf75aa65ef9731f794b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętowidzka, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-056, Polska",
+      "lat": 52.4081581,
+      "lon": 17.0412139,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T15:00:00",
+      "original_description": "Poznań ul. Drwali 1, 10, 11, 12, 13, 15, 19, 2, 3, 4, 5, 6, 8, 9, ul. Górska 13, ul. Kamieńska 1, 10, 11, 12, 12 A, 2, 3, 4, 5, 6, 7, 7A, 8, 8 A, ul. Krośniewicka, ul. Leśników 1, 10, 11, 14, 16, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarnia 10, 10A, 12, 12A, 14, 15, 17, 23, 6, 6 A, 7, 8, ul. Sobolowa 10, 10A, 11, 11A, 13, 14, 3, 3 A, 4, 6, 7, 7 A, 8, 8 A, 8/2, 8A, 9, ul. Starkowska 4, 4A, 5, 6, ul. Strzałkowska 2, 5, 7, 9, ul. Świętowidzka 12, 12B, 14, 15, 16 A, 17, 7, 9, ul. Warpińska 10, 11, 11A, 11B, 12, 14, 16, 16A, 17, 18, 21, 8, 9, ul. Zieliniec /Warpińska, 10, 11, 11A, 12, 16, 18, 18A, 20, 24, 3, 54, 6, 7, 8, 8A.",
+      "id": "15da0fdda5e94ecd01226d213d4d1957"
     }
   ]
 }
