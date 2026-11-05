@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-05T03:22:06.896848+00:00",
+  "last_update": "2026-11-05T03:32:11.379539+00:00",
   "outages": [
     {
       "type": "planned",
@@ -770,6 +770,16 @@
       "end_time": "2026-11-05T04:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "217c8b4ab0e05c34acb2a6064b3b8d02"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-05T06:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "62c54f23c59e1645714886b7d7e6d9bb"
     }
   ]
 }
