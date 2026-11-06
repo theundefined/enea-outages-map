@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-06T07:48:17.287316+00:00",
+  "last_update": "2026-11-06T07:58:21.635384+00:00",
   "outages": [
     {
       "type": "planned",
@@ -960,6 +960,16 @@
       "end_time": "2026-11-06T10:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "4add6ced7680fcf139be7c11d665100d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Węgorzewska, Osiedle Literackie, Podolany, Poznań, województwo wielkopolskie, 60-466, Polska",
+      "lat": 52.4553924,
+      "lon": 16.8752247,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-06T11:00:00",
+      "original_description": "Poznań ul. Węgorzewska 1.",
+      "id": "d0a36a637a7ad48aa27d34751e131557"
     }
   ]
 }
