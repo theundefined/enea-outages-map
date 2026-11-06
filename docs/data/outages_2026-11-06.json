@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-06T07:18:02.925207+00:00",
+  "last_update": "2026-11-06T07:28:08.001832+00:00",
   "outages": [
     {
       "type": "planned",
@@ -523,6 +523,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Aroniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3601398,
+      "lon": 17.0374466,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T12:30:00",
+      "original_description": "Poznań: ul. Aroniowa 2, 2A, od 15 do 37 nieparzyste, od 16 do 48 parzyste, ul. Berberysowa.",
+      "id": "6d288382be5e6330020231bdeb4f5d26"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Berberysowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3624918,
+      "lon": 17.039966,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T12:30:00",
+      "original_description": "Poznań: ul. Aroniowa 2, 2A, od 15 do 37 nieparzyste, od 16 do 48 parzyste, ul. Berberysowa.",
+      "id": "2d36451494d15e46ab828f867e5d818e"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
       "lat": 52.4313634,
       "lon": 16.9267169,
@@ -930,6 +950,16 @@
       "end_time": "2026-11-06T08:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "78bc21b21150788de7343aab91c62662"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-06T10:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "4add6ced7680fcf139be7c11d665100d"
     }
   ]
 }
