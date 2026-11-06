@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-06T17:52:14.082605+00:00",
+  "last_update": "2026-11-06T18:02:18.502567+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1083,6 +1083,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-06T20:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "11b3f1a503d2de5eb26921adfcc03ffb"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Jagodowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-307, Polska",
       "lat": 52.3689431,
       "lon": 17.0062642,
@@ -1100,6 +1110,16 @@
       "end_time": "2026-11-06T20:30:00",
       "original_description": "Poznań ul. Brokułowa 6, ul. Jagodowa 24, 24 B, 24 C, 26, 26A, 28, 28 B, 30, 32, 32C, 34, 34B, 34C, 36, 36 B, 36C, 38, DZ.8/5, ul. Nad Pokrzywką 14, ul. Roślinna /Jagodowa, 1, 1 A, 10, 10A, 2, 26B, 3, 4, 6, 6A, 8, 8 B, 8A, ul. Rzodkiewkowa 11, 5, 7, ul. Siedliskowa 13, 15, 15A, 17, 17B, 19, 21, 22, 5, 7, 9, ul. Skibowa /SZCZEPA, 13, 13 A, 13A, 15A, 15C, 16, 16A, 17, 18, 19, 19 C, 19b, 19D, 20, 21, 22, 23, 24, 24 B, 24 C, 24A, 25, 25 A, 25 B, 26 C, 26 D, 26A, 26B, 27, 27 B, 27A, 28, 29, 30, 31, 31A, 32B, 33, KIOSK, PAW.HAN., PAWILON 16, PRZY SZK, Szczepanko, ul. Szczepankowo 60 D, 60 F, 60 N, 60A, 60F, 60G, 60H, 60j, 60J, 60K, 60L, 60M, 60N, 62, 62A, 62B, 62D, 62E, 62F, 62J, 64 A, 66, 66 B, 66A, 68, 68A, 68B, 68C, 68D, 70, 70 J, 70A, 72, 72A, 74, 79, 83, 83 A, 83C, 85, 89A, SKIBOWA.",
       "id": "e670c94edf70828591f3ba4c1b7d4c27"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-06T20:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "2c2a0f7a76a06d2766a512f84ca8ab64"
     },
     {
       "type": "unplanned",
