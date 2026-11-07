@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-07T15:53:43.479120+00:00",
+  "last_update": "2026-11-07T16:03:48.279893+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1160,6 +1160,16 @@
       "end_time": "2026-11-07T17:30:00",
       "original_description": "Poznań ul. Książęca 24, 25, ul. św. Antoniego 27A, 29, 31, 33, 33A, 34, 35, 36, 36klat.sch, 38, 39, 41, 41A, 42, 43, 45, 45 A, 45A, 47, 48, 50, 52, 54.",
       "id": "68c1c1b116a42b118da2526b2935ac84"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-07T18:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "88d96853e3ac6c0e6592e5ebbdd35eaf"
     }
   ]
 }
