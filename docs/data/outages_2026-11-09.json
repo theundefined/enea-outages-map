@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-09T07:33:21.502799+00:00",
+  "last_update": "2026-11-09T07:43:30.240368+00:00",
   "outages": [
     {
       "type": "planned",
@@ -800,6 +800,86 @@
       "end_time": "2026-11-09T09:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "b593e844492488280895c4fac7c119a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Adama Kręglewskiego, Żegrze, Poznań, województwo wielkopolskie, 61-286, Polska",
+      "lat": 52.3772933,
+      "lon": 16.9782947,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T11:00:00",
+      "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
+      "id": "f32339e53b34ff05cae7b1afabd94557"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Krzywoustego, Osiedle Polanka, Łacina, Rataje, Poznań, województwo wielkopolskie, 61-208, Polska",
+      "lat": 52.3911432,
+      "lon": 16.9639046,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T11:00:00",
+      "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
+      "id": "db7c2925f547abd4124cb3f39a89e547"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Krzywoustego, Żegrze, Poznań, województwo wielkopolskie, 61-292, Polska",
+      "lat": 52.3748378,
+      "lon": 16.9810699,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T11:00:00",
+      "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
+      "id": "a684974ef09bc6c85d0fe4278ad54c3c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Czochralskiego, Żegrze, Poznań, województwo wielkopolskie, 61-248, Polska",
+      "lat": 52.3754322,
+      "lon": 16.9739061,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T11:00:00",
+      "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
+      "id": "26560abaf7d3a3d16e497b244b446a3d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimierza Drewnowskiego, Żegrze, Poznań, województwo wielkopolskie, 61-248, Polska",
+      "lat": 52.3738399,
+      "lon": 16.9747721,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T11:00:00",
+      "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
+      "id": "e52a74d28bcad4299ce9982c854793f6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Obodrzycka, Osiedle Orła Białego, Żegrze, Poznań, województwo wielkopolskie, 61-251, Polska",
+      "lat": 52.3748676,
+      "lon": 16.9640957,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T11:00:00",
+      "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
+      "id": "96b85bb18691c1632d100b178186fa70"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Zwierzchowskiego, Żegrze, Poznań, województwo wielkopolskie, 61-248, Polska",
+      "lat": 52.3770108,
+      "lon": 16.9730163,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T11:00:00",
+      "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
+      "id": "ad14c57650e66e4d1b77a3f81c004d19"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wiktora Jankowskiego, Żegrze, Poznań, województwo wielkopolskie, 61-248, Polska",
+      "lat": 52.3743624,
+      "lon": 16.9713405,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T11:00:00",
+      "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
+      "id": "ebbf3bc1b1d2ec543ce86aa57f928bd5"
     }
   ]
 }
