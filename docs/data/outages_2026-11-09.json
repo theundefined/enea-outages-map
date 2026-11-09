@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-09T07:03:06.635974+00:00",
+  "last_update": "2026-11-09T07:13:12.131021+00:00",
   "outages": [
     {
       "type": "planned",
@@ -513,6 +513,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bystra, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-362, Polska",
+      "lat": 52.3696319,
+      "lon": 16.9383825,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska 4.",
+      "id": "8eb4f0f8e2c1c49362bba857ef2a4c58"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gołężycka, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-353, Polska",
+      "lat": 52.3599515,
+      "lon": 16.9465121,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska 4.",
+      "id": "fc948d13465eb95d5cafb77d1b6cf37f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Obodrzycka, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-163, Polska",
+      "lat": 52.3679179,
+      "lon": 16.9490647,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska 4.",
+      "id": "750670938804f62bc368383a85bf7521"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podmiejska, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-357, Polska",
+      "lat": 52.3658021,
+      "lon": 16.9482776,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska 4.",
+      "id": "fadd9ff6200ba4a04126bdb3396be0dc"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
       "lat": 52.4313634,
       "lon": 16.9267169,
@@ -610,6 +650,76 @@
       "end_time": "2026-11-20T12:30:00",
       "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
       "id": "6e2f55e8cf7fbb274329bf72686eefa2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Andaluzyjska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-698, Polska",
+      "lat": 52.4453876,
+      "lon": 16.93059,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "832a4fdbeea1c0e6d2319d1bbe3da97d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Aragońska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-645, Polska",
+      "lat": 52.4450518,
+      "lon": 16.929017,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "ee68ab17a87344f53be4063f2803358e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kastylijska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-645, Polska",
+      "lat": 52.4444274,
+      "lon": 16.9296178,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "926ea7abc5608b7bf982250af7f491a4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Katalońska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-645, Polska",
+      "lat": 52.4450571,
+      "lon": 16.929724,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "cd18d834c7cb8a98d328df1d295d79cc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sycylijska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-698, Polska",
+      "lat": 52.4451489,
+      "lon": 16.9321802,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "8559f45a9a01f0e58934e27ba8d407af"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Toskańska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-698, Polska",
+      "lat": 52.4456384,
+      "lon": 16.9318446,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "50893c420575aa6f13c4a902c43fdfa7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Umultowska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-645, Polska",
+      "lat": 52.4437011,
+      "lon": 16.9289738,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "b6d5b2eada395806872545b0edfd60f0"
     },
     {
       "type": "unplanned",
