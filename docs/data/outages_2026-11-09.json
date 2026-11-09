@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-09T08:54:30.477558+00:00",
+  "last_update": "2026-11-09T09:04:41.564563+00:00",
   "outages": [
     {
       "type": "planned",
@@ -970,6 +970,276 @@
       "end_time": "2026-11-09T11:00:00",
       "original_description": "Poznań ul. Adama Kręglewskiego 10dz.1/55, ul. Bolesława Krzywoustego 68, ul. Dziadoszańska 10, 6, ul. Jana Czochralskiego 15, ul. Kazimierza Drewnowskiego 4B, 8, ul. Obodrzycka 23, ul. Stanisława Zwierzchowskiego 1, 13, 15, 17 E, 17C, 5, 5A, ul. Wiktora Jankowskiego 1, 10, 11, 6, 7, 9.",
       "id": "ebbf3bc1b1d2ec543ce86aa57f928bd5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "ENEA Stadion, Rumuńska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.3976795,
+      "lon": 16.8581003,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:00:00",
+      "original_description": "Poznań os. Lecha 123.",
+      "id": "e7e08d9d799cc1cbe704d85a13411417"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bydgoska, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-127, Polska",
+      "lat": 52.413384,
+      "lon": 16.9568131,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "5b3cd67994140c6d7f7583eb9b60fb1b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chlebowa, Zawady, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-002, Polska",
+      "lat": 52.4154598,
+      "lon": 16.9602228,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "d92a8c9eba1c3e264a1b81c418e17bb2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-102, Polska",
+      "lat": 52.4069342,
+      "lon": 16.9424386,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "6e2862b1dda465be1959ce617ce9c859"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Cybińska, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4110153,
+      "lon": 16.9522598,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "c44762bd9e77c5209b3bc884aaab2005"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Czartoria, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-102, Polska",
+      "lat": 52.40796,
+      "lon": 16.9429244,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "65f143f2262a0856fe49bd5a28ae626a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Dziekańska, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-109, Polska",
+      "lat": 52.4122278,
+      "lon": 16.9496669,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "674e49ac27e5ce24a44cdc23646c1788"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ewarysta Estkowskiego, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-754, Polska",
+      "lat": 52.410386,
+      "lon": 16.9416075,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "40f230c0f83b9d4c9d2150013274c328"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Filipińska, Śródka, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-126, Polska",
+      "lat": 52.4114365,
+      "lon": 16.9543467,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "d6bd406a19925537db0476a452893b24"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Garbary, Stare Miasto, Poznań, województwo wielkopolskie, 61-869, Polska",
+      "lat": 52.4066079,
+      "lon": 16.9372258,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "b758e6c0ede4e4361ea412ba5cc4b413"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gdańska, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4121948,
+      "lon": 16.9542048,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "7dc92efcb9a06094631a15d2e556d191"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Lubrańskiego, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-109, Polska",
+      "lat": 52.412305,
+      "lon": 16.9473701,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "b6cefb6a92aea1951542528fdc9c6549"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Koronkarska, Zawady, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-005, Polska",
+      "lat": 52.4170458,
+      "lon": 16.963871,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "a6843ea0877ffb878db7cec4ed0f33c6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Ignacego Posadzego, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-109, Polska",
+      "lat": 52.4125811,
+      "lon": 16.9485188,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "530cf74fc7af7f10bef79dfbfe8f32b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Księdza Zdzisława Bernata, Zawady, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-003, Polska",
+      "lat": 52.4173206,
+      "lon": 16.9574233,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "ebb7d2ef936dbec03decdf42cb7870c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Nowe Zagórze, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-111, Polska",
+      "lat": 52.4074573,
+      "lon": 16.9482222,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "4db84473d0dbd8b419253db3c4d7986e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4113371,
+      "lon": 16.9476211,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "896128bfeb2eaa817bae58c508d8f663"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Ostrówek, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-121, Polska",
+      "lat": 52.4114334,
+      "lon": 16.9522218,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "9b086f0a60a2a0988f57e29d8e622e6f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Panny Marii, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-108, Polska",
+      "lat": 52.4141146,
+      "lon": 16.9445532,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "79c6d89eb161ebc721b6d90c1fd8e454"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Tylne Chwaliszewo, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-103, Polska",
+      "lat": 52.4084819,
+      "lon": 16.9430349,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "78e0c63df5363b3b64a5ec588d2dd23d"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wenecjańska, Garbary, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-104, Polska",
+      "lat": 52.4089952,
+      "lon": 16.9414021,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "48ec016c8442666d7ac222b4d8cd16a2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wieżowa, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4085935,
+      "lon": 16.9470147,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "26a6e61c6f60108af866b57a0f6d2bf6"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-112, Polska",
+      "lat": 52.408418,
+      "lon": 16.9486258,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "858667585883047ac90e3cb594e1e4df"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zawady, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.415,
+      "lon": 16.9597222,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "a34d7107fd1ab124851cbba44d05a098"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Śródka, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4112499,
+      "lon": 16.9536724,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "d85d2bc5dbce5e919fb7422b15f946d1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Św. Michała, Warszawska, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-116, Polska",
+      "lat": 52.4090471,
+      "lon": 16.9622515,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "61332119ee2f2c5678a0b6403f41aa36"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Świętego Jacka, Śródka, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-122, Polska",
+      "lat": 52.4111138,
+      "lon": 16.9526756,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T12:30:00",
+      "original_description": "Poznań rynek Śródecki - Kościół, 1, 2, 3, 3/5, 4, ul. Bydgoska 2, 2 a, 2 A, 2A, 2A/20, 2A/40, 2A/41, 4, 4a, ul. Chlebowa 32, ul. Chwaliszewo /CIASNA, 15/16, 15/16 lok., 17, 17A, 19, 19A, 21, 23, 5/6, 62, 63, 64, 64 KL.SCH., 65, 66, 67, 68, 68/4, 69, 70, 70 lok. 1A, 70/10, 72, 72 A, 72 lok. 1, 72 lok. 2, 72 lok. 3, 72 lok. 4, 72A, 73, 74, 74/75, 75, 76, ul. Cybińska 13, 13-lok.2, 5, 5/4, ul. Czartoria 1, 1/16, 2, 2 A/0, 2a, 2A, 5, 8B, 8C, 9, 9 A, 9/9A, 9A, ul. Dziekańska 1, 2, ul. Ewarysta Estkowskiego, ul. Filipińska 1, 4, 5, 6, ul. Garbary 68, Wartostrad, ul. Gdańska 1, 10, 10-16, 12, 14, 16, 6-8, 6/8, 8, ul. Jana Lubrańskiego 1, ul. Koronkarska, ul. ks. Ignacego Posadzego 2, 3, 5, 6, 7, ul. ks. Zdzisława Bernata 10, ul. Nowe Zagórze 1, 1 A, 10, 11, 12, 14, 16, 1A, 1A/5/7, 3, 4, 5, 6, 7, 8, 9, ul. Ostrów Tumski 1, 10, 11, 13, 14, 15, 15/16, 17, 18, 2, 3, 4, 5, 5A, 6, 9, LUBRAŃSKIE, ul. Ostrówek 10, 10/11, 12, 15, 15 KL.SCH., 17, 17-18, 17/18, 6, 7, 8, ul. Panny Marii 2, 2/BARAK, 4, ul. Śródka 1, 2, 3, 6 /U1, 6 /U2, 6 /U3, 6 A, 7, 7-LOK.S-1, 7-LOK.S-2, 7-LOK.S-3, 8 /9, 8/9, 8/9 kl.sch, 8/9 M 22, ul. św. Jacka 1, 1 L1, 1/10, 3, 3/20, 3/21, 3/4, ul. św. Michała 65, ul. Tylne Chwaliszewo 2, 23, 23 lok. 3, 23 lok. 47, 24-25, 25 A, 26 A, 27, 4, ul. Wenecjańska 10, 2, 2-4-6, 2/4, 4, 4/2, 7, 8, 8 U 1, ul. Wieżowa 11, 11/1/3, 11/2/4, 11/5/7, 13, 13/1, 13/10, 13/4, 13/8, 15, 17, 19, 2, 21, 23, 25, 27, 29, 31, 33, 35, 37, 39, 41, 42, 44, 46, 47, 48, 49, 5, 50, 51, 52, 53, 54, 55, 56, 57, 59, 61, 63, 65, 67, 69, 71, 73, 73/75, 75, 75/34, ul. Zagórze 12, 13, 13 A, 13A, 14, 15, 2, 3, 5, 5 A, 5A, 6, 6 A, 7-9, 9, ul. Zawady 10, 10/73, 12, 24.",
+      "id": "a21051fe369f0152add54b3dbb7163e1"
     }
   ]
 }
