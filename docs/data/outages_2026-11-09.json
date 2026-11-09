@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-09T14:07:31.189825+00:00",
+  "last_update": "2026-11-09T14:17:35.286108+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1320,6 +1320,16 @@
       "end_time": "2026-11-09T16:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "be8b94c98951c0921bc00f67af3de925"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-09T17:30:00",
+      "original_description": "Poznań os. Piastowskie 79.",
+      "id": "7119ecd72dc47fd3d8e00655ea8b9acc"
     }
   ]
 }
