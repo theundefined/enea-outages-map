@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-09T08:34:19.990391+00:00",
+  "last_update": "2026-11-09T08:44:26.213432+00:00",
   "outages": [
     {
       "type": "planned",
@@ -710,6 +710,16 @@
       "end_time": "2026-11-20T12:30:00",
       "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
       "id": "6e2f55e8cf7fbb274329bf72686eefa2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kraszewskiego, Zwierzyniecka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-519, Polska",
+      "lat": 52.4090968,
+      "lon": 16.9026176,
+      "start_time": "2026-11-23T08:00:00",
+      "end_time": "2026-11-23T15:00:00",
+      "original_description": "Poznań: ul. Kraszewskiego 23, 24.",
+      "id": "b134f5ef637070f8734c04b5f4a806a1"
     },
     {
       "type": "planned",
