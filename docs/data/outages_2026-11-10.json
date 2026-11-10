@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-10T08:24:16.606960+00:00",
+  "last_update": "2026-11-10T08:34:21.331746+00:00",
   "outages": [
     {
       "type": "planned",
@@ -713,6 +713,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bożeny, Antoninek Dolny, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-054, Polska",
+      "lat": 52.4092871,
+      "lon": 17.0073052,
+      "start_time": "2026-11-24T08:30:00",
+      "end_time": "2026-11-24T10:30:00",
+      "original_description": "Poznań: ul. Bożeny od 74 do 90 parzyste, 90A.",
+      "id": "45ecd2a9901228569129e770161e1775"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Księdza Zdzisława Bernata, Zawady, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-003, Polska",
       "lat": 52.4173206,
       "lon": 16.9574233,
@@ -1070,6 +1080,26 @@
       "end_time": "2026-11-10T09:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "19aca113537576c9dd7ea6804df54289"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T11:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "9d4b72860c4aa74061c2a8a621871e47"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T11:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "467392277657424ab20cb6e412a4d3ca"
     }
   ]
 }
