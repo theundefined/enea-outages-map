@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-10T08:14:11.373513+00:00",
+  "last_update": "2026-11-10T08:24:16.606960+00:00",
   "outages": [
     {
       "type": "planned",
@@ -710,6 +710,26 @@
       "end_time": "2026-11-24T15:00:00",
       "original_description": "Poznań: ul. Maków Polnych 9, 9A, 11.",
       "id": "e7853fab61b1e8bddf87156c689b8dee"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Księdza Zdzisława Bernata, Zawady, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-003, Polska",
+      "lat": 52.4173206,
+      "lon": 16.9574233,
+      "start_time": "2026-11-24T10:30:00",
+      "end_time": "2026-11-24T12:30:00",
+      "original_description": "Poznań: ul. Zawady od 15 do 43 nieparzyste, 26, 30, ul. Bernata 36, dz. 3/4, dz. 3/5.",
+      "id": "b073da2f1e98b0634b52b48408d4c090"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zawady, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.415,
+      "lon": 16.9597222,
+      "start_time": "2026-11-24T10:30:00",
+      "end_time": "2026-11-24T12:30:00",
+      "original_description": "Poznań: ul. Zawady od 15 do 43 nieparzyste, 26, 30, ul. Bernata 36, dz. 3/4, dz. 3/5.",
+      "id": "195b94bcf768bbadf637c0e650f9a465"
     },
     {
       "type": "planned",
