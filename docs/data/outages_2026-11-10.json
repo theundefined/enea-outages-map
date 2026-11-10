@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-10T17:22:54.107580+00:00",
+  "last_update": "2026-11-10T18:54:51.214365+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1250,6 +1250,76 @@
       "end_time": "2026-11-10T18:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "9a8c792d2098f946c6e919bd644038f3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Edmunda Knolla-Kownackiego, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-615, Polska",
+      "lat": 52.4451183,
+      "lon": 16.9389875,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T22:00:00",
+      "original_description": "Poznań ul. Edmunda Knolla-Kownackiego 13, 16, 17, 18, 19, 21, ul. Franciszka Altera 1, 5, 7, ul. Franciszka Kleeberga 1, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarmacka 29, 35, 37, 41, 43, 45, ul. Stanisława Grzmota-Skotnickiego 13, 2, 4, 6, 9.",
+      "id": "8db146a2b87391bd9ccb8276f7ea2323"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Altera, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-615, Polska",
+      "lat": 52.4456242,
+      "lon": 16.9372981,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T22:00:00",
+      "original_description": "Poznań ul. Edmunda Knolla-Kownackiego 13, 16, 17, 18, 19, 21, ul. Franciszka Altera 1, 5, 7, ul. Franciszka Kleeberga 1, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarmacka 29, 35, 37, 41, 43, 45, ul. Stanisława Grzmota-Skotnickiego 13, 2, 4, 6, 9.",
+      "id": "aab60b85b9780068738754a32aa79ada"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Franciszka Kleeberga, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-615, Polska",
+      "lat": 52.4453581,
+      "lon": 16.9386948,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T22:00:00",
+      "original_description": "Poznań ul. Edmunda Knolla-Kownackiego 13, 16, 17, 18, 19, 21, ul. Franciszka Altera 1, 5, 7, ul. Franciszka Kleeberga 1, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarmacka 29, 35, 37, 41, 43, 45, ul. Stanisława Grzmota-Skotnickiego 13, 2, 4, 6, 9.",
+      "id": "7246fa0140d0c057790e0c3c8d0fb86e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T22:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "a5508c8ae93ed4a8f368965652143f66"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T22:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "3b14c8e75ae89ccc7a3bf1b2a85122ca"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Sarmacka, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-619, Polska",
+      "lat": 52.4452623,
+      "lon": 16.9462921,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T22:00:00",
+      "original_description": "Poznań ul. Edmunda Knolla-Kownackiego 13, 16, 17, 18, 19, 21, ul. Franciszka Altera 1, 5, 7, ul. Franciszka Kleeberga 1, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarmacka 29, 35, 37, 41, 43, 45, ul. Stanisława Grzmota-Skotnickiego 13, 2, 4, 6, 9.",
+      "id": "dd505e60fb6f1f530a858ddd884a1785"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Grzmota-Skotnickiego, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-615, Polska",
+      "lat": 52.4445674,
+      "lon": 16.9394845,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-10T22:00:00",
+      "original_description": "Poznań ul. Edmunda Knolla-Kownackiego 13, 16, 17, 18, 19, 21, ul. Franciszka Altera 1, 5, 7, ul. Franciszka Kleeberga 1, 12, 14, 2, 3, 4, 5, 6, 7, 8, 9, ul. Sarmacka 29, 35, 37, 41, 43, 45, ul. Stanisława Grzmota-Skotnickiego 13, 2, 4, 6, 9.",
+      "id": "06f975202af5a93da5c3a1422a760f61"
     }
   ]
 }
