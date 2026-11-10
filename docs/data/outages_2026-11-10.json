@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-10T07:43:57.406150+00:00",
+  "last_update": "2026-11-10T07:54:02.398138+00:00",
   "outages": [
     {
       "type": "planned",
@@ -303,6 +303,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bednarska, Ogrody, Poznań, województwo wielkopolskie, 60-562, Polska",
+      "lat": 52.4137302,
+      "lon": 16.8892517,
+      "start_time": "2026-11-17T08:00:00",
+      "end_time": "2026-11-17T14:00:00",
+      "original_description": "Poznań: ul. Przybyszewskiego od 8 do 28 parzyste, ul. Bednarska 14, 16, 18, 20.",
+      "id": "62b7be35a97f173559779ee63e3c7cb4"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Przełajowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
       "lat": 52.4260367,
       "lon": 16.945752,
@@ -310,6 +320,16 @@
       "end_time": "2026-11-17T14:00:00",
       "original_description": "Poznań: ul. Szelągowska 59A, od 61 do 65B, ul. Przełajowa 8, 14, 15, pawilony.",
       "id": "958a9a8b0eedf49f4a6466f6359c6776"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-575, Polska",
+      "lat": 52.4153427,
+      "lon": 16.8915988,
+      "start_time": "2026-11-17T08:00:00",
+      "end_time": "2026-11-17T14:00:00",
+      "original_description": "Poznań: ul. Przybyszewskiego od 8 do 28 parzyste, ul. Bednarska 14, 16, 18, 20.",
+      "id": "0dcd92ef018154c0baaf264b7f5b0a1d"
     },
     {
       "type": "planned",
