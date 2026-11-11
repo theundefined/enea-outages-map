@@ -1,0 +1,715 @@
+{
+  "last_update": "2026-11-11T00:07:29.284099+00:00",
+  "outages": [
+    {
+      "type": "planned",
+      "geocoded_address": "Irysowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-173, Polska",
+      "lat": 52.3833989,
+      "lon": 16.8291071,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "118ae5360379c3cbf987a5acde99fcf8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kaliowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.382541,
+      "lon": 16.8264306,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "4b60a0ccb456ec00febf14212cd14b2d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krokusowa, Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3815547,
+      "lon": 16.8283168,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "850e22bdbd453b2e41139ed5696209c3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Malwowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3853433,
+      "lon": 16.8236995,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "43ace86529387a1eaef622d3467016a7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stokrotkowa, Osiedle Kwiatowe, Poznań, województwo wielkopolskie, 61-169, Polska",
+      "lat": 52.3827642,
+      "lon": 16.8263654,
+      "start_time": "2026-11-12T08:30:00",
+      "end_time": "2026-11-12T12:30:00",
+      "original_description": "Poznań: ul. Malwowa od 1 do 41 nieparzyste, od 2 do 26 parzyste, ul. Krokusowa 2, ul. Irysowa od 1 do 9 nieparzyste, od 2 do 28 parzyste, ul. Kaliowa od 1 do 28, ul. Stokrotkowa 17, 18, 20.",
+      "id": "dff76a6bc403be07a10d8023b75473e0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dobra, Ogrody, Poznań, województwo wielkopolskie, 60-593, Polska",
+      "lat": 52.4191712,
+      "lon": 16.8746697,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T13:30:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste.",
+      "id": "e077e5522a3928d019249e3bbe3ef361"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nowina, Ogrody, Poznań, województwo wielkopolskie, 60-587, Polska",
+      "lat": 52.4160049,
+      "lon": 16.8804289,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T13:30:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste.",
+      "id": "0579021a5a947fe2b2247cb71f25f0df"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4006632,
+      "lon": 16.9197326,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T13:30:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste.",
+      "id": "8f48cbe6b3d21c3eb17b822b2d2a4931"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Swojska, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4155528,
+      "lon": 16.8722704,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T13:30:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste.",
+      "id": "aceee09b504cda99f98447f86fb24083"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szafirowa, Ogrody, Poznań, województwo wielkopolskie, 60-595, Polska",
+      "lat": 52.4161925,
+      "lon": 16.8721405,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T13:30:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste.",
+      "id": "b794789ff8d4fd33a4b9b4da732f0d84"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Złota, Ogrody, Poznań, województwo wielkopolskie, 60-592, Polska",
+      "lat": 52.4164268,
+      "lon": 16.8737707,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T13:30:00",
+      "original_description": "Poznań: ul. Szafirowa od 1 do 13 nieparzyste, ul. Złota 13, 15, 17, od 10 do 16 parzyste, ul. Swojska 16, 18, ul. Polska od 42 do 76 parzyste, ul. Nowina 35, 29, ul. Dobra od 32 do 46 parzyste, od 21 do 37 nieparzyste.",
+      "id": "d52dd77c55614737c21b13e67c4f0140"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Alojzego Nowaka, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3575848,
+      "lon": 16.8922266,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T14:30:00",
+      "original_description": "Poznań: ul. Nowaka od 1 do 11 nieparzyste, od 2 do 8 parzyste, ul. Tyca od 1 do 29 nieparzyste, od 2 do 12 parzyste.",
+      "id": "06e88077b9d32fe7468290c8d92d72f1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Teodora Tyca, Osiedle Powstańców Śląskich, Świerczewo, Poznań, województwo wielkopolskie, 61-404, Polska",
+      "lat": 52.3571507,
+      "lon": 16.8922377,
+      "start_time": "2026-11-13T08:30:00",
+      "end_time": "2026-11-13T14:30:00",
+      "original_description": "Poznań: ul. Nowaka od 1 do 11 nieparzyste, od 2 do 8 parzyste, ul. Tyca od 1 do 29 nieparzyste, od 2 do 12 parzyste.",
+      "id": "7a3f6dddd3893c34f09ac5fbd9590786"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lechicka/Poznań Plaza, Księcia Mieszka I, Nowe Winogrady Północ, Osiedle Zwycięstwa, Winogrady, Poznań, województwo wielkopolskie, 61-651, Polska",
+      "lat": 52.4426553,
+      "lon": 16.9205164,
+      "start_time": "2026-11-16T08:00:00",
+      "end_time": "2026-11-16T14:00:00",
+      "original_description": "Poznań: ul. Księcia Mieszka I 26  stacja ładowania pojazdów.",
+      "id": "0c0297d087fbdb3c7858728ba8d6fd9d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "2026-11-16T08:30:00",
+      "end_time": "2026-11-16T11:30:00",
+      "original_description": "Poznań: ul. Reymonta od 3 do 19 nieparzyste, od 23 do 39 nieparzyste, ul. Iłłakowiczówny, ul. Grunwaldzka 42, 44.",
+      "id": "12ddab0e9300467b393266cf33fccaea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mieszkanie-Pracownia Kazimiery Iłłakowiczówny, 4, Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4090452,
+      "lon": 16.9079791,
+      "start_time": "2026-11-16T08:30:00",
+      "end_time": "2026-11-16T11:30:00",
+      "original_description": "Poznań: ul. Reymonta od 3 do 19 nieparzyste, od 23 do 39 nieparzyste, ul. Iłłakowiczówny, ul. Grunwaldzka 42, 44.",
+      "id": "059846dd2ecfa3f7d0812e2ffa681aed"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "ROD imienia Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3961114,
+      "lon": 16.8867242,
+      "start_time": "2026-11-16T08:30:00",
+      "end_time": "2026-11-16T11:30:00",
+      "original_description": "Poznań: ul. Reymonta od 3 do 19 nieparzyste, od 23 do 39 nieparzyste, ul. Iłłakowiczówny, ul. Grunwaldzka 42, 44.",
+      "id": "0e6da0e074f8530a70096fa7b1a9c6df"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bednarska, Ogrody, Poznań, województwo wielkopolskie, 60-562, Polska",
+      "lat": 52.4137302,
+      "lon": 16.8892517,
+      "start_time": "2026-11-17T08:00:00",
+      "end_time": "2026-11-17T14:00:00",
+      "original_description": "Poznań: ul. Przybyszewskiego od 8 do 28 parzyste, ul. Bednarska 14, 16, 18, 20.",
+      "id": "62b7be35a97f173559779ee63e3c7cb4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Przełajowa, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4260367,
+      "lon": 16.945752,
+      "start_time": "2026-11-17T08:00:00",
+      "end_time": "2026-11-17T14:00:00",
+      "original_description": "Poznań: ul. Szelągowska 59A, od 61 do 65B, ul. Przełajowa 8, 14, 15, pawilony.",
+      "id": "958a9a8b0eedf49f4a6466f6359c6776"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Jeżyce, Poznań, województwo wielkopolskie, 60-575, Polska",
+      "lat": 52.4153427,
+      "lon": 16.8915988,
+      "start_time": "2026-11-17T08:00:00",
+      "end_time": "2026-11-17T14:00:00",
+      "original_description": "Poznań: ul. Przybyszewskiego od 8 do 28 parzyste, ul. Bednarska 14, 16, 18, 20.",
+      "id": "0dcd92ef018154c0baaf264b7f5b0a1d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szelągowska, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 61-628, Polska",
+      "lat": 52.4276497,
+      "lon": 16.9474749,
+      "start_time": "2026-11-17T08:00:00",
+      "end_time": "2026-11-17T14:00:00",
+      "original_description": "Poznań: ul. Szelągowska 59A, od 61 do 65B, ul. Przełajowa 8, 14, 15, pawilony.",
+      "id": "936f7ab7232509c8f552a9c52eb0ab1c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Floksowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3851886,
+      "lon": 16.8162566,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "f46ee76533ed203012e09494d485d076"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "4bad5885be0da249fed465a14e21ba10"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Magnoliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3869836,
+      "lon": 16.8116487,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "25cc594e216f789e31d971f69f23f671"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Margaretkowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3855998,
+      "lon": 16.8118884,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "ae2b096d5e31146419a4c5652b845265"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4113371,
+      "lon": 16.9476211,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Ostrów Tumski 2, 3, 4, 5, 5A, 6, 9, 9A, 10, 11, 12, 13, ul. Wieżowa 2/4.",
+      "id": "17178eb02261ead32ec0d95aa518ce42"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sasankowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3872832,
+      "lon": 16.8123568,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "b6b36a97c1d3012f2fa35d9a94faeae9"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szarotkowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3839374,
+      "lon": 16.8128112,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "f42712e41a8a195df9745d7fc9e8a75f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wieżowa, Ostrów Tumski, Zagórze, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4085935,
+      "lon": 16.9470147,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań: ul. Ostrów Tumski 2, 3, 4, 5, 5A, 6, 9, 9A, 10, 11, 12, 13, ul. Wieżowa 2/4.",
+      "id": "7a6a5bc68fd34be6acf962dfcf5fdc2d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zajezdnia tramwajowa Forteczna, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-361, Polska",
+      "lat": 52.3678997,
+      "lon": 16.9339407,
+      "start_time": "2026-11-17T08:30:00",
+      "end_time": "2026-11-17T16:30:00",
+      "original_description": "Poznań: ul. Forteczna 12 Żabka, 17, 19, 19B.",
+      "id": "f2f944a16ceacf63e67eb0eefe1a8b7b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Aroniowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3601398,
+      "lon": 17.0374466,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T12:30:00",
+      "original_description": "Poznań: ul. Aroniowa 2, 2A, od 15 do 37 nieparzyste, od 16 do 48 parzyste, ul. Berberysowa.",
+      "id": "6d288382be5e6330020231bdeb4f5d26"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Berberysowa, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-306, Polska",
+      "lat": 52.3624918,
+      "lon": 17.039966,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T12:30:00",
+      "original_description": "Poznań: ul. Aroniowa 2, 2A, od 15 do 37 nieparzyste, od 16 do 48 parzyste, ul. Berberysowa.",
+      "id": "2d36451494d15e46ab828f867e5d818e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T12:30:00",
+      "original_description": "Poznań: ul. Reymonta od 3 do 19 nieparzyste, od 23 do 39 nieparzyste, ul. Iłłakowiczówny, ul. Grunwaldzka 42, 44.",
+      "id": "30591efc5ca7eb56f2258a0d5395e42c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Mieszkanie-Pracownia Kazimiery Iłłakowiczówny, 4, Gajowa, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-815, Polska",
+      "lat": 52.4090452,
+      "lon": 16.9079791,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T12:30:00",
+      "original_description": "Poznań: ul. Reymonta od 3 do 19 nieparzyste, od 23 do 39 nieparzyste, ul. Iłłakowiczówny, ul. Grunwaldzka 42, 44.",
+      "id": "83b68f1c8a90c0a0c633ee5836acfa31"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "ROD imienia Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3961114,
+      "lon": 16.8867242,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T12:30:00",
+      "original_description": "Poznań: ul. Reymonta od 3 do 19 nieparzyste, od 23 do 39 nieparzyste, ul. Iłłakowiczówny, ul. Grunwaldzka 42, 44.",
+      "id": "055bde42bc0c29d9e990b988f12eabcd"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bystra, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-362, Polska",
+      "lat": 52.3696319,
+      "lon": 16.9383825,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska 4.",
+      "id": "8eb4f0f8e2c1c49362bba857ef2a4c58"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gołężycka, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-353, Polska",
+      "lat": 52.3599515,
+      "lon": 16.9465121,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska 4.",
+      "id": "fc948d13465eb95d5cafb77d1b6cf37f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Obodrzycka, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-163, Polska",
+      "lat": 52.3679179,
+      "lon": 16.9490647,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska 4.",
+      "id": "750670938804f62bc368383a85bf7521"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podmiejska, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-357, Polska",
+      "lat": 52.3658021,
+      "lon": 16.9482776,
+      "start_time": "2026-11-18T08:30:00",
+      "end_time": "2026-11-18T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska 4.",
+      "id": "fadd9ff6200ba4a04126bdb3396be0dc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Przyjaźni, Winogrady, Poznań, województwo wielkopolskie, 61-684, Polska",
+      "lat": 52.4313634,
+      "lon": 16.9267169,
+      "start_time": "2026-11-19T08:00:00",
+      "end_time": "2026-11-19T15:00:00",
+      "original_description": "Poznań: os. Przyjaźni 11A-W, 12D-K.",
+      "id": "1c1d098489cc2eaef7c4e24a6bc1c69c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kostrzyńska, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-042, Polska",
+      "lat": 52.4111322,
+      "lon": 16.987591,
+      "start_time": "2026-11-19T08:30:00",
+      "end_time": "2026-11-19T10:30:00",
+      "original_description": "Poznań: ul. Kostrzyńska 14, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste.",
+      "id": "d6e887aba5164ef2760210159529217b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Łęczycka, Czekalskie, Warszawskie, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-042, Polska",
+      "lat": 52.4118516,
+      "lon": 16.9887225,
+      "start_time": "2026-11-19T08:30:00",
+      "end_time": "2026-11-19T10:30:00",
+      "original_description": "Poznań: ul. Kostrzyńska 14, ul. Łęczycka od 10 do 30 parzyste, od 3 do 21 nieparzyste.",
+      "id": "9217b23fc7b137aaaf5c75971eebfb11"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gołuchowska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3689042,
+      "lon": 16.8787931,
+      "start_time": "2026-11-19T10:30:00",
+      "end_time": "2026-11-19T12:30:00",
+      "original_description": "Poznań: ul. Koźmińska 18, ul. Gołuchowska 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, od 19 do 35 nieparzyste, ul. Jaraczewska, ul. Kotlińska, ul. Włoszakowicka bez 1.",
+      "id": "23384cad6e2383b6bb8ef2d511758c6d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jaraczewska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3692292,
+      "lon": 16.8782491,
+      "start_time": "2026-11-19T10:30:00",
+      "end_time": "2026-11-19T12:30:00",
+      "original_description": "Poznań: ul. Koźmińska 18, ul. Gołuchowska 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, od 19 do 35 nieparzyste, ul. Jaraczewska, ul. Kotlińska, ul. Włoszakowicka bez 1.",
+      "id": "b4b15b4c0631aca04ce968cdfc564199"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kotlińska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3689183,
+      "lon": 16.8783579,
+      "start_time": "2026-11-19T10:30:00",
+      "end_time": "2026-11-19T12:30:00",
+      "original_description": "Poznań: ul. Koźmińska 18, ul. Gołuchowska 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, od 19 do 35 nieparzyste, ul. Jaraczewska, ul. Kotlińska, ul. Włoszakowicka bez 1.",
+      "id": "02063a9a15519f58fa262c74249081ea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Koźmińska, Świerczewo, Poznań, województwo wielkopolskie, 61-417, Polska",
+      "lat": 52.3695662,
+      "lon": 16.8788848,
+      "start_time": "2026-11-19T10:30:00",
+      "end_time": "2026-11-19T12:30:00",
+      "original_description": "Poznań: ul. Koźmińska 18, ul. Gołuchowska 1, 3, 6, 8, 9, 10, 11, 12, 13, 14, 15, od 19 do 35 nieparzyste, ul. Jaraczewska, ul. Kotlińska, ul. Włoszakowicka bez 1.",
+      "id": "461e100c2ec9648e78697f0a09d1d12d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3701237,
+      "lon": 17.0363363,
+      "start_time": "2026-11-20T08:30:00",
+      "end_time": "2026-11-20T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "f17fcee9c5c120ea9d105dc571a81e7d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Stewnicka, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3737936,
+      "lon": 16.9986544,
+      "start_time": "2026-11-20T08:30:00",
+      "end_time": "2026-11-20T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "fe0c27889dda4d2dc022e0df6cf079fe"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3647399,
+      "lon": 17.0058453,
+      "start_time": "2026-11-20T08:30:00",
+      "end_time": "2026-11-20T12:30:00",
+      "original_description": "Poznań: ul. Szczepankowo od 31 do 49 nieparzyste, od 22 do 44A parzyste, ul. Stewnicka od 1 do 9 nieparzyste, od 2 do 12 parzyste, ul. Michałowo 10.",
+      "id": "6e2f55e8cf7fbb274329bf72686eefa2"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kraszewskiego, Zwierzyniecka, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-519, Polska",
+      "lat": 52.4090968,
+      "lon": 16.9026176,
+      "start_time": "2026-11-23T08:00:00",
+      "end_time": "2026-11-23T15:00:00",
+      "original_description": "Poznań: ul. Kraszewskiego 23, 24.",
+      "id": "b134f5ef637070f8734c04b5f4a806a1"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Andaluzyjska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-698, Polska",
+      "lat": 52.4453876,
+      "lon": 16.93059,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "832a4fdbeea1c0e6d2319d1bbe3da97d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Aragońska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-645, Polska",
+      "lat": 52.4450518,
+      "lon": 16.929017,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "ee68ab17a87344f53be4063f2803358e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kastylijska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-645, Polska",
+      "lat": 52.4444274,
+      "lon": 16.9296178,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "926ea7abc5608b7bf982250af7f491a4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Katalońska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-645, Polska",
+      "lat": 52.4450571,
+      "lon": 16.929724,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "cd18d834c7cb8a98d328df1d295d79cc"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sycylijska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-698, Polska",
+      "lat": 52.4451489,
+      "lon": 16.9321802,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "8559f45a9a01f0e58934e27ba8d407af"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Toskańska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-698, Polska",
+      "lat": 52.4456384,
+      "lon": 16.9318446,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "50893c420575aa6f13c4a902c43fdfa7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Umultowska, Osiedle Za Fortem, Naramowice, Poznań, województwo wielkopolskie, 61-645, Polska",
+      "lat": 52.4437011,
+      "lon": 16.9289738,
+      "start_time": "2026-11-23T08:30:00",
+      "end_time": "2026-11-23T12:30:00",
+      "original_description": "Poznań: ul. Toskańska, ul. Sycylijska, ul. Andaluzyjska, ul. Katalońska, ul. Aragońska 10, 12, ul. Kastylijska, ul. Umultowska dz. 1/82, dz. 1/83.",
+      "id": "b6d5b2eada395806872545b0edfd60f0"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maków Polnych, Umultowo, Poznań, województwo wielkopolskie, 61-607, Polska",
+      "lat": 52.4634005,
+      "lon": 16.9455861,
+      "start_time": "2026-11-24T08:00:00",
+      "end_time": "2026-11-24T15:00:00",
+      "original_description": "Poznań: ul. Maków Polnych 9, 9A, 11.",
+      "id": "e7853fab61b1e8bddf87156c689b8dee"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bożeny, Antoninek Dolny, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-054, Polska",
+      "lat": 52.4092871,
+      "lon": 17.0073052,
+      "start_time": "2026-11-24T08:30:00",
+      "end_time": "2026-11-24T10:30:00",
+      "original_description": "Poznań: ul. Bożeny od 74 do 90 parzyste, 90A.",
+      "id": "45ecd2a9901228569129e770161e1775"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Księdza Zdzisława Bernata, Zawady, Berdychowo, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, 61-003, Polska",
+      "lat": 52.4173206,
+      "lon": 16.9574233,
+      "start_time": "2026-11-24T10:30:00",
+      "end_time": "2026-11-24T12:30:00",
+      "original_description": "Poznań: ul. Zawady od 15 do 43 nieparzyste, 26, 30, ul. Bernata 36, dz. 3/4, dz. 3/5.",
+      "id": "b073da2f1e98b0634b52b48408d4c090"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Zawady, Ostrów Tumski-Śródka-Zawady-Komandoria, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.415,
+      "lon": 16.9597222,
+      "start_time": "2026-11-24T10:30:00",
+      "end_time": "2026-11-24T12:30:00",
+      "original_description": "Poznań: ul. Zawady od 15 do 43 nieparzyste, 26, 30, ul. Bernata 36, dz. 3/4, dz. 3/5.",
+      "id": "195b94bcf768bbadf637c0e650f9a465"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maków Polnych, Umultowo, Poznań, województwo wielkopolskie, 61-607, Polska",
+      "lat": 52.4634005,
+      "lon": 16.9455861,
+      "start_time": "2026-11-25T08:00:00",
+      "end_time": "2026-11-25T14:00:00",
+      "original_description": "Poznań: ul. Maków Polnych 9B, 11A.",
+      "id": "0b975fc863515a623a11fdbd43c68bfa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Dobra, Ogrody, Poznań, województwo wielkopolskie, 60-593, Polska",
+      "lat": 52.4191712,
+      "lon": 16.8746697,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T10:30:00",
+      "original_description": "Poznań: ul. Dobra od 3 do 19 nieparzyste, od 4 do 30 parzyste, ul. Dąbrowskiego 188, ul. Nowina od 24 do 36 parzyste, 25, 27, od 31 do 35 nieparzyste, ul. Radosna 16.",
+      "id": "a3c29fed898cb5a247587240e06d3eca"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nowina, Ogrody, Poznań, województwo wielkopolskie, 60-587, Polska",
+      "lat": 52.4160049,
+      "lon": 16.8804289,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T10:30:00",
+      "original_description": "Poznań: ul. Dobra od 3 do 19 nieparzyste, od 4 do 30 parzyste, ul. Dąbrowskiego 188, ul. Nowina od 24 do 36 parzyste, 25, 27, od 31 do 35 nieparzyste, ul. Radosna 16.",
+      "id": "5db2712e44e60def21ccff7a7134f73c"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Obrzyca, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3800451,
+      "lon": 16.9385328,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T10:30:00",
+      "original_description": "Poznań: os. Piastowskie od 55 do 64, ul. Obrzyca 3.",
+      "id": "4168919fd90f104af70d703b428afd17"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T10:30:00",
+      "original_description": "Poznań: os. Piastowskie od 55 do 64, ul. Obrzyca 3.",
+      "id": "a4a46e476ee499e7013ba9e50709cf52"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T10:30:00",
+      "original_description": "Poznań: ul. Dobra od 3 do 19 nieparzyste, od 4 do 30 parzyste, ul. Dąbrowskiego 188, ul. Nowina od 24 do 36 parzyste, 25, 27, od 31 do 35 nieparzyste, ul. Radosna 16.",
+      "id": "9ac922eb46fa2447175b6d89cfa56599"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radosna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
+      "lat": 52.4136213,
+      "lon": 16.8732563,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T10:30:00",
+      "original_description": "Poznań: ul. Dobra od 3 do 19 nieparzyste, od 4 do 30 parzyste, ul. Dąbrowskiego 188, ul. Nowina od 24 do 36 parzyste, 25, 27, od 31 do 35 nieparzyste, ul. Radosna 16.",
+      "id": "33058f9fdce7449e5e5b7e992aadbfb7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T18:00:00",
+      "original_description": "Poznań: os. Piastowskie 59.",
+      "id": "6589ca35ee42eebfb4c570a84b976702"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-11T01:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "047dcf515adc51bb3c4ffe4dc83e8391"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-11T02:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "50238f8a98c0945ab6443d50469d6b23"
+    }
+  ]
+}
