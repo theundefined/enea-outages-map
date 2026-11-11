@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-11T10:12:34.855693+00:00",
+  "last_update": "2026-11-11T10:22:38.934599+00:00",
   "outages": [
     {
       "type": "planned",
@@ -970,6 +970,26 @@
       "end_time": "2026-11-11T12:30:00",
       "original_description": "Poznań ul. Bułgarska /GRUNWALDZ, /Ognik, /PRZY 80, /PTASIA, 1, 10, 100, 102, 102A, 102ABC, 102B, 102C, 104, 104/104B, 104A, 104B, 104C, 106, 106 A, 106A, 106B, 106C, 108, 108 B, 108A, 108B, 108C, 11, 110, 110-112, 112, 113, 114, 115, 116, 117, 117A, 118, 119, 12, 120, 121-123, 122, 124, 126, 126 B, 126A, 126B, 126C, 128, 128 C, 128A, 128B, 128C, 130, 130A, 130B, 130C, 132, 132 A, 132 B, 132 C, 132A, 132B, 132C, 134, 136, 138, 138/140, 14, 140, 140/15, 142, 144, 146, 148, 150, 150 C, 150A, 150B, 150C, 152, 152A, 152B, 152C, 154, 154 A, 154A, 154B, 154C, 16, 18, 19, 2A, 3, 34, 36, 38, 4, 40, 42, 44, 46, 48, 5, 5 B, 50, 52, 54, 54 W-T, 55, 56, 57, 57A, 58, 59, 59 A, 59 B, 59/61, 59A, 59B, 59D, 59E, 59F, 6, 60, 62, 63/65, 64, 66, 68, 68A, 7, 70, 70A, 72, 74, 74A, 76, 76A, 76B, 78, 78 B, 78A, 78B, 78C, 8, 80, 80A, 80B, 80C, 80D, 86, 88, 90, 92, 94, 96, 98, ul. Mariana Smoluchowskiego 1, 1/9, 11, 22, 22 A, 22A, 3, 3 A, 3 B, 3 C, 3 D, 3 E-H, 3A, 3B, 3C, 3D, 3E, 3F, 3G, 3H, 7, 9, ul. Władysława Węgorka 20B, 22, FORTVIII.",
       "id": "7fbcd9643ba122d76f496fa059582594"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-11T13:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "7b3ef9aef7f680f55ee9d4d3a7d86e39"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-11T13:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "13b628fde1d6bf448b0e346aef53f192"
     }
   ]
 }
