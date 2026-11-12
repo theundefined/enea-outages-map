@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-12T10:20:50.094790+00:00",
+  "last_update": "2026-11-12T10:30:54.358324+00:00",
   "outages": [
     {
       "type": "planned",
@@ -723,6 +723,36 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Tomasza Drobnika, Piątkowo, Poznań, województwo wielkopolskie, 60-692, Polska",
+      "lat": 52.4514826,
+      "lon": 16.9063417,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T11:30:00",
+      "original_description": "Poznań: ul. Zana 3, od 6 do 22 parzyste, od 7 do 23 nieparzyste,  ul. Pniewskiego, ul. Drobnika 20, od 31 do 37 nieparzyste.",
+      "id": "ea1a5951650efdae3732ca8d4a24f423"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Tomasza Zana, Piątkowo, Poznań, województwo wielkopolskie, 60-692, Polska",
+      "lat": 52.4512416,
+      "lon": 16.9106099,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T11:30:00",
+      "original_description": "Poznań: ul. Zana 3, od 6 do 22 parzyste, od 7 do 23 nieparzyste,  ul. Pniewskiego, ul. Drobnika 20, od 31 do 37 nieparzyste.",
+      "id": "2c29ac9cf62f413daaa65c3a871e7301"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Władysława Pniewskiego, Piątkowo, Poznań, województwo wielkopolskie, 60-692, Polska",
+      "lat": 52.4516437,
+      "lon": 16.9086835,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T11:30:00",
+      "original_description": "Poznań: ul. Zana 3, od 6 do 22 parzyste, od 7 do 23 nieparzyste,  ul. Pniewskiego, ul. Drobnika 20, od 31 do 37 nieparzyste.",
+      "id": "9adac568272d5115feac7322d8f2c6d2"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3898361,
       "lon": 16.9435572,
@@ -990,6 +1020,26 @@
       "end_time": "2026-11-12T10:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "e10606cc4523817ce83418e11a217ecc"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-12T11:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "be100af7fb833c8eb5b6a80c0eb7379f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-12T13:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "b8dde3b74a15f8745077321d50cd0b2e"
     }
   ]
 }
