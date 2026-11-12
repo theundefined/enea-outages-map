@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-12T06:41:43.605745+00:00",
+  "last_update": "2026-11-12T06:51:48.098558+00:00",
   "outages": [
     {
       "type": "planned",
@@ -463,6 +463,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "2026-11-20T08:30:00",
+      "end_time": "2026-11-20T11:00:00",
+      "original_description": "Poznań: ul. Głogowska 356O-R, dz. 4/19 (tłocznia ścieków).",
+      "id": "357b3644fa5076f47d798c1f6eb7cb27"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Michałowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3701237,
       "lon": 17.0363363,
@@ -690,6 +700,16 @@
       "end_time": "2026-11-25T18:00:00",
       "original_description": "Poznań: os. Piastowskie 59.",
       "id": "6589ca35ee42eebfb4c570a84b976702"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Stare Żegrze, Żegrze, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3830688,
+      "lon": 16.9645951,
+      "start_time": "2026-11-27T08:30:00",
+      "end_time": "2026-11-27T15:30:00",
+      "original_description": "Poznań: os. Stare Żegrze 63, 64.",
+      "id": "dea750eacecd40433c84b1ba5dc45bb6"
     },
     {
       "type": "unplanned",
