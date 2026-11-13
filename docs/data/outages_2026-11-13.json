@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-13T05:46:09.129198+00:00",
+  "last_update": "2026-11-13T05:56:13.842046+00:00",
   "outages": [
     {
       "type": "planned",
@@ -720,6 +720,16 @@
       "end_time": "2026-11-25T18:00:00",
       "original_description": "Poznań: os. Piastowskie 59.",
       "id": "6589ca35ee42eebfb4c570a84b976702"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wielkopolska, Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, 61-154, Polska",
+      "lat": 52.3919131,
+      "lon": 16.9433857,
+      "start_time": "2026-11-26T08:00:00",
+      "end_time": "2026-11-26T14:30:00",
+      "original_description": "Poznań: Al. Wielkopolska 26, 28, 32, plac budowy.",
+      "id": "62ebf9910e8f56b75d4c5b1ce49b8852"
     },
     {
       "type": "planned",
