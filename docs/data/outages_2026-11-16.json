@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-16T09:15:39.435878+00:00",
+  "last_update": "2026-11-16T09:25:44.025749+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1020,6 +1020,16 @@
       "end_time": "2026-11-16T11:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "484bc0e663975488b0edf263407ce20a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Strzeszyńska, Podolany, Poznań, województwo wielkopolskie, 60-464, Polska",
+      "lat": 52.4638784,
+      "lon": 16.8651141,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-16T12:30:00",
+      "original_description": "Poznań ul. Strzeszyńska 77.",
+      "id": "52054c621845596c88f6d07267a3b305"
     }
   ]
 }
