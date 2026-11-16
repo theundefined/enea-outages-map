@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-16T07:34:44.532624+00:00",
+  "last_update": "2026-11-16T07:44:48.878011+00:00",
   "outages": [
     {
       "type": "planned",
@@ -660,6 +660,16 @@
       "end_time": "2026-11-26T14:30:00",
       "original_description": "Poznań: Al. Wielkopolska 26, 28, 32, plac budowy.",
       "id": "62ebf9910e8f56b75d4c5b1ce49b8852"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Augustyna Szamarzewskiego, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
+      "lat": 52.4106938,
+      "lon": 16.9002301,
+      "start_time": "2026-11-26T08:30:00",
+      "end_time": "2026-11-26T15:30:00",
+      "original_description": "Poznań: ul. Szamarzewskiego 61, 63, 65.",
+      "id": "315cf3f3a4ba8490ec84eb31b2f5b487"
     },
     {
       "type": "planned",
