@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-16T13:07:31.087856+00:00",
+  "last_update": "2026-11-16T13:33:13.582419+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1120,6 +1120,26 @@
       "end_time": "2026-11-16T14:30:00",
       "original_description": "Poznań ul. Forteczna OKOPOWA, ul. Okopowa 1, 14, 2, 3, 3A, 4, 5, 8 A, ul. Romana Maya 100, 101 K, 101 S, 102, 104, 106, 108, 110, 110/1, 112, 113, 114, 116, 117, 117A, 118, 120, 121, 122, 123, 124, 124A, 125, 125A, 126, 127, 127A, 129, 131, 132, 133, 133A, 134, 136, 137, 97, 97A, 97C, 98, ul. Zofii Michałkiewicz 2.",
       "id": "d9a1c39558bd3fabc86ce48cc5656f43"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-16T16:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "49d0ca1bae7ba1968759ea874819f6e0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-16T16:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "a1e7b4821e75940681b960caaa8d2ef9"
     }
   ]
 }
