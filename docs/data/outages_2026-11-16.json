@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-16T07:44:48.878011+00:00",
+  "last_update": "2026-11-16T07:54:59.489991+00:00",
   "outages": [
     {
       "type": "planned",
@@ -593,6 +593,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T10:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 190 do 202 parzyste, ul. Polska 57.",
+      "id": "23b5de5932a32f3ec1a14394732f9fac"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4006632,
+      "lon": 16.9197326,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T10:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 190 do 202 parzyste, ul. Polska 57.",
+      "id": "c8d5efb8d979b59db871bb9623747074"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Radosna, Ogrody, Poznań, województwo wielkopolskie, 60-598, Polska",
       "lat": 52.4136213,
       "lon": 16.8732563,
@@ -643,6 +663,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Dmowskiego, Romana Dmowskiego, Górczyn, Poznań, województwo wielkopolskie, 60-204, Polska",
+      "lat": 52.3850194,
+      "lon": 16.8943797,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T15:30:00",
+      "original_description": "Poznań: ul. Dmowskiego 62, ul. Hetmańska 56, 58A, 62.",
+      "id": "03bd89b8b731a8539119ad5d2d593e70"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hetmańska, Łęgi Dębińskie, Wilda, Poznań, województwo wielkopolskie, 61-501, Polska",
+      "lat": 52.3830471,
+      "lon": 16.9258024,
+      "start_time": "2026-11-25T08:30:00",
+      "end_time": "2026-11-25T15:30:00",
+      "original_description": "Poznań: ul. Dmowskiego 62, ul. Hetmańska 56, 58A, 62.",
+      "id": "5963e39e96e8591457eabe2ce0ecdcac"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
       "lat": 52.3898361,
       "lon": 16.9435572,
@@ -650,6 +690,86 @@
       "end_time": "2026-11-25T18:00:00",
       "original_description": "Poznań: os. Piastowskie 59.",
       "id": "6589ca35ee42eebfb4c570a84b976702"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bystrzycka, Wola, Poznań, województwo wielkopolskie, 60-594, Polska",
+      "lat": 52.4224218,
+      "lon": 16.8734321,
+      "start_time": "2026-11-25T10:30:00",
+      "end_time": "2026-11-25T12:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 175 do 187 nieparzyste, ul. Pilicka, ul. Narewska 1, 1A,  3, od 2 do 10 parzyste, ul. Żarnowiecka od 1 do 9 nieparzyste, ul. Wiślana 15, 15A, ul. Prądnicka, ul. Bystrzycka, ul. Polska od 61 do 77A nieparzyste, 112, 114, 116, 116A, 118.",
+      "id": "37547be5d0fd94c4338ebe37045e1c96"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Narewska, Wola, Poznań, województwo wielkopolskie, 60-401, Polska",
+      "lat": 52.4231097,
+      "lon": 16.8713915,
+      "start_time": "2026-11-25T10:30:00",
+      "end_time": "2026-11-25T12:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 175 do 187 nieparzyste, ul. Pilicka, ul. Narewska 1, 1A,  3, od 2 do 10 parzyste, ul. Żarnowiecka od 1 do 9 nieparzyste, ul. Wiślana 15, 15A, ul. Prądnicka, ul. Bystrzycka, ul. Polska od 61 do 77A nieparzyste, 112, 114, 116, 116A, 118.",
+      "id": "9bb9b3166f66d6eb1a01f39dc053ecc5"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Park Jana Henryka Dąbrowskiego, Piekary, Stare Miasto, Poznań, województwo wielkopolskie, 61-888, Polska",
+      "lat": 52.4027893,
+      "lon": 16.9272205,
+      "start_time": "2026-11-25T10:30:00",
+      "end_time": "2026-11-25T12:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 175 do 187 nieparzyste, ul. Pilicka, ul. Narewska 1, 1A,  3, od 2 do 10 parzyste, ul. Żarnowiecka od 1 do 9 nieparzyste, ul. Wiślana 15, 15A, ul. Prądnicka, ul. Bystrzycka, ul. Polska od 61 do 77A nieparzyste, 112, 114, 116, 116A, 118.",
+      "id": "ef0a56720330b91b19dde5aad311ae09"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Pilicka, Wola, Poznań, województwo wielkopolskie, 60-401, Polska",
+      "lat": 52.4226621,
+      "lon": 16.8727364,
+      "start_time": "2026-11-25T10:30:00",
+      "end_time": "2026-11-25T12:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 175 do 187 nieparzyste, ul. Pilicka, ul. Narewska 1, 1A,  3, od 2 do 10 parzyste, ul. Żarnowiecka od 1 do 9 nieparzyste, ul. Wiślana 15, 15A, ul. Prądnicka, ul. Bystrzycka, ul. Polska od 61 do 77A nieparzyste, 112, 114, 116, 116A, 118.",
+      "id": "0667cca9e1065f15c1f24d9b66f261ca"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Poznań, powiat poznański, województwo wielkopolskie, Polska",
+      "lat": 52.4006632,
+      "lon": 16.9197326,
+      "start_time": "2026-11-25T10:30:00",
+      "end_time": "2026-11-25T12:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 175 do 187 nieparzyste, ul. Pilicka, ul. Narewska 1, 1A,  3, od 2 do 10 parzyste, ul. Żarnowiecka od 1 do 9 nieparzyste, ul. Wiślana 15, 15A, ul. Prądnicka, ul. Bystrzycka, ul. Polska od 61 do 77A nieparzyste, 112, 114, 116, 116A, 118.",
+      "id": "4ffd52ee8eb12a74c2ece2f2ddc53c06"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Prądnicka, Wola, Poznań, województwo wielkopolskie, 60-594, Polska",
+      "lat": 52.4230948,
+      "lon": 16.8739955,
+      "start_time": "2026-11-25T10:30:00",
+      "end_time": "2026-11-25T12:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 175 do 187 nieparzyste, ul. Pilicka, ul. Narewska 1, 1A,  3, od 2 do 10 parzyste, ul. Żarnowiecka od 1 do 9 nieparzyste, ul. Wiślana 15, 15A, ul. Prądnicka, ul. Bystrzycka, ul. Polska od 61 do 77A nieparzyste, 112, 114, 116, 116A, 118.",
+      "id": "4632fd2b057e4edde56cce6bc7318d95"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wiślana, Wola, Poznań, województwo wielkopolskie, 61-670, Polska",
+      "lat": 52.4243893,
+      "lon": 16.8666217,
+      "start_time": "2026-11-25T10:30:00",
+      "end_time": "2026-11-25T12:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 175 do 187 nieparzyste, ul. Pilicka, ul. Narewska 1, 1A,  3, od 2 do 10 parzyste, ul. Żarnowiecka od 1 do 9 nieparzyste, ul. Wiślana 15, 15A, ul. Prądnicka, ul. Bystrzycka, ul. Polska od 61 do 77A nieparzyste, 112, 114, 116, 116A, 118.",
+      "id": "7640beeeed497601f072edcdb2143a48"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Żarnowiecka, Wola, Poznań, województwo wielkopolskie, 61-670, Polska",
+      "lat": 52.4256469,
+      "lon": 16.8646275,
+      "start_time": "2026-11-25T10:30:00",
+      "end_time": "2026-11-25T12:30:00",
+      "original_description": "Poznań: ul. Dąbrowskiego od 175 do 187 nieparzyste, ul. Pilicka, ul. Narewska 1, 1A,  3, od 2 do 10 parzyste, ul. Żarnowiecka od 1 do 9 nieparzyste, ul. Wiślana 15, 15A, ul. Prądnicka, ul. Bystrzycka, ul. Polska od 61 do 77A nieparzyste, 112, 114, 116, 116A, 118.",
+      "id": "a1413182ac46247756ccc74bfce790ae"
     },
     {
       "type": "planned",
