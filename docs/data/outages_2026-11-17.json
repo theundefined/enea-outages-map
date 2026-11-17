@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-17T07:21:56.748489+00:00",
+  "last_update": "2026-11-17T07:32:01.176164+00:00",
   "outages": [
     {
       "type": "planned",
@@ -812,6 +812,16 @@
       "id": "dea750eacecd40433c84b1ba5dc45bb6"
     },
     {
+      "type": "planned",
+      "geocoded_address": "Jawornicka, Junikowo, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.389702,
+      "lon": 16.8538982,
+      "start_time": "2026-11-30T08:30:00",
+      "end_time": "2026-11-30T14:30:00",
+      "original_description": "Poznań: ul. Jawornicka 6, od 14 do 26 parzyste, 46, dz. 23/16 (garaże).",
+      "id": "dc54b1e6c0973cd7019d71f63b19c1c8"
+    },
+    {
       "type": "unplanned",
       "geocoded_address": "Bielicowa, Naramowice, Poznań, województwo wielkopolskie, 61-612, Polska",
       "lat": 52.4497441,
@@ -1170,6 +1180,16 @@
       "end_time": "2026-11-17T08:30:00",
       "original_description": "Poznań ul. Strzeszyńska 77.",
       "id": "67a12b10d65b084c87b36eb8c770fa81"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-17T10:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "10dee3e08ef10faac5ee252f06464633"
     }
   ]
 }
