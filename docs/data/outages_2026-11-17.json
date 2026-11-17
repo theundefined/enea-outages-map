@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-17T01:21:32.264611+00:00",
+  "last_update": "2026-11-17T01:31:37.093321+00:00",
   "outages": [
     {
       "type": "planned",
@@ -910,6 +910,16 @@
       "end_time": "2026-11-17T02:30:00",
       "original_description": "Poznań ul. Strzeszyńska 77.",
       "id": "1f6bd49b99ca360b3eccfb38c7f932b0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-17T04:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "6511f008cbe1b1d047879cd2f6d8611a"
     }
   ]
 }
