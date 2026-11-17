@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-17T09:12:48.318402+00:00",
+  "last_update": "2026-11-17T09:22:52.935540+00:00",
   "outages": [
     {
       "type": "planned",
@@ -460,6 +460,16 @@
       "end_time": "2026-11-24T15:00:00",
       "original_description": "Poznań: ul. Maków Polnych 9, 9A, 11.",
       "id": "e7853fab61b1e8bddf87156c689b8dee"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Międzyzdrojska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4419025,
+      "lon": 16.8056672,
+      "start_time": "2026-11-24T08:00:00",
+      "end_time": "2026-11-24T18:00:00",
+      "original_description": "Baranowo: ul. Wspólna od 2 do 58 parzyste, od 37 do 55 nieparzyste, ul. Klonowa 1, 3, 5, ul. Wypoczynkowa 36, 56, ul. Pogodna od 1 do 5, ul. Letniskowa od 1 do 45 nieparzyste, ul. Lipowa 16, 25.\nPoznań: ul. Międzyzdrojska 18A, 18B, 37, 37A, 39.",
+      "id": "903070dd83357e887f9620f0d536b9e9"
     },
     {
       "type": "planned",
