@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-17T10:33:24.840988+00:00",
+  "last_update": "2026-11-17T14:17:47.523084+00:00",
   "outages": [
     {
       "type": "planned",
@@ -843,6 +843,66 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Floksowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3851886,
+      "lon": 16.8162566,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "9b8f3e6a3b99c6d56ac02604d69b0a3f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Lawendowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3866129,
+      "lon": 16.8161801,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "1b67759fff0c45ad07eb13d5998f3470"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Magnoliowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3869836,
+      "lon": 16.8116487,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "5cff69723816448031ba01c2f009f9d4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Margaretkowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3855998,
+      "lon": 16.8118884,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "153e99c74f2c224ef5a6bbd61d112f35"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Sasankowa, Kwiatowe, Poznań, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3872832,
+      "lon": 16.8123568,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "0672c8085654315758869d19549a788e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Szarotkowa, Osiedle Kwiatowe, Poznań, gmina Dopiewo, powiat poznański, województwo wielkopolskie, 60-175, Polska",
+      "lat": 52.3839374,
+      "lon": 16.8128112,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T14:30:00",
+      "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
+      "id": "d49879d08e58dd0ecdd141bb473dd456"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Olszynka, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-308, Polska",
       "lat": 52.3949944,
       "lon": 16.8685667,
@@ -1350,6 +1410,36 @@
       "end_time": "2026-11-17T13:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "1099b16c9b5a8af27d20a86a487e97a2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-17T14:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "532bf8acb0b73441f23073a7e1c1e673"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Marcina Rożka, Podolany, Poznań, województwo wielkopolskie, 60-479, Polska",
+      "lat": 52.4528998,
+      "lon": 16.8892914,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-17T15:00:00",
+      "original_description": "Poznań ul. Marcina Rożka 9C.",
+      "id": "9b0548ff3875354d2a3ec8760b38df19"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-17T16:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "76d241f191cd570051ff85c7301b7856"
     }
   ]
 }
