@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-17T09:22:52.935540+00:00",
+  "last_update": "2026-11-17T09:32:57.937587+00:00",
   "outages": [
     {
       "type": "planned",
@@ -840,6 +840,66 @@
       "end_time": "2026-11-30T14:30:00",
       "original_description": "Poznań: ul. Jawornicka 6, od 14 do 26 parzyste, 46, dz. 23/16 (garaże).",
       "id": "dc54b1e6c0973cd7019d71f63b19c1c8"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Olszynka, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-308, Polska",
+      "lat": 52.3949944,
+      "lon": 16.8685667,
+      "start_time": "2026-12-04T08:30:00",
+      "end_time": "2026-12-04T11:30:00",
+      "original_description": "Poznań: ul. Olszynka od 3 do 11 nieparzyste, 4, 12A, ul. Palacza 145.",
+      "id": "02d5eb24d2b76997cac27a70b2e991ec"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Palacza, Krzysztofa Arciszewskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-271, Polska",
+      "lat": 52.3897825,
+      "lon": 16.8834981,
+      "start_time": "2026-12-04T08:30:00",
+      "end_time": "2026-12-04T11:30:00",
+      "original_description": "Poznań: ul. Olszynka od 3 do 11 nieparzyste, 4, 12A, ul. Palacza 145.",
+      "id": "339a3e011ee15e0098375c1a461310bb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gubińska, Junikowo, Poznań, województwo wielkopolskie, 60-163, Polska",
+      "lat": 52.38372,
+      "lon": 16.851838,
+      "start_time": "2026-12-07T08:30:00",
+      "end_time": "2026-12-07T11:30:00",
+      "original_description": "Poznań: ul. Odległa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Kopanina 103, ul. Gubińska 10, ul. Wągrowiecka 14, dz. 40/2.",
+      "id": "9e54903d751ad5528a4211678d0c8faf"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kopanina, Górczyn, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3751848,
+      "lon": 16.8622863,
+      "start_time": "2026-12-07T08:30:00",
+      "end_time": "2026-12-07T11:30:00",
+      "original_description": "Poznań: ul. Odległa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Kopanina 103, ul. Gubińska 10, ul. Wągrowiecka 14, dz. 40/2.",
+      "id": "51eadc05d91d6561dda0b315656e4b3f"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Odległa, Junikowo, Poznań, województwo wielkopolskie, 60-161, Polska",
+      "lat": 52.3815734,
+      "lon": 16.8564613,
+      "start_time": "2026-12-07T08:30:00",
+      "end_time": "2026-12-07T11:30:00",
+      "original_description": "Poznań: ul. Odległa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Kopanina 103, ul. Gubińska 10, ul. Wągrowiecka 14, dz. 40/2.",
+      "id": "cf2c2deae08b1c3f45cf4f78ca854dfa"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wągrowiecka, Junikowo, Poznań, województwo wielkopolskie, 60-162, Polska",
+      "lat": 52.380693,
+      "lon": 16.854962,
+      "start_time": "2026-12-07T08:30:00",
+      "end_time": "2026-12-07T11:30:00",
+      "original_description": "Poznań: ul. Odległa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Kopanina 103, ul. Gubińska 10, ul. Wągrowiecka 14, dz. 40/2.",
+      "id": "a971dafe257c2a5e65ce8884bae6b626"
     },
     {
       "type": "unplanned",
