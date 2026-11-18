@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-18T07:33:14.125644+00:00",
+  "last_update": "2026-11-18T07:43:18.418881+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1020,6 +1020,56 @@
       "end_time": "2026-11-18T10:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "91cde7c9a11753310375dbfc869a3654"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T11:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 42, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Wyspiańskiego 38, 43-dz.5, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 5, 5/1A, 7, 7 KL.SCH, 9.",
+      "id": "15f05440f495a59489f92b3e12b7da0c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T11:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 42, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Wyspiańskiego 38, 43-dz.5, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 5, 5/1A, 7, 7 KL.SCH, 9.",
+      "id": "b2da0ac05880edac83617ccfd9f8d507"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimiery Iłłakowiczówny, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4013177,
+      "lon": 16.8905591,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T11:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 42, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Wyspiańskiego 38, 43-dz.5, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 5, 5/1A, 7, 7 KL.SCH, 9.",
+      "id": "b1ee3652f98728725095e5c356b3a6d4"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T11:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 42, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Wyspiańskiego 38, 43-dz.5, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 5, 5/1A, 7, 7 KL.SCH, 9.",
+      "id": "2ebafb0489c05360aaaee0d88cfa34a5"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-266, Polska",
+      "lat": 52.3968063,
+      "lon": 16.8879432,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T11:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 42, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Wyspiańskiego 38, 43-dz.5, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 5, 5/1A, 7, 7 KL.SCH, 9.",
+      "id": "303e4d22462274c8b50cc486c92f4581"
     }
   ]
 }
