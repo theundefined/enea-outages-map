@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-18T16:52:00.206716+00:00",
+  "last_update": "2026-11-18T17:02:17.130908+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1170,6 +1170,46 @@
       "end_time": "2026-11-18T20:00:00",
       "original_description": "Poznań ul. Stanisława Knapowskiego 13, 14, 15A, 17, 19, 21, 23, 9.",
       "id": "69d04159875fb670d9788af904f48e92"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosa, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3831066,
+      "lon": 16.8898344,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T20:30:00",
+      "original_description": "Poznań ul. Bosa 10, 18B, 19, 21, 21a, 21A, 4/6, ul. Głogowska 155, ul. Myśliwska 7, ul. Stanisława Knapowskiego 13, 14, 15A, 17, 19, 21, 23, 9.",
+      "id": "ad7cbaa6cfa6177608062aac63561b3f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T20:30:00",
+      "original_description": "Poznań ul. Bosa 10, 18B, 19, 21, 21a, 21A, 4/6, ul. Głogowska 155, ul. Myśliwska 7, ul. Stanisława Knapowskiego 13, 14, 15A, 17, 19, 21, 23, 9.",
+      "id": "dd6be79de94b2f0917df40fe30760932"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Myśliwska, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3844325,
+      "lon": 16.8883878,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T20:30:00",
+      "original_description": "Poznań ul. Bosa 10, 18B, 19, 21, 21a, 21A, 4/6, ul. Głogowska 155, ul. Myśliwska 7, ul. Stanisława Knapowskiego 13, 14, 15A, 17, 19, 21, 23, 9.",
+      "id": "360400aa882fbe4e8e328a4138079d03"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Knapowskiego, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3849231,
+      "lon": 16.8886391,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T20:30:00",
+      "original_description": "Poznań ul. Bosa 10, 18B, 19, 21, 21a, 21A, 4/6, ul. Głogowska 155, ul. Myśliwska 7, ul. Stanisława Knapowskiego 13, 14, 15A, 17, 19, 21, 23, 9.",
+      "id": "5ff97f727a25a9ed74dd366f756a14a7"
     }
   ]
 }
