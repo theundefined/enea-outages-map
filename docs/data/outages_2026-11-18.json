@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-18T07:02:59.485488+00:00",
+  "last_update": "2026-11-18T07:13:03.977882+00:00",
   "outages": [
     {
       "type": "planned",
@@ -653,6 +653,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Wojskowa, Łazarz, Poznań, województwo wielkopolskie, 60-792, Polska",
+      "lat": 52.40133,
+      "lon": 16.8926841,
+      "start_time": "2026-11-26T08:30:00",
+      "end_time": "2026-11-26T10:30:00",
+      "original_description": "Poznań: ul. Wojskowa 1/65, ul. Wyspiańskiego 38.",
+      "id": "f1c3b8ff5f25567be54b1531a03eae28"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wyspiańskiego, Jana Matejki, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3974793,
+      "lon": 16.8996108,
+      "start_time": "2026-11-26T08:30:00",
+      "end_time": "2026-11-26T10:30:00",
+      "original_description": "Poznań: ul. Wojskowa 1/65, ul. Wyspiańskiego 38.",
+      "id": "f9d0a865c2289b3e7d91fdfedf57dfda"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Augustyna Szamarzewskiego, Jeżyckie Osiedle, Rynek Jeżycki, Jeżyce, Poznań, województwo wielkopolskie, 60-514, Polska",
       "lat": 52.4106938,
       "lon": 16.9002301,
@@ -810,6 +830,46 @@
       "end_time": "2026-12-01T14:30:00",
       "original_description": "Poznań: ul. Sasankowa, ul. Magnoliowa 35A, od 2 do 28 parzyste, od 1 do 23 nieparzyste,  ul. Margaretkowa, ul. Lawendowa od 22 do 56 parzyste, ul. Szarotkowa 132, ul. Floksowa 44.",
       "id": "d49879d08e58dd0ecdd141bb473dd456"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kminkowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4977255,
+      "lon": 16.9472661,
+      "start_time": "2026-12-02T08:30:00",
+      "end_time": "2026-12-02T15:30:00",
+      "original_description": "Poznań: ul. Piołunowa 2, od 4 do 26, ul. Podbiałowa 7, ul. Radojewo 32A, dz. 7/3, dz. 7/6, ul. Kminkowa.",
+      "id": "c888e2c7f3ea5db48a64c2b222293534"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Piołunowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 62-009, Polska",
+      "lat": 52.5014064,
+      "lon": 16.9534915,
+      "start_time": "2026-12-02T08:30:00",
+      "end_time": "2026-12-02T15:30:00",
+      "original_description": "Poznań: ul. Piołunowa 2, od 4 do 26, ul. Podbiałowa 7, ul. Radojewo 32A, dz. 7/3, dz. 7/6, ul. Kminkowa.",
+      "id": "00d8b3cf322cabbafd4ddfbbe24eb6b3"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podbiałowa, Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, 61-680, Polska",
+      "lat": 52.4983301,
+      "lon": 16.9477619,
+      "start_time": "2026-12-02T08:30:00",
+      "end_time": "2026-12-02T15:30:00",
+      "original_description": "Poznań: ul. Piołunowa 2, od 4 do 26, ul. Podbiałowa 7, ul. Radojewo 32A, dz. 7/3, dz. 7/6, ul. Kminkowa.",
+      "id": "56d537aa0d9fcc64123c36eb0de8c83d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radojewo, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.49832,
+      "lon": 16.946504,
+      "start_time": "2026-12-02T08:30:00",
+      "end_time": "2026-12-02T15:30:00",
+      "original_description": "Poznań: ul. Piołunowa 2, od 4 do 26, ul. Podbiałowa 7, ul. Radojewo 32A, dz. 7/3, dz. 7/6, ul. Kminkowa.",
+      "id": "2eb300c3231cc6a1918e30714f194fad"
     },
     {
       "type": "planned",
