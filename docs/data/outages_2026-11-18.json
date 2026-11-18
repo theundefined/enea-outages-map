@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-18T22:44:03.229098+00:00",
+  "last_update": "2026-11-18T22:54:08.115078+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1350,6 +1350,76 @@
       "end_time": "2026-11-19T00:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "c3af56bf5251a442c11c9e702f2cc084"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bolesława Limanowskiego, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3968703,
+      "lon": 16.8992814,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T02:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 41A, 41B, 41B/2, 42, 43, 43 A, 43A, 49, 49 lok.1, 53, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Przybyszewskiego 49, ul. Stanisława Wyspiańskiego 38, 43, 43-dz.5, 45, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 21, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 39, 5, 5/1A, 7, 7 KL.SCH, 9, ul. Wojskowa 1, 1 kl. 1, 1A, 1E.",
+      "id": "c29cad3ac5f9ce9a924a261743684d05"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Grunwaldzka, Pogodno, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-329, Polska",
+      "lat": 52.398272,
+      "lon": 16.8735956,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T02:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 41A, 41B, 41B/2, 42, 43, 43 A, 43A, 49, 49 lok.1, 53, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Przybyszewskiego 49, ul. Stanisława Wyspiańskiego 38, 43, 43-dz.5, 45, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 21, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 39, 5, 5/1A, 7, 7 KL.SCH, 9, ul. Wojskowa 1, 1 kl. 1, 1A, 1E.",
+      "id": "bfe358e1b60277ada6864eb0401582a9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Kazimiery Iłłakowiczówny, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4013177,
+      "lon": 16.8905591,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T02:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 41A, 41B, 41B/2, 42, 43, 43 A, 43A, 49, 49 lok.1, 53, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Przybyszewskiego 49, ul. Stanisława Wyspiańskiego 38, 43, 43-dz.5, 45, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 21, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 39, 5, 5/1A, 7, 7 KL.SCH, 9, ul. Wojskowa 1, 1 kl. 1, 1A, 1E.",
+      "id": "ca6f31d8508c4ad57cf1c6b303f0415b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Przybyszewskiego, Stary Grunwald, Grunwald, Poznań, województwo wielkopolskie, 60-804, Polska",
+      "lat": 52.4045902,
+      "lon": 16.888403,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T02:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 41A, 41B, 41B/2, 42, 43, 43 A, 43A, 49, 49 lok.1, 53, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Przybyszewskiego 49, ul. Stanisława Wyspiańskiego 38, 43, 43-dz.5, 45, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 21, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 39, 5, 5/1A, 7, 7 KL.SCH, 9, ul. Wojskowa 1, 1 kl. 1, 1A, 1E.",
+      "id": "888ffd866e1f9522de662ccfa3414b58"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Wyspiańskiego, Łazarz, Poznań, województwo wielkopolskie, 60-765, Polska",
+      "lat": 52.39784,
+      "lon": 16.9006335,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T02:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 41A, 41B, 41B/2, 42, 43, 43 A, 43A, 49, 49 lok.1, 53, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Przybyszewskiego 49, ul. Stanisława Wyspiańskiego 38, 43, 43-dz.5, 45, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 21, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 39, 5, 5/1A, 7, 7 KL.SCH, 9, ul. Wojskowa 1, 1 kl. 1, 1A, 1E.",
+      "id": "b0dccc47de997320529f98693560c964"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Wojskowa, Łazarz, Poznań, województwo wielkopolskie, 60-792, Polska",
+      "lat": 52.40133,
+      "lon": 16.8926841,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T02:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 41A, 41B, 41B/2, 42, 43, 43 A, 43A, 49, 49 lok.1, 53, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Przybyszewskiego 49, ul. Stanisława Wyspiańskiego 38, 43, 43-dz.5, 45, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 21, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 39, 5, 5/1A, 7, 7 KL.SCH, 9, ul. Wojskowa 1, 1 kl. 1, 1A, 1E.",
+      "id": "45c88f6b96350931c1f56735603f1eee"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Władysława Reymonta, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-266, Polska",
+      "lat": 52.3968063,
+      "lon": 16.8879432,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T02:00:00",
+      "original_description": "Poznań ul. Bolesława Limanowskiego 16A, ul. Grunwaldzka 41A, 41B, 41B/2, 42, 43, 43 A, 43A, 49, 49 lok.1, 53, ul. Kazimiery Iłłakowiczówny 10, 11, 11/3, 12, 13, 14, 14/1, 15, 15 GARAZ, 17, 3, 3 KL.S, 3 poddasze, 4, 4 KL.SCH, 4 LOK. 4A, 4A BUD, 4B, 5, 5 KL.SCH, 6, 6/1 A, 6/8, 7, 7 lokal 1, 7/3, 7/4, 7/5, 8, 9, ul. Stanisława Przybyszewskiego 49, ul. Stanisława Wyspiańskiego 38, 43, 43-dz.5, 45, ul. Władysława Reymonta /Wyspiańs, 11/13, 15, 15 KL.S, 17, 17A, 19, 21, 25, 27, 27-lok.7, 29, 3, 33, 33A, 35, 39, 5, 5/1A, 7, 7 KL.SCH, 9, ul. Wojskowa 1, 1 kl. 1, 1A, 1E.",
+      "id": "b0c8c4f7bf95460d6e69c4f027bcff9c"
     }
   ]
 }
