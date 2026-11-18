@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-18T16:41:55.396091+00:00",
+  "last_update": "2026-11-18T16:52:00.206716+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1160,6 +1160,16 @@
       "end_time": "2026-11-18T19:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "43e93c87690de0b3f89ef188d26c13f8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Knapowskiego, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3849231,
+      "lon": 16.8886391,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-18T20:00:00",
+      "original_description": "Poznań ul. Stanisława Knapowskiego 13, 14, 15A, 17, 19, 21, 23, 9.",
+      "id": "69d04159875fb670d9788af904f48e92"
     }
   ]
 }
