@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-19T11:52:40.592120+00:00",
+  "last_update": "2026-11-19T12:02:45.470874+00:00",
   "outages": [
     {
       "type": "planned",
@@ -843,6 +843,86 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bystra, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-362, Polska",
+      "lat": 52.3696319,
+      "lon": 16.9383825,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska, ul. Maya od 139 do 159 nieparzyste oraz od 138 do 156 parzyste, ul. Falista 1, 4A.",
+      "id": "f35868d3dd8b67e5a8b28240f00d4416"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Falista, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-367, Polska",
+      "lat": 52.3694646,
+      "lon": 16.9474276,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska, ul. Maya od 139 do 159 nieparzyste oraz od 138 do 156 parzyste, ul. Falista 1, 4A.",
+      "id": "f79787d92a5643d7bd3fa553aa8c2644"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gołężycka, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-353, Polska",
+      "lat": 52.3599515,
+      "lon": 16.9465121,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska, ul. Maya od 139 do 159 nieparzyste oraz od 138 do 156 parzyste, ul. Falista 1, 4A.",
+      "id": "822dcab86c6c6c212b5aba63d9fa5368"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Maya, Miłosławska, Komandoria, Komandoria-Pomet, Warszawskie-Pomet-Maltańskie, Poznań, województwo wielkopolskie, 61-029, Polska",
+      "lat": 52.4111901,
+      "lon": 16.9685894,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska, ul. Maya od 139 do 159 nieparzyste oraz od 138 do 156 parzyste, ul. Falista 1, 4A.",
+      "id": "0746e07131cdff212a97a3da85693360"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Obodrzycka, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-163, Polska",
+      "lat": 52.3679179,
+      "lon": 16.9490647,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska, ul. Maya od 139 do 159 nieparzyste oraz od 138 do 156 parzyste, ul. Falista 1, 4A.",
+      "id": "d455d0fe0eb846b064f4e9570abe69db"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Podmiejska, Starołęka, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-357, Polska",
+      "lat": 52.3658021,
+      "lon": 16.9482776,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T15:30:00",
+      "original_description": "Poznań: ul. Gołężycka 23, 25, 25B,  26, 26A-C, 27, ul. Obodrzycka dz. 29/15, ul. Pochyła bez 19 i 21, ul. Bystra 33A-C, ul. Podmiejska, ul. Maya od 139 do 159 nieparzyste oraz od 138 do 156 parzyste, ul. Falista 1, 4A.",
+      "id": "519f9c410c25b48f981de45f454fb89a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Obrzyca, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
+      "lat": 52.3800451,
+      "lon": 16.9385328,
+      "start_time": "2026-12-02T08:30:00",
+      "end_time": "2026-12-02T10:30:00",
+      "original_description": "Poznań: os. Piastowskie od 55 do 64, ul. Obrzyca 3.",
+      "id": "d7e3963325f65749fffb29ab49902c24"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "2026-12-02T08:30:00",
+      "end_time": "2026-12-02T10:30:00",
+      "original_description": "Poznań: os. Piastowskie od 55 do 64, ul. Obrzyca 3.",
+      "id": "b654f2e9f94988a602139822d512fde0"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Chryzantemowa, Junikowo, Poznań, województwo wielkopolskie, 60-175, Polska",
       "lat": 52.3913769,
       "lon": 16.8189066,
@@ -930,6 +1010,16 @@
       "end_time": "2026-12-02T15:30:00",
       "original_description": "Poznań: ul. Piołunowa 2, od 4 do 26, ul. Podbiałowa 7, ul. Radojewo 32A, dz. 7/3, dz. 7/6, ul. Kminkowa.",
       "id": "2eb300c3231cc6a1918e30714f194fad"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Osiedle Piastowskie, Rataje, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3898361,
+      "lon": 16.9435572,
+      "start_time": "2026-12-02T08:30:00",
+      "end_time": "2026-12-02T18:00:00",
+      "original_description": "Poznań: os. Piastowskie 59.",
+      "id": "c139fff851a75050f1e097259b4e440b"
     },
     {
       "type": "planned",
@@ -1793,6 +1883,16 @@
     },
     {
       "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T13:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "5205aaccd581752de42ac87a7875aa18"
+    },
+    {
+      "type": "unplanned",
       "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
       "lat": 52.3913994,
       "lon": 16.9750715,
@@ -1810,6 +1910,16 @@
       "end_time": "2026-11-19T14:30:00",
       "original_description": "Poznań ul. Nad Jeziorem 101, 120.",
       "id": "f11d91fbabaa9aa832ec1fd85b828185"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T14:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "8955188a51eedeb25bfd259eac9b3401"
     }
   ]
 }
