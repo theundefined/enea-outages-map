@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-19T06:28:07.732236+00:00",
+  "last_update": "2026-11-19T06:38:14.170808+00:00",
   "outages": [
     {
       "type": "planned",
@@ -853,6 +853,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Ugory, Szeląg, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275322,
+      "lon": 16.9504399,
+      "start_time": "2026-12-03T08:30:00",
+      "end_time": "2026-12-03T14:30:00",
+      "original_description": "Poznań: ul. Ugory 97, dz. 20, dz. 31.",
+      "id": "7a5fd8be70f4ade1b4132e6bb6a1d40a"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Lęborska, Smochowice, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-431, Polska",
       "lat": 52.436224,
       "lon": 16.8359188,
@@ -950,6 +960,36 @@
       "end_time": "2026-12-07T11:30:00",
       "original_description": "Poznań: ul. Odległa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Kopanina 103, ul. Gubińska 10, ul. Wągrowiecka 14, dz. 40/2.",
       "id": "a971dafe257c2a5e65ce8884bae6b626"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Górecka, Dębiec, Świerczewo, Poznań, województwo wielkopolskie, 61-424, Polska",
+      "lat": 52.3718577,
+      "lon": 16.8928666,
+      "start_time": "2026-12-08T10:30:00",
+      "end_time": "2026-12-08T11:30:00",
+      "original_description": "Poznań: ul. Krauthofera 55, 55A-U, od 40 do 56A parzyste , ul. Wrońskiego 9/2, ul. Górecka 26, 26A-B, 28.",
+      "id": "3115c89f57c5648d57e29dc6a8fa9339"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Józefa Wrońskiego, Górczyn, Poznań, województwo wielkopolskie, 60-203, Polska",
+      "lat": 52.3852404,
+      "lon": 16.8961853,
+      "start_time": "2026-12-08T10:30:00",
+      "end_time": "2026-12-08T11:30:00",
+      "original_description": "Poznań: ul. Krauthofera 55, 55A-U, od 40 do 56A parzyste , ul. Wrońskiego 9/2, ul. Górecka 26, 26A-B, 28.",
+      "id": "92c9e65b4b25e57c1735b5d1aebc7a53"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Krauthofera, Romana Dmowskiego, Górczyn, Poznań, województwo wielkopolskie, 60-204, Polska",
+      "lat": 52.3850484,
+      "lon": 16.8944095,
+      "start_time": "2026-12-08T10:30:00",
+      "end_time": "2026-12-08T11:30:00",
+      "original_description": "Poznań: ul. Krauthofera 55, 55A-U, od 40 do 56A parzyste , ul. Wrońskiego 9/2, ul. Górecka 26, 26A-B, 28.",
+      "id": "806dba41215443f8b385bbdcfd196ce6"
     },
     {
       "type": "planned",
