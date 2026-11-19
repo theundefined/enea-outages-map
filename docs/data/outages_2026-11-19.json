@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-19T07:08:27.821791+00:00",
+  "last_update": "2026-11-19T07:18:32.230291+00:00",
   "outages": [
     {
       "type": "planned",
@@ -560,6 +560,16 @@
       "end_time": "2026-11-26T14:30:00",
       "original_description": "Poznań: Al. Wielkopolska 26, 28, 32, plac budowy.",
       "id": "62ebf9910e8f56b75d4c5b1ce49b8852"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.4892306,
+      "lon": 16.9095915,
+      "start_time": "2026-11-26T08:00:00",
+      "end_time": "2026-11-26T16:00:00",
+      "original_description": "Miasto Poznań ul. Morasko od 1 do 6, 8, 8A, 8B, 12, 12A, 13F, 14, 14A, działki nr 17/33,",
+      "id": "ba2050fd1a9ee5a71fc364107727acf2"
     },
     {
       "type": "planned",
