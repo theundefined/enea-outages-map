@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-19T15:44:26.727617+00:00",
+  "last_update": "2026-11-19T19:01:17.297172+00:00",
   "outages": [
     {
       "type": "planned",
@@ -2050,6 +2050,116 @@
       "end_time": "2026-11-19T17:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "d62f02e9e6c179b738dcd5205277bed3"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T19:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "7ee73b11bd79bad890665526dd22f095"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T20:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "741f003dfbdbf14ac462aa60b3d55df0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Bosa, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3831066,
+      "lon": 16.8898344,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "b895429b3c902931d31b10bac39c3308"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Górczyńska, Górczyn, Poznań, województwo wielkopolskie, 60-241, Polska",
+      "lat": 52.3859955,
+      "lon": 16.8866687,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "ca08892fe7d4dfe0299c5109ffd6fb3a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Górki, Górczyn, Poznań, województwo wielkopolskie, 60-126, Polska",
+      "lat": 52.3846058,
+      "lon": 16.8915247,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "f9b320a7f5be98ecdfde435b2403fad7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "1c4b78f2c92de6fc53f7dad686096bb0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Myśliwska, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3844325,
+      "lon": 16.8883878,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "c56ece3fcd46cb9b1d541d18296671b1"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Pionierska, Wilda, Poznań, województwo wielkopolskie, 61-492, Polska",
+      "lat": 52.3775545,
+      "lon": 16.9182897,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "1dd98bbafcec1760cc19fc326051437c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Romana Dmowskiego, Grunwald, Łazarz, Poznań, województwo wielkopolskie, 60-729, Polska",
+      "lat": 52.3871157,
+      "lon": 16.896846,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "7c24a7ff671451b7ff14929f56f26661"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Stanisława Knapowskiego, Górczyn, Poznań, województwo wielkopolskie, 60-125, Polska",
+      "lat": 52.3849231,
+      "lon": 16.8886391,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "8be228df7c236b37de766ecebbbcc53e"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Zgoda, Górczyn, Poznań, województwo wielkopolskie, 60-123, Polska",
+      "lat": 52.3827369,
+      "lon": 16.8825366,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-19T21:30:00",
+      "original_description": "Poznań ul. Bosa 10, 16, 17, 18, 18A, 18B, 18C, 19, 20, 21, 21 A, 21a, 21A, 25A, 26A, 26B, 28, 4/6, 4/6 LOK, 4/6 LOK., 4/6 lok.22, 4/6 lok.24, 4/6LOK. 23, 8, ul. Głogowska 153, 155, 157, 159, 161, 161 S-3, 161/1, 161/2, 161/33, 161lok. 11, 162, 163, 164, 165, 166, 167, 168, 168 A, 168/A/, 168A, 169, 170, 171, 173, 173 A, 173A, 173LOK. 2, ul. Górczyńska 10, 10A, 11, 12, 12A, 13, 14, 15, 16, 16A, 17, 21, 23, 25, 27, 27/3, 29, 6, 6 KL.SCH., 7, 7A, 8, 8A, ul. Górki 13, 2, 3, 9 B, ul. Myśliwska 7, 7 LU 1, ul. Pionierska 10, ul. Romana Dmowskiego /BOSA, 120, 121, 122, 123, 127, 129, 131, 133, 133A, 134, 135, 137, 139, 141, 153, 153A, 64 KL.A, 64A KL.B, 64A KL.C, ul. Stanisława Knapowskiego /GŁOGOWSKA, 10, 10 A, 10a, 10A, 12, 12 LOK. 22, 12 lok.1, 13, 14, 15, 15A, 16, 17, 18, 19, 20, 21, 21A, 22, 23, 23A, 25, 26, 27, 28, 30, 5/7, 9, ul. Zgoda 15.",
+      "id": "3ff1e651e9a3a96e148a1295e34deb11"
     }
   ]
 }
