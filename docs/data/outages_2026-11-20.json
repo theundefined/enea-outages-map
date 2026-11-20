@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-20T06:45:35.571741+00:00",
+  "last_update": "2026-11-20T08:38:29.483855+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1910,6 +1910,86 @@
       "end_time": "2026-11-20T09:00:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "f06f347caddcba54b058b4edd7f97550"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-20T10:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "f09db9b81973c76cfa23477091f48aa2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-20T10:30:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "738db5688b5837cb5c8c94c1fd16b25c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Charzykowska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-451, Polska",
+      "lat": 52.4327776,
+      "lon": 16.8113806,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-20T11:30:00",
+      "original_description": "Poznań ul. Charzykowska 15, 16, 20, 22, 28, 30, 32, 34, 7, 9, 9A, ul. Izbicka /Łebska, 1/3, ul. Jana Henryka Dąbrowskiego 493, 495, 497, 499, 499A, 501, 501A, 503, 505, 507, 511, 513, 515, 517, ul. Łebska 10, 11, 13, 15, 22, 24, 5, 8, ul. Słupska 6, ul. Warpnowska 28, 28 D, 28A, 28B, 28C, 28E, 28G.",
+      "id": "7431b3e4a8bee261b66bb45e8b0366e9"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Izbicka, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-451, Polska",
+      "lat": 52.4335046,
+      "lon": 16.8111259,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-20T11:30:00",
+      "original_description": "Poznań ul. Charzykowska 15, 16, 20, 22, 28, 30, 32, 34, 7, 9, 9A, ul. Izbicka /Łebska, 1/3, ul. Jana Henryka Dąbrowskiego 493, 495, 497, 499, 499A, 501, 501A, 503, 505, 507, 511, 513, 515, 517, ul. Łebska 10, 11, 13, 15, 22, 24, 5, 8, ul. Słupska 6, ul. Warpnowska 28, 28 D, 28A, 28B, 28C, 28E, 28G.",
+      "id": "309e482a59969089dd411c971dfb0d67"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Henryka Dąbrowskiego, Ogrody, Poznań, województwo wielkopolskie, 60-580, Polska",
+      "lat": 52.4176289,
+      "lon": 16.8815927,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-20T11:30:00",
+      "original_description": "Poznań ul. Charzykowska 15, 16, 20, 22, 28, 30, 32, 34, 7, 9, 9A, ul. Izbicka /Łebska, 1/3, ul. Jana Henryka Dąbrowskiego 493, 495, 497, 499, 499A, 501, 501A, 503, 505, 507, 511, 513, 515, 517, ul. Łebska 10, 11, 13, 15, 22, 24, 5, 8, ul. Słupska 6, ul. Warpnowska 28, 28 D, 28A, 28B, 28C, 28E, 28G.",
+      "id": "ccb15842fd067cd7e019f3707173f78a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Słupska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-458, Polska",
+      "lat": 52.4510895,
+      "lon": 16.8030346,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-20T11:30:00",
+      "original_description": "Poznań ul. Charzykowska 15, 16, 20, 22, 28, 30, 32, 34, 7, 9, 9A, ul. Izbicka /Łebska, 1/3, ul. Jana Henryka Dąbrowskiego 493, 495, 497, 499, 499A, 501, 501A, 503, 505, 507, 511, 513, 515, 517, ul. Łebska 10, 11, 13, 15, 22, 24, 5, 8, ul. Słupska 6, ul. Warpnowska 28, 28 D, 28A, 28B, 28C, 28E, 28G.",
+      "id": "cccc9cdfff9ac2e54074a87729e0262c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Warpnowska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-453, Polska",
+      "lat": 52.4345899,
+      "lon": 16.8146388,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-20T11:30:00",
+      "original_description": "Poznań ul. Charzykowska 15, 16, 20, 22, 28, 30, 32, 34, 7, 9, 9A, ul. Izbicka /Łebska, 1/3, ul. Jana Henryka Dąbrowskiego 493, 495, 497, 499, 499A, 501, 501A, 503, 505, 507, 511, 513, 515, 517, ul. Łebska 10, 11, 13, 15, 22, 24, 5, 8, ul. Słupska 6, ul. Warpnowska 28, 28 D, 28A, 28B, 28C, 28E, 28G.",
+      "id": "f157b0d5d9671c597c7e5a1d476ea92b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Łebska, Krzyżowniki, Krzyżowniki-Smochowice, Poznań, województwo wielkopolskie, 60-456, Polska",
+      "lat": 52.4380636,
+      "lon": 16.8117294,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-20T11:30:00",
+      "original_description": "Poznań ul. Charzykowska 15, 16, 20, 22, 28, 30, 32, 34, 7, 9, 9A, ul. Izbicka /Łebska, 1/3, ul. Jana Henryka Dąbrowskiego 493, 495, 497, 499, 499A, 501, 501A, 503, 505, 507, 511, 513, 515, 517, ul. Łebska 10, 11, 13, 15, 22, 24, 5, 8, ul. Słupska 6, ul. Warpnowska 28, 28 D, 28A, 28B, 28C, 28E, 28G.",
+      "id": "fe1167941397a3e9bc5c3644e76f1199"
     }
   ]
 }
