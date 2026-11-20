@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-20T10:59:40.645989+00:00",
+  "last_update": "2026-11-20T11:09:46.566773+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1330,6 +1330,46 @@
       "end_time": "2026-12-10T11:30:00",
       "original_description": "Poznań: ul. Rymanowska, ul. Rudzka 4D-P, od 6 do 20 parzyste, od 5 do 19 nieparzyste, ul. Krzesiny od 1 do 11 nieparzyste, od 2 do 10 parzyste, ul. Tarnowska 9, 11.",
       "id": "13377fd8e3b25aac5a9fcff7d460a687"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Gorzysława, Huta Szkła Antoninek - Owens Illinois Polska, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4064525,
+      "lon": 17.0350047,
+      "start_time": "2026-12-14T08:30:00",
+      "end_time": "2026-12-14T11:30:00",
+      "original_description": "Poznań: ul. Gorzysława od 4 do 50 parzyste, ul. Radziwoja 7, 15, 21A, od 23 do 61 nieparzyste bez 43, ul. Janisławy 16, ul. Letnia.",
+      "id": "e2bda6b42aaca424efa6775d535df73e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Janisławy, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4075551,
+      "lon": 17.029395,
+      "start_time": "2026-12-14T08:30:00",
+      "end_time": "2026-12-14T11:30:00",
+      "original_description": "Poznań: ul. Gorzysława od 4 do 50 parzyste, ul. Radziwoja 7, 15, 21A, od 23 do 61 nieparzyste bez 43, ul. Janisławy 16, ul. Letnia.",
+      "id": "003ca3a4b50194cbb8f1605ca22c73f4"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Letnia, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4056993,
+      "lon": 17.0349651,
+      "start_time": "2026-12-14T08:30:00",
+      "end_time": "2026-12-14T11:30:00",
+      "original_description": "Poznań: ul. Gorzysława od 4 do 50 parzyste, ul. Radziwoja 7, 15, 21A, od 23 do 61 nieparzyste bez 43, ul. Janisławy 16, ul. Letnia.",
+      "id": "7e4ca8aa2ebdc3b446d855dc870ff66d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Radziwoja, Główieniec, Antoninek, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-057, Polska",
+      "lat": 52.4072718,
+      "lon": 17.0286588,
+      "start_time": "2026-12-14T08:30:00",
+      "end_time": "2026-12-14T11:30:00",
+      "original_description": "Poznań: ul. Gorzysława od 4 do 50 parzyste, ul. Radziwoja 7, 15, 21A, od 23 do 61 nieparzyste bez 43, ul. Janisławy 16, ul. Letnia.",
+      "id": "32922282a52df2d7cd148df21f111544"
     },
     {
       "type": "unplanned",
