@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-22T07:27:12.133975+00:00",
+  "last_update": "2026-11-22T07:37:17.268226+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1520,6 +1520,16 @@
       "end_time": "2026-11-22T09:30:00",
       "original_description": "Poznań ul. Piaśnicka.",
       "id": "2bd1974ab7fe718eece3983bace9d24b"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3511524,
+      "lon": 17.0242204,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-22T11:00:00",
+      "original_description": "Poznań ul. Spławie 44A, 44B.",
+      "id": "a50e3675837333d448c783d05f906f90"
     }
   ]
 }
