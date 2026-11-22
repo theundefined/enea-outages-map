@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-22T11:19:07.888686+00:00",
+  "last_update": "2026-11-22T11:29:13.268143+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1700,6 +1700,36 @@
       "end_time": "2026-11-22T12:30:00",
       "original_description": "Poznań ul. Spławie 44A, 44B.",
       "id": "44ce91ff65d3a04c9c0af92f5be1a43a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-22T14:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "b334732288eb12d30b6205a02d4f07c7"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-22T14:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "f496c823d3ea666cf8bae3e3c56dd85c"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, Polska",
+      "lat": 52.3511524,
+      "lon": 17.0242204,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-22T14:00:00",
+      "original_description": "Poznań ul. Spławie 44A, 44B.",
+      "id": "d666d57580783c9bfcd4bf053987e955"
     }
   ]
 }
