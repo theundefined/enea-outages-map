@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-23T05:49:08.210258+00:00",
+  "last_update": "2026-11-23T07:51:54.754591+00:00",
   "outages": [
     {
       "type": "planned",
@@ -863,6 +863,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Gąsiorowskich, Łazarz, Poznań, województwo wielkopolskie, 60-704, Polska",
+      "lat": 52.3991581,
+      "lon": 16.9058517,
+      "start_time": "2026-12-03T08:00:00",
+      "end_time": "2026-12-03T16:00:00",
+      "original_description": "Poznań: ul. Kolejowa 57, ul. Gąsiorowskich 4 garaż, 6, 7.",
+      "id": "f96b009b242041ad22b6e80241337523"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Kolejowa, Łazarz, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.3909117,
+      "lon": 16.9047016,
+      "start_time": "2026-12-03T08:00:00",
+      "end_time": "2026-12-03T16:00:00",
+      "original_description": "Poznań: ul. Kolejowa 57, ul. Gąsiorowskich 4 garaż, 6, 7.",
+      "id": "e904fb6412efbb5ad3c434af649f4392"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Darniowa, Zieliniec, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-058, Polska",
       "lat": 52.4229933,
       "lon": 17.0649875,
@@ -1380,6 +1400,26 @@
       "end_time": "2026-11-23T07:00:00",
       "original_description": "Poznań ul. Gromadzka 14A.",
       "id": "e4cdd137b3dcd2870e18f896a5a739d2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-23T10:00:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "6114b010b38c47a35e15ce65a49c5443"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Piaśnicka, Osiedle Lecha, Chartowo, Poznań, województwo wielkopolskie, 61-299, Polska",
+      "lat": 52.3913994,
+      "lon": 16.9750715,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-23T10:00:00",
+      "original_description": "Poznań ul. Piaśnicka.",
+      "id": "83f65974e246a3cc746587be0ba770d4"
     }
   ]
 }
