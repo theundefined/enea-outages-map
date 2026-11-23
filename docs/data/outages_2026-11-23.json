@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-23T11:23:21.744987+00:00",
+  "last_update": "2026-11-23T11:33:25.973767+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1130,6 +1130,26 @@
       "end_time": "2026-12-04T11:30:00",
       "original_description": "Poznań: ul. Olszynka od 3 do 11 nieparzyste, 4, 12A, ul. Palacza 145.",
       "id": "339a3e011ee15e0098375c1a461310bb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Deszczowa, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4688535,
+      "lon": 16.906224,
+      "start_time": "2026-12-07T08:00:00",
+      "end_time": "2026-12-07T15:00:00",
+      "original_description": "Poznań: ul. Nad Różanym Potokiem od 2 do 17, ul. Deszczowa dz. 347/1, dz. 351/1.",
+      "id": "8a3fa757be8edd3075744845825770ea"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nad Różanym Potokiem, Morasko, Morasko-Radojewo, Poznań, województwo wielkopolskie, 60-683, Polska",
+      "lat": 52.4723652,
+      "lon": 16.9060891,
+      "start_time": "2026-12-07T08:00:00",
+      "end_time": "2026-12-07T15:00:00",
+      "original_description": "Poznań: ul. Nad Różanym Potokiem od 2 do 17, ul. Deszczowa dz. 347/1, dz. 351/1.",
+      "id": "bea8fa8e135ab87c9d519b33b57d3fe0"
     },
     {
       "type": "planned",
