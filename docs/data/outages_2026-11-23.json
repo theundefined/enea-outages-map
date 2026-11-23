@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-23T11:43:30.057167+00:00",
+  "last_update": "2026-11-23T11:53:34.671721+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1190,6 +1190,36 @@
       "end_time": "2026-12-07T11:30:00",
       "original_description": "Poznań: ul. Odległa od 2 do 12 parzyste, od 3 do 19 nieparzyste, ul. Kopanina 103, ul. Gubińska 10, ul. Wągrowiecka 14, dz. 40/2.",
       "id": "a971dafe257c2a5e65ce8884bae6b626"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bogumiła Krygowskiego, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4625191,
+      "lon": 16.9367791,
+      "start_time": "2026-12-08T08:00:00",
+      "end_time": "2026-12-08T15:00:00",
+      "original_description": "Poznań: ul. Jasna Rola od 43 do 61 nieparzyste, 61A, od 50 do 68 parzyste, ul. Bronisława, ul. Krygowskiego 7, dz. 5/15.",
+      "id": "b947fa527b47e51ba3d39d2e46af220a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Bronisława, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4624668,
+      "lon": 16.9323522,
+      "start_time": "2026-12-08T08:00:00",
+      "end_time": "2026-12-08T15:00:00",
+      "original_description": "Poznań: ul. Jasna Rola od 43 do 61 nieparzyste, 61A, od 50 do 68 parzyste, ul. Bronisława, ul. Krygowskiego 7, dz. 5/15.",
+      "id": "9d301f7978a6dc97b916fb91a40fed83"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Jasna Rola, Naramowice, Poznań, województwo wielkopolskie, 61-609, Polska",
+      "lat": 52.4542749,
+      "lon": 16.941773,
+      "start_time": "2026-12-08T08:00:00",
+      "end_time": "2026-12-08T15:00:00",
+      "original_description": "Poznań: ul. Jasna Rola od 43 do 61 nieparzyste, 61A, od 50 do 68 parzyste, ul. Bronisława, ul. Krygowskiego 7, dz. 5/15.",
+      "id": "178eba85eaaecd2c3346be698b303529"
     },
     {
       "type": "planned",
