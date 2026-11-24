@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-24T08:08:37.087619+00:00",
+  "last_update": "2026-11-24T08:18:41.581734+00:00",
   "outages": [
     {
       "type": "planned",
@@ -653,6 +653,26 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "28 Czerwca 1956 roku, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3532487,
+      "lon": 16.9017169,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T17:30:00",
+      "original_description": "Poznań: ul. 28 Czerwca 1956 roku nr 392, 394, 396, 398, ul. Samotna 1A Biedronka. 2, 4, 6, stacja ładowania.",
+      "id": "69218b52b974f8aa169809123601812a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Samotna, Dębiec, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3600936,
+      "lon": 16.9015652,
+      "start_time": "2026-12-01T08:30:00",
+      "end_time": "2026-12-01T17:30:00",
+      "original_description": "Poznań: ul. 28 Czerwca 1956 roku nr 392, 394, 396, 398, ul. Samotna 1A Biedronka. 2, 4, 6, stacja ładowania.",
+      "id": "e34776df55635ac324e72138004cb223"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Obrzyca, Starołęka Mała, Starołęka-Minikowo-Marlewo, Poznań, województwo wielkopolskie, 61-168, Polska",
       "lat": 52.3800451,
       "lon": 16.9385328,
@@ -1150,6 +1170,26 @@
       "end_time": "2026-12-07T15:30:00",
       "original_description": "Poznań: os. Lecha od 4 do 7.",
       "id": "c82e32da9679c1afb62887c37f6b403e"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "ENEA Stadion, Rumuńska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.3976795,
+      "lon": 16.8581003,
+      "start_time": "2026-12-07T08:30:00",
+      "end_time": "2026-12-07T15:30:00",
+      "original_description": "Poznań: os. Lecha od 25 do 28.",
+      "id": "d03a99ef330bf2b9c3837effe1a7e740"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "ENEA Stadion, Rumuńska, Kasztelanów, Grunwald Południe, Poznań, województwo wielkopolskie, 60-322, Polska",
+      "lat": 52.3976795,
+      "lon": 16.8581003,
+      "start_time": "2026-12-07T08:30:00",
+      "end_time": "2026-12-07T15:30:00",
+      "original_description": "Poznań: os. Lecha od 98 do 101.",
+      "id": "fa6ce1cba423046a16f908d703bbc76b"
     },
     {
       "type": "planned",
