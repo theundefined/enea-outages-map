@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-25T08:32:39.663847+00:00",
+  "last_update": "2026-11-25T08:42:44.027089+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1123,6 +1123,46 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Bruzdowa, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-311, Polska",
+      "lat": 52.3556649,
+      "lon": 16.9995173,
+      "start_time": "2026-12-03T12:00:00",
+      "end_time": "2026-12-03T14:00:00",
+      "original_description": "Poznań: ul. Ostrowska 480, 482, od 434 do 474 parzyste, ul. Ustrzycka, ul. Bruzdowa, ul. Nad Spławką.",
+      "id": "fd5722af03e180e6416721b1ab680bb7"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Nad Spławką, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3534943,
+      "lon": 16.9990946,
+      "start_time": "2026-12-03T12:00:00",
+      "end_time": "2026-12-03T14:00:00",
+      "original_description": "Poznań: ul. Ostrowska 480, 482, od 434 do 474 parzyste, ul. Ustrzycka, ul. Bruzdowa, ul. Nad Spławką.",
+      "id": "040b5f67f5cce75dfdf90267db73028b"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ostrowska, Szczepankowo, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-308, Polska",
+      "lat": 52.3662503,
+      "lon": 16.9949315,
+      "start_time": "2026-12-03T12:00:00",
+      "end_time": "2026-12-03T14:00:00",
+      "original_description": "Poznań: ul. Ostrowska 480, 482, od 434 do 474 parzyste, ul. Ustrzycka, ul. Bruzdowa, ul. Nad Spławką.",
+      "id": "52eb8be7ab24e6cba3f166c49af892db"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Ustrzycka, Spławie, Szczepankowo-Spławie-Krzesinki, Poznań, województwo wielkopolskie, 61-323, Polska",
+      "lat": 52.3542923,
+      "lon": 17.0002481,
+      "start_time": "2026-12-03T12:00:00",
+      "end_time": "2026-12-03T14:00:00",
+      "original_description": "Poznań: ul. Ostrowska 480, 482, od 434 do 474 parzyste, ul. Ustrzycka, ul. Bruzdowa, ul. Nad Spławką.",
+      "id": "18d6ceeddcb72ceb0cd2df97bc75ff94"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Olszynka, Grunwald Południe, Grunwald, Poznań, województwo wielkopolskie, 60-308, Polska",
       "lat": 52.3949944,
       "lon": 16.8685667,
@@ -1360,6 +1400,26 @@
       "end_time": "2026-12-09T12:30:00",
       "original_description": "Poznań: ul. św. Trójcy, ul. Fiołkowa, ul. 28 Czerwca 1956r. 279, 281, 283, ul. Wiśniowa 14, 15, 17, 19, ul. Wrzosowa 10, 12, dz. 2/6, ul. Modrakowa.",
       "id": "912eb404b52f2e9fd0c4bd6cffdd942a"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Biblioteka Uniwersytecka, Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-816, Polska",
+      "lat": 52.4068379,
+      "lon": 16.9252304,
+      "start_time": "2026-12-09T08:30:00",
+      "end_time": "2026-12-09T16:30:00",
+      "original_description": "Poznań: ul. Taczaka od 18, 19, 20, 21, 22, 23, 24, ul. Ratajczaka 23, 25.",
+      "id": "4817d530dae79714857b1905d698fdd6"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Hop & go, Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-819, Polska",
+      "lat": 52.4057448,
+      "lon": 16.920986,
+      "start_time": "2026-12-09T08:30:00",
+      "end_time": "2026-12-09T16:30:00",
+      "original_description": "Poznań: ul. Taczaka od 18, 19, 20, 21, 22, 23, 24, ul. Ratajczaka 23, 25.",
+      "id": "eecd4ef3d04d4ed80d2ff6bd0815c13a"
     },
     {
       "type": "planned",
