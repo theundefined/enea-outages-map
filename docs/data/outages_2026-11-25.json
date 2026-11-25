@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-25T05:24:25.568559+00:00",
+  "last_update": "2026-11-25T06:51:51.920921+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1163,6 +1163,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Plac Wiktora Degi, Różany Potok, Umultowo, Poznań, województwo wielkopolskie, 61-606, Polska",
+      "lat": 52.4658291,
+      "lon": 16.9386686,
+      "start_time": "2026-12-09T08:00:00",
+      "end_time": "2026-12-09T11:00:00",
+      "original_description": "Poznań: pl. Wiktora Degi 1, 2, 3, 4, 5, 6, 7, 8, 9, 10.",
+      "id": "91116be0e57f1135fae6ed8340fdd2ab"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "28 Czerwca 1956 roku, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
       "lat": 52.3532487,
       "lon": 16.9017169,
@@ -1370,6 +1380,16 @@
       "end_time": "2026-11-25T06:00:00",
       "original_description": "Poznań ul. Gromadzka 14A.",
       "id": "5ea6c9773ec42a756f4e6c0e6573164f"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-25T07:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "e2795e508829b201721342de163bbfa7"
     },
     {
       "type": "unplanned",
