@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-25T08:42:44.027089+00:00",
+  "last_update": "2026-11-25T08:52:48.381693+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1413,6 +1413,16 @@
     },
     {
       "type": "planned",
+      "geocoded_address": "Biblioteka Uniwersytecka, Franciszka Ratajczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-816, Polska",
+      "lat": 52.4068379,
+      "lon": 16.9252304,
+      "start_time": "2026-12-09T08:30:00",
+      "end_time": "2026-12-09T16:30:00",
+      "original_description": "Poznań: ul. Ratajczaka 19, 23, 25, 27,",
+      "id": "aa2846b7517a56ed2b04dbbcff3d744e"
+    },
+    {
+      "type": "planned",
       "geocoded_address": "Hop & go, Stanisława Taczaka, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-819, Polska",
       "lat": 52.4057448,
       "lon": 16.920986,
@@ -1650,6 +1660,16 @@
       "end_time": "2026-11-25T11:00:00",
       "original_description": "Poznań ul. Karola Kurpińskiego /Zana, ul. Tomasza Drobnika 20, 31, 33, 35, 37, 43, ul. Tomasza Zana /TOMASZE, 10, 11, 11A, 12, 12 A, 13, 14, 14 A, 15, 16, 17, 18, 18A, 18B, 19, 20, 20A, 21A, 21B, 22, 25, 3, 6, 7, 8, 8A, 9, ul. Władysława Pniewskiego 1, 10, 12, 13, 14, 15, 16, 17, 18, 19, 2, 2 A, 20, 21, 22, 23, 24, 2A, 3, 4, 5, 6, 7, 8, 9.",
       "id": "c126b5bae7d47adaba9eebaaaede5c57"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Szwajcarska, Franowo, Chartowo, Poznań, województwo wielkopolskie, 61-064, Polska",
+      "lat": 52.3811091,
+      "lon": 17.0003453,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-25T12:00:00",
+      "original_description": "Poznań ul. Szwajcarska 5.",
+      "id": "811e7b126179f69cac02be22b659fe87"
     }
   ]
 }
