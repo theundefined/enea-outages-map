@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-27T13:29:45.541842+00:00",
+  "last_update": "2026-11-27T13:39:50.330136+00:00",
   "outages": [
     {
       "type": "planned",
@@ -840,6 +840,26 @@
       "end_time": "2026-12-04T11:30:00",
       "original_description": "Poznań: ul. Olszynka od 3 do 11 nieparzyste, 4, 12A, ul. Palacza 145.",
       "id": "339a3e011ee15e0098375c1a461310bb"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Głogowska, Osiedle Hetmańskie HCP, Łazarz, Poznań, województwo wielkopolskie, 60-244, Polska",
+      "lat": 52.3883109,
+      "lon": 16.8923596,
+      "start_time": "2026-12-04T08:30:00",
+      "end_time": "2026-12-04T14:30:00",
+      "original_description": "Poznań: ul. Głogowska 55/57, ul. Strusia 1, 2, 2A, 3, 3A.",
+      "id": "6ed202455f4b34c484df1dfd0725501d"
+    },
+    {
+      "type": "planned",
+      "geocoded_address": "Wielospecjalistyczny Szpital Miejski im. Józefa Strusia, Arcybiskupa Walentego Dymka, Osiedle Przemysława, Antoninek-Zieliniec-Kobylepole, Poznań, województwo wielkopolskie, 61-064, Polska",
+      "lat": 52.3899475,
+      "lon": 16.9970486,
+      "start_time": "2026-12-04T08:30:00",
+      "end_time": "2026-12-04T14:30:00",
+      "original_description": "Poznań: ul. Głogowska 55/57, ul. Strusia 1, 2, 2A, 3, 3A.",
+      "id": "aaa61c70f0e53c4aa93400f98d3e2ee8"
     },
     {
       "type": "planned",
