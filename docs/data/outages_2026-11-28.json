@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-28T12:15:36.734483+00:00",
+  "last_update": "2026-11-28T12:25:40.623516+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1710,6 +1710,66 @@
       "end_time": "2026-11-28T15:00:00",
       "original_description": "Poznań ul. 28 Czerwca 1956 r. 113A, 122, 122/3, 122/A, 122A, 124, 124 D, 124B, 126, 137, 146, 146-148, 148, 150, 152, 154, 156, 156A, 156B, 158, 158 A, 158-164, 158A, 159, 159/1, 160, 160 A, 160A, 161, 161/163, 162, 162A, 163, 164, 164 LOK. 4, 165, 166, 166 166A, 166 A, 166/166A, 166/2, 166A, 167, 168, 168a, 168A, 169, 170, 171, 172, 172 kl.sch, 173, 174, 174 LOK.2, 174-lok.15, 174-LOK.28, 175, 176, 176 A, 176 B, 176 B/1, 176A, 176B, 176B/2, 270, 279, 283, 285, 286, 290, 291, 295, 296, 296/298, 297, 299, 303, 56, nr 173, ul. Antoniego Kosińskiego 1, 10, 11, 11 ADM., 12, 12/12, 19, 2, 2 A, 20, 24, 24 LOK.7, 25, 25A, 26, 26C, 27, 28, 29, 29/30, 2A, 3, 30, 31, 31,32, 32, 33, 4, 5, 6, 7, 7A, 8, 9, ul. Jana Kilińskiego 1, 10, 11, 12, 12 kl.sch., 13, 14, 14A, 14B, 15, 15 K.SCH, 2, 3, 4, 5, 6, 7, 8, 8/4, 9, 9/15, ul. Władysława Sikorskiego 1, 1 A, 10A, 14, 2, 2A, 3, 3/4, 31, 32, 33, 34, 34/1, 34/2, 34A, 35, 36, 37, 37/3, 38, 39, 39/1, 4, 40, 42, 5, 6, 6 A, 6 lok. 1A, 6A, 6A lok .18.",
       "id": "ad18db2dfd50c04feb95ca3efe9c7962"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "28 Czerwca 1956 roku, Dębina, Zielony Dębiec, Poznań, województwo wielkopolskie, 61-441, Polska",
+      "lat": 52.3532487,
+      "lon": 16.9017169,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T15:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r. 122, 122/3, 122/A, 124, 124 D, 124B, 126, ul. Antoniego Kosińskiego 3, ul. Jana Kilińskiego 1, 12, 12 kl.sch., 13, 14, 14A, 14B, 15, 15 K.SCH, 2, 3, 4, 5.",
+      "id": "75121dc17ea41eb9574d2295280af975"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleje Karola Marcinkowskiego, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-735, Polska",
+      "lat": 52.4114859,
+      "lon": 16.9299489,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T15:30:00",
+      "original_description": "Poznań al. Aleje Karola Marcinkowskiego 32, ul. Solna 6.",
+      "id": "3298e7133e0e69fdba45560a5fd21d33"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Antoniego Kosińskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-521, Polska",
+      "lat": 52.3893242,
+      "lon": 16.9133583,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T15:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r. 122, 122/3, 122/A, 124, 124 D, 124B, 126, ul. Antoniego Kosińskiego 3, ul. Jana Kilińskiego 1, 12, 12 kl.sch., 13, 14, 14A, 14B, 15, 15 K.SCH, 2, 3, 4, 5.",
+      "id": "ffe285f3c9ca3adad05da7b47d9bbb68"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Gromadzka, Osiedle Na Murawie, Stare Winogrady, Winogrady, Poznań, województwo wielkopolskie, 60-001, Polska",
+      "lat": 52.4275421,
+      "lon": 16.9374257,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T15:30:00",
+      "original_description": "Poznań ul. Gromadzka 14A.",
+      "id": "a9fe178726f7bdc1eb485264517d0728"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Jana Kilińskiego, Rynek Wildecki, Wilda, Poznań, województwo wielkopolskie, 61-531, Polska",
+      "lat": 52.3911807,
+      "lon": 16.9187827,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T15:30:00",
+      "original_description": "Poznań ul. 28 Czerwca 1956 r. 122, 122/3, 122/A, 124, 124 D, 124B, 126, ul. Antoniego Kosińskiego 3, ul. Jana Kilińskiego 1, 12, 12 kl.sch., 13, 14, 14A, 14B, 15, 15 K.SCH, 2, 3, 4, 5.",
+      "id": "1187320439762e0bd6304771d02b8de2"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Solna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-735, Polska",
+      "lat": 52.4114704,
+      "lon": 16.9306253,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T15:30:00",
+      "original_description": "Poznań al. Aleje Karola Marcinkowskiego 32, ul. Solna 6.",
+      "id": "91f13213ed03174774e12681a51e3b33"
     }
   ]
 }
