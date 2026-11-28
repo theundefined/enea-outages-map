@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-28T14:26:27.986084+00:00",
+  "last_update": "2026-11-28T14:36:32.136985+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1770,6 +1770,26 @@
       "end_time": "2026-11-28T15:30:00",
       "original_description": "Poznań al. Aleje Karola Marcinkowskiego 32, ul. Solna 6.",
       "id": "91f13213ed03174774e12681a51e3b33"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleje Karola Marcinkowskiego, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-735, Polska",
+      "lat": 52.4114859,
+      "lon": 16.9299489,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T17:00:00",
+      "original_description": "Poznań al. Aleje Karola Marcinkowskiego 32, ul. Solna 6.",
+      "id": "cc85a669f51fe372c20837cf7f5826b8"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Solna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-735, Polska",
+      "lat": 52.4114704,
+      "lon": 16.9306253,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T17:00:00",
+      "original_description": "Poznań al. Aleje Karola Marcinkowskiego 32, ul. Solna 6.",
+      "id": "639e14a17bc5e60ea8eba3f1b16f47f7"
     }
   ]
 }
