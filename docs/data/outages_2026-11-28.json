@@ -1,5 +1,5 @@
 {
-  "last_update": "2026-11-28T07:19:31.416304+00:00",
+  "last_update": "2026-11-28T07:29:35.733899+00:00",
   "outages": [
     {
       "type": "planned",
@@ -1360,6 +1360,26 @@
       "end_time": "2026-11-28T09:00:00",
       "original_description": "Poznań ul. Gromadzka 14A.",
       "id": "5ae2289d78fbb1c9ab5bb40b515005d0"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Aleje Karola Marcinkowskiego, Chwaliszewo, Stare Miasto, Poznań, województwo wielkopolskie, 61-735, Polska",
+      "lat": 52.4114859,
+      "lon": 16.9299489,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T10:00:00",
+      "original_description": "Poznań al. Aleje Karola Marcinkowskiego 32, ul. Solna 6.",
+      "id": "26a38b01b95f9e1434b83e535218ad8a"
+    },
+    {
+      "type": "unplanned",
+      "geocoded_address": "Solna, Święty Marcin, Stare Miasto, Poznań, województwo wielkopolskie, 61-735, Polska",
+      "lat": 52.4114704,
+      "lon": 16.9306253,
+      "start_time": "Brak danych",
+      "end_time": "2026-11-28T10:00:00",
+      "original_description": "Poznań al. Aleje Karola Marcinkowskiego 32, ul. Solna 6.",
+      "id": "8b4bb07b633ab98ab872d796fb06b117"
     }
   ]
 }
